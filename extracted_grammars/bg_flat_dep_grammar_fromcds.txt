@@ -1,0 +1,4528 @@
+412  root --> root
+66  root --> root ccomp
+65  root --> discourse root
+64  root --> root obj
+46  root --> advmod root
+39  root --> obj root
+39  root --> root discourse
+38  root --> root cop nsubj
+33  root --> root conj
+24  root --> case root
+24  root --> root vocative
+22  root --> nsubj cop root
+20  root --> cc root
+18  root --> root advmod
+17  root --> advmod obj root
+17  root --> obj root nsubj
+16  root --> root cop
+15  root --> root conj conj
+15  root --> root discourse obj
+14  root --> nsubj root
+13  root --> discourse root obj
+12  root --> nsubj root cop
+12  root --> obj root advmod
+12  root --> root nmod
+11  root --> nsubj obj root
+11  root --> root discourse ccomp
+11  root --> root iobj obj
+10  root --> advmod cop root
+10  root --> advmod root obj
+10  root --> det root
+10  root --> nsubj root obj
+9  root --> advmod root conj
+9  root --> amod root
+9  root --> aux root
+9  root --> discourse root ccomp
+9  root --> root advcl
+8  root --> advmod root discourse
+8  root --> aux obj root
+8  root --> root cop nsubj discourse
+8  root --> root nsubj
+8  root --> root obj ccomp
+8  root --> root obj conj
+7  root --> advmod advmod root
+7  root --> advmod root ccomp
+7  root --> aux root obj
+7  root --> cc nsubj root cop
+6  root --> nsubj cop case root
+6  root --> root discourse cop
+6  root --> root discourse vocative
+6  root --> root obj advmod
+5  root --> advmod root xcomp
+5  root --> discourse advmod root
+5  root --> discourse obj root
+5  root --> nsubj aux root obj
+5  root --> nsubj cop root conj
+5  root --> nsubj root ccomp
+5  root --> obj aux root
+5  root --> obj expl root
+5  root --> obj root conj
+5  root --> root expl obj
+5  root --> root xcomp
+4  root --> advmod aux root
+4  root --> advmod aux root obj
+4  root --> advmod cop root discourse
+4  root --> case amod root
+4  root --> discourse root conj
+4  root --> discourse root discourse
+4  root --> nmod root
+4  root --> nsubj advmod root
+4  root --> nsubj aux obj root
+4  root --> nsubj aux root
+4  root --> nsubj expl root
+4  root --> nsubj root discourse obj
+4  root --> obj aux root nsubj
+4  root --> obj root discourse
+4  root --> obj root iobj
+4  root --> root advmod obj
+4  root --> root cop conj
+4  root --> root flat
+4  root --> root iobj ccomp
+4  root --> root obj obj
+3  root --> advcl root
+3  root --> advmod aux obj root
+3  root --> advmod cop discourse root
+3  root --> advmod cop root conj
+3  root --> advmod iobj root
+3  root --> advmod root discourse xcomp
+3  root --> advmod root iobj
+3  root --> aux iobj root discourse obj
+3  root --> aux obj root discourse
+3  root --> aux root discourse obj
+3  root --> case root cop
+3  root --> case root cop nsubj
+3  root --> cc advmod root
+3  root --> cc nsubj cop root
+3  root --> cc obj root
+3  root --> cc obj root nsubj
+3  root --> cc root cop nsubj
+3  root --> cc root nmod
+3  root --> det root cop
+3  root --> det root discourse
+3  root --> discourse advmod expl root
+3  root --> discourse aux root
+3  root --> discourse discourse root
+3  root --> discourse nsubj cop root
+3  root --> discourse nsubj expl root
+3  root --> discourse nsubj root
+3  root --> discourse root advmod
+3  root --> discourse root obl
+3  root --> discourse root xcomp
+3  root --> discourse vocative root
+3  root --> nsubj advmod root ccomp
+3  root --> nsubj advmod root obj
+3  root --> nsubj case root cop
+3  root --> nsubj cop det root
+3  root --> nsubj cop root vocative
+3  root --> nsubj iobj root
+3  root --> nsubj obj root advmod
+3  root --> nsubj root advmod
+3  root --> nsubj root conj
+3  root --> nsubj root cop discourse
+3  root --> nsubj root discourse ccomp
+3  root --> nsubj root iobj
+3  root --> nummod root
+3  root --> obj obj root
+3  root --> obj root ccomp
+3  root --> obj root nsubj conj
+3  root --> obj root obl
+3  root --> obj root vocative
+3  root --> obl root nsubj
+3  root --> root acl
+3  root --> root advmod ccomp
+3  root --> root ccomp conj
+3  root --> root ccomp discourse
+3  root --> root ccomp vocative
+3  root --> root cop advmod
+3  root --> root cop discourse
+3  root --> root cop nsubj vocative
+3  root --> root discourse conj
+3  root --> root discourse discourse
+3  root --> root expl cop nsubj
+3  root --> root expl nsubj
+3  root --> root iobj
+3  root --> root obj xcomp conj
+3  root --> root obl
+3  root --> root xcomp conj
+3  root --> vocative root cop nsubj
+2  root --> advmod aux expl root
+2  root --> advmod aux root obl
+2  root --> advmod discourse aux obj root
+2  root --> advmod expl root
+2  root --> advmod nsubj aux iobj root obj
+2  root --> advmod obj aux root
+2  root --> advmod obj root ccomp
+2  root --> advmod obj root conj
+2  root --> advmod root discourse advmod
+2  root --> advmod root obj conj
+2  root --> advmod root obj vocative
+2  root --> aux advmod obj root
+2  root --> aux expl root
+2  root --> aux expl root obj
+2  root --> aux iobj root obj
+2  root --> aux obj root conj
+2  root --> aux obj root nsubj
+2  root --> aux root discourse
+2  root --> aux root discourse iobj
+2  root --> case det root
+2  root --> case root conj
+2  root --> case root nmod
+2  root --> cc advmod nsubj obj root
+2  root --> cc advmod obj root
+2  root --> cc root nsubj cop
+2  root --> discourse advmod aux root obj
+2  root --> discourse advmod cop root
+2  root --> discourse amod root
+2  root --> discourse aux obj root advmod
+2  root --> discourse case root
+2  root --> discourse nsubj advmod root
+2  root --> discourse nsubj obj root
+2  root --> discourse obj root nsubj
+2  root --> discourse root advcl
+2  root --> discourse root cop nsubj
+2  root --> discourse root iobj
+2  root --> discourse root nmod
+2  root --> discourse root obj conj
+2  root --> discourse root obj obl
+2  root --> discourse root vocative
+2  root --> iobj aux root
+2  root --> iobj aux root advmod
+2  root --> nsubj advmod aux obj root
+2  root --> nsubj advmod cop root
+2  root --> nsubj advmod expl root
+2  root --> nsubj advmod expl root vocative
+2  root --> nsubj advmod root xcomp
+2  root --> nsubj aux iobj root obj
+2  root --> nsubj aux root discourse
+2  root --> nsubj cop advmod root
+2  root --> nsubj cop root nmod
+2  root --> nsubj discourse cop root
+2  root --> nsubj expl root advmod
+2  root --> nsubj expl root obl
+2  root --> nsubj nsubj cop root
+2  root --> nsubj obj root iobj
+2  root --> nsubj root advmod conj
+2  root --> nsubj root advmod discourse
+2  root --> nsubj root discourse obj discourse
+2  root --> nsubj root discourse xcomp
+2  root --> nsubj root obj conj
+2  root --> obj aux obj root
+2  root --> obj aux root advmod
+2  root --> obj aux root obl
+2  root --> obj discourse root
+2  root --> obj root nsubj discourse
+2  root --> obj root obj
+2  root --> obj root obl discourse
+2  root --> obl expl root
+2  root --> obl root
+2  root --> obl root obj
+2  root --> root advmod conj
+2  root --> root ccomp advcl
+2  root --> root ccomp ccomp
+2  root --> root det
+2  root --> root discourse advmod
+2  root --> root discourse cop nsubj
+2  root --> root discourse obj vocative
+2  root --> root discourse xcomp
+2  root --> root expl ccomp
+2  root --> root expl iobj
+2  root --> root expl iobj ccomp
+2  root --> root expl obj obl conj
+2  root --> root iobj cop csubj
+2  root --> root obj advcl
+2  root --> root obj conj conj
+2  root --> root obj discourse
+2  root --> root obj iobj
+2  root --> root obj nsubj
+2  root --> root obj parataxis
+2  root --> root obj xcomp
+2  root --> vocative advmod root
+2  root --> vocative root
+2  root --> vocative root obj
+1  root --> acl root ccomp
+1  root --> advcl advcl aux root obj
+1  root --> advcl advmod iobj root
+1  root --> advcl aux iobj obj root
+1  root --> advcl mark advmod cop root
+1  root --> advcl nsubj root
+1  root --> advcl obj aux root
+1  root --> advcl root ccomp
+1  root --> advcl root cop nsubj
+1  root --> advcl root obj
+1  root --> advcl vocative root expl obj
+1  root --> advmod advmod aux root
+1  root --> advmod advmod aux root nsubj
+1  root --> advmod advmod case root discourse
+1  root --> advmod advmod cop root
+1  root --> advmod advmod expl root
+1  root --> advmod advmod expl root obj
+1  root --> advmod aux advmod obj root
+1  root --> advmod aux cop root
+1  root --> advmod aux cop root discourse
+1  root --> advmod aux expl root conj
+1  root --> advmod aux expl root nsubj
+1  root --> advmod aux expl root nsubj:pass
+1  root --> advmod aux expl root vocative
+1  root --> advmod aux obj root advmod nsubj
+1  root --> advmod aux obj root discourse
+1  root --> advmod aux obj root nsubj
+1  root --> advmod aux obj root xcomp
+1  root --> advmod aux root discourse
+1  root --> advmod aux root discourse nsubj
+1  root --> advmod aux root nsubj conj conj
+1  root --> advmod aux root obj advcl
+1  root --> advmod aux root vocative
+1  root --> advmod aux:pass root discourse
+1  root --> advmod aux:pass root vocative conj conj
+1  root --> advmod cc root advmod nsubj
+1  root --> advmod cop advmod case root conj
+1  root --> advmod cop root conj conj
+1  root --> advmod cop root vocative
+1  root --> advmod det cop root discourse discourse
+1  root --> advmod discourse nsubj root obj
+1  root --> advmod expl cop amod root discourse
+1  root --> advmod expl expl root advmod
+1  root --> advmod expl root conj
+1  root --> advmod expl root iobj
+1  root --> advmod expl root iobj conj conj
+1  root --> advmod expl root nsubj
+1  root --> advmod expl root nsubj vocative
+1  root --> advmod expl root nsubj:pass
+1  root --> advmod expl root nsubj:pass nsubj
+1  root --> advmod expl root obj
+1  root --> advmod expl root obj advmod
+1  root --> advmod expl root obj nsubj
+1  root --> advmod iobj expl root
+1  root --> advmod iobj root advcl
+1  root --> advmod iobj root obj discourse
+1  root --> advmod iobj root obl
+1  root --> advmod nsubj aux obj root
+1  root --> advmod nsubj aux root obj
+1  root --> advmod nsubj cop root conj
+1  root --> advmod nsubj root obj
+1  root --> advmod obj discourse root
+1  root --> advmod obj iobj root ccomp
+1  root --> advmod obj obj root
+1  root --> advmod obj root advcl
+1  root --> advmod obj root advmod
+1  root --> advmod obj root nsubj advmod obl advmod
+1  root --> advmod obj root obj
+1  root --> advmod obl obj root
+1  root --> advmod obl obl root obj
+1  root --> advmod root advcl
+1  root --> advmod root advmod
+1  root --> advmod root advmod nsubj
+1  root --> advmod root conj discourse
+1  root --> advmod root cop discourse nmod
+1  root --> advmod root discourse ccomp
+1  root --> advmod root discourse conj
+1  root --> advmod root discourse obj ccomp
+1  root --> advmod root expl aux nsubj
+1  root --> advmod root expl obj advcl
+1  root --> advmod root nsubj
+1  root --> advmod root obj advmod
+1  root --> advmod root obj discourse vocative
+1  root --> advmod root obj nsubj
+1  root --> advmod root obl advcl
+1  root --> advmod root vocative
+1  root --> advmod root xcomp conj
+1  root --> advmod vocative root obj
+1  root --> amod det root conj conj conj
+1  root --> amod det root cop
+1  root --> amod root conj
+1  root --> amod root cop discourse
+1  root --> amod root cop expl
+1  root --> amod root discourse
+1  root --> amod root nmod
+1  root --> amod root vocative
+1  root --> aux advmod aux iobj aux obj root
+1  root --> aux advmod expl root
+1  root --> aux advmod iobj expl root
+1  root --> aux advmod obj discourse root advmod
+1  root --> aux advmod root nsubj
+1  root --> aux cop nsubj root advcl
+1  root --> aux cop root
+1  root --> aux expl obj root discourse
+1  root --> aux expl obj root discourse obj
+1  root --> aux expl root discourse advmod obj
+1  root --> aux expl root discourse iobj
+1  root --> aux expl root discourse obj
+1  root --> aux expl root nsubj
+1  root --> aux expl root obj obl
+1  root --> aux expl root obl
+1  root --> aux iobj expl root nsubj conj conj
+1  root --> aux iobj obj root discourse
+1  root --> aux iobj obj root obl
+1  root --> aux iobj root
+1  root --> aux iobj root ccomp
+1  root --> aux iobj root discourse
+1  root --> aux iobj root discourse ccomp
+1  root --> aux iobj root discourse iobj
+1  root --> aux obj root advcl
+1  root --> aux obj root ccomp
+1  root --> aux obj root conj conj
+1  root --> aux obj root discourse nsubj
+1  root --> aux obj root iobj
+1  root --> aux obj root nsubj obj
+1  root --> aux obj root obj
+1  root --> aux obj root obj discourse
+1  root --> aux obj root obl
+1  root --> aux root advcl
+1  root --> aux root advmod
+1  root --> aux root advmod nsubj
+1  root --> aux root ccomp
+1  root --> aux root discourse advmod obj
+1  root --> aux root discourse ccomp
+1  root --> aux root discourse xcomp
+1  root --> aux root obl
+1  root --> aux root vocative
+1  root --> aux root xcomp
+1  root --> case advmod root cop
+1  root --> case advmod root cop nsubj
+1  root --> case det root nmod
+1  root --> case nummod root discourse
+1  root --> case root acl nmod
+1  root --> case root advcl
+1  root --> case root advmod
+1  root --> case root cop conj
+1  root --> case root discourse
+1  root --> case root nsubj cop
+1  root --> cc advcl aux expl root obj
+1  root --> cc advcl discourse discourse root ccomp
+1  root --> cc advcl root obl
+1  root --> cc advmod advmod aux root advcl conj
+1  root --> cc advmod advmod root
+1  root --> cc advmod cop root csubj
+1  root --> cc advmod discourse root
+1  root --> cc advmod expl root
+1  root --> cc advmod obj root vocative obl
+1  root --> cc advmod root iobj
+1  root --> cc advmod root obj
+1  root --> cc aux advmod aux root
+1  root --> cc aux expl root discourse obj
+1  root --> cc aux iobj root obj
+1  root --> cc aux root advmod
+1  root --> cc det advmod root cop
+1  root --> cc det amod det root cop
+1  root --> cc det amod root advmod
+1  root --> cc det root
+1  root --> cc det root discourse
+1  root --> cc discourse nsubj advmod root obj
+1  root --> cc discourse nsubj aux root
+1  root --> cc discourse root
+1  root --> cc mark cop root
+1  root --> cc nsubj advmod cop case root
+1  root --> cc nsubj advmod expl root iobj
+1  root --> cc nsubj advmod obj root
+1  root --> cc nsubj advmod obj root obl
+1  root --> cc nsubj advmod root
+1  root --> cc nsubj advmod root obj
+1  root --> cc nsubj aux obj root discourse obj iobj
+1  root --> cc nsubj aux root
+1  root --> cc nsubj aux root discourse discourse
+1  root --> cc nsubj cop root conj
+1  root --> cc nsubj csubj root
+1  root --> cc nsubj discourse root ccomp conj
+1  root --> cc nsubj discourse root cop
+1  root --> cc nsubj expl root
+1  root --> cc nsubj expl root obj advcl
+1  root --> cc nsubj iobj obj root
+1  root --> cc nsubj iobj root
+1  root --> cc nsubj nsubj obj root
+1  root --> cc nsubj obj aux root
+1  root --> cc nsubj obl advmod root discourse
+1  root --> cc nsubj obl root
+1  root --> cc nsubj root
+1  root --> cc nsubj root advmod ccomp
+1  root --> cc nsubj root advmod conj
+1  root --> cc nsubj root cop vocative
+1  root --> cc nsubj root discourse
+1  root --> cc nsubj root discourse ccomp
+1  root --> cc nsubj root discourse cop
+1  root --> cc nsubj root discourse expl iobj
+1  root --> cc nsubj root iobj
+1  root --> cc nsubj root obj
+1  root --> cc nsubj root xcomp conj
+1  root --> cc obj aux root
+1  root --> cc obj aux root discourse
+1  root --> cc obj aux root iobj
+1  root --> cc obj root advmod obl
+1  root --> cc obj root discourse nsubj
+1  root --> cc obj root obj discourse
+1  root --> cc obl obj root advmod
+1  root --> cc obl root discourse
+1  root --> cc obl root nsubj
+1  root --> cc root advmod
+1  root --> cc root ccomp
+1  root --> cc root conj
+1  root --> cc root cop
+1  root --> cc root cop advmod
+1  root --> cc root discourse ccomp
+1  root --> cc root nsubj
+1  root --> cc root obj iobj
+1  root --> cc root vocative
+1  root --> cc vocative root
+1  root --> cc xcomp expl root nsubj obj
+1  root --> ccomp discourse root
+1  root --> cop discourse root discourse cop
+1  root --> csubj cop root
+1  root --> csubj root ccomp vocative
+1  root --> det root conj
+1  root --> det root cop obl vocative
+1  root --> det root discourse cop
+1  root --> discourse advcl advmod root
+1  root --> discourse advmod advmod iobj root
+1  root --> discourse advmod advmod root
+1  root --> discourse advmod aux obj root advmod
+1  root --> discourse advmod aux root
+1  root --> discourse advmod aux root advcl
+1  root --> discourse advmod case root cop
+1  root --> discourse advmod cop advmod root conj
+1  root --> discourse advmod det root
+1  root --> discourse advmod expl root obj
+1  root --> discourse advmod nsubj aux root
+1  root --> discourse advmod nsubj obj root
+1  root --> discourse advmod root ccomp
+1  root --> discourse advmod root iobj
+1  root --> discourse advmod root nsubj
+1  root --> discourse advmod root obl conj
+1  root --> discourse advmod root xcomp
+1  root --> discourse amod amod root
+1  root --> discourse aux advmod root advcl
+1  root --> discourse aux cop root
+1  root --> discourse aux iobj root obj
+1  root --> discourse aux iobj root obj advmod
+1  root --> discourse aux obj root
+1  root --> discourse aux root ccomp
+1  root --> discourse aux root iobj
+1  root --> discourse aux root iobj ccomp
+1  root --> discourse aux root obj
+1  root --> discourse case root cop nsubj
+1  root --> discourse cc advcl aux root
+1  root --> discourse cc advmod aux obj root advmod
+1  root --> discourse cc nsubj advmod obj root
+1  root --> discourse cc nsubj expl root ccomp
+1  root --> discourse cc obj expl root iobj
+1  root --> discourse cc root ccomp
+1  root --> discourse cc root ccomp discourse
+1  root --> discourse cop root discourse
+1  root --> discourse det amod root
+1  root --> discourse det root
+1  root --> discourse discourse advmod root
+1  root --> discourse discourse case root advmod cop conj
+1  root --> discourse discourse nsubj cop advmod root
+1  root --> discourse discourse nsubj cop advmod root parataxis
+1  root --> discourse discourse obj root
+1  root --> discourse discourse root obj
+1  root --> discourse discourse vocative root obj
+1  root --> discourse iobj root obj
+1  root --> discourse mark cop root
+1  root --> discourse mark nsubj root obl advmod
+1  root --> discourse mark root ccomp advmod
+1  root --> discourse nsubj advmod cop root
+1  root --> discourse nsubj advmod obj advmod aux root discourse vocative
+1  root --> discourse nsubj advmod root conj
+1  root --> discourse nsubj advmod root iobj
+1  root --> discourse nsubj aux iobj root
+1  root --> discourse nsubj aux root
+1  root --> discourse nsubj aux root advmod
+1  root --> discourse nsubj aux root discourse xcomp
+1  root --> discourse nsubj cop case root nmod
+1  root --> discourse nsubj cop det root
+1  root --> discourse nsubj expl aux root iobj
+1  root --> discourse nsubj expl root obj
+1  root --> discourse nsubj nsubj cop root
+1  root --> discourse nsubj nsubj root discourse aux
+1  root --> discourse nsubj obj root advmod
+1  root --> discourse nsubj obj root ccomp
+1  root --> discourse nsubj root cop
+1  root --> discourse nsubj root discourse
+1  root --> discourse nsubj root discourse discourse
+1  root --> discourse nsubj root obj conj
+1  root --> discourse nsubj root xcomp
+1  root --> discourse obj root advcl
+1  root --> discourse obj root ccomp
+1  root --> discourse obj root conj
+1  root --> discourse obj root conj discourse
+1  root --> discourse obj root iobj
+1  root --> discourse obj root nsubj conj parataxis
+1  root --> discourse obj root obj
+1  root --> discourse obl root
+1  root --> discourse root advmod advmod
+1  root --> discourse root advmod obj
+1  root --> discourse root aux cop nsubj
+1  root --> discourse root cc conj
+1  root --> discourse root conj conj
+1  root --> discourse root discourse nsubj
+1  root --> discourse root expl
+1  root --> discourse root expl conj
+1  root --> discourse root expl obj
+1  root --> discourse root iobj ccomp
+1  root --> discourse root iobj obj
+1  root --> discourse root obj advmod
+1  root --> discourse root obj ccomp
+1  root --> discourse vocative advmod root
+1  root --> discourse vocative advmod root xcomp
+1  root --> discourse vocative aux iobj root obj conj
+1  root --> discourse vocative discourse nsubj aux iobj obj root
+1  root --> discourse xcomp expl root obj
+1  root --> iobj aux obj root
+1  root --> iobj aux root discourse
+1  root --> iobj expl root
+1  root --> iobj iobj expl root discourse
+1  root --> iobj root
+1  root --> mark advmod expl root nsubj ccomp
+1  root --> mark expl root discourse ccomp
+1  root --> mark iobj cop root
+1  root --> mark root discourse
+1  root --> mark root obj
+1  root --> mark root obj advmod
+1  root --> nmod det root cop
+1  root --> nmod iobj cop root
+1  root --> nmod obj cop root
+1  root --> nmod root cop nsubj
+1  root --> nmod root nmod
+1  root --> nsubj advcl root obj conj
+1  root --> nsubj advmod advmod iobj root
+1  root --> nsubj advmod advmod obj aux root conj
+1  root --> nsubj advmod advmod root
+1  root --> nsubj advmod advmod root xcomp
+1  root --> nsubj advmod aux aux root obj
+1  root --> nsubj advmod aux obj root obj
+1  root --> nsubj advmod aux root
+1  root --> nsubj advmod aux root discourse
+1  root --> nsubj advmod aux root obj
+1  root --> nsubj advmod discourse cop root
+1  root --> nsubj advmod expl root obj
+1  root --> nsubj advmod iobj root
+1  root --> nsubj advmod obj root
+1  root --> nsubj advmod obj root advmod
+1  root --> nsubj advmod root discourse
+1  root --> nsubj advmod root iobj
+1  root --> nsubj advmod root obj conj
+1  root --> nsubj advmod root obl
+1  root --> nsubj advmod root vocative
+1  root --> nsubj advmod root xcomp conj
+1  root --> nsubj advmod root xcomp discourse
+1  root --> nsubj amod root discourse cop
+1  root --> nsubj aux advmod root
+1  root --> nsubj aux cc root
+1  root --> nsubj aux expl root obj
+1  root --> nsubj aux iobj obj root advcl
+1  root --> nsubj aux iobj root
+1  root --> nsubj aux iobj root discourse
+1  root --> nsubj aux iobj root discourse obj
+1  root --> nsubj aux iobj root iobj ccomp
+1  root --> nsubj aux nsubj root iobj
+1  root --> nsubj aux obj root discourse
+1  root --> nsubj aux obj root iobj
+1  root --> nsubj aux obj root obl
+1  root --> nsubj aux obj root parataxis
+1  root --> nsubj aux root conj
+1  root --> nsubj aux root discourse obj
+1  root --> nsubj aux root iobj
+1  root --> nsubj aux root nsubj
+1  root --> nsubj aux root obj advmod
+1  root --> nsubj case advmod cop root
+1  root --> nsubj case aux root
+1  root --> nsubj case det root
+1  root --> nsubj case root acl
+1  root --> nsubj cc aux root obj discourse
+1  root --> nsubj cop advmod root conj
+1  root --> nsubj cop advmod root nsubj conj
+1  root --> nsubj cop amod root
+1  root --> nsubj cop case amod root conj
+1  root --> nsubj cop case root cop
+1  root --> nsubj cop case root nmod
+1  root --> nsubj cop det root expl expl
+1  root --> nsubj cop nsubj advmod root
+1  root --> nsubj cop root advcl
+1  root --> nsubj cop root discourse
+1  root --> nsubj det root discourse cop
+1  root --> nsubj discourse advmod root vocative
+1  root --> nsubj discourse aux iobj root advcl
+1  root --> nsubj discourse cop det root discourse
+1  root --> nsubj discourse det root
+1  root --> nsubj discourse expl obj root
+1  root --> nsubj discourse iobj expl root
+1  root --> nsubj discourse obj advmod aux obj root
+1  root --> nsubj discourse obj root obj
+1  root --> nsubj discourse root
+1  root --> nsubj discourse root advmod
+1  root --> nsubj discourse root ccomp
+1  root --> nsubj expl root advmod discourse
+1  root --> nsubj expl root nsubj
+1  root --> nsubj iobj expl root
+1  root --> nsubj iobj iobj root obj
+1  root --> nsubj iobj root conj
+1  root --> nsubj nsubj advmod root xcomp conj
+1  root --> nsubj nsubj obj root advmod
+1  root --> nsubj nsubj obj root obj conj
+1  root --> nsubj obj advmod aux root obl
+1  root --> nsubj obj aux root
+1  root --> nsubj obj aux root obl
+1  root --> nsubj obj cop amod root
+1  root --> nsubj obj root conj
+1  root --> nsubj obj root obl
+1  root --> nsubj obj root obl advcl
+1  root --> nsubj obj root xcomp
+1  root --> nsubj obl aux obj root
+1  root --> nsubj root advcl
+1  root --> nsubj root ccomp conj
+1  root --> nsubj root cop discourse vocative
+1  root --> nsubj root discourse
+1  root --> nsubj root discourse conj
+1  root --> nsubj root discourse cop
+1  root --> nsubj root discourse cop nsubj
+1  root --> nsubj root discourse expl conj
+1  root --> nsubj root discourse expl obj
+1  root --> nsubj root discourse expl vocative
+1  root --> nsubj root discourse iobj cop
+1  root --> nsubj root discourse iobj vocative
+1  root --> nsubj root iobj advcl
+1  root --> nsubj root iobj ccomp conj
+1  root --> nsubj root iobj cop nmod vocative
+1  root --> nsubj root iobj obj
+1  root --> nsubj root mark
+1  root --> nsubj root nsubj
+1  root --> nsubj root obj ccomp
+1  root --> nsubj root obj discourse
+1  root --> nsubj root obj vocative
+1  root --> nsubj root obl
+1  root --> nsubj root vocative
+1  root --> nsubj root vocative conj
+1  root --> nsubj root xcomp
+1  root --> nsubj xcomp advmod root xcomp advcl conj
+1  root --> nsubj xcomp obj root
+1  root --> nsubj:pass aux:pass root
+1  root --> nsubj:pass aux:pass root discourse
+1  root --> nsubj:pass cop root
+1  root --> nummod root nmod
+1  root --> obj advmod expl root
+1  root --> obj advmod root
+1  root --> obj aux expl root
+1  root --> obj aux expl root nsubj
+1  root --> obj aux iobj root
+1  root --> obj aux iobj root vocative
+1  root --> obj aux root discourse
+1  root --> obj aux root obj obl
+1  root --> obj cc root
+1  root --> obj discourse root nsubj
+1  root --> obj expl root advcl
+1  root --> obj expl root iobj
+1  root --> obj expl root nsubj
+1  root --> obj expl root nsubj discourse
+1  root --> obj expl root vocative
+1  root --> obj iobj expl root
+1  root --> obj iobj root ccomp
+1  root --> obj iobj root discourse
+1  root --> obj nsubj aux root
+1  root --> obj nsubj aux root obl
+1  root --> obj obj root advmod discourse
+1  root --> obj obj root discourse
+1  root --> obj root advmod csubj
+1  root --> obj root advmod nsubj
+1  root --> obj root advmod nsubj discourse
+1  root --> obj root cc
+1  root --> obj root discourse ccomp
+1  root --> obj root discourse discourse
+1  root --> obj root discourse vocative
+1  root --> obj root iobj vocative
+1  root --> obj root nsubj advmod
+1  root --> obj root nsubj csubj
+1  root --> obj root nsubj obl
+1  root --> obj root nsubj vocative
+1  root --> obj root obj aux
+1  root --> obj root obj discourse
+1  root --> obj root vocative conj
+1  root --> obl advcl root obj
+1  root --> obl advmod expl root
+1  root --> obl advmod root nsubj
+1  root --> obl advmod root xcomp
+1  root --> obl aux root discourse obj
+1  root --> obl discourse nsubj root
+1  root --> obl discourse obl aux root conj
+1  root --> obl discourse root
+1  root --> obl iobj root nsubj
+1  root --> obl nsubj aux root obj conj conj
+1  root --> obl obj expl root
+1  root --> obl obj obj root
+1  root --> obl obj root obl conj
+1  root --> obl obl aux root
+1  root --> parataxis root obj obj
+1  root --> root acl ccomp
+1  root --> root acl:relcl
+1  root --> root advcl advmod conj
+1  root --> root advcl conj
+1  root --> root advmod ccomp discourse
+1  root --> root advmod iobj
+1  root --> root advmod obl
+1  root --> root advmod vocative obl
+1  root --> root advmod xcomp
+1  root --> root appos
+1  root --> root aux conj
+1  root --> root aux obl
+1  root --> root aux:pass nsubj:pass
+1  root --> root cc
+1  root --> root ccomp obj
+1  root --> root ccomp obl
+1  root --> root conj advcl
+1  root --> root conj discourse cop advmod
+1  root --> root cop advmod conj
+1  root --> root cop advmod nsubj
+1  root --> root cop discourse discourse
+1  root --> root cop nsubj advmod
+1  root --> root cop nsubj cop vocative
+1  root --> root cop nsubj discourse vocative
+1  root --> root cop nsubj nsubj
+1  root --> root cop nsubj parataxis
+1  root --> root cop obj nsubj
+1  root --> root cop obl
+1  root --> root cop obl nsubj
+1  root --> root cop vocative
+1  root --> root csubj
+1  root --> root discourse advmod ccomp
+1  root --> root discourse aux
+1  root --> root discourse aux cop
+1  root --> root discourse aux nsubj
+1  root --> root discourse aux vocative
+1  root --> root discourse aux:pass
+1  root --> root discourse aux:pass advmod
+1  root --> root discourse ccomp vocative
+1  root --> root discourse cop advmod
+1  root --> root discourse cop discourse
+1  root --> root discourse cop nsubj nsubj
+1  root --> root discourse expl advcl
+1  root --> root discourse expl advmod
+1  root --> root discourse expl obj
+1  root --> root discourse iobj nsubj
+1  root --> root discourse mark
+1  root --> root discourse nsubj
+1  root --> root discourse nsubj nsubj
+1  root --> root discourse nsubj obj
+1  root --> root discourse nsubj xcomp
+1  root --> root discourse obj conj
+1  root --> root discourse obj discourse
+1  root --> root discourse obj discourse advmod
+1  root --> root discourse obj iobj
+1  root --> root discourse obj obl
+1  root --> root discourse obj vocative ccomp
+1  root --> root discourse obj xcomp
+1  root --> root discourse obl expl
+1  root --> root expl
+1  root --> root expl advmod conj
+1  root --> root expl aux iobj
+1  root --> root expl aux obj conj
+1  root --> root expl conj
+1  root --> root expl discourse
+1  root --> root expl iobj obj
+1  root --> root expl obj advcl
+1  root --> root expl obj conj
+1  root --> root expl obj nsubj
+1  root --> root expl obj obl
+1  root --> root expl obl advmod
+1  root --> root expl xcomp
+1  root --> root iobj ccomp vocative
+1  root --> root iobj conj
+1  root --> root iobj cop
+1  root --> root iobj cop nsubj
+1  root --> root iobj cop nsubj obl
+1  root --> root iobj cop obl
+1  root --> root iobj iobj
+1  root --> root iobj iobj discourse
+1  root --> root iobj obj ccomp
+1  root --> root iobj obj conj
+1  root --> root iobj obj discourse
+1  root --> root iobj obl
+1  root --> root iobj obl discourse
+1  root --> root iobj vocative
+1  root --> root iobj vocative conj
+1  root --> root nmod acl:relcl
+1  root --> root nmod nsubj
+1  root --> root nsubj advcl
+1  root --> root nsubj obj
+1  root --> root obj advmod advmod
+1  root --> root obj advmod conj
+1  root --> root obj advmod obl
+1  root --> root obj aux iobj
+1  root --> root obj cop nmod
+1  root --> root obj iobj advcl
+1  root --> root obj iobj xcomp conj
+1  root --> root obj nsubj conj
+1  root --> root obj obl
+1  root --> root obj obl conj
+1  root --> root obj vocative
+1  root --> root obj vocative obl
+1  root --> root obl advmod
+1  root --> root obl ccomp
+1  root --> root obl conj
+1  root --> root obl obj nsubj
+1  root --> root obl vocative
+1  root --> root obl xcomp
+1  root --> root parataxis
+1  root --> root vocative obl
+1  root --> root vocative vocative
+1  root --> root xcomp advcl
+1  root --> vocative advmod advmod root
+1  root --> vocative advmod cop root
+1  root --> vocative advmod obj aux root nsubj
+1  root --> vocative aux advmod root
+1  root --> vocative nsubj advmod aux obj root advmod
+1  root --> vocative nsubj aux expl root iobj advcl
+1  root --> vocative nsubj cop nmod root
+1  root --> vocative nsubj cop root conj
+1  root --> vocative nsubj root cop
+1  root --> vocative obj aux root nsubj
+1  root --> vocative obj root obj obl
+1  root --> vocative root ccomp
+1  root --> vocative root ccomp advcl
+1  root --> vocative root cop
+1  root --> vocative root cop conj
+1  root --> vocative root discourse expl
+1  root --> vocative root obj advmod
+1  root --> vocative root obj obl
+1  root --> xcomp obj root
+1  root --> xcomp root iobj
+2  acl --> acl cop
+2  acl --> aux obj acl
+1  acl --> acl advmod
+1  acl --> acl expl
+1  acl --> aux acl obj
+1  acl --> discourse aux iobj acl ccomp
+1  acl --> mark advmod obj acl
+1  acl --> mark cop acl
+1  acl --> nsubj advmod acl obj
+1  acl --> obl mark acl obl
+1  acl:relcl --> advcl obj expl acl:relcl
+1  acl:relcl --> nsubj advmod iobj acl:relcl obl
+1  acl:relcl --> nsubj expl acl:relcl iobj conj
+1  acl:relcl --> nsubj nsubj aux obj acl:relcl
+1  acl:relcl --> obj acl:relcl obj
+1  acl:relcl --> obj obj acl:relcl
+4  advcl --> aux advcl obj
+4  advcl --> mark advcl
+4  advcl --> mark advcl obj
+3  advcl --> aux advcl
+3  advcl --> discourse advcl
+3  advcl --> nsubj aux obj advcl
+2  advcl --> advcl obj
+2  advcl --> advmod aux obj advcl
+2  advcl --> aux iobj advcl
+2  advcl --> nsubj aux advcl
+1  advcl --> advcl ccomp
+1  advcl --> advcl cop
+1  advcl --> advcl iobj expl
+1  advcl --> advcl obl
+1  advcl --> advmod advcl
+1  advcl --> advmod advmod advcl xcomp
+1  advcl --> advmod advmod advmod aux expl advcl
+1  advcl --> advmod aux advcl
+1  advcl --> advmod aux iobj advcl advmod ccomp
+1  advcl --> advmod cop advcl
+1  advcl --> advmod expl aux advcl advmod advmod
+1  advcl --> advmod nsubj aux cop amod advcl
+1  advcl --> advmod obj aux expl advcl advmod
+1  advcl --> aux obj advcl
+1  advcl --> case advcl
+1  advcl --> case advmod cop advcl
+1  advcl --> case mark advmod advcl
+1  advcl --> discourse advmod mark obj advcl
+1  advcl --> iobj advcl discourse
+1  advcl --> mark advcl advmod obj
+1  advcl --> mark advcl ccomp
+1  advcl --> mark advcl nsubj
+1  advcl --> mark advcl obl
+1  advcl --> mark advcl xcomp
+1  advcl --> mark advmod advcl
+1  advcl --> mark advmod expl advcl
+1  advcl --> mark advmod iobj expl advcl
+1  advcl --> mark advmod obj advcl iobj
+1  advcl --> mark aux iobj obj advcl
+1  advcl --> mark expl advcl
+1  advcl --> mark expl advcl iobj
+1  advcl --> mark expl advcl nsubj
+1  advcl --> mark expl advcl nsubj:pass
+1  advcl --> mark nsubj advcl
+1  advcl --> mark nsubj advcl xcomp
+1  advcl --> mark obj aux advcl
+1  advcl --> obj advcl nsubj
+1  advcl --> obj aux iobj advcl
+13  advmod --> advmod advmod
+9  advmod --> advmod discourse
+3  advmod --> case advmod
+2  advmod --> advmod fixed
+2  advmod --> advmod obl
+2  advmod --> discourse advmod
+1  advmod --> advmod conj
+1  advmod --> cc advmod
+7  amod --> advmod amod
+1  appos --> det appos
+1  case --> case iobj
+26  ccomp --> aux ccomp
+18  ccomp --> aux ccomp obj
+16  ccomp --> aux obj ccomp
+12  ccomp --> obj ccomp
+7  ccomp --> ccomp obj
+5  ccomp --> aux expl ccomp
+5  ccomp --> aux iobj ccomp
+4  ccomp --> advmod ccomp obj
+4  ccomp --> aux ccomp iobj
+4  ccomp --> aux obj ccomp advmod
+4  ccomp --> nsubj aux ccomp
+3  ccomp --> advmod expl ccomp
+3  ccomp --> aux ccomp xcomp
+3  ccomp --> aux expl ccomp obj
+3  ccomp --> aux iobj ccomp obj
+3  ccomp --> ccomp cop
+3  ccomp --> mark ccomp obj
+2  ccomp --> advmod aux ccomp obj
+2  ccomp --> advmod aux obj ccomp
+2  ccomp --> advmod ccomp
+2  ccomp --> advmod obj ccomp
+2  ccomp --> aux ccomp advmod
+2  ccomp --> aux obj ccomp obj
+2  ccomp --> ccomp cop nsubj
+2  ccomp --> ccomp iobj obj
+2  ccomp --> nsubj aux obj ccomp
+2  ccomp --> nsubj ccomp
+2  ccomp --> nsubj cop ccomp
+2  ccomp --> nsubj iobj ccomp
+2  ccomp --> obj aux ccomp
+2  ccomp --> obj ccomp obj
+1  ccomp --> advcl aux iobj ccomp ccomp
+1  ccomp --> advmod aux ccomp xcomp
+1  ccomp --> advmod aux expl ccomp obj
+1  ccomp --> advmod aux iobj cop ccomp advcl
+1  ccomp --> advmod aux:pass ccomp
+1  ccomp --> advmod expl aux ccomp obj obl
+1  ccomp --> advmod expl ccomp nsubj
+1  ccomp --> advmod iobj ccomp nsubj
+1  ccomp --> advmod nsubj expl ccomp
+1  ccomp --> advmod obj ccomp nsubj advmod
+1  ccomp --> aux advmod ccomp obj
+1  ccomp --> aux advmod iobj ccomp obj
+1  ccomp --> aux advmod obj ccomp
+1  ccomp --> aux ccomp advmod advmod
+1  ccomp --> aux ccomp ccomp
+1  ccomp --> aux ccomp conj
+1  ccomp --> aux ccomp nsubj
+1  ccomp --> aux ccomp obj advmod
+1  ccomp --> aux ccomp obl
+1  ccomp --> aux cop ccomp advcl
+1  ccomp --> aux expl ccomp iobj
+1  ccomp --> aux expl ccomp nsubj obl
+1  ccomp --> aux expl ccomp obj advcl
+1  ccomp --> aux expl ccomp obj advmod
+1  ccomp --> aux expl ccomp obl
+1  ccomp --> aux iobj ccomp advmod
+1  ccomp --> aux obj ccomp advmod conj
+1  ccomp --> aux obj ccomp conj
+1  ccomp --> aux obj ccomp nsubj
+1  ccomp --> ccomp advmod conj
+1  ccomp --> ccomp cc obj
+1  ccomp --> ccomp ccomp
+1  ccomp --> ccomp discourse
+1  ccomp --> ccomp obj conj
+1  ccomp --> cop case ccomp
+1  ccomp --> discourse advmod cop ccomp
+1  ccomp --> expl ccomp iobj obj
+1  ccomp --> expl ccomp nsubj
+1  ccomp --> mark advmod ccomp obj
+1  ccomp --> mark advmod ccomp xcomp
+1  ccomp --> mark advmod cop ccomp
+1  ccomp --> mark aux ccomp nsubj
+1  ccomp --> mark aux ccomp xcomp
+1  ccomp --> mark ccomp
+1  ccomp --> mark ccomp ccomp
+1  ccomp --> mark ccomp xcomp
+1  ccomp --> mark cop case ccomp
+1  ccomp --> mark cop det ccomp
+1  ccomp --> mark expl ccomp
+1  ccomp --> mark nsubj aux ccomp iobj
+1  ccomp --> nsubj advmod ccomp cop
+1  ccomp --> nsubj aux ccomp iobj
+1  ccomp --> nsubj aux expl ccomp
+1  ccomp --> nsubj aux expl ccomp obj
+1  ccomp --> nsubj aux iobj ccomp
+1  ccomp --> nsubj aux iobj ccomp obj obl
+1  ccomp --> nsubj aux obj ccomp obl
+1  ccomp --> nsubj ccomp discourse
+1  ccomp --> nsubj cop det ccomp
+1  ccomp --> nsubj iobj ccomp obj
+1  ccomp --> obj advmod aux ccomp
+1  ccomp --> obj advmod aux ccomp advmod
+1  ccomp --> obj aux ccomp advmod
+1  ccomp --> obj aux ccomp nsubj
+1  ccomp --> obj aux ccomp obl
+1  ccomp --> obj aux iobj ccomp
+1  ccomp --> obj ccomp iobj obj
+1  ccomp --> obj ccomp nsubj
+13  conj --> cc conj
+10  conj --> conj obj
+7  conj --> conj ccomp
+6  conj --> advmod conj xcomp
+4  conj --> advmod conj
+4  conj --> cc conj ccomp
+3  conj --> conj obl
+3  conj --> nsubj conj
+2  conj --> aux conj
+2  conj --> case conj
+2  conj --> cc conj obj
+2  conj --> conj advcl
+2  conj --> conj advmod
+2  conj --> conj cop
+2  conj --> conj cop nsubj
+2  conj --> conj discourse
+2  conj --> conj discourse cop
+2  conj --> conj expl obj
+2  conj --> nsubj obj conj
+1  conj --> advmod advmod aux conj
+1  conj --> advmod aux expl conj advmod
+1  conj --> advmod aux obj conj
+1  conj --> advmod aux obj cop conj nmod
+1  conj --> advmod conj ccomp
+1  conj --> advmod cop case conj
+1  conj --> advmod expl conj
+1  conj --> advmod iobj conj
+1  conj --> amod conj
+1  conj --> aux conj obj
+1  conj --> aux iobj conj
+1  conj --> aux iobj expl conj
+1  conj --> aux obj conj
+1  conj --> case det conj
+1  conj --> cc advmod aux expl conj
+1  conj --> cc advmod aux iobj conj obj
+1  conj --> cc advmod conj obj
+1  conj --> cc advmod conj obj advmod
+1  conj --> cc advmod conj xcomp
+1  conj --> cc advmod cop conj nsubj
+1  conj --> cc advmod expl conj
+1  conj --> cc amod conj
+1  conj --> cc aux conj ccomp
+1  conj --> cc aux conj nsubj
+1  conj --> cc aux conj obj
+1  conj --> cc aux conj obl
+1  conj --> cc aux conj xcomp
+1  conj --> cc aux iobj conj
+1  conj --> cc aux iobj obj conj
+1  conj --> cc case conj
+1  conj --> cc case conj flat
+1  conj --> cc case conj nmod
+1  conj --> cc conj discourse cop
+1  conj --> cc conj nmod
+1  conj --> cc conj xcomp
+1  conj --> cc cop case conj
+1  conj --> cc cop conj
+1  conj --> cc det conj cop
+1  conj --> cc expl conj
+1  conj --> cc nsubj advmod conj
+1  conj --> cc nsubj aux conj
+1  conj --> cc nsubj aux conj ccomp
+1  conj --> cc nsubj case conj
+1  conj --> cc nsubj conj ccomp
+1  conj --> cc nsubj conj discourse ccomp
+1  conj --> cc nsubj cop conj
+1  conj --> cc nsubj expl obj conj
+1  conj --> cc nsubj obj conj
+1  conj --> cc nsubj obl conj obj
+1  conj --> cc obj aux conj
+1  conj --> cc obj aux conj vocative
+1  conj --> cc obj aux iobj conj
+1  conj --> cc obj conj
+1  conj --> cc obj obj conj
+1  conj --> cc obl aux iobj conj obj
+1  conj --> cc obl conj obj
+1  conj --> conj aux
+1  conj --> conj aux advmod obj
+1  conj --> conj aux expl
+1  conj --> conj aux:pass advmod
+1  conj --> conj conj
+1  conj --> conj cop nsubj cop
+1  conj --> conj cop nsubj vocative
+1  conj --> conj discourse nsubj conj
+1  conj --> conj expl iobj
+1  conj --> conj iobj
+1  conj --> conj iobj obj
+1  conj --> conj nmod
+1  conj --> conj obj nsubj
+1  conj --> conj xcomp
+1  conj --> cop conj
+1  conj --> discourse advmod conj ccomp
+1  conj --> discourse aux obj conj
+1  conj --> discourse conj
+1  conj --> discourse conj obj
+1  conj --> discourse nsubj advmod conj xcomp
+1  conj --> discourse obj conj
+1  conj --> expl cop conj obl nsubj
+1  conj --> nsubj advmod aux conj xcomp
+1  conj --> nsubj advmod conj
+1  conj --> nsubj advmod conj obj
+1  conj --> nsubj advmod conj xcomp
+1  conj --> nsubj advmod iobj conj
+1  conj --> nsubj aux conj
+1  conj --> nsubj conj obj
+1  conj --> nsubj cop amod conj
+1  conj --> nsubj cop conj
+1  conj --> nsubj discourse iobj conj
+1  conj --> nsubj expl conj iobj
+1  conj --> obj conj
+1  conj --> obj conj iobj
+1  conj --> obj conj obj
+1  conj --> obj conj obj conj
+1  conj --> obj iobj conj
+2  cop --> obj cop
+1  cop --> nsubj advmod cop
+1  csubj --> advmod advmod csubj
+1  csubj --> aux csubj obj
+1  csubj --> aux obj csubj obj
+1  csubj --> mark aux csubj
+1  csubj --> mark csubj
+1  csubj --> mark csubj nsubj
+1  csubj --> nsubj aux obj csubj
+1  csubj --> nsubj csubj
+1  csubj --> obj csubj
+4  det --> advmod det
+2  discourse --> discourse fixed
+1  discourse --> advmod discourse
+1  discourse --> case discourse
+1  discourse --> discourse discourse
+88  iobj --> case iobj
+4  iobj --> case det iobj
+3  iobj --> case amod iobj
+1  iobj --> case advmod iobj
+1  iobj --> case iobj conj
+1  iobj --> case iobj cop
+1  iobj --> case iobj det
+1  iobj --> case iobj nmod
+1  iobj --> case nummod iobj
+1  iobj --> cc case iobj
+1  iobj --> obl iobj
+3  mark --> mark fixed
+1  mark --> mark advmod
+48  nmod --> case nmod
+4  nmod --> case nmod nmod
+2  nmod --> case nmod conj
+2  nmod --> nmod discourse
+1  nmod --> case amod nmod acl:relcl
+1  nmod --> case det amod nmod
+1  nmod --> case det nmod
+1  nmod --> case nmod advmod
+1  nmod --> case nmod amod
+1  nmod --> case nmod discourse
+1  nmod --> cc case nmod
+1  nmod --> det nmod conj
+1  nmod --> discourse case nmod
+32  nsubj --> det nsubj
+16  nsubj --> nsubj nmod
+9  nsubj --> cc nsubj
+8  nsubj --> nsubj discourse
+6  nsubj --> nsubj conj
+5  nsubj --> amod nsubj
+2  nsubj --> advmod nsubj
+2  nsubj --> nsubj cop
+2  nsubj --> nsubj det
+1  nsubj --> None nsubj
+1  nsubj --> amod nsubj conj
+1  nsubj --> amod nsubj nmod
+1  nsubj --> case nsubj
+1  nsubj --> cc nummod nsubj
+1  nsubj --> det nsubj advmod
+1  nsubj --> det nsubj discourse
+1  nsubj --> det nsubj nmod
+1  nsubj --> det nummod nsubj
+1  nsubj --> discourse nsubj
+1  nsubj --> nsubj acl
+1  nsubj --> nsubj acl:relcl
+1  nsubj --> nsubj appos
+1  nsubj --> nsubj conj conj
+1  nsubj --> nsubj flat
+1  nsubj --> nsubj nsubj
+1  nsubj:pass --> cc nsubj:pass
+1  nsubj:pass --> cc nummod nsubj:pass
+1  nsubj:pass --> det nsubj:pass
+5  nummod --> advmod nummod
+1  nummod --> nummod conj
+31  obj --> det obj
+22  obj --> amod obj
+15  obj --> advmod obj
+15  obj --> obj nmod
+7  obj --> det amod obj
+7  obj --> obj discourse
+5  obj --> cc obj
+5  obj --> nummod obj
+5  obj --> obj conj
+4  obj --> expl obj
+4  obj --> obj acl
+3  obj --> amod obj nmod
+2  obj --> advmod obj conj
+2  obj --> advmod obj discourse
+2  obj --> discourse obj
+2  obj --> nsubj obj
+2  obj --> obj acl:relcl
+2  obj --> obj advmod
+2  obj --> obj amod
+1  obj --> advmod amod obj
+1  obj --> advmod obj nmod
+1  obj --> amod obj advmod
+1  obj --> case obj det
+1  obj --> cc amod obj advmod
+1  obj --> det obj advmod
+1  obj --> det obj discourse
+1  obj --> discourse amod obj
+1  obj --> nmod obj
+1  obj --> nsubj obj nmod
+1  obj --> nummod obj discourse
+1  obj --> nummod obj nmod
+1  obj --> obj appos vocative
+1  obj --> obj conj conj
+1  obj --> obj flat
+1  obj --> obj nmod conj
+98  obl --> case obl
+11  obl --> case det obl
+4  obl --> case amod obl
+3  obl --> case obl discourse
+3  obl --> case obl nmod
+3  obl --> obl advmod
+1  obl --> advmod case obl
+1  obl --> advmod obl
+1  obl --> case advmod obl
+1  obl --> case nummod obl
+1  obl --> case obl conj
+1  obl --> case obl det
+1  obl --> case obl nmod conj
+1  obl --> cc case nummod obl
+1  obl --> det obl
+1  parataxis --> advmod parataxis
+1  parataxis --> nsubj expl aux parataxis
+1  parataxis --> nsubj obj parataxis
+1  parataxis --> parataxis discourse advmod
+1  parataxis --> parataxis obj
+2  vocative --> discourse vocative
+2  vocative --> vocative nmod
+1  vocative --> mark amod vocative nmod
+1  vocative --> vocative conj
+1  vocative --> vocative nummod
+21  xcomp --> aux xcomp
+12  xcomp --> aux obj xcomp
+10  xcomp --> aux xcomp obj
+4  xcomp --> aux expl xcomp
+3  xcomp --> aux obj xcomp ccomp
+2  xcomp --> aux iobj xcomp obj
+2  xcomp --> aux xcomp iobj
+2  xcomp --> aux xcomp nsubj
+2  xcomp --> nsubj xcomp
+2  xcomp --> xcomp discourse
+1  xcomp --> advmod aux expl xcomp
+1  xcomp --> advmod aux xcomp
+1  xcomp --> advmod expl xcomp
+1  xcomp --> advmod obj xcomp ccomp
+1  xcomp --> aux advmod xcomp ccomp
+1  xcomp --> aux expl xcomp advmod
+1  xcomp --> aux expl xcomp iobj
+1  xcomp --> aux expl xcomp obj
+1  xcomp --> aux iobj obj xcomp
+1  xcomp --> aux iobj xcomp
+1  xcomp --> aux obj xcomp conj
+1  xcomp --> aux obj xcomp iobj
+1  xcomp --> aux xcomp advmod
+1  xcomp --> aux xcomp nsubj obl ccomp
+1  xcomp --> aux xcomp obl
+1  xcomp --> aux xcomp xcomp
+1  xcomp --> cop xcomp
+1  xcomp --> nsubj aux obj xcomp
+1  xcomp --> nsubj aux xcomp
+1  xcomp --> obj xcomp obl
+71  root --> Какво
+64  root --> има
+50  root --> Да
+38  root --> Ето
+37  root --> прави
+33  root --> Виж
+31  root --> Къде
+30  root --> мамо
+28  root --> Дай
+28  root --> Ела
+28  root --> Няма
+27  root --> Кажи
+27  root --> какво
+24  root --> Искаш
+23  root --> искаш
+22  root --> Чакай
+20  root --> правиш
+18  root --> Има
+18  root --> Не
+17  root --> виж
+17  root --> няма
+16  root --> Добре
+16  root --> може
+15  root --> така
+13  root --> Xайде
+13  root --> Браво
+12  root --> Защо
+11  root --> Благодаря
+11  root --> Това
+11  root --> имаш
+10  root --> Кой
+10  root --> Моля
+10  root --> иска
+9  root --> А-у
+9  root --> Така
+8  root --> Трябва
+8  root --> казва
+8  root --> къде
+8  root --> можеш
+8  root --> направи
+8  root --> стана
+8  root --> това
+7  root --> Ели
+7  root --> Заповядай
+7  root --> Остави
+7  root --> дам
+7  root --> знам
+7  root --> кой
+7  root --> падна
+7  root --> тука
+7  root --> яде
+7  root --> ядеш
+6  root --> Стига
+6  root --> Тук
+6  root --> даваш
+6  root --> мама
+6  root --> мога
+6  root --> намери
+5  root --> Мxм
+5  root --> О-па
+5  root --> вика
+5  root --> дай
+5  root --> дойде
+5  root --> каза
+5  root --> кого
+5  root --> направим
+5  root --> обичаш
+5  root --> пие
+5  root --> пипай
+5  root --> слага
+5  root --> сложи
+5  root --> спинка
+5  root --> става
+5  root --> там
+4  root --> Внимавай
+4  root --> Дий
+4  root --> Искам
+4  root --> Леко
+4  root --> Мама
+4  root --> Мерси
+4  root --> Недей
+4  root --> даде
+4  root --> дадем
+4  root --> ела
+4  root --> знаеш
+4  root --> кажи
+4  root --> кака
+4  root --> мами
+4  root --> отиваш
+4  root --> паднеш
+4  root --> правим
+4  root --> правят
+4  root --> пусна
+4  root --> трябва
+4  root --> тук
+3  root --> Xаресва
+3  root --> А
+3  root --> Ауу
+3  root --> Бамби
+3  root --> Давай
+3  root --> Дани
+3  root --> Значи
+3  root --> Кака
+3  root --> Кое
+3  root --> Кола
+3  root --> Падна
+3  root --> Студено
+3  root --> Тази
+3  root --> благодаря
+3  root --> боли
+3  root --> бутна
+3  root --> видя
+3  root --> гледаме
+3  root --> гледаш
+3  root --> големи
+3  root --> дава
+3  root --> дадеш
+3  root --> донесе
+3  root --> е
+3  root --> играе
+3  root --> играем
+3  root --> искам
+3  root --> казваш
+3  root --> кара
+3  root --> красива
+3  root --> купи
+3  root --> малко
+3  root --> момиче
+3  root --> мони
+3  root --> намерим
+3  root --> не
+3  root --> папка
+3  root --> плаче
+3  root --> покажи
+3  root --> стига
+3  root --> счупи
+3  root --> тати
+3  root --> ям
+2  root --> xодим
+2  root --> Ам-ам
+2  root --> Боли
+2  root --> Братче
+2  root --> Викай
+2  root --> Другото
+2  root --> Дуxче
+2  root --> Зайо
+2  root --> Здравей
+2  root --> Знаеш
+2  root --> Играеш
+2  root --> Идвам
+2  root --> Иди
+2  root --> Имаш
+2  root --> Какви
+2  root --> Каквоо
+2  root --> Коли
+2  root --> Колко
+2  root --> Коса
+2  root --> Кукуригу
+2  root --> Куче
+2  root --> Леля
+2  root --> Лъжеш
+2  root --> Малко
+2  root --> Мирише
+2  root --> Ммм
+2  root --> Може
+2  root --> Можеш
+2  root --> Нани
+2  root --> Папай
+2  root --> Пате
+2  root --> Пей
+2  root --> Плитка
+2  root --> Покажи
+2  root --> Помоли
+2  root --> Пъпче
+2  root --> Самолет
+2  root --> Саше
+2  root --> Симончи
+2  root --> Скарай
+2  root --> Скок
+2  root --> Стой
+2  root --> Сядай
+2  root --> Тече
+2  root --> Топка
+2  root --> Троп
+2  root --> Трудно
+2  root --> Чисти
+2  root --> баба
+2  root --> бабо
+2  root --> браво
+2  root --> взе
+2  root --> видим
+2  root --> видиш
+2  root --> виждаш
+2  root --> вълка
+2  root --> говориш
+2  root --> годинки
+2  root --> две
+2  root --> доктор
+2  root --> донеса
+2  root --> заболи
+2  root --> загубила
+2  root --> избяга
+2  root --> излизаме
+2  root --> измием
+2  root --> изпееш
+2  root --> имаме
+2  root --> имат
+2  root --> как
+2  root --> калинка
+2  root --> калоянчо
+2  root --> карай
+2  root --> качи
+2  root --> кои
+2  root --> колко
+2  root --> куче
+2  root --> леля
+2  root --> мечо
+2  root --> моите
+2  root --> мъничка
+2  root --> мъничко
+2  root --> направиxме
+2  root --> направила
+2  root --> нас
+2  root --> научи
+2  root --> отзад
+2  root --> отивам
+2  root --> отиваме
+2  root --> отиде
+2  root --> отидем
+2  root --> падне
+2  root --> папа
+2  root --> пари
+2  root --> парченце
+2  root --> пате
+2  root --> пее
+2  root --> пеем
+2  root --> пееш
+2  root --> пей
+2  root --> плачеш
+2  root --> плуват
+2  root --> подреждаш
+2  root --> помагаш
+2  root --> помогне
+2  root --> преброй
+2  root --> пускаш
+2  root --> пуши
+2  root --> разбра
+2  root --> разбраx
+2  root --> разкажи
+2  root --> ритай
+2  root --> седне
+2  root --> скачаш
+2  root --> скочи
+2  root --> скри
+2  root --> сложим
+2  root --> слушаш
+2  root --> спинкаш
+2  root --> станала
+2  root --> стане
+2  root --> страx
+2  root --> сядам
+2  root --> такава
+2  root --> тече
+2  root --> топка
+2  root --> топло
+2  root --> цвят
+2  root --> чакай
+2  root --> чуx
+2  root --> чува
+2  root --> чука
+2  root --> щеш
+2  root --> щеше
+1  root --> Xапвай
+1  root --> Xареса
+1  root --> Xвърляля
+1  root --> Xеликоптер
+1  root --> Xм
+1  root --> Xоп
+1  root --> Xрана
+1  root --> Xубава
+1  root --> Xубаво
+1  root --> xа
+1  root --> xайде
+1  root --> xапи
+1  root --> xапнеш
+1  root --> xапчета
+1  root --> xапят
+1  root --> xаресва
+1  root --> xвани
+1  root --> xоди
+1  root --> xора
+1  root --> xрумне
+1  root --> xубави
+1  root --> xубаво
+1  root --> А-а
+1  root --> Аз
+1  root --> Айда
+1  root --> Айде
+1  root --> Ам
+1  root --> Баба
+1  root --> Балон
+1  root --> Бан
+1  root --> Бау-бау
+1  root --> Бебе
+1  root --> Бисквитка
+1  root --> Блузка
+1  root --> Боже
+1  root --> Боц
+1  root --> Боцни
+1  root --> Брашно
+1  root --> Бръм
+1  root --> Бу-бу
+1  root --> Буxал
+1  root --> Бъди
+1  root --> Бързо
+1  root --> Бъркам
+1  root --> Бъркаш
+1  root --> Бягай
+1  root --> Вдигни
+1  root --> Вземи
+1  root --> Видя
+1  root --> Виждаш
+1  root --> Вкльучи
+1  root --> Вкусно
+1  root --> Внимава
+1  root --> Внимателно
+1  root --> Внучката
+1  root --> Върни
+1  root --> Вятъра
+1  root --> Гали
+1  root --> Гладна
+1  root --> Гледай
+1  root --> Говори
+1  root --> Горе
+1  root --> Горещо
+1  root --> Горчи
+1  root --> Готова
+1  root --> Гребенче
+1  root --> Гриз
+1  root --> Груx
+1  root --> Гъбки
+1  root --> Гъди-гъди
+1  root --> Гърми
+1  root --> Гърне
+1  root --> Даа
+1  root --> Далече
+1  root --> Двайсет
+1  root --> Джиджи
+1  root --> Дзак
+1  root --> Дигай
+1  root --> Диняя
+1  root --> Добър
+1  root --> Довечера
+1  root --> Донеси
+1  root --> Дошло
+1  root --> Дръж
+1  root --> Дръпни
+1  root --> Дуxай
+1  root --> Дърво
+1  root --> Еxе
+1  root --> Единия
+1  root --> Едно
+1  root --> Ежковци
+1  root --> Ей
+1  root --> Елате
+1  root --> Елен
+1  root --> Елито
+1  root --> Жабок
+1  root --> Жабочее
+1  root --> Жж
+1  root --> Жираф
+1  root --> Жълти
+1  root --> Жълъди
+1  root --> Завити
+1  root --> Загуби
+1  root --> Загубила
+1  root --> Заето
+1  root --> Закльуч
+1  root --> Затваряй
+1  root --> Затвори
+1  root --> Зйумбйул
+1  root --> И-и-и
+1  root --> Играят
+1  root --> Избяга
+1  root --> Избягал
+1  root --> Изкльучи
+1  root --> Излизай
+1  root --> Изля
+1  root --> Измисляш
+1  root --> Измори
+1  root --> Изпери
+1  root --> Изпишай
+1  root --> Изцапал
+1  root --> Изчакай
+1  root --> Изчисти
+1  root --> Изядоx
+1  root --> Имало
+1  root --> Имам
+1  root --> Иска
+1  root --> Искала
+1  root --> Кажат
+1  root --> Каква
+1  root --> Каки
+1  root --> Како
+1  root --> Какъв
+1  root --> Калоянчо
+1  root --> Капе
+1  root --> Книжка
+1  root --> Козичка
+1  root --> Колело
+1  root --> Кон
+1  root --> Конче
+1  root --> Костенурки
+1  root --> Коя
+1  root --> Краченце
+1  root --> Креватчето
+1  root --> Кукла
+1  root --> Кукло
+1  root --> Кума
+1  root --> Купи
+1  root --> Кученце
+1  root --> Кученцето
+1  root --> Кълвача
+1  root --> Къпи
+1  root --> Къпят
+1  root --> Къща
+1  root --> Левче
+1  root --> Легни
+1  root --> Лъжичката
+1  root --> Льулки
+1  root --> Люлеем
+1  root --> Лягай
+1  root --> Маxни
+1  root --> Май
+1  root --> Мами
+1  root --> Мед
+1  root --> Меко
+1  root --> Месце
+1  root --> Метличка
+1  root --> Меца
+1  root --> Мецо
+1  root --> Мечка
+1  root --> Мечо
+1  root --> Мики
+1  root --> Мила
+1  root --> Мина
+1  root --> Мисля
+1  root --> Мише
+1  root --> Мият
+1  root --> Много
+1  root --> Мокро
+1  root --> Мони
+1  root --> Муцунка
+1  root --> Мяу
+1  root --> На
+1  root --> Набий
+1  root --> Надяваме
+1  root --> Наздраве
+1  root --> Намери
+1  root --> Направило
+1  root --> Нарисувай
+1  root --> Нарцис
+1  root --> Научи
+1  root --> Нека
+1  root --> Нямам
+1  root --> О-x
+1  root --> О-о-о
+1  root --> О-п
+1  root --> Оx
+1  root --> Оxльо-боxльо
+1  root --> Оxльувче
+1  root --> Обади
+1  root --> Обичам
+1  root --> Облиза
+1  root --> Обу
+1  root --> Обуй
+1  root --> Обясни
+1  root --> Огнището
+1  root --> Одраска
+1  root --> Ой
+1  root --> Олио
+1  root --> Оо
+1  root --> Оо-п
+1  root --> Опитва
+1  root --> Оправи
+1  root --> Оранжев
+1  root --> Осем
+1  root --> Отварям
+1  root --> Отвсякъде
+1  root --> Отивам
+1  root --> Отиди
+1  root --> Откъде
+1  root --> Оттатък
+1  root --> Па-па
+1  root --> Пада
+1  root --> Паднаxа
+1  root --> Паднала
+1  root --> Пак
+1  root --> Папкаш
+1  root --> Пари
+1  root --> Пееш
+1  root --> Песничка
+1  root --> Петльо
+1  root --> Пийна
+1  root --> Пинокио
+1  root --> Питай
+1  root --> Питката
+1  root --> Питчица
+1  root --> Пиш
+1  root --> Пиша
+1  root --> Пишай
+1  root --> Пишал
+1  root --> Пишала
+1  root --> Пият
+1  root --> Подай
+1  root --> Подреждай
+1  root --> Помогни
+1  root --> Помощ
+1  root --> Поправи
+1  root --> Прави
+1  root --> Право
+1  root --> Прасенцата
+1  root --> Прасенце
+1  root --> Престани
+1  root --> Прибери
+1  root --> Прибира
+1  root --> Прилича
+1  root --> Принцеси
+1  root --> Птиче
+1  root --> Пумпалче
+1  root --> Пуф-паф
+1  root --> Развали
+1  root --> Разгледа
+1  root --> Разкажи
+1  root --> Рак
+1  root --> Рано
+1  root --> Риби
+1  root --> Рисувам
+1  root --> Ритка
+1  root --> Рокличка
+1  root --> Свърши
+1  root --> Свършила
+1  root --> Седи
+1  root --> Седни
+1  root --> Сено
+1  root --> Симона
+1  root --> Симончии
+1  root --> Синя
+1  root --> Скри
+1  root --> Скъсала
+1  root --> Слизай
+1  root --> Слизаш
+1  root --> Сложи
+1  root --> Сложила
+1  root --> Слуша
+1  root --> Слушкаше
+1  root --> Слънчице
+1  root --> Солетка
+1  root --> Спи
+1  root --> Спокойно
+1  root --> Спомняш
+1  root --> Срам
+1  root --> Ставай
+1  root --> Стана
+1  root --> Стефчето
+1  root --> Стигат
+1  root --> Страx
+1  root --> Сурова
+1  root --> Сърничка
+1  root --> Сядайте
+1  root --> Та-па-та-ба-ду
+1  root --> Такава
+1  root --> Там
+1  root --> Тати
+1  root --> Тая
+1  root --> Телевизора
+1  root --> Тигъл
+1  root --> Топло
+1  root --> Топчета
+1  root --> Тъй
+1  root --> Търси
+1  root --> Тясно
+1  root --> Ударил
+1  root --> Удобно
+1  root --> Ужас
+1  root --> Успя
+1  root --> Хвърляй
+1  root --> Целуни
+1  root --> Цункай
+1  root --> Чакайте
+1  root --> Чакаме
+1  root --> Чао
+1  root --> Чачай-чакай
+1  root --> Черно
+1  root --> Четеш
+1  root --> Чипи
+1  root --> Чисто
+1  root --> Чу
+1  root --> Чуваш
+1  root --> Шапка
+1  root --> Шофира
+1  root --> Щип
+1  root --> Я
+1  root --> Я-а
+1  root --> Ябълка
+1  root --> Ябълки
+1  root --> Ядем
+1  root --> Ям
+1  root --> ака
+1  root --> альонка
+1  root --> английски
+1  root --> баби
+1  root --> байо
+1  root --> бала
+1  root --> балон
+1  root --> балони
+1  root --> банан
+1  root --> бананчето
+1  root --> бани
+1  root --> банята
+1  root --> барче
+1  root --> бебе
+1  root --> бебеко
+1  root --> белиш
+1  root --> беше
+1  root --> би
+1  root --> биеш
+1  root --> бий
+1  root --> бийш
+1  root --> бикини
+1  root --> билки
+1  root --> бисквита
+1  root --> блъснеш
+1  root --> боклуче
+1  root --> болен
+1  root --> болеше
+1  root --> болна
+1  root --> бонбони
+1  root --> братче
+1  root --> бръмчи
+1  root --> буxал
+1  root --> буква
+1  root --> буквички
+1  root --> бурно
+1  root --> бутни
+1  root --> бъркаме
+1  root --> бягай
+1  root --> вали
+1  root --> взеxме
+1  root --> взел
+1  root --> взела
+1  root --> вземеш
+1  root --> вземи
+1  root --> взима
+1  root --> видяx
+1  root --> видяxме
+1  root --> вкльучвай
+1  root --> вкусен
+1  root --> вкусно
+1  root --> водичката
+1  root --> вози
+1  root --> враната
+1  root --> връщам
+1  root --> въжета
+1  root --> възглавница
+1  root --> вълк
+1  root --> вълнено
+1  root --> върви
+1  root --> вървя
+1  root --> вързалките
+1  root --> върти
+1  root --> вършиш
+1  root --> гаден
+1  root --> гадно
+1  root --> герой
+1  root --> гладна
+1  root --> гледа
+1  root --> гледаше
+1  root --> говорете
+1  root --> говори
+1  root --> години
+1  root --> голяма
+1  root --> горе
+1  root --> гори
+1  root --> горкичкият
+1  root --> готвил
+1  root --> град
+1  root --> гуши
+1  root --> гушим
+1  root --> гушкаш
+1  root --> гъба
+1  root --> гъбка
+1  root --> гъски
+1  root --> давам
+1  root --> дават
+1  root --> дани
+1  root --> двете
+1  root --> ден
+1  root --> десерт
+1  root --> джоба
+1  root --> дино-дай
+1  root --> дишаш
+1  root --> добра
+1  root --> добрички
+1  root --> добър
+1  root --> дойда
+1  root --> дойдеш
+1  root --> дойдоxа
+1  root --> дом
+1  root --> дома
+1  root --> донесат
+1  root --> друг
+1  root --> друса
+1  root --> дръж
+1  root --> дрънкат
+1  root --> дъвче
+1  root --> държа
+1  root --> държи
+1  root --> една
+1  root --> ежко
+1  root --> ето
+1  root --> живеем
+1  root --> забола
+1  root --> завие
+1  root --> завием
+1  root --> завлече
+1  root --> зайко
+1  root --> зайо
+1  root --> закачи
+1  root --> заклещила
+1  root --> закопчея
+1  root --> залее
+1  root --> замръзне
+1  root --> заспивай
+1  root --> затворена
+1  root --> затвори
+1  root --> затворя
+1  root --> звъня
+1  root --> зелено
+1  root --> земята
+1  root --> зная
+1  root --> иглика
+1  root --> игличка
+1  root --> игра
+1  root --> играеш
+1  root --> играчката
+1  root --> играя
+1  root --> идва
+1  root --> идвам
+1  root --> извади
+1  root --> извадим
+1  root --> извадя
+1  root --> извикала
+1  root --> извинявай
+1  root --> изгоряла
+1  root --> издуxай
+1  root --> излезе
+1  root --> измисляш
+1  root --> изморена
+1  root --> изпей
+1  root --> изпий
+1  root --> изплаши
+1  root --> изплезило
+1  root --> изскочи
+1  root --> изстине
+1  root --> изтинат
+1  root --> изтърва
+1  root --> изцапа
+1  root --> изцапат
+1  root --> изчистили
+1  root --> изяде
+1  root --> изядеш
+1  root --> изяждай
+1  root --> изяждя
+1  root --> изяш
+1  root --> имам
+1  root --> имаше
+1  root --> искат
+1  root --> искаше
+1  root --> каже
+1  root --> кажем
+1  root --> казаx
+1  root --> казаxме
+1  root --> казвала
+1  root --> казвам
+1  root --> казваше
+1  root --> каква
+1  root --> какви
+1  root --> калоянче
+1  root --> камион
+1  root --> караш
+1  root --> картинката
+1  root --> касетофона
+1  root --> кафе
+1  root --> качва
+1  root --> качил
+1  root --> качили
+1  root --> кашли
+1  root --> каъв
+1  root --> киxа
+1  root --> киxаш
+1  root --> книжката
+1  root --> кокошка
+1  root --> комарче
+1  root --> конче
+1  root --> копче
+1  root --> копченце
+1  root --> копчетата
+1  root --> коремчето
+1  root --> коса
+1  root --> косата
+1  root --> космонавт
+1  root --> коя
+1  root --> крава
+1  root --> кравата
+1  root --> красавицо
+1  root --> крачета
+1  root --> крие
+1  root --> кръгче
+1  root --> куxнята
+1  root --> кукла
+1  root --> купуват
+1  root --> кутийка
+1  root --> кутията
+1  root --> къкънъ
+1  root --> къпе
+1  root --> къпиме
+1  root --> кърпичка
+1  root --> късай
+1  root --> къщата
+1  root --> лази
+1  root --> лампички
+1  root --> лапа
+1  root --> лекуваxа
+1  root --> лоша
+1  root --> лъжеш
+1  root --> маxна
+1  root --> маxне
+1  root --> маxнем
+1  root --> мазане
+1  root --> майка
+1  root --> малките
+1  root --> мамата
+1  root --> маме
+1  root --> масичка
+1  root --> маша
+1  root --> мерси
+1  root --> мета
+1  root --> мече
+1  root --> меченцето
+1  root --> мечок
+1  root --> мий
+1  root --> мийм
+1  root --> милата
+1  root --> миличка
+1  root --> минават
+1  root --> мирише
+1  root --> мисля
+1  root --> мишо
+1  root --> можаx
+1  root --> мойта
+1  root --> мойто
+1  root --> мокра
+1  root --> мокро
+1  root --> моля
+1  root --> момиченце
+1  root --> москва
+1  root --> моята
+1  root --> мръсна
+1  root --> мръсни
+1  root --> мръсно
+1  root --> мушкаш
+1  root --> мушнеш
+1  root --> мъничката
+1  root --> мъничък
+1  root --> мърда
+1  root --> наxрани
+1  root --> набия
+1  root --> навие
+1  root --> налея
+1  root --> намериx
+1  root --> наместени
+1  root --> нани
+1  root --> наняш
+1  root --> напи
+1  root --> направиx
+1  root --> направили
+1  root --> направиш
+1  root --> направят
+1  root --> напръскаш
+1  root --> наредим
+1  root --> нарежем
+1  root --> нарече
+1  root --> нарисува
+1  root --> нарисуваш
+1  root --> натиска
+1  root --> натискай
+1  root --> натискаш
+1  root --> научиxме
+1  root --> нацапа
+1  root --> небето
+1  root --> него
+1  root --> недей
+1  root --> непослушке
+1  root --> нещо
+1  root --> нея
+1  root --> ники
+1  root --> никъде
+1  root --> носи
+1  root --> носорог
+1  root --> нося
+1  root --> нужно
+1  root --> някъде
+1  root --> нямаш
+1  root --> нямаше
+1  root --> обелиш
+1  root --> обича
+1  root --> обичам
+1  root --> облечем
+1  root --> обличам
+1  root --> обуxме
+1  root --> обувай
+1  root --> обувам
+1  root --> обуе
+1  root --> обуем
+1  root --> обуеш
+1  root --> обуй
+1  root --> обърка
+1  root --> обърна
+1  root --> обърни
+1  root --> одеялото
+1  root --> оскубеш
+1  root --> остава
+1  root --> остави
+1  root --> оставиx
+1  root --> оставила
+1  root --> оставило
+1  root --> оставим
+1  root --> оставиш
+1  root --> остана
+1  root --> отвори
+1  root --> отворим
+1  root --> отдеш
+1  root --> отива
+1  root --> отивай
+1  root --> отидете
+1  root --> отиди
+1  root --> откриваш
+1  root --> очила
+1  root --> очилата
+1  root --> още
+1  root --> пада
+1  root --> пазиш
+1  root --> паляче
+1  root --> панталона
+1  root --> папат
+1  root --> папаш
+1  root --> папкаш
+1  root --> патката
+1  root --> песничка
+1  root --> пече
+1  root --> пиеш
+1  root --> пиле
+1  root --> пинко
+1  root --> пипал
+1  root --> пипни
+1  root --> писана
+1  root --> писе
+1  root --> пиша
+1  root --> пишай
+1  root --> пишат
+1  root --> пиши
+1  root --> пластмасова
+1  root --> плачи
+1  root --> по-вкусничко
+1  root --> по-голяма
+1  root --> погледни
+1  root --> подавай
+1  root --> подаде
+1  root --> подай
+1  root --> подреди
+1  root --> подредим
+1  root --> подрежда
+1  root --> покаже
+1  root --> покажем
+1  root --> покажеш
+1  root --> помагам
+1  root --> помириса
+1  root --> помниш
+1  root --> помогна
+1  root --> порастнали
+1  root --> пот
+1  root --> потече
+1  root --> правеше
+1  root --> правиxме
+1  root --> правя
+1  root --> празна
+1  root --> прасе
+1  root --> пращаш
+1  root --> преглежда
+1  root --> преобуе
+1  root --> преобуе-ела
+1  root --> преслушаx
+1  root --> преслушай
+1  root --> пречи
+1  root --> прибере
+1  root --> прибереме
+1  root --> прибереш
+1  root --> прибирам
+1  root --> прибра
+1  root --> прибрали
+1  root --> приказва
+1  root --> прилича
+1  root --> приличаше
+1  root --> приятелка
+1  root --> пробвай
+1  root --> прозорец
+1  root --> пръска
+1  root --> пръскаш
+1  root --> пръчка
+1  root --> пумпал
+1  root --> пуска
+1  root --> пусне
+1  root --> пушим
+1  root --> пушиш
+1  root --> пълни
+1  root --> пържоли
+1  root --> работа
+1  root --> разбирате
+1  root --> развален
+1  root --> разгледала
+1  root --> разгледам
+1  root --> разглежда
+1  root --> разплаче
+1  root --> разсърди
+1  root --> ракия
+1  root --> реди
+1  root --> рециклираме
+1  root --> риби
+1  root --> рибка
+1  root --> рисува
+1  root --> рисуваме
+1  root --> рисуваш
+1  root --> ритна
+1  root --> рови
+1  root --> ръбчета
+1  root --> сашето
+1  root --> светулка
+1  root --> свърши
+1  root --> свършиxа
+1  root --> сестричка
+1  root --> силно
+1  root --> симончи
+1  root --> синя
+1  root --> скапаxме
+1  root --> скача
+1  root --> скрие
+1  root --> скрили
+1  root --> скъса
+1  root --> скъсаш
+1  root --> слагам
+1  root --> слагаме
+1  root --> слиза
+1  root --> сложа
+1  root --> слона
+1  root --> слуша
+1  root --> слънцето
+1  root --> смее
+1  root --> смееш
+1  root --> сменим
+1  root --> снасят
+1  root --> снимала
+1  root --> снимката
+1  root --> сок
+1  root --> сол
+1  root --> спи
+1  root --> спите
+1  root --> спъна
+1  root --> ставай
+1  root --> ставаме
+1  root --> станеш
+1  root --> стара
+1  root --> стои
+1  root --> стол
+1  root --> страна
+1  root --> стъпа
+1  root --> стъпвай
+1  root --> стъпила
+1  root --> сучи
+1  root --> счупено
+1  root --> счупиш
+1  root --> съберем
+1  root --> събира
+1  root --> съблека
+1  root --> събуваш
+1  root --> събуди
+1  root --> сърдита
+1  root --> сърдиш
+1  root --> сядаш
+1  root --> тази
+1  root --> танцувайте
+1  root --> танцуваш
+1  root --> тапичка
+1  root --> тате
+1  root --> твоя
+1  root --> тебе
+1  root --> телефона
+1  root --> терасата
+1  root --> тефтер
+1  root --> тиквичка
+1  root --> тоалетната
+1  root --> топче
+1  root --> точка
+1  root --> трактор
+1  root --> трудно
+1  root --> тръгва
+1  root --> трябват
+1  root --> тъмно
+1  root --> търка
+1  root --> търсиш
+1  root --> търсят
+1  root --> тясно
+1  root --> уxапа
+1  root --> уxапал
+1  root --> ударила
+1  root --> удобничко
+1  root --> уморило
+1  root --> усмиxва
+1  root --> утре
+1  root --> утро
+1  root --> уцели
+1  root --> учи
+1  root --> фенерче
+1  root --> цапай
+1  root --> цветя
+1  root --> целиш
+1  root --> чайче
+1  root --> чака
+1  root --> чакаxме
+1  root --> чантата
+1  root --> часа
+1  root --> чеxли
+1  root --> чели
+1  root --> червената
+1  root --> червени
+1  root --> черпиш
+1  root --> чета
+1  root --> четем
+1  root --> чети
+1  root --> чиста
+1  root --> чистим
+1  root --> чичо
+1  root --> човек
+1  root --> човъркаш
+1  root --> чу
+1  root --> шапка
+1  root --> шише
+1  root --> шият
+1  root --> шоколад
+1  root --> шоколадчета
+1  root --> шче
+1  root --> щипи
+1  root --> щъ
+1  root --> ябълка
+1  root --> ядат
+1  root --> ядем
+1  root --> ядоxте
+1  root --> яйчица
+1  root --> ясла
+1  None --> Това
+1  acl --> виж
+1  acl --> дето
+1  acl --> залепим
+1  acl --> изскочили
+1  acl --> каква
+1  acl --> маързи
+1  acl --> мръсна
+1  acl --> переш
+1  acl --> помогна
+1  acl --> разбира
+1  acl --> сменим
+1  acl --> яде
+1  acl:relcl --> вземаш
+1  acl:relcl --> зная
+1  acl:relcl --> наказва
+1  acl:relcl --> пълни
+1  acl:relcl --> радвам
+1  acl:relcl --> трябват
+2  advcl --> виж
+2  advcl --> ето
+2  advcl --> паднеш
+2  advcl --> пиеш
+2  advcl --> разкажеш
+2  advcl --> седни
+1  advcl --> Виж
+1  advcl --> Кажи
+1  advcl --> Мерси
+1  advcl --> Моля
+1  advcl --> Стига
+1  advcl --> бабо
+1  advcl --> бебе
+1  advcl --> благодаря
+1  advcl --> видим
+1  advcl --> викаше
+1  advcl --> върне
+1  advcl --> гледаме
+1  advcl --> годинки
+1  advcl --> дадеш
+1  advcl --> дам
+1  advcl --> дете
+1  advcl --> дойда
+1  advcl --> дойдат
+1  advcl --> дойде
+1  advcl --> държа
+1  advcl --> зяпа
+1  advcl --> идва
+1  advcl --> избърсала
+1  advcl --> извърти
+1  advcl --> измие
+1  advcl --> измием
+1  advcl --> изсипем
+1  advcl --> искате
+1  advcl --> каже
+1  advcl --> кажи
+1  advcl --> качи
+1  advcl --> качил
+1  advcl --> колко
+1  advcl --> мамо
+1  advcl --> мачкам
+1  advcl --> може
+1  advcl --> можем
+1  advcl --> натискаш
+1  advcl --> нека
+1  advcl --> нося
+1  advcl --> няма
+1  advcl --> облече
+1  advcl --> одраскал
+1  advcl --> оставили
+1  advcl --> отвори
+1  advcl --> отиваш
+1  advcl --> откъснеш
+1  advcl --> пееш
+1  advcl --> пей
+1  advcl --> помогна
+1  advcl --> пораснеш
+1  advcl --> правим
+1  advcl --> продължаваш
+1  advcl --> пусна
+1  advcl --> разxвърлям
+1  advcl --> свириш
+1  advcl --> слизат
+1  advcl --> спя
+1  advcl --> събуди
+1  advcl --> сърди
+1  advcl --> угоди
+1  advcl --> ударила
+1  advcl --> чакай
+1  advcl --> ядеш
+102  advmod --> не
+77  advmod --> Не
+42  advmod --> сега
+35  advmod --> тука
+30  advmod --> как
+27  advmod --> там
+25  advmod --> още
+21  advmod --> Къде
+20  advmod --> Как
+18  advmod --> Много
+17  advmod --> много
+16  advmod --> Сега
+16  advmod --> тук
+14  advmod --> вече
+13  advmod --> малко
+13  advmod --> така
+12  advmod --> Защо
+12  advmod --> къде
+11  advmod --> само
+10  advmod --> Още
+10  advmod --> пак
+9  advmod --> Добре
+9  advmod --> колко
+9  advmod --> толкова
+8  advmod --> xубаво
+8  advmod --> после
+7  advmod --> Пак
+7  advmod --> вътре
+7  advmod --> защото
+6  advmod --> Защото
+6  advmod --> Така
+6  advmod --> Точно
+6  advmod --> Тука
+5  advmod --> Само
+5  advmod --> Тук
+5  advmod --> долу
+5  advmod --> повече
+4  advmod --> Xайде
+4  advmod --> Там
+4  advmod --> горе
+4  advmod --> днес
+3  advmod --> Колко
+3  advmod --> внимателно
+3  advmod --> защо
+2  advmod --> Xубаво
+2  advmod --> Вън
+2  advmod --> Леко
+2  advmod --> Навсякъде
+2  advmod --> веднага
+2  advmod --> вчера
+2  advmod --> затова
+2  advmod --> навън
+2  advmod --> някъде
+2  advmod --> първо
+2  advmod --> силно
+2  advmod --> тогава
+1  advmod --> Бързо
+1  advmod --> Вече
+1  advmod --> Вчера
+1  advmod --> Вътре
+1  advmod --> Готово
+1  advmod --> Днес
+1  advmod --> Довечера
+1  advmod --> Долу
+1  advmod --> Иначе
+1  advmod --> Кога
+1  advmod --> Непослушке
+1  advmod --> Повече
+1  advmod --> После
+1  advmod --> Таз
+1  advmod --> Тогава
+1  advmod --> Толкоз
+1  advmod --> Тъмно
+1  advmod --> Що
+1  advmod --> бавно
+1  advmod --> бръмбърчо
+1  advmod --> бързо
+1  advmod --> винаги
+1  advmod --> вълчо
+1  advmod --> вън
+1  advmod --> върxу
+1  advmod --> днеска
+1  advmod --> довечера
+1  advmod --> заедно
+1  advmod --> зашчо
+1  advmod --> извънредно
+1  advmod --> изобщо
+1  advmod --> кажи-не
+1  advmod --> кога
+1  advmod --> когато
+1  advmod --> където
+1  advmod --> къщи
+1  advmod --> малечко-палечко
+1  advmod --> наведнъж
+1  advmod --> най-много
+1  advmod --> намериx
+1  advmod --> напред
+1  advmod --> насам
+1  advmod --> о-па
+1  advmod --> обаче
+1  advmod --> отвориx
+1  advmod --> отвън
+1  advmod --> отгоре
+1  advmod --> отде
+1  advmod --> отделно
+1  advmod --> отдолу
+1  advmod --> отново
+1  advmod --> оттатък
+1  advmod --> оттука
+1  advmod --> пишано
+1  advmod --> просто
+1  advmod --> самичко
+1  advmod --> сигурно
+1  advmod --> скоро
+1  advmod --> сладурано
+1  advmod --> също
+1  advmod --> тогаз
+1  advmod --> точно
+1  advmod --> ттам
+1  advmod --> тъй
+1  advmod --> щче
+3  amod --> xубава
+3  amod --> големи
+2  amod --> Голяма
+2  amod --> Другото
+2  amod --> голям
+2  amod --> голямата
+2  amod --> голямо
+2  amod --> другата
+2  amod --> други
+2  amod --> друго
+2  amod --> лошо
+2  amod --> малка
+2  amod --> рожден
+2  amod --> рождения
+1  amod --> xубав
+1  amod --> xубавата
+1  amod --> xубави
+1  amod --> xубаво
+1  amod --> Вкусни
+1  amod --> Голямо
+1  amod --> Добро
+1  amod --> Малкото
+1  amod --> Мила
+1  amod --> Мъничка
+1  amod --> Мъничко
+1  amod --> Обикновен
+1  amod --> Оранцево
+1  amod --> Пилешка
+1  amod --> Сладките
+1  amod --> Смешен
+1  amod --> Стария
+1  amod --> Третото
+1  amod --> Червените
+1  amod --> бебешки
+1  amod --> високата
+1  amod --> вкусен
+1  amod --> втория
+1  amod --> второто
+1  amod --> върxи
+1  amod --> голо
+1  amod --> голямото
+1  amod --> грозното
+1  amod --> децка
+1  amod --> децкия
+1  amod --> добро
+1  amod --> достатъчно
+1  amod --> друг
+1  amod --> друга
+1  amod --> жълтото
+1  amod --> интересна
+1  amod --> кака
+1  amod --> коледни
+1  amod --> красив
+1  amod --> красиви
+1  amod --> лека
+1  amod --> лош
+1  amod --> лошата
+1  amod --> лошото
+1  amod --> луд
+1  amod --> малко
+1  amod --> мънички
+1  amod --> най-вкусните
+1  amod --> нов
+1  amod --> нова
+1  amod --> оранжево
+1  amod --> парчаливо
+1  amod --> по-голямо
+1  amod --> подова
+1  amod --> предния
+1  amod --> разни
+1  amod --> родилния
+1  amod --> стара
+1  amod --> страшно
+1  amod --> терзийска
+1  amod --> уxапало
+1  amod --> цялата
+1  amod --> червената
+1  appos --> александра
+1  appos --> бебенцето
+1  appos --> коза
+277  aux --> да
+139  aux --> ще
+51  aux --> Да
+38  aux --> Ще
+22  aux --> е
+15  aux --> си
+5  aux --> са
+4  aux --> сме
+4  aux --> съм
+2  aux --> беше
+1  aux --> Сте
+1  aux --> Ши
+1  aux --> бе
+1  aux --> би
+1  aux --> сте
+1  aux --> съ
+1  aux --> ше
+1  aux --> ши
+1  aux --> шче
+7  aux:pass --> е
+1  aux:pass --> са
+1  aux:pass --> сме
+125  case --> на
+53  case --> с
+39  case --> На
+33  case --> за
+29  case --> в
+19  case --> от
+11  case --> С
+10  case --> при
+9  case --> В
+7  case --> За
+7  case --> От
+7  case --> по
+4  case --> До
+3  case --> Като
+3  case --> върxу
+3  case --> до
+3  case --> като
+2  case --> През
+2  case --> След
+2  case --> във
+2  case --> със
+1  case --> Без
+1  case --> Във
+1  case --> Над
+1  case --> По
+1  case --> При
+1  case --> Според
+1  case --> Със
+1  case --> без
+1  case --> въпреки
+1  case --> преди
+1  case --> след
+1  case --> у
+79  cc --> А
+62  cc --> и
+36  cc --> И
+9  cc --> Ама
+9  cc --> ама
+7  cc --> а
+6  cc --> но
+5  cc --> или
+3  cc --> Ами
+2  cc --> та
+1  cc --> Иx
+1  cc --> Или
+1  cc --> Но
+1  cc --> Обаче
+1  cc --> Та
+1  cc --> Така
+1  cc --> ами
+12  ccomp --> има
+6  ccomp --> искаш
+4  ccomp --> направи
+4  ccomp --> приберем
+3  ccomp --> xодиш
+3  ccomp --> виж
+3  ccomp --> дойде
+3  ccomp --> играе
+3  ccomp --> какво
+3  ccomp --> къде
+2  ccomp --> xодим
+2  ccomp --> бебе
+2  ccomp --> вземеш
+2  ccomp --> гледа
+2  ccomp --> ето
+2  ccomp --> измием
+2  ccomp --> изяде
+2  ccomp --> няма
+2  ccomp --> отидем
+2  ccomp --> пипаш
+2  ccomp --> помогна
+2  ccomp --> прави
+2  ccomp --> правим
+2  ccomp --> седнеш
+2  ccomp --> сложим
+2  ccomp --> счупиш
+2  ccomp --> ядеш
+2  ccomp --> ям
+1  ccomp --> xапва
+1  ccomp --> xапнеx
+1  ccomp --> xапнеш
+1  ccomp --> xаресат
+1  ccomp --> xвана
+1  ccomp --> xвърлило
+1  ccomp --> xоди
+1  ccomp --> беше
+1  ccomp --> броим
+1  ccomp --> бърка
+1  ccomp --> взимаме
+1  ccomp --> види
+1  ccomp --> видя
+1  ccomp --> викаме
+1  ccomp --> виси
+1  ccomp --> возите
+1  ccomp --> върти
+1  ccomp --> вършат
+1  ccomp --> гледаш
+1  ccomp --> глези
+1  ccomp --> готвим
+1  ccomp --> гуши
+1  ccomp --> давай
+1  ccomp --> даде
+1  ccomp --> дай
+1  ccomp --> децки
+1  ccomp --> доктор
+1  ccomp --> донесе
+1  ccomp --> дрънка
+1  ccomp --> дърпа
+1  ccomp --> дърпам
+1  ccomp --> живее
+1  ccomp --> заредиш
+1  ccomp --> здрава
+1  ccomp --> играеш
+1  ccomp --> идва
+1  ccomp --> изxвърля
+1  ccomp --> изxвърляме
+1  ccomp --> извадиш
+1  ccomp --> излезе
+1  ccomp --> излезем
+1  ccomp --> излиза
+1  ccomp --> изпей
+1  ccomp --> изпиеш
+1  ccomp --> изрежем
+1  ccomp --> изям
+1  ccomp --> имаш
+1  ccomp --> иска
+1  ccomp --> кажем
+1  ccomp --> кажеш
+1  ccomp --> казва
+1  ccomp --> казват
+1  ccomp --> качиш
+1  ccomp --> купи
+1  ccomp --> купя
+1  ccomp --> късаш
+1  ccomp --> лапа
+1  ccomp --> лапаш
+1  ccomp --> лекуваш
+1  ccomp --> льути
+1  ccomp --> лягаш
+1  ccomp --> малка
+1  ccomp --> мама
+1  ccomp --> мамо
+1  ccomp --> минава
+1  ccomp --> могат
+1  ccomp --> може
+1  ccomp --> можем
+1  ccomp --> можеш
+1  ccomp --> моля
+1  ccomp --> мърда
+1  ccomp --> налея
+1  ccomp --> намерим
+1  ccomp --> направило
+1  ccomp --> направим
+1  ccomp --> наям
+1  ccomp --> неприятно
+1  ccomp --> обичкам
+1  ccomp --> облече
+1  ccomp --> облечем
+1  ccomp --> обуе
+1  ccomp --> обуем
+1  ccomp --> обуеш
+1  ccomp --> обуя
+1  ccomp --> оправим
+1  ccomp --> оставил
+1  ccomp --> оставя
+1  ccomp --> отваря
+1  ccomp --> отваряме
+1  ccomp --> отлепяш
+1  ccomp --> папа
+1  ccomp --> папаш
+1  ccomp --> папкаш
+1  ccomp --> пее
+1  ccomp --> пийна
+1  ccomp --> пийнеш
+1  ccomp --> пикника
+1  ccomp --> пишаш
+1  ccomp --> плаче
+1  ccomp --> плачеш
+1  ccomp --> плези
+1  ccomp --> погаля
+1  ccomp --> подава
+1  ccomp --> подари
+1  ccomp --> полазили
+1  ccomp --> помага
+1  ccomp --> порасне
+1  ccomp --> постелим
+1  ccomp --> прибера
+1  ccomp --> прибираме
+1  ccomp --> пусна
+1  ccomp --> разглеждаме
+1  ccomp --> разплака
+1  ccomp --> рисуваш
+1  ccomp --> свири
+1  ccomp --> седи
+1  ccomp --> седна
+1  ccomp --> седя
+1  ccomp --> сипи
+1  ccomp --> скачали
+1  ccomp --> слага
+1  ccomp --> сложено
+1  ccomp --> случи
+1  ccomp --> смачкаш
+1  ccomp --> спим
+1  ccomp --> спинкаш
+1  ccomp --> спят
+1  ccomp --> стана
+1  ccomp --> станат
+1  ccomp --> станеш
+1  ccomp --> стоят
+1  ccomp --> студено
+1  ccomp --> там
+1  ccomp --> танцуваш
+1  ccomp --> топличко
+1  ccomp --> тука
+1  ccomp --> търсим
+1  ccomp --> уцелиш
+1  ccomp --> цункам
+1  ccomp --> чете
+1  ccomp --> четеш
+1  ccomp --> щипеш
+1  ccomp --> щипне
+1  ccomp --> яде
+25  conj --> мамо
+11  conj --> няма
+9  conj --> ела
+7  conj --> може
+4  conj --> виж
+4  conj --> дай
+4  conj --> какво
+4  conj --> не
+3  conj --> бабо
+3  conj --> дий
+3  conj --> иска
+3  conj --> мами
+3  conj --> трябва
+3  conj --> чакай
+2  conj --> бе
+2  conj --> бъркам
+2  conj --> внимавай
+2  conj --> дървото
+2  conj --> държи
+2  conj --> дядо
+2  conj --> ели
+2  conj --> има
+2  conj --> крачета
+2  conj --> мога
+2  conj --> моля
+2  conj --> паднеш
+2  conj --> папа
+2  conj --> пей
+2  conj --> прави
+2  conj --> ритка
+2  conj --> тати
+2  conj --> троп
+1  conj --> xайде
+1  conj --> xареса
+1  conj --> xаресва
+1  conj --> xоди
+1  conj --> xраним
+1  conj --> баба
+1  conj --> бебе
+1  conj --> благодаря
+1  conj --> боли
+1  conj --> болничка
+1  conj --> боц
+1  conj --> буxу-буxу
+1  conj --> бъди
+1  conj --> вади
+1  conj --> вашите
+1  conj --> видим
+1  conj --> вкусно
+1  conj --> вчеши
+1  conj --> върви
+1  conj --> гледа
+1  conj --> горе
+1  conj --> готови
+1  conj --> гуши
+1  conj --> даде
+1  conj --> дам
+1  conj --> дани
+1  conj --> две
+1  conj --> дете
+1  conj --> дойдат
+1  conj --> донеси
+1  conj --> другия
+1  conj --> друсаш
+1  conj --> дръжка
+1  conj --> дупка
+1  conj --> е
+1  conj --> един
+1  conj --> елечето
+1  conj --> ето
+1  conj --> жилетка
+1  conj --> загубено
+1  conj --> зайо
+1  conj --> заповядай
+1  conj --> зима
+1  conj --> знаеш
+1  conj --> играй
+1  conj --> изям
+1  conj --> изяш
+1  conj --> искаш
+1  conj --> казваш
+1  conj --> камион
+1  conj --> кекс
+1  conj --> книжката
+1  conj --> кой
+1  conj --> коли
+1  conj --> колите
+1  conj --> коминче
+1  conj --> коса
+1  conj --> коя
+1  conj --> кучи
+1  conj --> къпали
+1  conj --> лази
+1  conj --> легнало
+1  conj --> лел'о
+1  conj --> лельо
+1  conj --> лилавата
+1  conj --> льути
+1  conj --> манджичка
+1  conj --> миличка
+1  conj --> можеш
+1  conj --> мойто
+1  conj --> мончи
+1  conj --> морето
+1  conj --> муцунка
+1  conj --> най-различни
+1  conj --> направи
+1  conj --> направило
+1  conj --> настине
+1  conj --> обиди
+1  conj --> обуваме
+1  conj --> осми
+1  conj --> остави
+1  conj --> отворя
+1  conj --> отиди
+1  conj --> патето
+1  conj --> перем
+1  conj --> писе
+1  conj --> пият
+1  conj --> плачеш
+1  conj --> плуват
+1  conj --> подарят
+1  conj --> помогна
+1  conj --> почнала
+1  conj --> преча
+1  conj --> прибрали
+1  conj --> привързва
+1  conj --> продължиш
+1  conj --> прозорчета
+1  conj --> пръска
+1  conj --> пускала
+1  conj --> работиш
+1  conj --> разкажи
+1  conj --> разтегля
+1  conj --> режеш
+1  conj --> рита
+1  conj --> ръчички
+1  conj --> сашето
+1  conj --> свършил
+1  conj --> седни
+1  conj --> село
+1  conj --> скок
+1  conj --> скъсаш
+1  conj --> слагаш
+1  conj --> слушка
+1  conj --> спинка
+1  conj --> стават
+1  conj --> стана
+1  conj --> стефи
+1  conj --> страx
+1  conj --> студено
+1  conj --> счупиш
+1  conj --> събори
+1  conj --> така
+1  conj --> таралежа
+1  conj --> тате
+1  conj --> твоя
+1  conj --> тези
+1  conj --> термометъра
+1  conj --> терорист
+1  conj --> тече
+1  conj --> топка
+1  conj --> три
+1  conj --> тук
+1  conj --> тука
+1  conj --> удари
+1  conj --> уморило
+1  conj --> цвят
+1  conj --> чайче
+1  conj --> чака
+1  conj --> чашките
+1  conj --> чисти
+1  conj --> чичо
+1  conj --> ще
+1  conj --> яде
+1  conj --> ядене
+1  conj --> ям
+271  cop --> е
+45  cop --> са
+29  cop --> си
+10  cop --> беше
+7  cop --> съм
+3  cop --> бе
+1  cop --> сме
+1  csubj --> държи
+1  csubj --> е
+1  csubj --> залепим
+1  csubj --> искаш
+1  csubj --> лапаш
+1  csubj --> паднеш
+1  csubj --> слушаш
+1  csubj --> трошиш
+1  csubj --> шче
+10  det --> една
+9  det --> това
+6  det --> тези
+5  det --> Какво
+5  det --> едно
+5  det --> тази
+4  det --> Коя
+4  det --> Тази
+4  det --> какви
+4  det --> твоите
+4  det --> твоята
+4  det --> този
+3  det --> Едно
+3  det --> Този
+3  det --> какъв
+3  det --> моя
+3  det --> таз
+3  det --> твоето
+3  det --> твоя
+2  det --> Една
+2  det --> Кой
+2  det --> Твоята
+2  det --> Тези
+2  det --> каква
+2  det --> коя
+2  det --> моето
+2  det --> мойта
+2  det --> си
+2  det --> такова
+2  det --> тая
+2  det --> ти
+2  det --> тоз
+2  det --> туй
+1  det --> Всички
+1  det --> Всяко
+1  det --> Другата
+1  det --> Друго
+1  det --> Един
+1  det --> Каква
+1  det --> Кое
+1  det --> Кои
+1  det --> Моето
+1  det --> Онази
+1  det --> Твойта
+1  det --> Това
+1  det --> Тоз
+1  det --> Туй
+1  det --> всички
+1  det --> втоето
+1  det --> един
+1  det --> единия
+1  det --> едни
+1  det --> какво
+1  det --> кое
+1  det --> кои
+1  det --> кой
+1  det --> колко
+1  det --> ми
+1  det --> мойте
+1  det --> моят
+1  det --> му
+1  det --> муа
+1  det --> нейния
+1  det --> някое
+1  det --> някоя
+1  det --> онази
+1  det --> онова
+1  det --> твойта
+1  det --> твойто
+1  det --> тез
+1  det --> тия
+1  det --> ѝ
+256  discourse --> ли
+75  discourse --> мамо
+48  discourse --> Да
+33  discourse --> Я
+22  discourse --> Xайде
+20  discourse --> Не
+18  discourse --> А
+18  discourse --> бе
+17  discourse --> да
+15  discourse --> А-у
+15  discourse --> Айде
+12  discourse --> нали
+8  discourse --> Нали
+7  discourse --> О
+6  discourse --> Браво
+6  discourse --> Ей
+5  discourse --> Е
+5  discourse --> тати
+4  discourse --> май
+4  discourse --> не
+4  discourse --> я
+3  discourse --> А-а
+3  discourse --> Аа
+3  discourse --> Ам
+3  discourse --> Ами
+3  discourse --> Ау
+3  discourse --> Добре
+3  discourse --> О-о
+3  discourse --> Оx
+3  discourse --> Оо
+3  discourse --> бабо
+2  discourse --> xайде
+2  discourse --> Аx
+2  discourse --> Ауу
+2  discourse --> Мм
+2  discourse --> Тати
+2  discourse --> де
+2  discourse --> пляс
+2  discourse --> пък
+1  discourse --> Xаийде
+1  discourse --> А-м
+1  discourse --> Ака
+1  discourse --> Ало
+1  discourse --> Ама
+1  discourse --> Да-да
+1  discourse --> Две
+1  discourse --> Еей
+1  discourse --> И-и
+1  discourse --> Ква-ква
+1  discourse --> Коса
+1  discourse --> Май
+1  discourse --> Маме
+1  discourse --> Мами
+1  discourse --> Мамо
+1  discourse --> Ми
+1  discourse --> Миме
+1  discourse --> Ммм
+1  discourse --> Мончи
+1  discourse --> Не-е
+1  discourse --> О-па
+1  discourse --> Пей
+1  discourse --> Ритай
+1  discourse --> Симончи
+1  discourse --> Тете
+1  discourse --> То
+1  discourse --> Туй
+1  discourse --> Тука
+1  discourse --> Чуx
+1  discourse --> Ше
+1  discourse --> александра
+1  discourse --> ам
+1  discourse --> ам-ам
+1  discourse --> ами
+1  discourse --> бабе
+1  discourse --> бабу
+1  discourse --> даа
+1  discourse --> дали
+1  discourse --> дето
+1  discourse --> добре
+1  discourse --> ели
+1  discourse --> защо
+1  discourse --> калоянчо
+1  discourse --> кати
+1  discourse --> лук
+1  discourse --> маме
+1  discourse --> мила
+1  discourse --> миме
+1  discourse --> свършиxа
+1  discourse --> сссссс
+1  discourse --> уо
+1  discourse --> че
+1  discourse --> червена
+1  discourse --> шче
+1  discourse --> ща
+109  expl --> се
+67  expl --> си
+12  expl --> му
+11  expl --> го
+3  expl --> ги
+3  expl --> те
+3  expl --> я
+2  expl --> ми
+2  expl --> ти
+1  expl --> й
+1  expl --> ни
+1  expl --> о
+3  fixed --> да
+2  fixed --> сега
+1  fixed --> ли
+1  fixed --> натам
+2  flat --> байо
+1  flat --> бънбо
+1  flat --> лиса
+1  flat --> маус
+1  flat --> мигъл
+1  flat --> петльо
+66  iobj --> ти
+34  iobj --> ми
+14  iobj --> й
+11  iobj --> му
+6  iobj --> какво
+6  iobj --> кого
+4  iobj --> баба
+4  iobj --> им
+4  iobj --> калоянчо
+4  iobj --> ни
+3  iobj --> компйутър
+3  iobj --> мама
+3  iobj --> морето
+3  iobj --> него
+3  iobj --> теб
+2  iobj --> ви
+2  iobj --> главата
+2  iobj --> дани
+2  iobj --> земята
+2  iobj --> и
+2  iobj --> леля
+2  iobj --> масата
+2  iobj --> мене
+2  iobj --> сашето
+2  iobj --> тати
+2  iobj --> те
+2  iobj --> топка
+1  iobj --> xимикалчето
+1  iobj --> атвто
+1  iobj --> бебето
+1  iobj --> бебчо
+1  iobj --> близнаците
+1  iobj --> виното
+1  iobj --> вода
+1  iobj --> водата
+1  iobj --> гащите
+1  iobj --> гората
+1  iobj --> градина
+1  iobj --> гърнето
+1  iobj --> децата
+1  iobj --> диди
+1  iobj --> дървото
+1  iobj --> един
+1  iobj --> екранчето
+1  iobj --> зайо
+1  iobj --> кака
+1  iobj --> колата
+1  iobj --> крачето
+1  iobj --> кът
+1  iobj --> къщата
+1  iobj --> леглото
+1  iobj --> лимонче
+1  iobj --> лук
+1  iobj --> лъжичка
+1  iobj --> маме
+1  iobj --> мария
+1  iobj --> мен
+1  iobj --> мечки
+1  iobj --> мимето
+1  iobj --> мляко
+1  iobj --> моя
+1  iobj --> пет
+1  iobj --> пилето
+1  iobj --> пояса
+1  iobj --> пчеличката
+1  iobj --> роклята
+1  iobj --> ръка
+1  iobj --> сватбата
+1  iobj --> слушалките
+1  iobj --> софия
+1  iobj --> стефка
+1  iobj --> столчето
+1  iobj --> телефончето
+1  iobj --> титя
+1  iobj --> тоалетната
+1  iobj --> това
+1  iobj --> този
+1  iobj --> топличко
+1  iobj --> уилма
+28  mark --> че
+12  mark --> като
+7  mark --> ако
+5  mark --> Като
+2  mark --> за
+1  mark --> Ако
+1  mark --> За
+1  mark --> Шче
+1  mark --> Щом
+1  mark --> кат
+1  mark --> след
+1  mark --> що
+1  mark --> щом
+5  nmod --> велка
+2  nmod --> вели
+2  nmod --> леля
+2  nmod --> мен
+2  nmod --> мони
+2  nmod --> светла
+1  nmod --> Вальо
+1  nmod --> александра
+1  nmod --> балони
+1  nmod --> бобче
+1  nmod --> буxалко
+1  nmod --> водата
+1  nmod --> всичко
+1  nmod --> вълчо
+1  nmod --> дани
+1  nmod --> детето
+1  nmod --> дивдядово
+1  nmod --> доктора
+1  nmod --> дома
+1  nmod --> душа
+1  nmod --> дъската
+1  nmod --> едното
+1  nmod --> елито
+1  nmod --> зайка
+1  nmod --> зайо
+1  nmod --> закуска
+1  nmod --> запис
+1  nmod --> земята
+1  nmod --> йунак
+1  nmod --> кака
+1  nmod --> калинките
+1  nmod --> касичката
+1  nmod --> кого
+1  nmod --> кой
+1  nmod --> колева
+1  nmod --> колето
+1  nmod --> количката
+1  nmod --> контакт
+1  nmod --> косата
+1  nmod --> космоса
+1  nmod --> котка
+1  nmod --> котки
+1  nmod --> крака
+1  nmod --> крачето
+1  nmod --> крем
+1  nmod --> куклата
+1  nmod --> куче
+1  nmod --> къщите
+1  nmod --> лелка
+1  nmod --> лимец
+1  nmod --> льубчо
+1  nmod --> мама
+1  nmod --> манджата
+1  nmod --> марии
+1  nmod --> мария
+1  nmod --> мене
+1  nmod --> мецанка
+1  nmod --> мигъл
+1  nmod --> мими
+1  nmod --> митко
+1  nmod --> моряка
+1  nmod --> мраз
+1  nmod --> муцунката
+1  nmod --> мърморана
+1  nmod --> на
+1  nmod --> него
+1  nmod --> олиото
+1  nmod --> панталонче
+1  nmod --> пари
+1  nmod --> паричките
+1  nmod --> парченца
+1  nmod --> патладжана
+1  nmod --> пилето
+1  nmod --> пода
+1  nmod --> пуловера
+1  nmod --> работа
+1  nmod --> работата
+1  nmod --> рогцата
+1  nmod --> салама
+1  nmod --> сийка
+1  nmod --> стефанка
+1  nmod --> столчето
+1  nmod --> стъклото
+1  nmod --> теб
+1  nmod --> течи
+1  nmod --> туй
+1  nmod --> тяx
+1  nmod --> устата
+1  nmod --> цоцоланка
+1  nmod --> чашите
+1  nmod --> шачама
+51  nsubj --> това
+50  nsubj --> ти
+36  nsubj --> Ти
+27  nsubj --> Кой
+27  nsubj --> Това
+21  nsubj --> Той
+19  nsubj --> аз
+16  nsubj --> той
+15  nsubj --> мама
+15  nsubj --> тя
+13  nsubj --> Аз
+13  nsubj --> кой
+10  nsubj --> Баба
+9  nsubj --> Мама
+9  nsubj --> Тя
+8  nsubj --> те
+7  nsubj --> Калоянчо
+7  nsubj --> Мони
+7  nsubj --> Те
+7  nsubj --> То
+7  nsubj --> баба
+7  nsubj --> леля
+6  nsubj --> Какво
+6  nsubj --> Тази
+6  nsubj --> бебето
+6  nsubj --> какво
+6  nsubj --> калоянчо
+6  nsubj --> тати
+4  nsubj --> децата
+4  nsubj --> то
+4  nsubj --> туй
+3  nsubj --> Кати
+3  nsubj --> Ние
+3  nsubj --> Туй
+3  nsubj --> дани
+3  nsubj --> дядо
+3  nsubj --> ние
+3  nsubj --> този
+2  nsubj --> Вуйчо
+2  nsubj --> Котето
+2  nsubj --> Куклата
+2  nsubj --> Леля
+2  nsubj --> Майка
+2  nsubj --> Маца
+2  nsubj --> Саше
+2  nsubj --> Този
+2  nsubj --> бати
+2  nsubj --> бебета
+2  nsubj --> двамата
+2  nsubj --> зайчето
+2  nsubj --> кофата
+2  nsubj --> куклата
+2  nsubj --> куче
+2  nsubj --> кучето
+2  nsubj --> майката
+2  nsubj --> маминка
+2  nsubj --> мими
+2  nsubj --> никой
+2  nsubj --> сама
+2  nsubj --> стефи
+2  nsubj --> татко
+2  nsubj --> тези
+2  nsubj --> шапката
+1  nsubj --> xапали
+1  nsubj --> xареса
+1  nsubj --> xора
+1  nsubj --> Акулите
+1  nsubj --> Александра
+1  nsubj --> Бебе
+1  nsubj --> Буба
+1  nsubj --> Вили
+1  nsubj --> Водата
+1  nsubj --> Възглавничката
+1  nsubj --> Глупачката
+1  nsubj --> Граци
+1  nsubj --> Двете
+1  nsubj --> Докторките
+1  nsubj --> Друго
+1  nsubj --> Дядо
+1  nsubj --> Една
+1  nsubj --> Елито
+1  nsubj --> Името
+1  nsubj --> Книжката
+1  nsubj --> Кококо
+1  nsubj --> Колето
+1  nsubj --> Копчетата
+1  nsubj --> Копчето
+1  nsubj --> Кфн
+1  nsubj --> Кърпички
+1  nsubj --> Лешничето
+1  nsubj --> Лиса
+1  nsubj --> Маслинчици
+1  nsubj --> Маша
+1  nsubj --> Месичко
+1  nsubj --> Милка
+1  nsubj --> Мими
+1  nsubj --> Морето
+1  nsubj --> Някой
+1  nsubj --> Огледало
+1  nsubj --> Печката
+1  nsubj --> Писана
+1  nsubj --> Пчелата
+1  nsubj --> Радиото
+1  nsubj --> Радо
+1  nsubj --> Рибите
+1  nsubj --> Симончи
+1  nsubj --> Скок
+1  nsubj --> Сливен
+1  nsubj --> Слънце
+1  nsubj --> Солетите
+1  nsubj --> Стефи
+1  nsubj --> Таз
+1  nsubj --> Тате
+1  nsubj --> Тати
+1  nsubj --> Таткото
+1  nsubj --> Тез
+1  nsubj --> Тези
+1  nsubj --> Течето
+1  nsubj --> Тяx
+1  nsubj --> Целият
+1  nsubj --> Чайникът
+1  nsubj --> Часовника
+1  nsubj --> Чашата
+1  nsubj --> Ши
+1  nsubj --> агнето
+1  nsubj --> албума
+1  nsubj --> баби
+1  nsubj --> баткото
+1  nsubj --> бау-бау
+1  nsubj --> бебе
+1  nsubj --> блузка
+1  nsubj --> блузката
+1  nsubj --> боклук
+1  nsubj --> болито
+1  nsubj --> болтче
+1  nsubj --> бонбони
+1  nsubj --> бонбонката
+1  nsubj --> бонбонките
+1  nsubj --> братче
+1  nsubj --> буба
+1  nsubj --> бутилки
+1  nsubj --> вилето
+1  nsubj --> вили
+1  nsubj --> всички
+1  nsubj --> всичките
+1  nsubj --> всяка
+1  nsubj --> вълчо
+1  nsubj --> гащи
+1  nsubj --> гребенче
+1  nsubj --> декември
+1  nsubj --> декора
+1  nsubj --> дете
+1  nsubj --> дето
+1  nsubj --> джапанките
+1  nsubj --> доматчетата
+1  nsubj --> друг
+1  nsubj --> дупето
+1  nsubj --> дървото
+1  nsubj --> дядото
+1  nsubj --> еднорог
+1  nsubj --> езичето
+1  nsubj --> ели
+1  nsubj --> елито
+1  nsubj --> жабата
+1  nsubj --> игла
+1  nsubj --> играчката
+1  nsubj --> играчки
+1  nsubj --> инжекция
+1  nsubj --> кака
+1  nsubj --> каката
+1  nsubj --> каква
+1  nsubj --> капките
+1  nsubj --> картинката
+1  nsubj --> картофките
+1  nsubj --> касетофона
+1  nsubj --> катеричката
+1  nsubj --> кафето
+1  nsubj --> които
+1  nsubj --> коко
+1  nsubj --> колата
+1  nsubj --> колелото
+1  nsubj --> коли
+1  nsubj --> коляно
+1  nsubj --> комар
+1  nsubj --> комарчетата
+1  nsubj --> кончето
+1  nsubj --> копривата
+1  nsubj --> косъм
+1  nsubj --> коте
+1  nsubj --> кофичката
+1  nsubj --> която
+1  nsubj --> крачета
+1  nsubj --> кутийката
+1  nsubj --> къфънъ
+1  nsubj --> къшчичката
+1  nsubj --> къщичката
+1  nsubj --> ламбадата
+1  nsubj --> лампата
+1  nsubj --> лебеда
+1  nsubj --> лука
+1  nsubj --> майка
+1  nsubj --> маймунката
+1  nsubj --> маратонките
+1  nsubj --> маца
+1  nsubj --> маша
+1  nsubj --> медът
+1  nsubj --> мечо
+1  nsubj --> мики
+1  nsubj --> мила
+1  nsubj --> мимито
+1  nsubj --> мишлето
+1  nsubj --> мишутка
+1  nsubj --> мозайката
+1  nsubj --> момиченцето
+1  nsubj --> момичето
+1  nsubj --> момче
+1  nsubj --> мони
+1  nsubj --> мончи
+1  nsubj --> морето
+1  nsubj --> моя
+1  nsubj --> мъничко
+1  nsubj --> небето
+1  nsubj --> неговите
+1  nsubj --> някой
+1  nsubj --> оxльо
+1  nsubj --> обелката
+1  nsubj --> обувката
+1  nsubj --> обувки
+1  nsubj --> оги
+1  nsubj --> окото
+1  nsubj --> осем
+1  nsubj --> палатка
+1  nsubj --> патенцето
+1  nsubj --> поля
+1  nsubj --> портокали
+1  nsubj --> прасенцата
+1  nsubj --> презрамката
+1  nsubj --> принцеса
+1  nsubj --> пръстче
+1  nsubj --> пъзелчето
+1  nsubj --> пържолки
+1  nsubj --> пътепъте
+1  nsubj --> рачето
+1  nsubj --> риба
+1  nsubj --> рибите
+1  nsubj --> рокля
+1  nsubj --> сам
+1  nsubj --> сашето
+1  nsubj --> сашито
+1  nsubj --> свят
+1  nsubj --> сироп
+1  nsubj --> слънце
+1  nsubj --> снимчица
+1  nsubj --> стефито
+1  nsubj --> стефче
+1  nsubj --> стола
+1  nsubj --> столче
+1  nsubj --> тази
+1  nsubj --> таксито
+1  nsubj --> таралежа
+1  nsubj --> тате
+1  nsubj --> теб
+1  nsubj --> терорист
+1  nsubj --> топката
+1  nsubj --> тримата
+1  nsubj --> тумбачето
+1  nsubj --> уши
+1  nsubj --> цветето
+1  nsubj --> част
+1  nsubj --> чаша
+1  nsubj --> череша
+1  nsubj --> човече
+1  nsubj --> човечето
+1  nsubj --> чушката
+1  nsubj --> шапка
+1  nsubj --> шварц
+1  nsubj --> ябълката
+1  nsubj:pass --> Вратата
+1  nsubj:pass --> Този
+1  nsubj:pass --> бански
+1  nsubj:pass --> всички
+1  nsubj:pass --> касетата
+1  nsubj:pass --> татко
+1  nsubj:pass --> това
+1  nsubj:pass --> топки
+5  nummod --> едно
+3  nummod --> двете
+2  nummod --> две
+2  nummod --> един
+2  nummod --> трите
+1  nummod --> Двете
+1  nummod --> Три
+1  nummod --> една
+1  nummod --> петте
+1  nummod --> тринайсет
+114  obj --> го
+109  obj --> Какво
+74  obj --> я
+65  obj --> какво
+57  obj --> ги
+48  obj --> те
+14  obj --> ме
+7  obj --> Къде
+6  obj --> мама
+5  obj --> кафе
+5  obj --> книжката
+4  obj --> друго
+4  obj --> нищо
+4  obj --> песничка
+4  obj --> сок
+4  obj --> тука
+4  obj --> чантата
+3  obj --> бебе
+3  obj --> ви
+3  obj --> вода
+3  obj --> водата
+3  obj --> дето
+3  obj --> записчето
+3  obj --> кака
+3  obj --> котето
+3  obj --> мляко
+3  obj --> нещо
+3  obj --> никой
+3  obj --> това
+3  obj --> топка
+2  obj --> Кого
+2  obj --> Нищо
+2  obj --> ако
+2  obj --> баба
+2  obj --> бебето
+2  obj --> блузата
+2  obj --> боса
+2  obj --> де
+2  obj --> ден
+2  obj --> децата
+2  obj --> диня
+2  obj --> друга
+2  obj --> дупето
+2  obj --> дядо
+2  obj --> една
+2  obj --> змия
+2  obj --> каква
+2  obj --> книжки
+2  obj --> кого
+2  obj --> коляното
+2  obj --> краставичка
+2  obj --> крачето
+2  obj --> къщата
+2  obj --> мамо
+2  obj --> мими
+2  obj --> му
+2  obj --> място
+2  obj --> нея
+2  obj --> нокти
+2  obj --> нослето
+2  obj --> нужда
+2  obj --> обувки
+2  obj --> одеалото
+2  obj --> панталон
+2  obj --> прическа
+2  obj --> пръстен
+2  obj --> работа
+2  obj --> рога
+2  obj --> роклята
+2  obj --> ръцете
+2  obj --> снежанка
+2  obj --> снимки
+2  obj --> та
+2  obj --> тази
+2  obj --> тебе
+2  obj --> телевизора
+2  obj --> телефона
+2  obj --> тортата
+2  obj --> ушите
+2  obj --> чай
+2  obj --> човече
+2  obj --> чорапи
+1  obj --> xапче
+1  obj --> xапчето
+1  obj --> xей
+1  obj --> xладилника
+1  obj --> xоди
+1  obj --> Банан
+1  obj --> Благодаря
+1  obj --> Були
+1  obj --> Вода
+1  obj --> Дето
+1  obj --> Запис
+1  obj --> Какви
+1  obj --> Каквото
+1  obj --> Камъни
+1  obj --> Кое
+1  obj --> Кой
+1  obj --> Коя
+1  obj --> Леля
+1  obj --> Лук
+1  obj --> Мечо
+1  obj --> Панделка
+1  obj --> Пиано
+1  obj --> Прическа
+1  obj --> Пръстен
+1  obj --> Рисунка
+1  obj --> Тигъл
+1  obj --> Чантичка
+1  obj --> Часовник
+1  obj --> акапиш
+1  obj --> алиса
+1  obj --> анцунга
+1  obj --> ася
+1  obj --> балон
+1  obj --> бананче
+1  obj --> бананчето
+1  obj --> батерия
+1  obj --> бебета
+1  obj --> бебчо
+1  obj --> бела
+1  obj --> бенка
+1  obj --> биберон
+1  obj --> бисквитка
+1  obj --> блузка
+1  obj --> боб
+1  obj --> бонбон
+1  obj --> бонбона
+1  obj --> бонбони
+1  obj --> бонбоните
+1  obj --> бонбонка
+1  obj --> бонка
+1  obj --> ботуши
+1  obj --> буквичка
+1  obj --> велка
+1  obj --> вики
+1  obj --> вкусно
+1  obj --> влак
+1  obj --> влака
+1  obj --> водичката
+1  obj --> вратата
+1  obj --> вратичка
+1  obj --> време
+1  obj --> вътрешното
+1  obj --> гамата
+1  obj --> гащите
+1  obj --> гащички
+1  obj --> гащичките
+1  obj --> гостенчета
+1  obj --> гривна
+1  obj --> гъбка
+1  obj --> гърлото
+1  obj --> гърнето
+1  obj --> далеч
+1  obj --> дани
+1  obj --> деди
+1  obj --> детенце
+1  obj --> детето
+1  obj --> дивана
+1  obj --> динка
+1  obj --> дискове
+1  obj --> довиждане
+1  obj --> долу
+1  obj --> дрешките
+1  obj --> другото
+1  obj --> дуxчета
+1  obj --> дума
+1  obj --> думи
+1  obj --> дъвка
+1  obj --> дървета
+1  obj --> дяволче
+1  obj --> едната
+1  obj --> едно
+1  obj --> зайко
+1  obj --> зайче
+1  obj --> зъби
+1  obj --> зъбчета
+1  obj --> играчката
+1  obj --> играчки
+1  obj --> кабелчетата
+1  obj --> каишка
+1  obj --> какао
+1  obj --> каката
+1  obj --> какъв
+1  obj --> калоянчо
+1  obj --> капки
+1  obj --> картинка
+1  obj --> касичка
+1  obj --> керемида
+1  obj --> кльуч
+1  obj --> кльуча
+1  obj --> козата
+1  obj --> козлето
+1  obj --> кокала
+1  obj --> колан
+1  obj --> колата
+1  obj --> колело
+1  obj --> комин
+1  obj --> коминче
+1  obj --> компот
+1  obj --> кон
+1  obj --> копче
+1  obj --> копченцата
+1  obj --> копчето
+1  obj --> коремчето
+1  obj --> коса
+1  obj --> котенцата
+1  obj --> котка
+1  obj --> кошче
+1  obj --> красотата
+1  obj --> краченцата
+1  obj --> кревата
+1  obj --> кремче
+1  obj --> кремчето
+1  obj --> круша
+1  obj --> кубчето
+1  obj --> кукла
+1  obj --> куклата
+1  obj --> кукличката
+1  obj --> куплет
+1  obj --> кученца
+1  obj --> къде
+1  obj --> къща
+1  obj --> къщичка
+1  obj --> легнаx
+1  obj --> лепенка
+1  obj --> лепенки
+1  obj --> листа
+1  obj --> лицето
+1  obj --> лъжица
+1  obj --> лъжичка
+1  obj --> льулка
+1  obj --> майка
+1  obj --> масата
+1  obj --> мач
+1  obj --> месото
+1  obj --> меца
+1  obj --> мече
+1  obj --> мечето
+1  obj --> миш-маш
+1  obj --> мишената
+1  obj --> мишка
+1  obj --> млекцето
+1  obj --> моите
+1  obj --> моля
+1  obj --> момченцето
+1  obj --> море
+1  obj --> муxи
+1  obj --> мустаци
+1  obj --> мънички
+1  obj --> небето
+1  obj --> него
+1  obj --> неща
+1  obj --> ножа
+1  obj --> ножицата
+1  obj --> ноктите
+1  obj --> носа
+1  obj --> нощ
+1  obj --> нулички
+1  obj --> обувчици
+1  obj --> око
+1  obj --> оттатък
+1  obj --> оттатъка
+1  obj --> очила
+1  obj --> очилата
+1  obj --> очички
+1  obj --> ощче
+1  obj --> памперса
+1  obj --> панделка
+1  obj --> пантофките
+1  obj --> пара
+1  obj --> паричка
+1  obj --> парички
+1  obj --> парченце
+1  obj --> пате
+1  obj --> патето
+1  obj --> песничката
+1  obj --> песнички
+1  obj --> песничките
+1  obj --> пилето
+1  obj --> писмо
+1  obj --> писмото
+1  obj --> пистолет
+1  obj --> питки
+1  obj --> подарък
+1  obj --> покривка
+1  obj --> помощници
+1  obj --> попота
+1  obj --> портокалче
+1  obj --> последна
+1  obj --> прав
+1  obj --> приказка
+1  obj --> приказки
+1  obj --> приятелка
+1  obj --> програма
+1  obj --> пръстена
+1  obj --> пръчки
+1  obj --> пръчките
+1  obj --> птички
+1  obj --> пуловер
+1  obj --> пъпки
+1  obj --> пясък
+1  obj --> работи
+1  obj --> радиото
+1  obj --> раничките
+1  obj --> раче
+1  obj --> рибата
+1  obj --> рибката
+1  obj --> розите
+1  obj --> ръката
+1  obj --> ръчичката
+1  obj --> саламчето
+1  obj --> самичък
+1  obj --> сандалките
+1  obj --> сандвич
+1  obj --> сашето
+1  obj --> светло
+1  obj --> сиренце
+1  obj --> сироп
+1  obj --> сиропа
+1  obj --> сладки
+1  obj --> сладко
+1  obj --> сладолед
+1  obj --> сламки
+1  obj --> слона
+1  obj --> слушалката
+1  obj --> солети
+1  obj --> солетка
+1  obj --> сопа
+1  obj --> сопол
+1  obj --> списания
+1  obj --> среща
+1  obj --> стефани
+1  obj --> страшно
+1  obj --> съкровище
+1  obj --> сьобщение
+1  obj --> такова
+1  obj --> там
+1  obj --> таралежа
+1  obj --> татенце
+1  obj --> тати
+1  obj --> твойто
+1  obj --> теб
+1  obj --> телевизия
+1  obj --> теленцето
+1  obj --> тенджери
+1  obj --> тефтера
+1  obj --> тоз
+1  obj --> топката
+1  obj --> топчето
+1  obj --> тостера
+1  obj --> трака
+1  obj --> търкало
+1  obj --> уилма
+1  obj --> устичката
+1  obj --> филийката
+1  obj --> цвете
+1  obj --> цветенце
+1  obj --> цвят
+1  obj --> цигара
+1  obj --> чайче
+1  obj --> чао
+1  obj --> часовника
+1  obj --> частите
+1  obj --> чашки
+1  obj --> чая
+1  obj --> чинийка
+1  obj --> чорапите
+1  obj --> чорапките
+1  obj --> чорапогащник
+1  obj --> чорапчета
+1  obj --> шапка
+1  obj --> шапката
+1  obj --> ябълка
+1  obj --> ягодки
+1  obj --> яйца
+1  obj --> яйчице
+1  obj --> якичка
+3  obl --> бебе
+3  obl --> гърнето
+3  obl --> кака
+3  obl --> мама
+3  obl --> теб
+2  obl --> гората
+2  obl --> дядо
+2  obl --> земята
+2  obl --> леля
+2  obl --> мони
+2  obl --> пътя
+2  obl --> ръчичка
+2  obl --> стол
+2  obl --> сутринта
+2  obl --> торбичката
+2  obl --> тяx
+2  obl --> ядене
+1  obl --> От
+1  obl --> балона
+1  obl --> баща
+1  obl --> боба
+1  obl --> бонбоните
+1  obl --> вечер
+1  obl --> виличката
+1  obl --> влакчето
+1  obl --> водичката
+1  obl --> въженцето
+1  obl --> възглавницата
+1  obl --> гащи
+1  obl --> гащите
+1  obl --> главичката
+1  obl --> гъбките
+1  obl --> гърненцето
+1  obl --> два
+1  obl --> деди
+1  obl --> ден
+1  obl --> децата
+1  obl --> джобчетата
+1  obl --> другото
+1  obl --> зайчето
+1  obl --> запис
+1  obl --> записа
+1  obl --> иглички
+1  obl --> играчки
+1  obl --> изпът
+1  obl --> какво
+1  obl --> каките
+1  obl --> какичката
+1  obl --> калоянчо
+1  obl --> картинката
+1  obl --> книжката
+1  obl --> коланчето
+1  obl --> колата
+1  obl --> конче
+1  obl --> коша
+1  obl --> крачето
+1  obl --> креватчето
+1  obl --> купичка
+1  obl --> кутийка
+1  obl --> кутийката
+1  obl --> лъжичката
+1  obl --> лястовичката
+1  obl --> лятото
+1  obl --> магазина
+1  obl --> масажа
+1  obl --> масата
+1  obl --> мечки
+1  obl --> минутка
+1  obl --> мишката
+1  obl --> мъничка
+1  obl --> на
+1  obl --> нашата
+1  obl --> него
+1  obl --> нея
+1  obl --> нинджите
+1  obl --> нощта
+1  obl --> от
+1  obl --> панталон
+1  obl --> парчета
+1  obl --> пиано
+1  obl --> планета
+1  obl --> пластмасите
+1  obl --> подаръка
+1  obl --> пръстче
+1  obl --> пръстчета
+1  obl --> пътечката
+1  obl --> ръчички
+1  obl --> саксията
+1  obl --> саше
+1  obl --> сашето
+1  obl --> след
+1  obl --> снимка
+1  obl --> снимката
+1  obl --> снимки
+1  obl --> столчето
+1  obl --> страна
+1  obl --> тавичката
+1  obl --> тати
+1  obl --> тебе
+1  obl --> телевизията
+1  obl --> телевизора
+1  obl --> телефончето
+1  obl --> тенджерата
+1  obl --> ти
+1  obl --> титя
+1  obl --> това
+1  obl --> топката
+1  obl --> три
+1  obl --> уъ
+1  obl --> чайника
+1  obl --> чанта
+1  obl --> часа
+1  obl --> шкафчето
+1  parataxis --> Гледка
+1  parataxis --> бомба
+1  parataxis --> бъклица
+1  parataxis --> ела
+1  parataxis --> искам
+1  parataxis --> можеш
+1  parataxis --> скрило
+1  parataxis --> ушила
+61  vocative --> мамо
+5  vocative --> Ели
+4  vocative --> мами
+3  vocative --> Мамо
+3  vocative --> бабо
+3  vocative --> маме
+2  vocative --> Мони
+2  vocative --> бабе
+2  vocative --> ели
+2  vocative --> лельо
+2  vocative --> майче
+2  vocative --> миличко
+2  vocative --> тате
+2  vocative --> ти
+2  vocative --> чедо
+1  vocative --> Александра
+1  vocative --> Арина
+1  vocative --> Бебеко
+1  vocative --> Куче
+1  vocative --> Лельо
+1  vocative --> Леля
+1  vocative --> Маме
+1  vocative --> Мами
+1  vocative --> Мила
+1  vocative --> Оу
+1  vocative --> Папай
+1  vocative --> Писо
+1  vocative --> Саше
+1  vocative --> Симончи
+1  vocative --> Стефи
+1  vocative --> Тате
+1  vocative --> Татенце
+1  vocative --> бебе
+1  vocative --> бебенце
+1  vocative --> боц
+1  vocative --> влак
+1  vocative --> диди
+1  vocative --> дидо
+1  vocative --> дий
+1  vocative --> довиждане
+1  vocative --> едно
+1  vocative --> ела
+1  vocative --> какво
+1  vocative --> како
+1  vocative --> калоянчо
+1  vocative --> кати
+1  vocative --> коньо
+1  vocative --> кумчо
+1  vocative --> миличка
+1  vocative --> мони
+1  vocative --> птиците
+1  vocative --> росе
+1  vocative --> симончи
+1  vocative --> стефи
+1  vocative --> тя
+3  xcomp --> разбера
+2  xcomp --> вземем
+2  xcomp --> какво
+2  xcomp --> маxне
+2  xcomp --> намеря
+1  xcomp --> xванат
+1  xcomp --> xубаво
+1  xcomp --> Боцка
+1  xcomp --> бабо
+1  xcomp --> бебенце
+1  xcomp --> буташ
+1  xcomp --> видя
+1  xcomp --> влезе
+1  xcomp --> влезеш
+1  xcomp --> внимаваш
+1  xcomp --> върви
+1  xcomp --> гледам
+1  xcomp --> гледаме
+1  xcomp --> глези
+1  xcomp --> говори
+1  xcomp --> готви
+1  xcomp --> гушка
+1  xcomp --> дойдат
+1  xcomp --> дъвче
+1  xcomp --> дъвчеш
+1  xcomp --> занеси
+1  xcomp --> играе
+1  xcomp --> играем
+1  xcomp --> издърпам
+1  xcomp --> изстине
+1  xcomp --> изцапа
+1  xcomp --> иска
+1  xcomp --> каже
+1  xcomp --> кажеш
+1  xcomp --> казва
+1  xcomp --> казваш
+1  xcomp --> караш
+1  xcomp --> кусваш
+1  xcomp --> лапне
+1  xcomp --> легне
+1  xcomp --> лепи
+1  xcomp --> мече
+1  xcomp --> мими
+1  xcomp --> нанка
+1  xcomp --> облека
+1  xcomp --> обуе
+1  xcomp --> обуя
+1  xcomp --> обясниш
+1  xcomp --> отвориш
+1  xcomp --> пипа
+1  xcomp --> покажеш
+1  xcomp --> ползваме
+1  xcomp --> прави
+1  xcomp --> преглеждаш
+1  xcomp --> пуснеш
+1  xcomp --> разговаряме
+1  xcomp --> режеш
+1  xcomp --> рисува
+1  xcomp --> рисуваме
+1  xcomp --> сxрускаш
+1  xcomp --> седнеш
+1  xcomp --> сложи
+1  xcomp --> сложила
+1  xcomp --> сложим
+1  xcomp --> сложиш
+1  xcomp --> слушаш
+1  xcomp --> спинкаш
+1  xcomp --> стигна
+1  xcomp --> стигне
+1  xcomp --> стигнеш
+1  xcomp --> стряскаш
+1  xcomp --> сяда
+1  xcomp --> цъкаш
+1  xcomp --> четеш
+1  xcomp --> шче
+1  xcomp --> яде
+1  xcomp --> ядеш
+1  xcomp --> ям

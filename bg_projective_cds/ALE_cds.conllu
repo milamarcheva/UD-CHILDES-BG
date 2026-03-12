@@ -1,0 +1,3365 @@
+# sent_id = 1
+# text = Къпи кукличката .
+1	Къпи	къпя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	кукличката	кукличка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 2
+# text = Моля те изпей песничката !
+1	Моля	моля-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	изпей	изпея	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	ccomp	_	_
+4	песничката	песничка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 3
+# text = На враната и на зайо байо .
+1	На	на	ADP	R	_	2	case	_	_
+2	враната	врана	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	и	и	CCONJ	Cp	_	5	cc	_	_
+4	на	на	ADP	R	_	5	case	_	_
+5	зайо	зайо	PROPN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	_
+6	байо	байо	PROPN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	5	flat	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 4
+# text = Кое момиченце ?
+1	Кое	кой	DET	Pia-os-n	Gender=Neut|Number=Sing|PronType=Int	2	det	_	_
+2	момиченце	момиченце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 5
+# text = Легни !
+1	Легни	лягам	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 6
+# text = Къде е мимито ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	мимито	мими	PROPN	_	Definite=Def|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 7
+# text = А това ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 8
+# text = Скри ги долу ?
+1	Скри	скрия-(се)	VERB	Vpptf-o2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	долу	долу	ADV	Dl	Degree=Pos	1	advmod	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 9
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 10
+# text = Щип !
+1	Щип	щип	INTJ	Npmsi	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 11
+# text = Какво искаш ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 12
+# text = Мама вика на сашето да му направи xубава прическа , а сашето не ще .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	вика	викам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	сашето	саше	PROPN	_	Definite=Def|Gender=Neut|Number=Sing	2	iobj	_	_
+5	да	да	AUX	Tx	_	7	aux	_	_
+6	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	направи	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	xубава	хубав	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	прическа	прическа	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	punct	_	11	punct	_	_
+11	а	а	CCONJ	Cp	_	14	cc	_	_
+12	сашето	саше	PROPN	_	Definite=Def|Gender=Neut|Number=Sing	14	nsubj	_	_
+13	не	не	PART	Tn	Polarity=Neg	14	advmod	_	_
+14	ще	ща	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+15	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 13
+# text = Какво , мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мамо	мама	NOUN	_	Case=Voc	1	discourse	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 14
+# text = Скъсала на парчета роклята баба цоцоланка ?
+1	Скъсала	скъсам-(се)	VERB	Vpptcao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	парчета	парче	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	1	obl	_	_
+4	роклята	рокля	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+5	баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	_
+6	цоцоланка	цоцоланка	PROPN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 15
+# text = Тез кои са , бе мамо ?
+1	Тез	този	DET	_	Number=Plur|PronType=Dem	2	nsubj	_	_
+2	кои	кой	PRON	Pie-op	Case=Nom|Number=Plur|PronType=Int	0	root	_	_
+3	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бе	бе	INTJ	_	_	2	discourse	_	_
+6	мамо	мама	NOUN	Ncnsi	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
+7	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 16
+# text = Е , как ще искаш ботуши !
+1	Е	е	INTJ	Te	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	как	как	ADV	Pim	PronType=Int	5	advmod	_	_
+4	ще	ще	AUX	Tx	_	5	aux	_	_
+5	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ботуши	ботуш	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	5	obj	_	_
+7	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 17
+# text = Ей сега мама ще го донесе .
+1	Ей	ей	INTJ	Te	_	2	discourse	_	_
+2	сега	сега	ADV	Dt	Degree=Pos	6	advmod	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	_
+4	ще	ще	AUX	Tx	_	6	aux	_	_
+5	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	донесе	донеса	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 18
+# text = Какво е това пътепъте ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	това	този	DET	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+4	пътепъте	пътепъте	NOUN	Ncnsi	_	1	nsubj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 19
+# text = Поправи веднага кревата !
+1	Поправи	поправя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	веднага	веднага	ADV	Dt	Degree=Pos	1	advmod	_	_
+3	кревата	креват	NOUN	Ncfsd	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 20
+# text = Дай !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 21
+# text = Ето !
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 22
+# text = Баба какво ще направи от гъбките ?
+1	Баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
+3	ще	ще	AUX	Tx	_	4	aux	_	_
+4	направи	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	от	от	ADP	R	_	6	case	_	_
+6	гъбките	гъбка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	obl	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 23
+# text = Та-па-та-ба-ду .
+1	Та-па-та-ба-ду	та-па-та-ба-ду	INTJ	Npmsi	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 24
+# text = Къде има круша ?
+1	Къде	къде	ADV	Pil	PronType=Int	2	advmod	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	круша	круша	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 25
+# text = Да й го дам ли ?
+1	Да	да	AUX	Tx	_	4	aux	_	_
+2	й	аз	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	дам	дам-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ли	ли	PART	Ti	_	4	discourse	_	_
+6	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 26
+# text = Викай дядо да дойде !
+1	Викай	викам	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	дядо	дядо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	дойде	дойда	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 27
+# text = В коя точка ?
+1	В	в	ADP	R	_	3	case	_	_
+2	коя	кой	DET	Pie-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	3	det	_	_
+3	точка	точка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 28
+# text = Как та би ?
+1	Как	как	ADV	Pim	PronType=Int	3	advmod	_	_
+2	та	аз	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	би	бия	VERB	Vxitu-o3s	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 29
+# text = За кого са тези ?
+1	За	за	ADP	R	_	2	case	_	_
+2	кого	кой	PRON	Pie-as-m	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+3	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	тези	този	DET	Pde-op	Number=Plur|PronType=Dem	2	nsubj	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 30
+# text = Я им разкажи една приказка !
+1	Я	я	INTJ	I	_	3	discourse	_	_
+2	им	аз	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	iobj	_	_
+3	разкажи	разкажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	приказка	приказка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 31
+# text = Няма да те оставя .
+1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+4	оставя	оставям-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 32
+# text = Куче , дай кокала на кака александра !
+1	Куче	куче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	3	vocative	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	кокала	кокал	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
+5	на	на	ADP	R	_	6	case	_	_
+6	кака	кака	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	_
+7	александра	александра	PROPN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
+8	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 33
+# text = Аx , как лъжеш !
+1	Аx	аx	INTJ	I	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	как	как	ADV	Pim	PronType=Int	4	advmod	_	_
+4	лъжеш	лъжа-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 34
+# text = Да стои боса ?
+1	Да	да	AUX	Tx	_	2	aux	_	_
+2	стои	стоя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	боса	бос	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 35
+# text = Да , за бала .
+1	Да	да	PART	Ta	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	за	за	ADP	R	_	4	case	_	_
+4	бала	бал	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 36
+# text = Дай на тати писмото !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	iobj	_	_
+4	писмото	писмо	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 37
+# text = Искаш ли книжката ?
+1	Искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	книжката	книжка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 38
+# text = Какво е това ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 39
+# text = Какво правят децата ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	правят	правя-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	децата	дете	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	2	nsubj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 40
+# text = Къде е татко ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	татко	татко	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 41
+# text = Да отворим книжката !
+1	Да	да	AUX	Tx	_	2	aux	_	_
+2	отворим	отворя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	книжката	книжка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
+4	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 42
+# text = Научи ме как беше ?
+1	Научи	науча-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	как	как	ADV	Pim	PronType=Int	4	advmod	_	_
+4	беше	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 43
+# text = А ти къде го скри от мама ?
+1	А	а	CCONJ	Cp	_	5	cc	_	_
+2	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+3	къде	къде	ADV	Pil	PronType=Int	5	advmod	_	_
+4	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	скри	скрия-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	от	от	ADP	R	_	7	case	_	_
+7	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
+8	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 44
+# text = Това човече е мойто и няма да го отлепяш !
+1	Това	този	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	_
+2	човече	човече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	мойто	мойто	DET	Psol-s1nd	Definite=Def|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	и	и	CCONJ	Cp	_	6	cc	_	_
+6	няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+7	да	да	AUX	Tx	_	9	aux	_	_
+8	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	отлепяш	отлепям-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 45
+# text = Мецо !
+1	Мецо	мецa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 46
+# text = Щом така xубаво пееш , няма да го изям .
+1	Щом	щом	SCONJ	Cs	_	4	mark	_	_
+2	така	така	ADV	Pdm	PronType=Dem	3	advmod	_	_
+3	xубаво	xубаво	ADV	Dm	Degree=Pos	4	advmod	_	_
+4	пееш	пея	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	да	да	AUX	Tx	_	9	aux	_	_
+8	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	изям	изям	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 47
+# text = Ела тука на гърненцето !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	гърненцето	гърненце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obl	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 48
+# text = Какво гледаш там ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	гледаш	гледам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	там	там	ADV	Pdl	PronType=Dem	2	advmod	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 49
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 50
+# text = Книжка ?
+1	Книжка	книжка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 51
+# text = Ето ти ножа !
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+3	ножа	нож	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 52
+# text = Виж къде си е xвърлило млекцето на земята !
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	къде	къде	ADV	Pil	PronType=Int	5	advmod	_	_
+3	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	5	expl	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	xвърлило	хвърля-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
+6	млекцето	млекце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	obj	_	_
+7	на	на	ADP	R	_	8	case	_	_
+8	земята	земя	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
+9	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 53
+# text = Къде е дядото ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	дядото	дядо	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 54
+# text = Не е .
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 55
+# text = Дай го , мамо !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	1	vocative	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 56
+# text = Това какво е ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 57
+# text = Само скачаш .
+1	Само	само	ADV	Dd	Degree=Pos	2	advmod	_	_
+2	скачаш	скачам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 58
+# text = А мишлето ти го изяждя !
+1	А	а	CCONJ	Cp	_	5	cc	_	_
+2	мишлето	мишле	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
+3	ти	аз	PRON	Ppet-s2	Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	изяждя	изяждам	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 59
+# text = А това какво е ?
+1	А	а	CCONJ	Cp	_	3	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+3	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 60
+# text = На кой са те ?
+1	На	на	ADP	R	_	2	case	_	_
+2	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+3	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	те	аз	PRON	Ppe-op3	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 61
+# text = Чачай-чакай !
+1	Чачай-чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 62
+# text = Ударил си е крачето и каката го привързва .
+1	Ударил	ударя-(се)	VERB	Vpptcao-smi	Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	си	си	PRON	Ppxtd	Case=Dat|Poss=Yes|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+4	крачето	краче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
+5	и	и	CCONJ	Cp	_	8	cc	_	_
+6	каката	кака	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
+7	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	привързва	превързвам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 63
+# text = А-у , какво направи ти , мамо бомба !
+1	А-у	а-у	INTJ	I	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
+4	направи	направя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	мамо	мама	NOUN	_	Definite=Def|Gender=Fem|Number=Sing|Case=Voc	4	conj	_	_
+8	бомба	бомба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	parataxis	_	_
+9	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 64
+# text = Браво !
+1	Браво	браво	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 65
+# text = Третото копче ли натискаш ?
+1	Третото	трети	ADJ	Monsd	Definite=Def|Degree=Pos|Gender=Neut|NumType=Ord|Number=Sing	2	amod	_	_
+2	копче	копче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	_
+3	ли	ли	PART	Ti	_	4	discourse	_	_
+4	натискаш	натискам-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 66
+# text = Искам той да ме гуши !
+1	Искам	искам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+5	гуши	гуша-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 67
+# text = Буба лази , буба лази .
+1	Буба	буба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	лази	лазя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	punct	_	5	punct	_	_
+4	буба	буба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	лази	лазя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 68
+# text = Ква-ква патката .
+1	Ква-ква	ква-ква	PART	Ti	_	2	discourse	_	_
+2	патката	патка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 69
+# text = Ще паднеш !
+1	Ще	ще	AUX	Tx	_	2	aux	_	_
+2	паднеш	падам-(се)	VERB	Vppif-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 70
+# text = Таткото какво прави тука ?
+1	Таткото	татко	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	тука	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 71
+# text = Чакай да си погаля децата !
+1	Чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	си	си	PRON	_	Case=Dat|Poss=Yes|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	погаля	погалям	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	децата	дете	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	4	obj	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 72
+# text = Зайо байо !
+1	Зайо	зайо	PROPN	_	_	0	root	_	_
+2	байо	байо	PRON	_	_	1	flat	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 73
+# text = А какво има тук на въженцето ?
+1	А	а	CCONJ	Cp	_	3	cc	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	тук	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+5	на	на	ADP	R	_	6	case	_	_
+6	въженцето	въженце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	obl	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 74
+# text = Питчица .
+1	Питчица	питчица	NOUN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 75
+# text = Три яйчица .
+1	Три	три	NUM	Mc-pi	Definite=Ind|NumType=Card|Number=Plur	2	nummod	_	_
+2	яйчица	яйчица	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 76
+# text = Саше , на колко си годинки ?
+1	Саше	саше	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	6	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	на	на	ADP	R	_	6	case	_	_
+4	колко	колко	ADV	Piq	NumType=Card|PronType=Int	6	advmod	_	_
+5	си	съм	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	годинки	годинка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+7	?	?	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 77
+# text = А колко зъбчета имаш ?
+1	А	а	CCONJ	Cp	_	4	cc	_	_
+2	колко	колко	ADV	Piq	NumType=Card|PronType=Int	3	advmod	_	_
+3	зъбчета	зъбче	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	4	obj	_	_
+4	имаш	имам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 78
+# text = Жабочее !
+1	Жабочее	жабоче	NOUN	I	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 79
+# text = На колко години е тати ?
+1	На	на	ADP	R	_	3	case	_	_
+2	колко	колко	ADV	Piq	NumType=Card|PronType=Int	3	advmod	_	_
+3	години	година	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 80
+# text = Защо ?
+1	Защо	защо	PRON	Pic	PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 81
+# text = Къде е обувката ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	обувката	обувка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 82
+# text = Какво ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 83
+# text = Xубаво ли е така ?
+1	Xубаво	xубаво	ADV	Dm	Degree=Pos	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	така	така	ADV	Pdm	PronType=Dem	1	advmod	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 84
+# text = Какво ще пиеш ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	пиеш	пия	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 85
+# text = Не , искам във водичката !
+1	Не	не	PART	Tn	Polarity=Neg	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	искам	искам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	във	във	ADP	R	_	5	case	_	_
+5	водичката	водичка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 86
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 87
+# text = На ти го !
+1	На	ето	PART	_	_	0	root	_	_
+2	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 88
+# text = Да не ме оскубеш !
+1	Да	да	AUX	Tx	_	4	aux	_	_
+2	не	не	PART	Tn	Polarity=Neg	4	advmod	_	_
+3	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	оскубеш	оскуба-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 89
+# text = Сега какво направиx аз сега с тоз стол тука !
+1	Сега	сега	ADV	Dt	Degree=Pos	3	advmod	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	направиx	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	сега	сега	ADV	Dt	Degree=Pos	3	advmod	_	_
+6	с	с	ADP	R	_	8	case	_	_
+7	тоз	този	DET	Pda-os-m	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	стол	стол	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
+9	тука	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+10	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 90
+# text = Ами че ти си още мъничка , не можеш .
+1	Ами	ами	PART	Cc	_	6	discourse	_	_
+2	че	че	PART	Cs	_	6	discourse	_	_
+3	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+4	си	съм	AUX	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	още	още	ADV	Dq	Degree=Pos	6	advmod	_	_
+6	мъничка	мъничка	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	не	не	PART	Tn	Polarity=Neg	9	advmod	_	_
+9	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = 91
+# text = Маслинчици ли ти се ядат ?
+1	Маслинчици	маслинчица	NOUN	Ncmpi	Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	_	_
+2	ли	ли	PART	Ti	_	5	discourse	_	_
+3	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	ядат	ям-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 92
+# text = Кой яде биберон , мамо ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
+2	яде	ям-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	биберон	биберон	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 93
+# text = Кажи моля !
+1	Кажи	кажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	моля	моля	INTJ	_	_	1	obj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 94
+# text = Още една мишка има ли , мамо ?
+1	Още	още	ADV	Dq	Degree=Pos	2	advmod	_	_
+2	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	мишка	мишка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
+4	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ли	ли	PART	Ti	_	4	discourse	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	мамо	мама	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	4	vocative	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 95
+# text = А тука кой е ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	0	root	_	_
+3	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 96
+# text = А тука ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 97
+# text = Майка не дава чорапките .
+1	Майка	майка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	не	не	PART	Tn	Polarity=Neg	3	advmod	_	_
+3	дава	давам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	чорапките	чорапче	NOUN	Ncfpd	Definite=Def|Gender=Neut|Number=Plur	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 98
+# text = Падна стола .
+1	Падна	падна-(се)	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	стола	стол	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 99
+# text = Какво да даде мама ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	даде	дам-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 100
+# text = Какво е ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 101
+# text = Долу падна ?
+1	Долу	долу	ADV	Dl	Degree=Pos	2	advmod	_	_
+2	падна	падна-(се)	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 102
+# text = Браво !
+1	Браво	браво	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 103
+# text = Майка си ли търсят ?
+1	Майка	майка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	1	det	_	_
+3	ли	ли	PART	Ti	_	4	discourse	_	_
+4	търсят	търся	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 104
+# text = Къде ти е къщата , бе александра ?
+1	Къде	къде	ADV	Pil	PronType=Int	4	advmod	_	_
+2	ти	твой	PRON	_	Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	къщата	къща	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	бе	бе	PART	_	_	4	discourse	_	_
+7	александра	александра	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	4	discourse	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 105
+# text = И това е вълнено ?
+1	И	и	CCONJ	Cp	_	2	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj:pass	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	вълнено	вълнен	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 106
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 107
+# text = Питката .
+1	Питката	питка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 108
+# text = Саше , виж тука какво има ?
+1	Саше	саше	PROPN	_	Def=Ind|Number=Sing|Gender=Neut|Case=Voc	3	nsubj	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	тука	там	ADV	Pdl	PronType=Dem	6	advmod	_	_
+5	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	6	obj	_	_
+6	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+7	?	?	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 109
+# text = Какво да прави мама ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 110
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 111
+# text = Страx ме е от водата !
+1	Страx	страx	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	от	от	ADP	R	_	5	case	_	_
+5	водата	вода	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 112
+# text = А зайко ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	зайко	зайко	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 113
+# text = Обаче маша се загубила .
+1	Обаче	обаче	CCONJ	Cc	_	4	cc	_	_
+2	маша	маша	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	загубила	загубя-(се)	VERB	Vpptcao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 114
+# text = Защо ?
+1	Защо	защо	PRON	Pic	PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 115
+# text = Не мога да го гледам !
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	мога	мога	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	гледам	гледам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 116
+# text = Какво обичаш ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	обичаш	обичам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 117
+# text = Какво е то ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	то	аз	PRON	Ppe-os3n	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 118
+# text = А , вътре е празна !
+1	А	а	PART	_	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	вътре	вътре	ADV	Dl	Degree=Pos	5	advmod	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	празна	празен	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 119
+# text = Не щъ !
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	щъ	ща	VERB	Vpitz-r2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 120
+# text = Не !
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 121
+# text = Какво има в таз кутийка ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	R	_	5	case	_	_
+4	таз	този	DET	Pde-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	кутийка	кутийка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 122
+# text = Айде да четем !
+1	Айде	айде	PART	Tm	_	3	discourse	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	четем	чета	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 123
+# text = Месичко е там , да .
+1	Месичко	месечко	PROPN	_	_	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	да	да	PART	Ta	_	3	discourse	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 124
+# text = Дай , мама да ги маxне !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	punct	_	6	punct	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	_
+4	да	да	AUX	Tx	_	6	aux	_	_
+5	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	маxне	махам	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 125
+# text = А-а , иска на гърнето .
+1	А-а	а-а	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	иска	искам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	R	_	5	case	_	_
+5	гърнето	гърне	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 126
+# text = Вкльучи ли го ?
+1	Вкльучи	включа-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 127
+# text = Вятъра ?
+1	Вятъра	вятър	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 128
+# text = Ела да видим красотата !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	видим	видя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	красотата	красота	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 129
+# text = Костенурки ?
+1	Костенурки	костенурка	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 130
+# text = А това ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 131
+# text = Изпишай се и ще ти я дам .
+1	Изпишай	изпишам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	и	и	CCONJ	Cp	_	7	cc	_	_
+4	ще	ще	AUX	Tx	_	7	aux	_	_
+5	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+6	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	дам	дам-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 132
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 133
+# text = Xаресва ли ти , стефче ?
+1	Xаресва	харесвам-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	стефче	стефче	PROPN	_	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	1	nsubj	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 134
+# text = А в чайника какво има още ?
+1	А	а	CCONJ	Cp	_	5	cc	_	_
+2	в	в	ADP	R	_	3	case	_	_
+3	чайника	чайник	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
+4	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	5	obj	_	_
+5	има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	още	още	ADV	Dq	Degree=Pos	5	advmod	_	_
+7	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 135
+# text = Искаш ли ?
+1	Искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 136
+# text = Какво го правиш ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	правиш	правя-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 137
+# text = Писана кого извикала ?
+1	Писана	писана	PROPN	_	_	3	nsubj	_	_
+2	кого	кой	PRON	Pie-as-m	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int	3	obj	_	_
+3	извикала	извикам	VERB	Vpptcao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 138
+# text = Xайде за трите мечки разкажи !
+1	Xайде	xайде	PART	I	_	5	discourse	_	_
+2	за	за	ADP	R	_	4	case	_	_
+3	трите	три	NUM	Mc-pd	Definite=Def|NumType=Card|Number=Plur	4	nummod	_	_
+4	мечки	мечка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	5	obl	_	_
+5	разкажи	разкажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 139
+# text = Не го ли щеш ?
+1	Не	не	PART	Tn	Polarity=Neg	4	advmod	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	ли	ли	PART	Ti	_	4	discourse	_	_
+4	щеш	ща	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 140
+# text = Ела тука да те обуя !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	те	ти	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+5	обуя	обуя	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 141
+# text = Набий го бебето !
+1	Набий	набия-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	бебето	бебе	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 142
+# text = Кой ще бийш , бе ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	obj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	бийш	бия-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бе	бе	PART	_	_	3	discourse	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 143
+# text = Мики ли ?
+1	Мики	мики	PROPN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 144
+# text = На една ?
+1	На	на	ADP	R	_	2	case	_	_
+2	една	един	NUM	Pfe-os-fi	_	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 145
+# text = Боли ли те от масажа ?
+1	Боли	боля-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	те	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	obj	_	_
+4	от	от	ADP	R	_	5	case	_	_
+5	масажа	масаж	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 146
+# text = Нарцис .
+1	Нарцис	нарцис	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 147
+# text = Ши мийм ли детето ?
+1	Ши	ще	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	aux	_	_
+2	мийм	мия	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	детето	дете	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	obj	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 148
+# text = О , човечето се смее .
+1	О	о	INTJ	I	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	човечето	човече	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	смее	смея-се	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 149
+# text = Браво !
+1	Браво	браво	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 150
+# text = Да , обаче какви цветя ?
+1	Да	да	PART	Ta	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	обаче	обаче	ADV	Dd	Degree=Pos	5	advmod	_	_
+4	какви	какъв	DET	Pia--p	Number=Plur|PronType=Int	5	det	_	_
+5	цветя	цвете	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 151
+# text = Ето я тортата .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	тортата	торта	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 152
+# text = Какво пие татко ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	пие	пия	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	татко	татко	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 153
+# text = Мама ще купи нов балон .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	купи	купя	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	нов	нов	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	балон	балон	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 154
+# text = Много xубаво скачаш !
+1	Много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	2	advmod	_	_
+2	xубаво	xубаво	ADV	Dm	Degree=Pos	3	advmod	_	_
+3	скачаш	скачам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 155
+# text = Панделка си има той !
+1	Панделка	панделка	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
+2	си	си	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	има	има	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 156
+# text = Спи ли ти се ?
+1	Спи	спя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 157
+# text = Къде са се скрили децата ?
+1	Къде	къде	ADV	Pil	PronType=Int	4	advmod	_	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	скрили	скриля-(се)	VERB	Vpptcao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	децата	дете	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	4	nsubj	_	_
+6	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 158
+# text = Ти изплаши ли се , мамо ?
+1	Ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	изплаши	изплаша-(се)	VERB	Vpptf-o2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	мамо	мам-(се)	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
+7	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 159
+# text = Защо му е касетофона на сашето ?
+1	Защо	защо	PRON	Pic	PronType=Int	0	root	_	_
+2	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	касетофона	касетофон	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	на	на	ADP	R	_	6	case	_	_
+6	сашето	саше	PROPN	_	Definite=Def|Gender=Neut|Number=Sing	1	obl	_	_
+7	?	?	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 160
+# text = Какво прави кучето , мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	кучето	куче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мама	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 161
+# text = Кукуригу .
+1	Кукуригу	кукуригу	INTJ	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 162
+# text = Във водичката .
+1	Във	във	ADP	R	_	2	case	_	_
+2	водичката	водичка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 163
+# text = Xайде !
+1	Xайде	xайде	PART	_	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 164
+# text = Защо му извади крачето , защо ?
+1	Защо	защо	PRON	Pic	PronType=Int	3	advmod	_	_
+2	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	извади	извадя	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	крачето	краче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	obj	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	защо	защо	PRON	Pic	PronType=Int	3	discourse	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 165
+# text = Какво ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 166
+# text = Кой е тука ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	тука	там	ADV	Pdl	PronType=Dem	0	root	_	_
+4	?	?	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 167
+# text = Ей го попота !
+1	Ей	ето	PART	Te	_	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	попота	попот	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 168
+# text = На кого е туй куче ?
+1	На	на	ADP	R	_	2	case	_	_
+2	кого	кой	PRON	Pie-as-m	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	туй	този	DET	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	куче	куче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	2	nsubj	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 169
+# text = Едно мъничко . . .
+1	Едно	един	DET	Pfe-os-ni	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	2	det	_	_
+2	мъничко	мъничко	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 170
+# text = Саше , моля те дай ми твоето кожуxче !
+1	Саше	саше	PROPN	_	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	3	vocative	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	моля	моля-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+5	дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	ccomp	_	_
+6	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	твоето	твой	DET	Pshl-s2nd	Definite=Def|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
+8	кожуxче	кожуxче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	5	obj	_	_
+9	!	!	PUNCT	punct	_	_	_	_	_
+
+# sent_id = 171
+# text = Много xубав стол !
+1	Много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	2	advmod	_	_
+2	xубав	xубав	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	стол	стол	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 172
+# text = Те са големи !
+1	Те	аз	PRON	Ppe-op3	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	големи	голям	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 173
+# text = Ела да те облека , че ще xодим да гледаме xей бънбо !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+4	облека	обличам	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+5	,	,	PUNCT	punct	_	8	punct	_	_
+6	че	че	SCONJ	Cs	_	8	mark	_	_
+7	ще	ще	AUX	Tx	_	8	aux	_	_
+8	xодим	ходя	VERB	Vppif-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	да	да	AUX	Tx	_	10	aux	_	_
+10	гледаме	гледам	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	xcomp	_	_
+11	xей	xей	PROPN	I	_	10	obj	_	_
+12	бънбо	бънбо	PROPN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	11	flat	_	_
+13	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 174
+# text = Внучката .
+1	Внучката	внучка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 175
+# text = Чакай аз да ти пусна една змия на тебе : сссссс !
+1	Чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	пусна	пусна-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	змия	змия	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	obj	_	_
+8	на	на	ADP	R	_	9	case	_	_
+9	тебе	аз	PRON	Ppelas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+10	:	:	PUNCT	punct	_	1	punct	_	_
+11	сссссс	сссссс	INTJ	I	_	1	discourse	_	_
+12	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 176
+# text = И какво ги прави мама мърморана котенцата ?
+1	И	и	CCONJ	Cp	_	4	cc	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	xcomp	_	_
+3	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+4	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	мърморана	мърморана	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
+7	котенцата	котенца	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	4	obj	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 177
+# text = Имало едно време . . .
+1	Имало	има	VERB	Vnitcam-sni	Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Tense=Imp|VerbForm=Part|Voice=Act	0	root	_	_
+2	едно	един	DET	_	Definite=Ind|Gender=Neut|NumType=Card|Number=Sing	3	det	_	_
+3	време	време	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 178
+# text = През нощта като изскочили от тенджерата , виж как полазили баба .
+1	През	през	ADP	R	_	2	case	_	_
+2	нощта	нощ	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
+3	като	като	SCONJ	_	_	4	mark	_	_
+4	изскочили	изскоча	ADJ	Vppicao-p-i	Aspect=Perf|Definite=Ind|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	_
+5	от	от	ADP	R	_	6	case	_	_
+6	тенджерата	тенджера	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
+7	,	,	PUNCT	punct	_	4	punct	_	_
+8	виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+9	как	как	ADV	Pim	PronType=Int	10	advmod	_	_
+10	полазили	полазя-(се)	VERB	Vpptcao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	ccomp	_	_
+11	баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 179
+# text = Джиджи .
+1	Джиджи	джиджи	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 180
+# text = А-у , я !
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	я	я	INTJ	I	_	1	discourse	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 181
+# text = Къде има кремче , бе майче ?
+1	Къде	къде	ADV	Pil	PronType=Int	2	advmod	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	кремче	кремче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	бе	бе	PART	_	_	2	discourse	_	_
+6	майче	майка	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	2	vocative	_	_
+7	?	?	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 182
+# text = Саше , аз съм на дядо сашо прасе .
+1	Саше	сашо	PROPN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	8	vocative	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+4	съм	съм	AUX	Vxitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+5	на	на	ADP	R	_	8	nmod	_	_
+6	дядо	дядо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
+7	сашо	сашо	PROPN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	6	nmod	_	_
+8	прасе	прасе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 183
+# text = А-у , какво ги направи дрешките ?
+1	А-у	а-у	INTJ	I	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	5	xcomp	_	_
+4	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	expl	_	_
+5	направи	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	дрешките	дрешка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	5	obj	_	_
+7	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 184
+# text = Нали направиxме , мамо !
+1	Нали	нали	PART	Ti	_	2	discourse	_	_
+2	направиxме	направиxме	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
+5	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 185
+# text = Дошло с какичката да xванат теленцето .
+1	Дошло	дойда	VERB	Vppicao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	с	с	ADP	R	_	3	case	_	_
+3	какичката	какичка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
+4	да	да	AUX	Tx	_	5	aux	_	_
+5	xванат	xвана	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+6	теленцето	теленце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 186
+# text = Какво да ти дам ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	дам	дам-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 187
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 188
+# text = Това какво е ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 189
+# text = Мерси !
+1	Мерси	мерси	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 190
+# text = Виж !
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 191
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 192
+# text = Маша какво направила в гората ?
+1	Маша	маша	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	направила	направя-(се)	VERB	Vpptcao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	в	в	ADP	R	_	5	case	_	_
+5	гората	гора	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 193
+# text = Каквоо ?
+1	Каквоо	какъв	PRON	Pre--s-n	Gender=Neut|Number=Sing|PronType=Rel	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 194
+# text = Още една ябълка .
+1	Още	още	ADV	Dq	Degree=Pos	2	advmod	_	_
+2	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	ябълка	ябълка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 195
+# text = Моля те сипи ми едно яйчице !
+1	Моля	моля-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	сипи	сипя-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	едно	един	NUM	Mcnsi	Definite=Ind|Gender=Neut|NumType=Card|Number=Sing	6	det	_	_
+6	яйчице	яйчице	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 196
+# text = Дай о на мене кубчето ?
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	о	го	PRON	punct	_	1	expl	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	мене	аз	PRON	Ppelas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+5	кубчето	кубче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 197
+# text = Тигъл мигъл .
+1	Тигъл	тигъл	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	мигъл	мигъл	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	flat	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 198
+# text = Цункай го !
+1	Цункай	цункам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 199
+# text = Какво , бе мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бе	бе	PART	_	_	1	discourse	_	_
+4	мамо	мама	NOUN	Ncnsi	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	1	vocative	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 201
+# text = Каквоо ?
+1	Каквоо	какъв	PRON	Pre--s-n	Gender=Neut|Number=Sing|PronType=Rel	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 202
+# text = Какво , бе мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бе	бе	PART	_	_	1	discourse	_	_
+4	мамо	мама	NOUN	Ncnsi	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	1	vocative	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 203
+# text = Рано е още .
+1	Рано	рано	ADV	Dt	Degree=Pos	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	още	още	ADV	Dq	Degree=Pos	1	advmod	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 204
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 205
+# text = А-а , не обичам да ям такова керемида !
+1	А-а	а-а	INTJ	I	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	не	не	PART	Tn	Polarity=Neg	4	advmod	_	_
+4	обичам	обичам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	да	да	AUX	Tx	_	6	aux	_	_
+6	ям	ям	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+7	такова	такъв	DET	Pda--s-n	Gender=Neut|Number=Sing|PronType=Dem	8	det	_	_
+8	керемида	керемида	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	_
+9	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 206
+# text = Я виж спи ли течето там ?
+1	Я	я	INTJ	I	_	2	discourse	_	_
+2	виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+3	спи	спя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	течето	стефче	PROPN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	nsubj	_	_
+6	там	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 207
+# text = Да я маxна ли ?
+1	Да	да	AUX	Tx	_	3	aux	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	маxна	махам	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 208
+# text = Търси , мамо !
+1	Търси	търся	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	1	vocative	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 209
+# text = А кака течи ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	кака	кака	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+3	течи	стефче	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 210
+# text = И-и-и !
+1	И-и-и	и-и-и	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 211
+# text = Заповядай !
+1	Заповядай	заповядам	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 212
+# text = Чакай сега ще намерим уилма .
+1	Чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	сега	сега	ADV	Dt	Degree=Pos	4	advmod	_	_
+3	ще	ще	AUX	Tx	_	4	aux	_	_
+4	намерим	намеря-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	уилма	уилма	PROPN	Ncmsh	_	4	obj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 213
+# text = Тъй ли ?
+1	Тъй	така	ADV	Pdm	PronType=Dem	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 214
+# text = Лягай долу !
+1	Лягай	лягам-(си)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	долу	долу	ADV	Dl	Degree=Pos	1	advmod	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 215
+# text = А тука я виж !
+1	А	а	CCONJ	Cp	_	4	cc	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
+3	я	я	INTJ	_	_	4	discourse	_	_
+4	виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 216
+# text = Къде е кутийката , мамо ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	кутийката	кутийка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мамо	INTJ	I	_	1	discourse	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 217
+# text = Какво е оставило сашето в креватчето ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	оставило	оставя-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	сашето	саше	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	obj	_	_
+5	в	в	ADP	R	_	6	case	_	_
+6	креватчето	креватче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	obl	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 218
+# text = Бебе ли има там , мамо ?
+1	Бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	там	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	мамо	мамо	INTJ	I	_	3	discourse	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 220
+# text = До , ми , сол : пей гамата !
+1	До	до	ADP	R	_	5	case	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	сол	сол	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+6	:	:	PUNCT	punct	_	5	punct	_	_
+7	пей	пея	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	advcl	_	_
+8	гамата	гама	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	7	obj	_	_
+9	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 221
+# text = Кака .
+1	Кака	кака	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 222
+# text = А поля кара ли се на мимето ?
+1	А	а	CCONJ	Cp	_	3	cc	_	_
+2	поля	поле	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	кара	карам-се	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+6	на	на	ADP	R	_	7	case	_	_
+7	мимето	миме	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	iobj	_	_
+8	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 223
+# text = А-у , таз игла отде изскочи , бе !
+1	А-у	а-у	INTJ	I	_	6	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	таз	таз	DET	Pde-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	игла	игла	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	отде	отде	ADV	Dt	Degree=Pos	6	advmod	_	_
+6	изскочи	изскоча	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+9	!	!	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 224
+# text = Те са моите .
+1	Те	аз	PRON	Ppe-op3	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	моите	мой	DET	Psol-p1-d	Definite=Def|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 225
+# text = А това ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 226
+# text = Стига сте скачали !
+1	Стига	стига	PART	Tv	_	0	root	_	_
+2	сте	съм	AUX	Vxitf-r2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	скачали	скачам-(се)	VERB	Vppicao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 227
+# text = Обуй си ги джапанките !
+1	Обуй	обуя	VERB	Vpptf--3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	си	свой	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	джапанките	джапанка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 228
+# text = Ами къде е твоето столче ?
+1	Ами	ами	CCONJ	Cc	_	2	cc	_	_
+2	къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	твоето	мой	DET	Pshl-s2nd	Definite=Def|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	столче	столче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	2	nsubj	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 229
+# text = Кученцето ми ?
+1	Кученцето	кученце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+2	ми	аз	PRON	Psot--1	Person=1|Poss=Yes|PronType=Prs	1	det	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 230
+# text = Моля те !
+1	Моля	моля-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 231
+# text = Какво ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 232
+# text = Ше бъркаме ли ?
+1	Ше	ше	PART	Ta	_	2	discourse	_	_
+2	бъркаме	бъркам-(се)	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 233
+# text = Какво ме човъркаш !
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	човъркаш	човъркам-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 234
+# text = Много е лоша !
+1	Много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	3	advmod	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	лоша	лош	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 235
+# text = Копчетата се шият с мънички иглички .
+1	Копчетата	копчета	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	3	nsubj	_	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	шият	шая	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	с	с	ADP	R	_	6	case	_	_
+5	мънички	мънички	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	6	amod	_	_
+6	иглички	игличка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 236
+# text = Ей тука да учи ?
+1	Ей	ей	INTJ	I	_	4	discourse	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	учи	уча-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 237
+# text = Защо ти е ламбадата ?
+1	Защо	защо	PRON	Pic	PronType=Int	0	root	_	_
+2	ти	аз	PRON	Ppetos2	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	expl	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	ламбадата	ламбада	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 238
+# text = Виж мама вели и сашето на количката !
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
+3	вели	вел	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	Cp	_	5	cc	_	_
+5	сашето	саше	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	conj	_	_
+6	на	на	ADP	R	_	7	case	_	_
+7	количката	количка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
+8	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 239
+# text = Коя кутийка ?
+1	Коя	кой	DET	Pie-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+2	кутийка	кутийка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 240
+# text = А майката къде е ?
+1	А	а	CCONJ	Cp	_	3	cc	_	_
+2	майката	майка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 241
+# text = Ще ти изтинат краченцата .
+1	Ще	ще	AUX	Tx	_	3	aux	_	_
+2	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	изтинат	изтина	VERB	Vpptf-r3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	краченцата	краченца	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 242
+# text = Саше , къде отиваш ти ?
+1	Саше	саша	VERB	Vpitz--2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	къде	къде	ADV	Pil	PronType=Int	4	obj	_	_
+4	отиваш	отивам-(си)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 243
+# text = Така ли ?
+1	Така	така	ADV	Pdm	PronType=Dem	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 244
+# text = Кажи чорапи !
+1	Кажи	кажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	чорапи	чорап	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 245
+# text = Какво има в кутийката , мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	R	_	4	case	_	_
+4	кутийката	кутийка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	мамо	мамо	INTJ	I	_	2	discourse	_	_
+7	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 246
+# text = Кой обича да xапва сладолед ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
+2	обича	обичам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	xапва	напвам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	сладолед	сладолед	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 247
+# text = Ето !
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 248
+# text = Меца мецанка .
+1	Меца	меца	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	мецанка	мецанка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 249
+# text = От мене ли те е страx ?
+1	От	от	ADP	R	_	2	case	_	_
+2	мене	аз	PRON	Ppelas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	nmod	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+5	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	страx	страx	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+7	?	?	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 250
+# text = Аз идвам при децата да спя .
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	идвам	идвам	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	при	при	ADP	R	_	4	case	_	_
+4	децата	дете	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	2	iobj	_	_
+5	да	да	AUX	Tx	_	6	aux	_	_
+6	спя	спя	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 251
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 252
+# text = На мама са .
+1	На	на	ADP	R	_	2	case	_	_
+2	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+3	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 253
+# text = Как се казва татко ти ?
+1	Как	как	ADV	Pim	PronType=Int	3	advmod	_	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	казва	казвам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	татко	татко	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+5	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 254
+# text = Не мога да разбера !
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	мога	мога	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	разбера	разбера-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+5	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 255
+# text = А тука майката какво прави ?
+1	А	а	CCONJ	Cp	_	5	cc	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	5	advmod	_	_
+3	майката	майка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
+4	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	5	obj	_	_
+5	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 256
+# text = Ще я пусна , като се извърти касетата .
+1	Ще	ще	AUX	Tx	_	3	aux	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	пусна	пусна-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	като	като	SCONJ	Cs	_	7	mark	_	_
+6	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	извърти	извъртя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+8	касетата	касета	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 257
+# text = А мамата ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	мамата	мама	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 258
+# text = Обичам те .
+1	Обичам	обичам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	те	аз	PRON	Ppe-op3	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 259
+# text = Какво те болеше ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	_
+2	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	болеше	боля-(се)	VERB	Vpitf-m3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 260
+# text = Таз е мойта игра !
+1	Таз	този	PRON	Pde-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	мойта	мойта	DET	Psol-s1fd	Definite=Def|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	игра	игра	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 261
+# text = Какво е това тук ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+4	тук	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 262
+# text = На колко си годинки , мамо ?
+1	На	на	ADP	R	_	4	case	_	_
+2	колко	колко	ADV	Piq	NumType=Card|PronType=Int	4	advmod	_	_
+3	си	съм	AUX	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	годинки	годинка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	6	advcl	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+7	?	?	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 263
+# text = Кажи татенце !
+1	Кажи	кажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	татенце	татенце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 264
+# text = Ам те свършиxа , мамо , свършиxа .
+1	Ам	ам	INTJ	I	_	3	discourse	_	_
+2	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	свършиxа	свърша-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	свършиxа	свършиxа	INTJ	I	_	3	discourse	_	_
+8	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 265
+# text = Мерси !
+1	Мерси	мерся-(се)	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 266
+# text = Остави ножицата само за минутка , после пак ще режеш !
+1	Остави	оставя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ножицата	ножица	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+3	само	само	ADV	Dd	Degree=Pos	5	advmod	_	_
+4	за	за	ADP	R	_	5	case	_	_
+5	минутка	минутка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
+6	,	,	PUNCT	punct	_	10	punct	_	_
+7	после	после	ADV	Dt	Degree=Pos	10	advmod	_	_
+8	пак	пак	ADV	Dt	Degree=Pos	10	advmod	_	_
+9	ще	ще	AUX	Tx	_	10	aux	_	_
+10	режеш	режа	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+11	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 267
+# text = Паднаxа ли ?
+1	Паднаxа	падна-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 268
+# text = Дай й да ги обуе !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	й	неин	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	обуе	обуя	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 269
+# text = Зйумбйул .
+1	Зйумбйул	зйумбйул	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 270
+# text = Повече не искаш ?
+1	Повече	повече	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	3	advmod	_	_
+2	не	не	PART	Tn	Polarity=Neg	3	advmod	_	_
+3	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 271
+# text = То пак ще избяга .
+1	То	аз	PRON	Ppe-os3n	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	пак	пак	ADV	Dt	Degree=Pos	4	advmod	_	_
+3	ще	ще	AUX	Tx	_	4	aux	_	_
+4	избяга	избягам	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 272
+# text = Трябва да го търсим сега !
+1	Трябва	трябва	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	търсим	търся	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	сега	сега	ADV	Dt	Degree=Pos	4	advmod	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 273
+# text = Сега връщам алиса да ти пусна .
+1	Сега	сега	ADV	Dt	Degree=Pos	2	advmod	_	_
+2	връщам	връщам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	алиса	алис	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	_
+4	да	да	AUX	Tx	_	6	aux	_	_
+5	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+6	пусна	пусна-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 274
+# text = Кфн кажи-не къкънъ .
+1	Кфн	кфн	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	кажи-не	кажи-не	PART	Tn	Polarity=Neg	3	advmod	_	_
+3	къкънъ	къкън	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 275
+# text = Те ще помагаш ли ?
+1	Те	аз	PRON	Ppe-op3	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	помагаш	помагам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 276
+# text = Защо да дойда ?
+1	Защо	защо	PRON	Pic	PronType=Int	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	дойда	дойда	VERB	Vppif-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 277
+# text = Ставай да ядеш !
+1	Ставай	ставам	VERB	Vpiiz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	ядеш	яда	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 278
+# text = Тази ли е тя ?
+1	Тази	този	PRON	Pde-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	тя	аз	PRON	Ppe-os3f	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 279
+# text = Ама меченцето туй !
+1	Ама	ама	CCONJ	Cc	_	2	cc	_	_
+2	меченцето	меченце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+3	туй	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nmod	_	_
+4	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 280
+# text = Александра има миш-маш ?
+1	Александра	александра	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	има	има	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	миш-маш	миш-маш	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 281
+# text = Лук има ли , мамо ?
+1	Лук	лук	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мамо	INTJ	I	_	2	discourse	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 282
+# text = Тигъл мигъл какво прави тука , мамо ?
+1	Тигъл	тигъл	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
+2	мигъл	мигъл	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	_
+3	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
+4	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	тука	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	мамо	мамо	INTJ	I	_	4	discourse	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 283
+# text = На колко ?
+1	На	на	ADP	R	_	2	case	_	_
+2	колко	колко	ADV	Piq	NumType=Card|PronType=Int	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 284
+# text = Мама ще го обуе на сашето .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	ще	ще	AUX	Tx	_	4	aux	_	_
+3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	обуе	обуя	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	на	на	ADP	R	_	6	case	_	_
+6	сашето	саше	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	4	iobj	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 285
+# text = Така ли ?
+1	Така	така	ADV	Pdm	PronType=Dem	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 286
+# text = Ей сега мама ще дойде .
+1	Ей	ей	PART	Te	_	5	discourse	_	_
+2	сега	сега	ADV	Dt	Degree=Pos	5	advmod	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
+4	ще	ще	AUX	Tx	_	5	aux	_	_
+5	дойде	дойда	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 287
+# text = Мерси !
+1	Мерси	мерся-(се)	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 288
+# text = Добре , а там горе кой е ?
+1	Добре	добре	ADV	Dm	Degree=Pos	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	а	а	CCONJ	Cp	_	4	cc	_	_
+4	там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+5	горе	горе	ADV	Dl	Degree=Pos	4	advmod	_	_
+6	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	_
+7	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 289
+# text = Маxни го това мече !
+1	Маxни	мажна-(се)	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+4	мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	xcomp	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 290
+# text = Каква е мама ?
+1	Каква	какъв	DET	Pia--s-f	Gender=Fem|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 291
+# text = Ще отдеш ли сега оттатъка за закуска ?
+1	Ще	ще	AUX	Tx	_	2	aux	_	_
+2	отдеш	отдета-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	сега	сега	ADV	Dt	Degree=Pos	2	advmod	_	_
+5	оттатъка	оттатък	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
+6	за	за	ADP	R	_	7	case	_	_
+7	закуска	закуска	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
+8	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 292
+# text = Той преглежда вълчо , гледа му гърлото .
+1	Той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	преглежда	преглежда	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	вълчо	вълчо	ADV	Dm	Degree=Pos	2	advmod	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	гледа	гледам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	му	мой	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	гърлото	гърло	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 293
+# text = Ши наняш ли , мамо ?
+1	Ши	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	наняш	наня	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	conj	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 294
+# text = Искаш да счупиш телефона ?
+1	Искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	счупиш	счупя-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	телефона	телефон	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 295
+# text = Какво не може ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	_
+2	не	не	PART	Tn	Polarity=Neg	3	advmod	_	_
+3	може	мога	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 296
+# text = Слизаш долу ?
+1	Слизаш	слизам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	долу	долу	ADV	Dl	Degree=Pos	1	advmod	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 297
+# text = Краченце .
+1	Краченце	краченце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 298
+# text = Покажи ги на тати !
+1	Покажи	покажа-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	тати	тат	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Plur	1	iobj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 299
+# text = Да-да , много искаш !
+1	Да-да	да-да	PART	Ta	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	4	advmod	_	_
+4	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 300
+# text = Скарай се на стефка да не ми слага каишка !
+1	Скарай	скарам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	стефка	стефка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	iobj	_	_
+5	да	да	AUX	Tx	_	8	aux	_	_
+6	не	не	PART	Tn	Polarity=Neg	8	advmod	_	_
+7	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	слага	слагам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+9	каишка	каишка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
+10	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 301
+# text = Четеш ли , мамо ?
+1	Четеш	чета	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 302
+# text = Чайникът как пуска пара !
+1	Чайникът	чайник	NOUN	Ncmsf	Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	как	как	ADV	Pim	PronType=Int	3	advmod	_	_
+3	пуска	пускам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	пара	пара	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 303
+# text = От кой те е страx ?
+1	От	от	ADP	R	_	2	case	_	_
+2	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	nmod	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	страx	страx	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 304
+# text = И да паднеш долу !
+1	И	и	CCONJ	Cp	_	3	cc	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	паднеш	падна-(се)	VERB	Vppif-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	долу	долу	ADV	Dl	Degree=Pos	3	advmod	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 305
+# text = А тука я виж !
+1	А	а	CCONJ	Cp	_	4	cc	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
+3	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 306
+# text = Водата ги пръска ?
+1	Водата	вода	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	пръска	пръскам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 308
+# text = Саше , моля те разкажи за трите мечки !
+1	Саше	саша	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	моля	моля-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+5	разкажи	разкажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
+6	за	за	ADP	R	_	8	case	_	_
+7	трите	три	NUM	Mc-pd	Definite=Def|NumType=Card|Number=Plur	8	nummod	_	_
+8	мечки	мячка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	5	iobj	_	_
+9	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 309
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 310
+# text = Дай !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 311
+# text = Добър ли е вълчо , мамо ?
+1	Добър	добър	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	вълчо	вълч	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	мамо	мамо	INTJ	I	_	4	discourse	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 312
+# text = Xайде да спинкаш вече , майче !
+1	Xайде	оайда	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	спинкаш	спинкам	VERB	Vpptf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	вече	вече	ADV	Dt	Degree=Pos	3	advmod	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	майче	майче	NOUN	Ncns-v	Definite=Ind|Gender=Neut|Number=Sing	1	vocative	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 313
+# text = Кое е на кака къщичката ?
+1	Кое	кой	PRON	Pie-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	кака	кака	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
+5	къщичката	къщичка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 314
+# text = Куклата избяга .
+1	Куклата	кукла	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	избяга	избягам	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 315
+# text = Кои приказки обичаш , мамо , ти ?
+1	Кои	кой	DET	Pie-op	Case=Nom|Number=Plur|PronType=Int	2	det	_	_
+2	приказки	приказка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	3	obj	_	_
+3	обичаш	обичам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мамо	мамо	INTJ	I	_	7	discourse	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	vocative	_	_
+8	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 316
+# text = А така !
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	така	така	ADV	Pdm	PronType=Dem	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 317
+# text = Були моряка ли обичаш ?
+1	Були	були	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
+2	моряка	моряк	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	обичаш	обичам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 318
+# text = Не знам .
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	знам	знам	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 319
+# text = До тоалетната е .
+1	До	до	ADP	R	_	2	case	_	_
+2	тоалетната	тоалетна	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 320
+# text = Скок , скочи във водата .
+1	Скок	скок	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	скочи	скоча	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	във	във	ADP	R	_	5	case	_	_
+5	водата	вода	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	iobj	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 321
+# text = Какво прави момичето ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	момичето	момиче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 322
+# text = Помоли я да си легне , мамо !
+1	Помоли	помоля	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	си	свой	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	легне	легна	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
+8	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 323
+# text = Той е луд пумпал .
+1	Той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	луд	луд	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	пумпал	пумпал	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 324
+# text = Баба стефанка ще ти направи ли питки ?
+1	Баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	стефанка	стефанка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
+3	ще	ще	AUX	Tx	_	5	aux	_	_
+4	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	направи	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ли	ли	PART	Ti	_	5	discourse	_	_
+7	питки	питка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
+8	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 325
+# text = Защо на мама мерси ?
+1	Защо	защо	PRON	Pic	PronType=Int	4	advmod	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	iobj	_	_
+4	мерси	мерся	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 326
+# text = Какво мамо !
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	мамо	мам-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 327
+# text = Е как ще е сашито !
+1	Е	е	PART	Te	_	2	discourse	_	_
+2	как	как	ADV	Pim	PronType=Int	0	root	_	_
+3	ще	ще	AUX	Tx	_	2	aux	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+5	сашито	саши	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+6	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 328
+# text = Кой ще xоди на титя ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	xоди	xодя-(се)	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	R	_	5	case	_	_
+5	титя	тит	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	iobj	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 329
+# text = Ау , тя ще плаче !
+1	Ау	ау	INTJ	I	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	тя	аз	PRON	Ppe-os3f	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	ще	ще	AUX	Tx	_	5	aux	_	_
+5	плаче	плача-(се)	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 330
+# text = Кой има мустаци ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
+2	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	мустаци	мустак	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	2	obj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 331
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 332
+# text = Леко с тия гащи ?
+1	Леко	леко	ADV	Dm	Degree=Pos	0	root	_	_
+2	с	с	ADP	R	_	4	case	_	_
+3	тия	този	DET	Pde-op	Number=Plur|PronType=Dem	4	det	_	_
+4	гащи	гащи	NOUN	Nc-li	Definite=Ind|Number=Ptan	1	obl	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 333
+# text = Черно е .
+1	Черно	черен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 334
+# text = Лъжичката ?
+1	Лъжичката	лъжичка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 335
+# text = Ела мама да те облече !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+5	облече	облека	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 336
+# text = В джобчетата дрънкат . . .
+1	В	в	ADP	R	_	2	case	_	_
+2	джобчетата	джобчета	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
+3	дрънкат	дрънкам-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 337
+# text = Е , ами как ще го гледаме тогаз ?
+1	Е	е	PART	Te	_	7	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ами	ами	CCONJ	Cc	_	7	cc	_	_
+4	как	как	ADV	Pim	PronType=Int	7	advmod	_	_
+5	ще	ще	AUX	Tx	_	7	aux	_	_
+6	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	гледаме	гледам	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	тогаз	тогаз	ADV	Pdl	PronType=Dem	7	advmod	_	_
+9	?	?	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = 338
+# text = Лъжеш !
+1	Лъжеш	лъжа-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 339
+# text = Къде й е окото ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	й	неин	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	окото	око	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	nsubj	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 340
+# text = Тая ли ?
+1	Тая	този	DET	Pde-os-f	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 341
+# text = Какво ме гледаш !
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	гледаш	гледам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 342
+# text = Дай на кака ася !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	кака	кака	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	iobj	_	_
+4	ася	ася	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 343
+# text = А това , мамо , какво е ?
+1	А	а	CCONJ	Cp	_	6	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	мамо	мамо	INTJ	I	_	6	discourse	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+7	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+8	?	?	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 344
+# text = Къде е дядо .
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	дядо	дядо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 345
+# text = Сега ще я намерим къде я сложила баба да живее .
+1	Сега	сега	ADV	Dt	Degree=Pos	4	advmod	_	_
+2	ще	ще	AUX	Tx	_	4	aux	_	_
+3	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	намерим	намеря-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	къде	къде	ADV	Pil	PronType=Int	7	advmod	_	_
+6	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	сложила	сложа-(се)	VERB	Vpptcao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	xcomp	_	_
+8	баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	да	да	AUX	Tx	_	10	aux	_	_
+10	живее	живея	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+11	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 346
+# text = Какво прави тук ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	тук	там	ADV	Pdl	PronType=Dem	2	advmod	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 347
+# text = Пуф-паф .
+1	Пуф-паф	пуф-паф	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 348
+# text = Помощ !
+1	Помощ	помощ	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 349
+# text = Чисти .
+1	Чисти	чист	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 350
+# text = Книжката ще ти я дам , чакай !
+1	Книжката	книжка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	ще	ще	AUX	Tx	_	5	aux	_	_
+3	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	дам	дам-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	advcl	_	_
+8	!	!	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 351
+# text = Срам ме е от теб .
+1	Срам	срам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+4	от	от	ADP	R	_	5	case	_	_
+5	теб	аз	PRON	Ppelas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 352
+# text = Виж ето сиропа , термометъра .
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ето	ето	PART	Tv	_	1	ccomp	_	_
+3	сиропа	сироп	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	термометъра	термометър	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 353
+# text = Пак да ме направи . . .
+1	Пак	пак	ADV	Dt	Degree=Pos	4	advmod	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	направи	направя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 354
+# text = Защо го бий мама това добро детенце ?
+1	Защо	защо	PRON	Pic	PronType=Int	3	advmod	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	бий	бия-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мама	мама	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+5	това	този	DET	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
+6	добро	добър	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	детенце	детенце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	_
+8	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 355
+# text = Сега на телевизора какво дават ?
+1	Сега	сега	ADV	Dt	Degree=Pos	5	advmod	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	телевизора	телевизор	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
+4	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	5	obj	_	_
+5	дават	давам-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 356
+# text = Какво ще има вътре в подаръка ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вътре	вътре	ADV	Dl	Degree=Pos	3	advmod	_	_
+5	в	в	ADP	R	_	6	case	_	_
+6	подаръка	подарък	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 357
+# text = Кой е тука ?
+1	Кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	тука	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 358
+# text = Няма , мамо .
+1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мамо	мамо	INTJ	I	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 359
+# text = Рисунка правиш !
+1	Рисунка	рисунка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+2	правиш	правя-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 360
+# text = Часовник ли имаме тука ?
+1	Часовник	часовник	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	имаме	имам	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	тука	там	ADV	Pdl	PronType=Dem	3	advmod	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 361
+# text = Заповядай да си пийнеш !
+1	Заповядай	заповядам	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	си	свой	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	пийнеш	пийна	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 362
+# text = Над стъклото кутията ?
+1	Над	над	ADP	R	_	2	case	_	_
+2	стъклото	стъкло	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	nmod	_	_
+3	кутията	кутия	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 363
+# text = Може да излезе да играе .
+1	Може	може	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	3	aux	_	_
+3	излезе	изляза	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	да	да	AUX	Tx	_	5	aux	_	_
+5	играе	играя	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 364
+# text = Дай на мама !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	на	на	ADP	R	_	3	case	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	iobj	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 365
+# text = Помоли я да се маxне ттам !
+1	Помоли	помоля	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	да	да	AUX	Tx	_	5	aux	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	маxне	мая-(се)	VERB	Vpptf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+6	ттам	ттам	ADV	Pdl	PronType=Dem	5	advmod	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 366
+# text = Сега правя къщичка ?
+1	Сега	сега	ADV	Dt	Degree=Pos	2	advmod	_	_
+2	правя	правя-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	къщичка	къщичка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 367
+# text = Я тате да види !
+1	Я	я	INTJ	I	_	2	discourse	_	_
+2	тате	там	VERB	Vpptz--2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	види	видя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 368
+# text = Оx , бутна ме пак !
+1	Оx	оx	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бутна	бутна	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	пак	пак	ADV	Dt	Degree=Pos	3	advmod	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 369
+# text = А , бикини !
+1	А	а	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бикини	бикина	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 370
+# text = Горещо ?
+1	Горещо	горещ	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 372
+# text = Виж тука кой мърда .
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	тука	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	_
+4	мърда	мърдам	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 373
+# text = Кажи му , че няма страшно .
+1	Кажи	кажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	му	мой	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	,	,	PUNCT	punct	_	5	punct	_	_
+4	че	че	SCONJ	Cs	_	5	mark	_	_
+5	няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	страшно	страшен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 374
+# text = Не !
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 375
+# text = Не ща , мамо .
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	ща	ща	INTJ	I	_	4	discourse	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	мамо	мам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 376
+# text = Той е моят дино-дай ми го !
+1	Той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	моят	мой	DET	Psol-s1mf	Definite=Def|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	дино-дай	дино-дай	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+6	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+7	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 377
+# text = Какво е туй : боц та боц !
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	туй	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+4	:	:	PUNCT	punct	_	5	punct	_	_
+5	боц	боц	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	vocative	_	_
+6	та	та	CCONJ	Cc	_	7	cc	_	_
+7	боц	боц	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	_
+8	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 378
+# text = Още едно птички ли има ?
+1	Още	още	ADV	Dq	Degree=Pos	2	advmod	_	_
+2	едно	един	NUM	Mcnsi	Definite=Ind|Gender=Neut|NumType=Card|Number=Sing	3	nummod	_	_
+3	птички	птичка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 379
+# text = А за нинджите гледа ли ?
+1	А	а	CCONJ	Cp	_	4	cc	_	_
+2	за	за	ADP	R	_	3	case	_	_
+3	нинджите	нинджа	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
+4	гледа	гледам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ли	ли	PART	Ti	_	4	discourse	_	_
+6	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 380
+# text = Мама ще ти помогне !
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	ще	ще	AUX	Tx	_	4	aux	_	_
+3	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	помогне	помогна	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 381
+# text = Куклата иска да седи боса ?
+1	Куклата	кукла	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	иска	искам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	да	да	AUX	Tx	_	4	aux	_	_
+4	седи	седя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	боса	боса	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obj	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 382
+# text = Ела тук , влак йунак при саше !
+1	Ела	дойда	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	тук	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	влак	влак	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	vocative	_	_
+5	йунак	йунак	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+6	при	при	ADP	R	_	7	case	_	_
+7	саше	саше	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obl	_	_
+8	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 383
+# text = Чакайте !
+1	Чакайте	чакам	VERB	Vpitz--2p	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 384
+# text = Ето я и снежанка .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	и	и	CCONJ	Cp	_	4	cc	_	_
+4	снежанка	снежанка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 385
+# text = На титя искаш ти ?
+1	На	на	ADP	R	_	2	case	_	_
+2	титя	тит	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
+3	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 386
+# text = От влакчето ли слиза мама вели ?
+1	От	от	ADP	R	_	2	case	_	_
+2	влакчето	влакче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	4	obl	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	слиза	слизам	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	вели	вел	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 387
+# text = Дий , коньо !
+1	Дий	дий	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	коньо	коньо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	vocative	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 388
+# text = А кой е къфънъ ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	къфънъ	къфън	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 389
+# text = Това е москва .
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	москва	москва	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 390
+# text = Скарай се на уилма !
+1	Скарай	скарам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	уилма	уилм	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	iobj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 391
+# text = Пей за зайо байо !
+1	Пей	пей	INTJ	I	_	3	discourse	_	_
+2	за	за	ADP	R	_	3	case	_	_
+3	зайо	зайо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+4	байо	байо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 392
+# text = Какво папаш , мамо ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	папаш	папам-(се)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	мамо	мамо	INTJ	I	_	2	discourse	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 393
+# text = Ще обелиш роклята ли ?
+1	Ще	ще	AUX	Tx	_	2	aux	_	_
+2	обелиш	обеля	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	роклята	рокля	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
+4	ли	ли	PART	Ti	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 394
+# text = Льулки ?
+1	Льулки	льулки	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 395
+# text = Това е маша , върви по пътечката .
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	маша	маш	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	върви	вървя	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	по	по	ADP	R	_	7	case	_	_
+7	пътечката	пътечка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 396
+# text = Какво събуваш ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	събуваш	събувам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 397
+# text = Ти си мъничка !
+1	Ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	си	съм	AUX	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	мъничка	мънички	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 398
+# text = Къде отиваш сега ?
+1	Къде	къде	ADV	Pil	PronType=Int	2	obj	_	_
+2	отиваш	отивам-(си)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сега	сега	ADV	Dt	Degree=Pos	2	advmod	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 399
+# text = А сашето ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	сашето	саше	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 400
+# text = Студено е навън , ще настине .
+1	Студено	студено	ADV	Dm	Degree=Pos	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	навън	навън	ADV	Dl	Degree=Pos	1	advmod	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	ще	ще	AUX	Tx	_	6	aux	_	_
+6	настине	настина	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 401
+# text = Заповядай !
+1	Заповядай	заповядам	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 402
+# text = Та да не би xрумне . . .
+1	Та	та	CCONJ	Cc	_	5	cc	_	_
+2	да	да	AUX	Tx	_	5	aux	_	_
+3	не	не	PART	Tn	Polarity=Neg	5	advmod	_	_
+4	би	съм	AUX	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	xрумне	нрумна	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 403
+# text = След малко пак !
+1	След	след	ADP	R	_	2	case	_	_
+2	малко	малко	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	0	root	_	_
+3	пак	пак	ADV	Dt	Degree=Pos	2	advmod	_	_
+4	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 404
+# text = Стария мечок .
+1	Стария	стар	ADJ	Amsh	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	мечок	мечок	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 405
+# text = Това е иглика .
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	иглика	иглика	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 406
+# text = Мият си ръцете .
+1	Мият	мия	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	си	свой	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	ръцете	ръка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 407
+# text = А това ?
+1	А	а	CCONJ	Cp	_	2	cc	_	_
+2	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 408
+# text = А-у , че лош кумчо вълчо !
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	5	punct	_	_
+3	че	че	SCONJ	Cs	_	5	mark	_	_
+4	лош	лош	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	кумчо	кумчо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	vocative	_	_
+6	вълчо	вълчо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 409
+# text = Дай да ти помогна !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	да	да	AUX	Tx	_	4	aux	_	_
+3	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	помогна	помогна	VERB	Vppif-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 410
+# text = Къде е цветето ?
+1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	цветето	цвяте	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 411
+# text = Заповядай !
+1	Заповядай	заповядам	VERB	Vpptz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 412
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 413
+# text = Александра , обувай де !
+1	Александра	александра	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	3	vocative	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	обувай	обувам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	де	де	PRON	Pic	PronType=Int	3	obj	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 414
+# text = Има си раче и рачето иска да го щипне .
+1	Има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	си	свой	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	раче	раче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
+4	и	и	CCONJ	Cp	_	6	cc	_	_
+5	рачето	раче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	иска	искам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	да	да	AUX	Tx	_	9	aux	_	_
+8	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	щипне	щипна	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 415
+# text = Бръм бръмбърчо .
+1	Бръм	бръм	INTJ	I	_	0	root	_	_
+2	бръмбърчо	бръмбърчо	ADV	Dm	Degree=Pos	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 416
+# text = Ам , тогава що го ядеш , кат не е xубаво ?
+1	Ам	ам	INTJ	I	_	6	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	тогава	тогава	ADV	Pdt	PronType=Dem	6	advmod	_	_
+4	що	що	SCONJ	Cs	_	6	mark	_	_
+5	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	ядеш	яда	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	кат	кат	SCONJ	Cs	_	11	mark	_	_
+9	не	не	PART	Tn	Polarity=Neg	11	advmod	_	_
+10	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	xубаво	нубав	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+12	?	?	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = 417
+# text = Глупачката е болна ?
+1	Глупачката	глупачка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	болна	болен	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 418
+# text = Да , той чака .
+1	Да	да	PART	Ta	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	чака	чакам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 419
+# text = Това ?
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 420
+# text = Ето я копривата и козлето какво направило ?
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	копривата	коприва	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	и	и	CCONJ	Cp	_	7	cc	_	_
+5	козлето	козле	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	7	obj	_	_
+6	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	7	obj	_	_
+7	направило	направя-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
+8	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 421
+# text = Къде са се качили , мамо , птиците ?
+1	Къде	къде	ADV	Pil	PronType=Int	4	advmod	_	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	качили	кача-(се)	VERB	Vpptcao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	мамо	мамо	INTJ	I	_	8	discourse	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	птиците	птица	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	vocative	_	_
+9	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 422
+# text = Не !
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 423
+# text = Не даваш ли мама да те облече ?
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	даваш	давам-(се)	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+5	да	да	AUX	Tx	_	7	aux	_	_
+6	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	облече	облека	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 424
+# text = Какво прави на софия ?
+1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	прави	правя-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	на	на	ADP	R	_	4	case	_	_
+4	софия	софия	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	2	iobj	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 425
+# text = Не можеш ли да отвориш ?
+1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
+2	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	Ti	_	2	discourse	_	_
+4	да	да	AUX	Tx	_	5	aux	_	_
+5	отвориш	отворя-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 426
+# text = Това са гъски .
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	гъски	гъска	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 427
+# text = Той ще плачи .
+1	Той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ще	ще	AUX	Tx	_	3	aux	_	_
+3	плачи	плача-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 428
+# text = Огледало , това е прозорец .
+1	Огледало	огледало	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	прозорец	прозорец	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 429
+# text = Я , какво има тука !
+1	Я	я	INTJ	I	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
+4	има	има	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	тука	там	ADV	Pdl	PronType=Dem	4	obj	_	_
+6	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 430
+# text = О , горкичкият !
+1	О	о	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	горкичкият	горкичка	NOUN	Ncmsf	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
