@@ -125,9 +125,12 @@ def cohen_kappa(labels_a: Sequence[str], labels_b: Sequence[str]) -> float:
     return (p_o - p_e) / denom
 
 
-def relation_f1(tokens_a: Sequence[Token], tokens_b: Sequence[Token], top_k: int = 10):
+def relation_f1(tokens_a: Sequence[Token], tokens_b: Sequence[Token], top_k: int = 20):
     labels = [t.deprel for t in tokens_a] + [t.deprel for t in tokens_b]
-    most_common = [rel for rel, _ in collections.Counter(labels).most_common(top_k)]
+    if top_k <= 0:
+        most_common = [rel for rel, _ in collections.Counter(labels).most_common()]
+    else:
+        most_common = [rel for rel, _ in collections.Counter(labels).most_common(top_k)]
     results = []
     for rel in most_common:
         count_a = sum(1 for t in tokens_a if t.deprel == rel)
@@ -154,7 +157,10 @@ def relation_f1(tokens_a: Sequence[Token], tokens_b: Sequence[Token], top_k: int
 
 
 def compute_metrics(
-    sents_a: Sequence[List[Token]], sents_b: Sequence[List[Token]], exclude_upos: Optional[set[str]] = None
+    sents_a: Sequence[List[Token]],
+    sents_b: Sequence[List[Token]],
+    exclude_upos: Optional[set[str]] = None,
+    top_k_relations: int = 20,
 ):
     exclude_upos = exclude_upos or set()
     ensure_alignment(sents_a, sents_b, label="pair")
@@ -198,7 +204,7 @@ def compute_metrics(
         "lemma_acc": lemma_matches / total,
         "uas": head_matches / total,
         "las": head_label_matches / total,
-        "relations": relation_f1(tokens_a, tokens_b),
+        "relations": relation_f1(tokens_a, tokens_b, top_k=top_k_relations),
         "tokens_a": tokens_a,
         "tokens_b": tokens_b,
     }
@@ -212,6 +218,30 @@ def load_spec(annotation_root: pathlib.Path, spec: DocSpec) -> Dict[str, List[Li
             raise FileNotFoundError(f"Missing file for annotator {annot}: {path}")
         data[annot] = parse_conllu(path)
     return data
+
+
+def print_metric_block(label: str, metrics: dict, indent: str = "  ") -> None:
+    if label:
+        print(label)
+    print(f"{indent}Tokens compared: {metrics['tokens']}")
+    print(
+        f"{indent}UPOS acc={metrics['upos_acc']:.4f}  kappa={metrics['upos_kappa']:.4f}  "
+        f"Lemma acc={metrics['lemma_acc']:.4f}"
+    )
+    print(f"{indent}UAS={metrics['uas']:.4f}  LAS={metrics['las']:.4f}")
+    print(f"{indent}Top relations (by frequency):")
+    for rel in metrics["relations"]:
+        print(
+            f"{indent}  " + "{r:<12s} F1={f1:.4f}  P={p:.4f}  R={rcl:.4f}  matches={m}  countA={ca}  countB={cb}".format(
+                r=rel["relation"],
+                f1=rel["f1"],
+                p=rel["precision"],
+                rcl=rel["recall"],
+                m=rel["matches"],
+                ca=rel["count_a"],
+                cb=rel["count_b"],
+            )
+        )
 
 
 def parse_doc_arg(arg: str) -> DocSpec:
@@ -242,6 +272,12 @@ def main():
         help="DOC_DIR:ann1,ann2[,ann3...]:START-END (relative to annotation/)",
         dest="doc_specs",
     )
+    parser.add_argument(
+        "--top-k-relations",
+        type=int,
+        default=20,
+        help="How many relations to print in the per-relation F1 table; use 0 for all.",
+    )
     args = parser.parse_args()
 
     annotation_root = args.project_root / "annotation"
@@ -250,9 +286,13 @@ def main():
 
     specs = [parse_doc_arg(d) for d in args.doc_specs]
 
-    # overall accumulators (punct excluded)
+    # accumulators (punct excluded)
     all_tokens_a: List[Token] = []
     all_tokens_b: List[Token] = []
+    cds_tokens_a: List[Token] = []
+    cds_tokens_b: List[Token] = []
+    cs_tokens_a: List[Token] = []
+    cs_tokens_b: List[Token] = []
 
     for spec in specs:
         annot_data = load_spec(annotation_root, spec)
@@ -266,56 +306,50 @@ def main():
         for a1, a2 in pairs:
             sents_a = sentence_slices[a1]
             sents_b = sentence_slices[a2]
-            metrics = compute_metrics(sents_a, sents_b, exclude_upos={"PUNCT"})
-            print(f"  Pair: {a1} vs {a2}")
-            print(f"    Tokens compared: {metrics['tokens']}")
-            print(
-                f"    UPOS acc={metrics['upos_acc']:.4f}  kappa={metrics['upos_kappa']:.4f}  "
-                f"Lemma acc={metrics['lemma_acc']:.4f}"
+            metrics = compute_metrics(
+                sents_a,
+                sents_b,
+                exclude_upos={"PUNCT"},
+                top_k_relations=args.top_k_relations,
             )
-            print(f"    UAS={metrics['uas']:.4f}  LAS={metrics['las']:.4f}")
-            print("    Top relations (by frequency):")
-            for rel in metrics["relations"]:
-                print(
-                    "      {r:<12s} F1={f1:.4f}  P={p:.4f}  R={rcl:.4f}  "
-                    "matches={m}  countA={ca}  countB={cb}".format(
-                        r=rel["relation"],
-                        f1=rel["f1"],
-                        p=rel["precision"],
-                        rcl=rel["recall"],
-                        m=rel["matches"],
-                        ca=rel["count_a"],
-                        cb=rel["count_b"],
-                    )
-                )
+            print(f"  Pair: {a1} vs {a2}")
+            print_metric_block("", metrics, indent="    ")
             all_tokens_a.extend(metrics["tokens_a"])
             all_tokens_b.extend(metrics["tokens_b"])
+            if spec.doc_dir.endswith("_cds.conllu"):
+                cds_tokens_a.extend(metrics["tokens_a"])
+                cds_tokens_b.extend(metrics["tokens_b"])
+            elif spec.doc_dir.endswith("_cs.conllu"):
+                cs_tokens_a.extend(metrics["tokens_a"])
+                cs_tokens_b.extend(metrics["tokens_b"])
+
+    if cds_tokens_a:
+        cds_metrics = compute_metrics(
+            [cds_tokens_a],
+            [cds_tokens_b],
+            exclude_upos=set(),
+            top_k_relations=args.top_k_relations,
+        )
+        print_metric_block("\nCombined CDS totals (punct excluded):", cds_metrics)
+
+    if cs_tokens_a:
+        cs_metrics = compute_metrics(
+            [cs_tokens_a],
+            [cs_tokens_b],
+            exclude_upos=set(),
+            top_k_relations=args.top_k_relations,
+        )
+        print_metric_block("\nCombined CS totals (punct excluded):", cs_metrics)
 
     # Combined totals across all requested docs/pairs
     if all_tokens_a:
         combined_metrics = compute_metrics(
-            [all_tokens_a], [all_tokens_b], exclude_upos=set()  # already excluded punct earlier
+            [all_tokens_a],
+            [all_tokens_b],
+            exclude_upos=set(),  # already excluded punct earlier
+            top_k_relations=args.top_k_relations,
         )
-        print("\nCombined totals (all docs/pairs, punct excluded):")
-        print(f"  Tokens compared: {combined_metrics['tokens']}")
-        print(
-            f"  UPOS acc={combined_metrics['upos_acc']:.4f}  kappa={combined_metrics['upos_kappa']:.4f}  "
-            f"Lemma acc={combined_metrics['lemma_acc']:.4f}"
-        )
-        print(f"  UAS={combined_metrics['uas']:.4f}  LAS={combined_metrics['las']:.4f}")
-        print("  Top relations (by frequency):")
-        for rel in combined_metrics["relations"]:
-            print(
-                "    {r:<12s} F1={f1:.4f}  P={p:.4f}  R={rcl:.4f}  matches={m}  countA={ca}  countB={cb}".format(
-                    r=rel["relation"],
-                    f1=rel["f1"],
-                    p=rel["precision"],
-                    rcl=rel["recall"],
-                    m=rel["matches"],
-                    ca=rel["count_a"],
-                    cb=rel["count_b"],
-                )
-            )
+        print_metric_block("\nCombined totals (all docs/pairs, punct excluded):", combined_metrics)
 
 
 if __name__ == "__main__":
