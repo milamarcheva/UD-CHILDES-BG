@@ -1,4 +1,4 @@
-# bg-childes-ud
+# UD-CHILDES-BG
 Bulgarian CHILDES Universal Dependency treebank and accompanying analysis.
 
 ## Annotator agreement
