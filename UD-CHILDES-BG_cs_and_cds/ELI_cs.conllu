@@ -1,0 +1,1013 @@
+# sent_id = UTT_017794
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014527
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016251
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017113
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Kati .
+# text = Кати .
+1	Кати	кати	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016278
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = o-pa, ne .
+# text = О-па , не .
+1	О-па	о-па	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	не	не	PART	Tn	Polarity=Neg	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019011
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017102
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = tozi .
+# text = Този .
+1	Този	този	DET	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015417
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = bebeta .
+# text = Бебета .
+1	Бебета	бебе	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016393
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = tol .
+# text = Тол .
+1	Тол	стол	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016755
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = bau, bau, bau@o .
+# text = Бау , бау , бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	бау	бау	INTJ	_	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бау	бау	INTJ	_	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_011947
+# child_age = 1;02.16
+# participant_role = ELI
+# original_utterance = dedi, xxx .
+# text = Деди , xxx .
+1	Деди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	xxx	xxx	X	_	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015158
+# child_age = 1;05.25
+# participant_role = ELI
+# original_utterance = bati .
+# text = Бати .
+1	Бати	батко	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018376
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = libite [: ribi] .
+# text = Рибите .
+1	Рибите	риба	NOUN	Ncmpd	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017577
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = lile [: eli] .
+# text = Ели .
+1	Ели	ели	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016267
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = mamo, tati .
+# text = Мамо , тати .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014525
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_012779
+# child_age = 1;02.28
+# participant_role = ELI
+# original_utterance = a-u !
+# text = А-у !
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018542
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = djadi .
+# text = Дяди .
+1	Дяди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_012967
+# child_age = 1;03.02
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019030
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = izh [: vizh] tam .
+# text = Виж там .
+1	Виж	виждам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	там	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016067
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = djadi .
+# text = Дяди .
+1	Дяди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017353
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Mimi .
+# text = Мими .
+1	Мими	мими	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_010363
+# child_age = 1;01.07
+# participant_role = ELI
+# original_utterance = pa-pa@o .
+# text = Па-па .
+1	Па-па	па-па	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018342
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = pak .
+# text = Пак .
+1	Пак	пак	ADV	Dt	Degree=Pos	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014972
+# child_age = 1;05.25
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018131
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = leli [: eli] .
+# text = Ели .
+1	Ели	ели	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018071
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = e, bebe .
+# text = Е , бебе .
+1	Е	е	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = UTT_017076
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = bau .
+# text = Бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016803
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = tao .
+# text = Тао .
+1	Тао	тао	X	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018841
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_012029
+# child_age = 1;02.17
+# participant_role = ELI
+# original_utterance = dij, dij .
+# text = Дий , дий .
+1	Дий	дий	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дий	дий	INTJ	_	_	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018586
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = kuko .
+# text = Куко .
+1	Куко	кукло	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016098
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = kole .
+# text = Коле .
+1	Коле	кольо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014402
+# child_age = 1;05.10
+# participant_role = ELI
+# original_utterance = baba .
+# text = Баба .
+1	Баба	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015451
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = meche .
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017074
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015121
+# child_age = 1;05.25
+# participant_role = ELI
+# original_utterance = bati .
+# text = Бати .
+1	Бати	батко	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016541
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = bon .
+# text = Бон .
+1	Бон	бонбон	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016194
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017776
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = a-m@o .
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016099
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = kole .
+# text = Коле .
+1	Коле	кольо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014948
+# child_age = 1;05.25
+# participant_role = ELI
+# original_utterance = m-i-i-i@o .
+# text = М-и-и-и .
+1	М-и-и-и	м-и-и-и	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017183
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Bebe .
+# text = Бебе .
+1	Бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017451
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = babo .
+# text = Бабо .
+1	Бабо	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017133
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = e [: eto] kati .
+# text = Ето кати .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	кати	кати	PROPN	_	_	1	discourse	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015956
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_010452
+# child_age = 1;01.13
+# participant_role = ELI
+# original_utterance = bau@o .
+# text = Бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016199
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016931
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = Tama .
+# text = Тама .
+1	Тама	там	ADV	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017109
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = baba .
+# text = Баба .
+1	Баба	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018378
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017210
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = babi .
+# text = Баби .
+1	Баби	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014265
+# child_age = 1;05.10
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018600
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = topche .
+# text = Топче .
+1	Топче	топче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014517
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014496
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = ljulja@o .
+# text = Люля .
+1	Люля	люля	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018512
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = a-m@o, a-m@o, a-m@o .
+# text = А-м , а-м , а-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	а-м	а-м	INTJ	I	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	а-м	а-м	INTJ	I	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017653
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016540
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = bon [: bonbon] .
+# text = Бонбон .
+1	Бонбон	бонбон	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015203
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = eto .
+# text = Ето .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016502
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019131
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = mamo .
+# text = Мамо .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015449
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015339
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = dij, dij .
+# text = Дий , дий .
+1	Дий	дий	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дий	дий	INTJ	_	_	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015198
+# child_age = 1;05.25
+# participant_role = ELI
+# original_utterance = letche [: samoletche] .
+# text = Самолетче .
+1	Самолетче	самолетче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018523
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = topki .
+# text = Топки .
+1	Топки	топка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015506
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = mami .
+# text = Мами .
+1	Мами	мами	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018827
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016784
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = libi [: ribi] .
+# text = Риби .
+1	Риби	риби	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_011425
+# child_age = 1;02.08
+# participant_role = ELI
+# original_utterance = aj !
+# text = Ай !
+1	Ай	ай	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017649
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = buki [: obuvki] .
+# text = Обувки .
+1	Обувки	обувка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015485
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = a-m .
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014460
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = Mimi, mimi .
+# text = Мими , мими .
+1	Мими	мими	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мими	мими	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018013
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = paljache .
+# text = Паляче .
+1	Паляче	паляче	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015454
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = njama go .
+# text = Няма го .
+1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_012772
+# child_age = 1;02.26
+# participant_role = ELI
+# original_utterance = brym, brym, brym .
+# text = Бръм , бръм , бръм .
+1	Бръм	бръм	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	бръм	бръм	INTJ	I	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бръм	бръм	INTJ	I	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017871
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = e, e .
+# text = Е , е .
+1	Е	е	PART	Te	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	е	е	PART	_	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016498
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = mama .
+# text = Мама .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018493
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = mamo .
+# text = Мамо .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016069
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017651
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = mama .
+# text = Мама .
+1	Мама	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015461
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = meche .
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014759
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = koj ?
+# text = Кой ?
+1	Кой	кой	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015661
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = kyv .
+# text = Къв .
+1	Къв	къв	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019118
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = panja .
+# text = Паня .
+1	Паня	паня	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017067
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016734
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = libi, libi [: ribi], libi [: ribi], libi [: ribi], libi [: ribi] .
+# text = Риби , риби , риби , риби , риби .
+1	Риби	риби	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+8	,	,	PUNCT	punct	_	9	punct	_	_
+9	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+10	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017817
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018849
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = o-p !
+# text = О-п !
+1	О-п	о-п	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016557
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = a-m@o .
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017673
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018856
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015317
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = bebete [: bebeta] .
+# text = Бебета .
+1	Бебета	бебета	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017811
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015230
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = az .
+# text = Аз .
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017537
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = b-u, b-u .
+# text = Б-у , б-у .
+1	Б-у	б-у	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	б-у	б-у	INTJ	I	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019032
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = tao [: chao] .
+# text = Чао .
+1	Чао	чао	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_013782
+# child_age = 1;03.10
+# participant_role = ELI
+# original_utterance = a, a !
+# text = А , а !
+1	А	а	PART	Te	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	а	а	CCONJ	Cp	_	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = UTT_016070
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = tati .
+# text = Тати .
+1	Тати	тате	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014497
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = ljulja@o .
+# text = Люля .
+1	Люля	люля	NOUN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017188
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = Bebe .
+# text = Бебе .
+1	Бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_011104
+# child_age = 1;01.29
+# participant_role = ELI
+# original_utterance = daj mi !
+# text = Дай ми !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018627
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017738
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = tik@o [: chasovnik] .
+# text = Часовник .
+1	Часовник	часовник	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018439
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = bami [: bambi] .
+# text = Бамби .
+1	Бамби	бамби	PROPN	Npfsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015950
+# child_age = 1;06.17
+# participant_role = ELI
+# original_utterance = Tam .
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_011252
+# child_age = 1;02.08
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_016503
+# child_age = 1;06.21
+# participant_role = ELI
+# original_utterance = daj, daj .
+# text = Дай , дай .
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014720
+# child_age = 1;05.18
+# participant_role = ELI
+# original_utterance = Viki .
+# text = Вики .
+1	Вики	вики	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017835
+# child_age = 1;07.08
+# participant_role = ELI
+# original_utterance = meche .
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018410
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = ne .
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_013667
+# child_age = 1;03.10
+# participant_role = ELI
+# original_utterance = da .
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_010631
+# child_age = 1;01.19
+# participant_role = ELI
+# original_utterance = ka-ka .
+# text = Ка-ка .
+1	Ка-ка	кака	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_011481
+# child_age = 1;02.08
+# participant_role = ELI
+# original_utterance = bau-bau@o .
+# text = Бау-бау .
+1	Бау-бау	бау-бау	INTJ	Npmsi	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_014389
+# child_age = 1;05.10
+# participant_role = ELI
+# original_utterance = bu-u@o !
+# text = Бу-у !
+1	Бу-у	бу-у	INTJ	Npmsi	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019167
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = kole [: kola] .
+# text = Кола .
+1	Кола	кола	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_019119
+# child_age = 1;07.22
+# participant_role = ELI
+# original_utterance = panja .
+# text = Паня .
+1	Паня	баня	NOUN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015363
+# child_age = 1;06.04
+# participant_role = ELI
+# original_utterance = bebete .
+# text = Бебете .
+1	Бебете	бебе	NOUN	Vpitz--2p	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_015688
+# child_age = 1;06.09
+# participant_role = ELI
+# original_utterance = daj [: vzemi] .
+# text = Вземи .
+1	Вземи	взема	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_018330
+# child_age = 1;07.13
+# participant_role = ELI
+# original_utterance = libi [: ribi] .
+# text = Риби .
+1	Риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = UTT_017420
+# child_age = 1;07.03
+# participant_role = ELI
+# original_utterance = a-u .
+# text = А-у .
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
