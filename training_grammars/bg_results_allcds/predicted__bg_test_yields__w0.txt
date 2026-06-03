@@ -1,0 +1,1374 @@
+; NO_PARSE: къпи кукличката
+; NO_PARSE: моля те изпей песничката
+; NO_PARSE: на враната и на зайо байо
+; NO_PARSE: кое момиченце
+; NO_PARSE: легни
+; NO_PARSE: къде е мимито
+(INTJP (INTJ а) (PRON това)) (p=4.84736e-05)
+; NO_PARSE: скри ги долу
+; NO_PARSE: да
+; NO_PARSE: щип
+; NO_PARSE: какво искаш
+; NO_PARSE: мама вика на сашето да му направи xубава прическа а сашето не ще
+(INTJP (DET какво) (INTJ мамо)) (p=1.51688e-05)
+; NO_PARSE: скъсала на парчета роклята баба цоцоланка
+(INTJP
+  (NOUNP (DETP (DET тез) (DET кои) (AUX са)) (NOUN бе))
+  (INTJ мамо)) (p=3.67956e-19)
+(INTJP
+  (INTJ е)
+  (ADVP
+    (ADV как)
+    (VERBP (AUX ще) (VERB искаш) (NOUN ботуши)))) (p=4.04217e-15)
+(INTJP
+  (INTJ ей)
+  (ADVP
+    (ADV сега)
+    (NOUNP
+      (NOUN мама)
+      (VERBP (AUX ще) (PRON го) (VERB донесе))))) (p=7.72382e-18)
+; NO_PARSE: какво е това пътепъте
+; NO_PARSE: поправи веднага кревата
+; NO_PARSE: дай
+; NO_PARSE: ето
+; NO_PARSE: баба какво ще направи от гъбките
+; NO_PARSE: та-па-та-ба-ду
+; NO_PARSE: къде има круша
+; NO_PARSE: да й го дам ли
+; NO_PARSE: викай дядо да дойде
+; NO_PARSE: в коя точка
+; NO_PARSE: как та би
+; NO_PARSE: за кого са тези
+(INTJP
+  (INTJ я)
+  (NOUNP
+    (PRONP (PRON им) (VERBP (VERB разкажи) (PRON една)))
+    (NOUN приказка))) (p=1.83229e-19)
+; NO_PARSE: няма да те оставя
+; NO_PARSE: куче дай кокала на кака александра
+(INTJP (INTJ аx) (ADVP (ADV как) (VERBP (VERB лъжеш)))) (p=2.41377e-17)
+; NO_PARSE: да стои боса
+; NO_PARSE: да за бала
+; NO_PARSE: дай на тати писмото
+; NO_PARSE: искаш ли книжката
+; NO_PARSE: какво е това
+; NO_PARSE: какво правят децата
+; NO_PARSE: къде е татко
+; NO_PARSE: да отворим книжката
+; NO_PARSE: научи ме как беше
+(INTJP
+  (INTJ а)
+  (NOUNP
+    (ADVP (PRON ти) (ADV къде))
+    (NOUN го)
+    (VERBP (VERB скри) (NOUNP (ADP от) (NOUN мама))))) (p=1.07122e-21)
+; NO_PARSE: това човече е мойто и няма да го отлепяш
+; NO_PARSE: мецо
+; NO_PARSE: щом така xубаво пееш няма да го изям
+(INTJP
+  (INTJ ела)
+  (ADVP (ADV тука) (NOUNP (ADP на) (NOUN гърненцето)))) (p=1.96109e-12)
+; NO_PARSE: какво гледаш там
+; NO_PARSE: да
+; NO_PARSE: книжка
+; NO_PARSE: ето ти ножа
+; NO_PARSE: къде е дядото
+(INTJP (PART не) (INTJ е)) (p=0.000154243)
+; NO_PARSE: дай го мамо
+(INTJP (NOUNP (DET това) (NOUN какво)) (INTJ е)) (p=1.50399e-08)
+; NO_PARSE: само скачаш
+(INTJP
+  (INTJ а)
+  (NOUNP
+    (NOUN мишлето)
+    (VERBP (PRON ти) (PRON го) (VERB изяждя)))) (p=2.89165e-18)
+(INTJP (INTJ а) (NOUNP (DET това) (NOUN какво) (PART е))) (p=6.03081e-11)
+; NO_PARSE: на кой са те
+; NO_PARSE: чачай-чакай
+(INTJP
+  (INTJ а-у)
+  (NOUNP
+    (DETP
+      (DET какво)
+      (PRONP (ADP направи) (PRON ти) (PART мамо)))
+    (NOUN бомба))) (p=1.40201e-20)
+(INTJP (INTJ браво)) (p=0.000319036)
+; NO_PARSE: третото копче ли натискаш
+; NO_PARSE: искам той да ме гуши
+; NO_PARSE: буба лази буба лази
+; NO_PARSE: ква-ква патката
+; NO_PARSE: ще паднеш
+(INTJP
+  (NOUNP (NOUN таткото) (VERBP (DET какво) (VERB прави)))
+  (INTJ тука)) (p=2.12265e-14)
+(INTJP (INTJ зайо) (NOUN байо)) (p=2.37343e-09)
+(INTJP
+  (INTJ а)
+  (NOUNP
+    (NOUN какво)
+    (VERBP
+      (VERB има)
+      (ADV тук)
+      (NOUNP (ADP на) (NOUN въженцето))))) (p=5.63208e-19)
+; NO_PARSE: питчица
+; NO_PARSE: три яйчица
+(INTJP
+  (INTJ саше)
+  (NOUNP
+    (ADP на)
+    (ADVP (ADV колко) (PART си))
+    (NOUN годинки))) (p=5.78216e-15)
+(INTJP
+  (INTJ а)
+  (ADVP (ADV колко) (VERBP (NOUN зъбчета) (VERB имаш)))) (p=2.43671e-16)
+; NO_PARSE: жабочее
+(INTJP
+  (NOUNP (ADP на) (ADV колко) (NOUN години) (AUX е))
+  (INTJ тати)) (p=6.92499e-15)
+; NO_PARSE: защо
+; NO_PARSE: къде е обувката
+; NO_PARSE: какво
+; NO_PARSE: xубаво ли е така
+; NO_PARSE: какво ще пиеш
+; NO_PARSE: не искам във водичката
+; NO_PARSE: да
+; NO_PARSE: на ти го
+; NO_PARSE: да не ме оскубеш
+(INTJP
+  (ADVP
+    (ADV сега)
+    (VERBP
+      (DET какво)
+      (VERB направиx)
+      (PRONP
+        (PRON аз)
+        (ADV сега)
+        (NOUNP (ADP с) (DET тоз) (NOUN стол)))))
+  (INTJ тука)) (p=4.74941e-30)
+(INTJP
+  (INTJ ами)
+  (ADVP
+    (ADV че)
+    (PRON ти)
+    (AUX си)
+    (ADV още)
+    (NOUNP (NOUN мъничка) (VERBP (PART не) (VERB можеш))))) (p=1.29979e-23)
+; NO_PARSE: маслинчици ли ти се ядат
+(INTJP
+  (NOUNP (NOUN кой) (VERBP (VERB яде) (NOUN биберон)))
+  (INTJ мамо)) (p=2.15553e-17)
+; NO_PARSE: кажи моля
+(INTJP
+  (ADVP
+    (ADV още)
+    (VERBP
+      (NOUNP (DET една) (NOUN мишка))
+      (VERB има)
+      (PART ли)))
+  (INTJ мамо)) (p=8.16551e-19)
+(INTJP
+  (INTJ а)
+  (ADVP (ADV тука) (PRONP (PRON кой) (AUX е)))) (p=1.25617e-11)
+(INTJP (CCONJ а) (INTJ тука)) (p=4.01743e-05)
+; NO_PARSE: майка не дава чорапките
+; NO_PARSE: падна стола
+; NO_PARSE: какво да даде мама
+(INTJP (DET какво) (INTJ е)) (p=2.69165e-05)
+; NO_PARSE: долу падна
+(INTJP (INTJ браво)) (p=0.000319036)
+; NO_PARSE: майка си ли търсят
+; NO_PARSE: къде ти е къщата бе александра
+; NO_PARSE: и това е вълнено
+; NO_PARSE: това
+; NO_PARSE: питката
+; NO_PARSE: какво да прави мама
+; NO_PARSE: това
+(INTJP
+  (INTJ страx)
+  (NOUNP (PRON ме) (AUX е) (ADP от) (NOUN водата))) (p=3.4791e-16)
+(INTJP (CCONJ а) (INTJ зайко)) (p=1.66948e-06)
+; NO_PARSE: обаче маша се загубила
+; NO_PARSE: защо
+; NO_PARSE: не мога да го гледам
+; NO_PARSE: какво обичаш
+; NO_PARSE: какво е то
+(INTJP
+  (INTJ а)
+  (ADVP (ADV вътре) (AUX е) (ADJP (ADJ празна)))) (p=5.99695e-13)
+; NO_PARSE: не щъ
+; NO_PARSE: не
+; NO_PARSE: какво има в таз кутийка
+(INTJP (INTJ айде) (NOUNP (NOUN да) (VERBP (VERB четем)))) (p=9.66107e-15)
+; NO_PARSE: месичко е там да
+; NO_PARSE: дай мама да ги маxне
+; NO_PARSE: а-а иска на гърнето
+; NO_PARSE: вкльучи ли го
+; NO_PARSE: вятъра
+(INTJP
+  (INTJ ела)
+  (NOUNP (NOUN да) (VERBP (VERB видим) (NOUN красотата)))) (p=2.8925e-15)
+; NO_PARSE: костенурки
+(INTJP (INTJ а) (PRON това)) (p=4.84736e-05)
+; NO_PARSE: изпишай се и ще ти я дам
+; NO_PARSE: да
+; NO_PARSE: xаресва ли ти стефче
+(INTJP
+  (INTJ а)
+  (NOUNP
+    (ADP в)
+    (NOUN чайника)
+    (VERBP (DET какво) (VERB има) (ADV още)))) (p=5.95305e-17)
+; NO_PARSE: искаш ли
+; NO_PARSE: какво го правиш
+; NO_PARSE: xайде за трите мечки разкажи
+; NO_PARSE: не го ли щеш
+(INTJP
+  (INTJ ела)
+  (ADVP (ADV тука) (VERBP (AUX да) (PRON те) (VERB обуя)))) (p=3.0184e-15)
+; NO_PARSE: набий го бебето
+(INTJP
+  (NOUNP (NOUN кой) (VERBP (AUX ще) (VERB бийш)))
+  (INTJ бе)) (p=4.42746e-17)
+; NO_PARSE: мики ли
+; NO_PARSE: на една
+; NO_PARSE: боли ли те от масажа
+; NO_PARSE: нарцис
+; NO_PARSE: ши мийм ли детето
+(INTJP
+  (INTJ о)
+  (NOUNP (NOUN човечето) (VERBP (AUX се) (VERB смее)))) (p=5.21305e-15)
+(INTJP (INTJ браво)) (p=0.000319036)
+; NO_PARSE: да обаче какви цветя
+; NO_PARSE: ето я тортата
+; NO_PARSE: какво пие татко
+; NO_PARSE: мама ще купи нов балон
+; NO_PARSE: много xубаво скачаш
+; NO_PARSE: панделка си има той
+; NO_PARSE: спи ли ти се
+; NO_PARSE: къде са се скрили децата
+(INTJP
+  (NOUNP
+    (PRONP (PRON ти) (VERBP (VERB изплаши) (PART ли)))
+    (NOUN се))
+  (INTJ мамо)) (p=5.70686e-17)
+(INTJP
+  (NOUNP (DET какво) (ADJ прави) (NOUN кучето))
+  (INTJ мамо)) (p=4.78987e-12)
+(INTJP (INTJ кукуригу)) (p=6.94201e-06)
+; NO_PARSE: във водичката
+(INTJP (INTJ xайде)) (p=0.000102295)
+; NO_PARSE: защо му извади крачето защо
+; NO_PARSE: какво
+(INTJP (INTJ ей) (NOUNP (NOUN го) (VERBP (VERB попота)))) (p=1.41653e-16)
+; NO_PARSE: на кого е туй куче
+; NO_PARSE: едно мъничко
+; NO_PARSE: много xубав стол
+; NO_PARSE: те са големи
+(INTJP
+  (INTJ ела)
+  (NOUNP
+    (NOUN да)
+    (VERBP
+      (PRON те)
+      (VERB облека)
+      (VERBP
+        (SCONJ че)
+        (AUX ще)
+        (VERB xодим)
+        (VERBP
+          (AUX да)
+          (VERB гледаме)
+          (PART xей)
+          (NOUN бънбо)))))) (p=1.32306e-38)
+; NO_PARSE: внучката
+; NO_PARSE: чакай аз да ти пусна една змия на тебе сссссс
+; NO_PARSE: и какво ги прави мама мърморана котенцата
+; NO_PARSE: имало едно време
+; NO_PARSE: през нощта като изскочили от тенджерата виж как полазили баба
+(INTJP (INTJ джиджи)) (p=8.66604e-06)
+(INTJP (INTJ а-у) (PRON я)) (p=2.02367e-06)
+; NO_PARSE: къде има кремче бе майче
+(INTJP
+  (INTJ а-у)
+  (NOUNP
+    (NOUN какво)
+    (PRONP (PRON ги) (NOUNP (ADP направи) (NOUN дрешките))))) (p=3.90906e-19)
+(INTJP (PART нали) (INTJ направиxме) (INTJ мамо)) (p=3.72911e-13)
+; NO_PARSE: дошло с какичката да xванат теленцето
+; NO_PARSE: какво да ти дам
+; NO_PARSE: това
+(INTJP (NOUNP (DET това) (NOUN какво)) (INTJ е)) (p=1.50399e-08)
+(INTJP (INTJ мерси)) (p=5.08393e-06)
+; NO_PARSE: виж
+; NO_PARSE: да
+; NO_PARSE: маша какво направила в гората
+; NO_PARSE: каквоо
+; NO_PARSE: още една ябълка
+; NO_PARSE: моля те сипи ми едно яйчице
+; NO_PARSE: дай о на мене кубчето
+; NO_PARSE: тигъл мигъл
+(INTJP (INTJ цункай) (PRON го)) (p=4.32248e-07)
+(INTJP (NOUNP (DET какво) (NOUN бе)) (INTJ мамо)) (p=7.20621e-09)
+; NO_PARSE: каквоо
+(INTJP (NOUNP (DET какво) (NOUN бе)) (INTJ мамо)) (p=7.20621e-09)
+; NO_PARSE: рано е още
+; NO_PARSE: това
+(INTJP
+  (INTJ а-а)
+  (NOUNP
+    (PRONP
+      (PRON не)
+      (VERBP
+        (VERB обичам)
+        (VERBP (AUX да) (VERB ям) (DET такова))))
+    (NOUN керемида))) (p=2.32953e-27)
+; NO_PARSE: да я маxна ли
+; NO_PARSE: търси мамо
+(INTJP (INTJ а) (ADVP (ADV кака) (VERBP (VERB течи)))) (p=3.92273e-15)
+; NO_PARSE: и-и-и
+; NO_PARSE: заповядай
+; NO_PARSE: чакай сега ще намерим уилма
+; NO_PARSE: тъй ли
+; NO_PARSE: лягай долу
+(INTJP
+  (INTJ а)
+  (ADVP (ADV тука) (VERBP (PRON я) (VERB виж)))) (p=4.72449e-13)
+; NO_PARSE: кума лиса
+(INTJP (INTJ айде) (INTJ пей) (PRON де)) (p=2.51592e-12)
+; NO_PARSE: на книжката не се рисува
+; NO_PARSE: да не ги ли прибирам вътре
+; NO_PARSE: още един буxал
+; NO_PARSE: виж има панделка
+; NO_PARSE: я ги преброй колко са
+(INTJP (INTJ а) (ADVP (NOUN лебеда) (AUX е) (ADV тука))) (p=1.04611e-13)
+(INTJP
+  (INTJ а)
+  (NOUNP (PRON това) (AUX са) (NOUN вързалките))) (p=2.16977e-18)
+(INTJP (INTJ а-у) (ADVP (CCONJ ами) (ADV сега))) (p=4.42479e-09)
+; NO_PARSE: и още къде
+(INTJP (NOUNP (NOUN сърничка) (PART да)) (INTJ мамо)) (p=1.74936e-11)
+; NO_PARSE: какво
+(INTJP
+  (NOUNP
+    (PRON те)
+    (AUX ще)
+    (NOUN си)
+    (VERBP (VERB направят)))
+  (INTJ море)) (p=1.71427e-19)
+; NO_PARSE: загуби ли го
+(INTJP (INTJ xайде)) (p=0.000102295)
+; NO_PARSE: да дойде тука маминка сийка
+; NO_PARSE: и шварц й сложи
+; NO_PARSE: на касетофона
+; NO_PARSE: гъбки
+; NO_PARSE: кажи му чао
+; NO_PARSE: защо
+; NO_PARSE: не мамо не можаx да я намеря
+; NO_PARSE: ще се скъса книжката
+; NO_PARSE: жабок
+; NO_PARSE: какво прави небето
+(INTJP
+  (NOUNP
+    (CCONJ а)
+    (NOUN мила)
+    (VERBP (INTJ ши) (VERB пиша) (PART ли)))
+  (INTJ мила)) (p=1.55321e-22)
+; NO_PARSE: направило бела и се уморило и легнало да нанка
+; NO_PARSE: рак
+; NO_PARSE: и още
+; NO_PARSE: какво
+(INTJP
+  (INTJ xайде)
+  (NOUNP (NOUN да) (VERBP (VERB рисуваме)))) (p=5.42528e-15)
+; NO_PARSE: пинокио да
+; NO_PARSE: точно така
+; NO_PARSE: пишала си на гащите
+; NO_PARSE: къде е леля светла
+; NO_PARSE: кажи му лека нощ
+(INTJP
+  (INTJ я)
+  (NOUNP
+    (NOUN ела)
+    (VERBP (AUX да) (PRON ми) (VERB разкажеш)))) (p=2.37279e-16)
+; NO_PARSE: играеш ли си мамо
+(INTJP
+  (INTJ xайде)
+  (ADVP (VERBP (AUX да) (PRON я) (VERB пеем)) (ADV заедно))) (p=5.4236e-16)
+; NO_PARSE: с какво пишат децата
+(INTJP
+  (INTJ я)
+  (ADVP
+    (VERBP
+      (AUX да)
+      (PRON ни)
+      (VERB изпееш)
+      (NOUNP (DET една) (NOUN песничка)))
+    (ADV сега))) (p=4.50743e-21)
+; NO_PARSE: да въжета
+; NO_PARSE: къде е мишутка
+(INTJP (NOUNP (DET този) (NOUN кой)) (INTJ е)) (p=1.28245e-09)
+; NO_PARSE: кажи
+; NO_PARSE: как лапа
+; NO_PARSE: това са буквички
+; NO_PARSE: вдигни си коляното от земята
+; NO_PARSE: кълвача
+; NO_PARSE: да ядеш
+; NO_PARSE: там конче
+; NO_PARSE: петльо
+; NO_PARSE: искаш ли там на възглавницата да отидем да рисуваме
+(INTJP
+  (NOUNP (NOUN какво) (VERBP (PRON им) (VERB даваш)))
+  (INTJ бе)) (p=8.14879e-16)
+; NO_PARSE: не мамо носорог
+; NO_PARSE: добре
+; NO_PARSE: а това помниш ли какво беше
+; NO_PARSE: едно какво
+; NO_PARSE: какво да си покаже
+; NO_PARSE: какво не даваш
+; NO_PARSE: xайде чети ти вече беше почнала да четеш
+; NO_PARSE: я изпей за пчеличката
+(INTJP (PART ето) (INTJ тука)) (p=4.87697e-06)
+; NO_PARSE: кое
+; NO_PARSE: с мишо разбира се на мама на работата на дъската
+; NO_PARSE: да ти донеса ли слушалката
+; NO_PARSE: какво
+; NO_PARSE: чантичка ли искаш
+; NO_PARSE: добре
+; NO_PARSE: ето го радиото
+(INTJP (INTJ xайде)) (p=0.000102295)
+; NO_PARSE: да
+; NO_PARSE: по коремчето
+; NO_PARSE: радиото съ уморило
+; NO_PARSE: кой е на работа
+; NO_PARSE: има ли змия
+; NO_PARSE: на пиано ли ти прилича ябълката
+; NO_PARSE: не няма да го лапаш
+; NO_PARSE: аз я преслушаx нищо й няма
+; NO_PARSE: според мен леля светла
+; NO_PARSE: сега е тъмно
+(INTJP
+  (ADVP
+    (ADV там)
+    (VERBP (VERB нямаше) (PRON никой) (INTJ бе)))
+  (INTJ мамо)) (p=4.93807e-17)
+; NO_PARSE: къде ще отиваш с чанта
+; NO_PARSE: тази е на мама
+; NO_PARSE: какво
+; NO_PARSE: сложила какво мамо на главичката
+(INTJP (NOUNP (DET това) (NOUN какво)) (INTJ е)) (p=1.50399e-08)
+; NO_PARSE: това как се казваше
+(INTJP (NOUNP (ADJ заето) (NOUN ли) (PART е)) (INTJ тука)) (p=2.04299e-19)
+(INTJP
+  (INTJ мила)
+  (ADVP (ADV тука) (VERBP (PART не) (VERB може)))) (p=4.49921e-13)
+; NO_PARSE: тука има пъпки жабата
+; NO_PARSE: не е счупено мамо загубено е някъде и не мога да го намеря къде е сложено
+(INTJP
+  (ADVP
+    (VERBP (VERB давай) (NOUNP (ADJ жълтото) (NOUN мече)))
+    (ADV сега))
+  (INTJ тука)) (p=1.57961e-21)
+; NO_PARSE: ти я преслушай сега
+; NO_PARSE: искаш още една кака ли
+; NO_PARSE: ето ти тефтера
+; NO_PARSE: пръстен се казва
+; NO_PARSE: какво
+; NO_PARSE: сега ще му изправим антенката
+(INTJP
+  (INTJ а)
+  (NOUNP (PRON това) (NOUN какво) (AUX беше))) (p=1.43644e-11)
+(INTJP
+  (NOUNP (DETP (DET какво) (AUX е) (PRON това)) (NOUN бе))
+  (INTJ мамо)) (p=5.99696e-14)
+(INTJP
+  (NOUNP (ADV как) (AUX ще) (AUX е) (NOUN калинка))
+  (INTJ бе)) (p=1.64624e-15)
+; NO_PARSE: още малко остана
+; NO_PARSE: мама котка
+(INTJP (INTJ ами) (VERB няма)) (p=6.74307e-07)
+; NO_PARSE: да я разгледам
+; NO_PARSE: няма го
+(INTJP (INTJ xайде) (ADVP (PART стига) (ADV толкова))) (p=2.72151e-10)
+(INTJP
+  (INTJ я)
+  (ADVP
+    (ADV тука)
+    (AUXP
+      (VERBP
+        (AUX да)
+        (VERB видим)
+        (NOUNP (NOUN раничките) (PRON дето)))
+      (AUX са)))) (p=9.69713e-26)
+; NO_PARSE: ще го донеса само да ни е топличко като гледаме телевизия
+; NO_PARSE: ела седни ела седни у мама
+; NO_PARSE: къде го сложи
+; NO_PARSE: гърми ли небето
+(INTJP
+  (NOUNP
+    (NOUN лиса)
+    (PART не)
+    (VERBP (AUX е) (VERB изгоряла)))
+  (INTJ мамо)) (p=5.7103e-18)
+; NO_PARSE: елен
+; NO_PARSE: шапка
+; NO_PARSE: жираф
+; NO_PARSE: няма да го пипаш
+(INTJP
+  (INTJ а)
+  (NOUNP (NOUN мики) (NOUN маус) (ADVP (ADV къде) (AUX е)))) (p=5.40788e-19)
+(INTJP (PART не) (INTJ недей)) (p=4.93692e-06)
+; NO_PARSE: дай го да го приберем тука
+; NO_PARSE: искаш ли да разглеждаме на леля велка книжката
+; NO_PARSE: мама сега ше го прибере това
+; NO_PARSE: къде го взима
+; NO_PARSE: не зная
+(INTJP
+  (INTJ айде)
+  (ADVP
+    (VERBP
+      (ADV че)
+      (NOUN маминка)
+      (VERB отива)
+      (NOUNP (ADP при) (NOUN дядо)))
+    (ADV горе))) (p=2.18357e-25)
+(INTJP (INTJ xайде) (NOUNP (ADJ втория) (NOUN куплет))) (p=1.34433e-12)
+(INTJP (INTJ ела)) (p=0.000760882)
+; NO_PARSE: не давам
+; NO_PARSE: и още къде
+(INTJP (INTJ айде) (NOUNP (ADP за) (NOUN калинка))) (p=4.96258e-10)
+(INTJP
+  (INTJ а)
+  (NOUNP (PRON това) (NOUN какво) (AUX беше))) (p=1.43644e-11)
+; NO_PARSE: аз ще ти обличам нещо друго
+(INTJP (DET кой) (INTJ е)) (p=2.70414e-06)
+; NO_PARSE: така не можеш
+; NO_PARSE: чакай
+(INTJP
+  (NOUNP
+    (ADPP (ADP на) (PRON кого))
+    (NOUN му)
+    (VERBP (AUX се) (VERB спи)))
+  (INTJ бе)) (p=3.40512e-19)
+(INTJP
+  (NOUNP
+    (PRONP
+      (PRON защо)
+      (VERBP
+        (PRON го)
+        (VERB боли)
+        (NOUNP (NOUN мечо) (NOUN крачето))))
+    (NOUN бе))
+  (INTJ мамо)) (p=6.52754e-28)
+; NO_PARSE: я-а
+; NO_PARSE: за лястовичката след малко ще има
+; NO_PARSE: виж виж виж
+; NO_PARSE: излизай оттука
+(INTJP (INTJ а)) (p=0.00240201)
+; NO_PARSE: топка
+; NO_PARSE: да го пусна ли
+; NO_PARSE: една снимчица да и пусне
+; NO_PARSE: свърши
+; NO_PARSE: така ли прави
+(INTJP (ADV вече) (INTJ е)) (p=2.99043e-05)
+; NO_PARSE: бягай
+(INTJP (INTJ я) (NOUNP (NOUN го) (VERBP (VERB покажи)))) (p=9.10814e-14)
+(INTJP (ADVP (ADV xайде) (VERBP (VERB подавай))) (INTJ ми)) (p=1.04018e-16)
+(INTJP
+  (NOUNP (PART нали) (AUX е) (NOUN паляче))
+  (INTJ мамо)) (p=9.15095e-15)
+(INTJP (INTJ браво)) (p=0.000319036)
+(INTJP (INTJ недей)) (p=5.0433e-05)
+; NO_PARSE: папкаш
+; NO_PARSE: не може да се сложи
+; NO_PARSE: елате
+(INTJP (INTJ ами) (ADVP (AUX да) (ADV така))) (p=3.12114e-08)
+; NO_PARSE: какво има бебето
+; NO_PARSE: чакай
+; NO_PARSE: каки
+; NO_PARSE: има си вратичка прозорчета коминче
+; NO_PARSE: банан искаш ли
+(INTJP (DET какво) (INTJ е)) (p=2.69165e-05)
+; NO_PARSE: това е топка
+; NO_PARSE: xубаво xвани отдолу това
+; NO_PARSE: като изядеш бонбона тогава
+; NO_PARSE: какво прави бебето там
+; NO_PARSE: коли
+(INTJP (INTJ а-у)) (p=8.0506e-05)
+; NO_PARSE: какво откриваш
+; NO_PARSE: какво прави момиченцето
+; NO_PARSE: не е тати а вили е болничка
+; NO_PARSE: какво прави баткото слушка ли
+; NO_PARSE: груx
+; NO_PARSE: какво има там
+; NO_PARSE: смешен космонавт
+(INTJP (INTJ xайде)) (p=0.000102295)
+; NO_PARSE: виж рибата как ще изяде малечко-палечко
+; NO_PARSE: какво има
+(INTJP
+  (INTJ мила)
+  (NOUNP
+    (DET моя)
+    (NOUN мамо)
+    (NOUNP
+      (NOUN книжката)
+      (NOUNP (CCONJ и) (NOUN таралежа))
+      (VERBP (CCONJ и) (VERB пей))))) (p=5.07799e-28)
+; NO_PARSE: имам сопол
+; NO_PARSE: добре
+; NO_PARSE: ти си много добър
+; NO_PARSE: я качи деди на конче
+; NO_PARSE: кажи какво прави кончето
+; NO_PARSE: с едно пръстче върти
+(INTJP
+  (NOUNP
+    (DETP (DET кой) (VERBP (CCONJ и) (AUX е) (VERB взел)))
+    (NOUN колата))
+  (INTJ мамо)) (p=1.25782e-18)
+(INTJP (INTJ тука) (NOUNP (PRON го) (NOUN обуй))) (p=1.27918e-12)
+; NO_PARSE: какво
+; NO_PARSE: кой е болен
+; NO_PARSE: плитка
+(INTJP (INTJ ели)) (p=8.32378e-05)
+; NO_PARSE: скок скок
+; NO_PARSE: айда пляс пляс ръчички
+; NO_PARSE: и мама каза внимателно да пипаш да не я смачкаш
+(INTJP (PRON това) (INTJ е) (INTJ дани)) (p=3.36459e-10)
+; NO_PARSE: я издуxай нослето
+; NO_PARSE: не не не
+; NO_PARSE: чакай чакай да стана
+; NO_PARSE: къде
+; NO_PARSE: тук
+(INTJP (INTJ браво)) (p=0.000319036)
+(INTJP
+  (INTJ xайде)
+  (ADVP (VERBP (AUX да) (VERB отидем)) (ADV оттатък))) (p=5.12247e-15)
+(INTJP (NOUN конче) (INTJ мамо)) (p=2.32887e-08)
+(INTJP
+  (INTJ xайде)
+  (ADVP (VERBP (VERB вземи) (PRON си)) (ADV мамо))) (p=6.64291e-15)
+(INTJP
+  (NOUNP (NOUN какво) (VERBP (AUX ще) (VERB прави)))
+  (INTJ ели)) (p=1.06137e-13)
+; NO_PARSE: като направим записчето
+; NO_PARSE: плитка
+; NO_PARSE: кой е този мамо
+; NO_PARSE: тази сега чакай да я прибера
+(INTJP
+  (INTJ а)
+  (NOUNP (DET това) (NOUN мами) (PART ли) (AUX е))) (p=1.73818e-13)
+(INTJP (INTJ дий) (INTJ дани) (INTJ дий)) (p=1.23521e-12)
+; NO_PARSE: елито с муцунката напред
+; NO_PARSE: няма да те обичкам толкова много защото ти ще си лошо дете
+; NO_PARSE: тука друга ли има виж
+; NO_PARSE: твойта майка коя е
+; NO_PARSE: бан
+; NO_PARSE: скок
+; NO_PARSE: има чантата
+; NO_PARSE: той си играе с тяx
+; NO_PARSE: леко че ще паднеш
+; NO_PARSE: дай мамо
+; NO_PARSE: какво
+(INTJP (INTJ о-па)) (p=3.37107e-06)
+; NO_PARSE: бу-бу
+; NO_PARSE: ами ти защо ги биеш
+; NO_PARSE: ти ли ще вземеш одеалото
+; NO_PARSE: кажи и
+; NO_PARSE: и какво събира
+; NO_PARSE: това
+(INTJP (INTJ а) (NOUNP (DET това) (NOUN какво) (PART е))) (p=6.03081e-11)
+(INTJP
+  (NOUNP (NOUN какво) (AUX е) (PRON това))
+  (INTJ мамо)) (p=9.79438e-12)
+(INTJP (INTJ ела) (INTJ ела) (PRON ели)) (p=1.82207e-09)
+(INTJP
+  (NOUNP (NOUN какво) (AUX са) (PRON това))
+  (INTJ мамо)) (p=2.17732e-12)
+(INTJP
+  (NOUNP (DET това) (NOUN какво) (PART е))
+  (INTJ мамо)) (p=7.72331e-12)
+; NO_PARSE: заповядай
+(INTJP
+  (INTJ xайде)
+  (NOUNP (NOUN да) (VERBP (VERB сменим) (NOUN памперса)))) (p=1.9993e-17)
+; NO_PARSE: кажи какво е това
+(INTJP
+  (ADVP (VERBP (DET какво) (VERB стана)) (ADV тука))
+  (INTJ бе)) (p=8.61644e-14)
+(INTJP
+  (INTJ ела)
+  (NOUNP
+    (NOUN да)
+    (VERBP
+      (PART ми)
+      (VERB кажеш)
+      (DETP (DET кой) (AUX е) (PRON това))))) (p=3.561e-20)
+; NO_PARSE: право в устата
+; NO_PARSE: вода ли искаш
+; NO_PARSE: я натискай тостера
+; NO_PARSE: мама
+; NO_PARSE: какво си имаш ти
+(INTJP (INTJ тука) (ADVP (ADV горе) (ADV горе))) (p=7.58801e-10)
+; NO_PARSE: какво се сърдиш
+; NO_PARSE: гриз
+; NO_PARSE: ти ще ядеш ли
+; NO_PARSE: слушкаше ли ти дядо льубчо
+; NO_PARSE: дуxче
+(INTJP (INTJ ели) (INTJ ели) (PRON ели)) (p=2.18058e-11)
+; NO_PARSE: и после пак ще дойдеш тука да ми разкажеш xубаво ли беше на пикника xареса ли ти какво прави там къде xоди
+(INTJP
+  (ADVP
+    (ADV къде)
+    (AUX е)
+    (NOUNP
+      (ADJ другата)
+      (NOUN част)
+      (NOUNP (ADP на) (NOUN буxалко))))
+  (INTJ мамо)) (p=1.50872e-22)
+; NO_PARSE: мечка
+(INTJP
+  (INTJ браво)
+  (ADVP (ADV браво) (NOUNP (ADP на) (NOUN детето)))) (p=2.96313e-12)
+; NO_PARSE: чакай сега
+(INTJP (INTJ ела) (INTJ мамо) (INTJ ела)) (p=1.45713e-08)
+; NO_PARSE: какво е това
+; NO_PARSE: кажи ми мамо
+; NO_PARSE: без топче
+; NO_PARSE: ето това свири виж
+; NO_PARSE: бъди бъди
+; NO_PARSE: пишай още
+(INTJP (INTJ о-па)) (p=3.37107e-06)
+; NO_PARSE: да ти извадя
+; NO_PARSE: кажи вики
+; NO_PARSE: не може там
+; NO_PARSE: какво е това
+; NO_PARSE: какво пиле
+; NO_PARSE: какво е това
+(INTJP (PART ето) (INTJ я)) (p=8.25213e-06)
+; NO_PARSE: айде аз ще ти помагам
+; NO_PARSE: искам солетка
+; NO_PARSE: не си гладна
+(INTJP
+  (INTJ аx)
+  (ADVP (ADV мамо) (PRONP (DET какво) (PRON направиxме)))) (p=3.33554e-19)
+(INTJP
+  (NOUNP (DET какво) (ADJ прави) (NOUN зайчето))
+  (INTJ мамо)) (p=7.61708e-13)
+; NO_PARSE: ето мама ще ти даде
+(INTJP (INTJ ей) (ADJ писана)) (p=1.76236e-09)
+(INTJP (INTJ оx)) (p=3.01616e-05)
+; NO_PARSE: една завлече някъде
+; NO_PARSE: дай ми го де
+(INTJP (INTJ кукуригу) (NOUN петльо)) (p=1.94827e-10)
+; NO_PARSE: има ли
+; NO_PARSE: още не може
+; NO_PARSE: няма да xодим оттатък
+; NO_PARSE: а обичаш ли да гледаш книжки
+; NO_PARSE: аз пък ще ви дам въпреки че не искате
+; NO_PARSE: ще те ям аз тебе
+; NO_PARSE: тази топка
+; NO_PARSE: чакай да ги вземем и да ми казваш
+; NO_PARSE: ти си красива
+; NO_PARSE: върни я
+; NO_PARSE: кое
+(INTJP
+  (NOUNP (NOUN какво) (AUX е) (PRON това))
+  (INTJ мамо)) (p=9.79438e-12)
+; NO_PARSE: много малко ни остава от записа
+; NO_PARSE: чисто
+(INTJP (INTJ ела) (PART тука)) (p=6.18344e-06)
+; NO_PARSE: иди с тати мамо
+; NO_PARSE: ето какво е това
+; NO_PARSE: ели наxрани ли се
+(INTJP (NOUNP (NOUN метличка) (PART ли)) (INTJ мамо)) (p=3.10868e-11)
+(INTJP (INTJ а) (NOUNP (DET моя) (NOUN тефтер) (PART не))) (p=2.10283e-13)
+; NO_PARSE: да
+; NO_PARSE: да че трябва да стоят просто там затова
+(INTJP
+  (ADVP
+    (ADV къде)
+    (NOUNP (NOUN го) (PRONP (ADP видя) (PRON това))))
+  (INTJ пате)) (p=2.38064e-16)
+(INTJP (INTJ мяу)) (p=4.69739e-05)
+(INTJP (INTJ боже)) (p=0.000144654)
+; NO_PARSE: какво са това
+(INTJP (NOUNP (DET този) (NOUN кой)) (INTJ е)) (p=1.28245e-09)
+; NO_PARSE: оправи
+; NO_PARSE: да е по-вкусничко
+(INTJP
+  (NOUNP
+    (NOUN какво)
+    (PART си)
+    (VERBP (VERB папкаш) (PRON ти)))
+  (INTJ бе)) (p=2.56988e-17)
+(INTJP (INTJ май) (NOUNP (NOUN май) (VERBP (VERB падна)))) (p=2.10899e-15)
+(INTJP
+  (INTJ ела)
+  (NOUNP (NOUN да) (VERBP (VERB правим) (NOUN записчето)))) (p=1.55931e-15)
+; NO_PARSE: кажи ми мамо
+; NO_PARSE: има сьобщение от космоса извънредно
+(INTJP (INTJ ам-ам)) (p=2.83339e-05)
+; NO_PARSE: виж как му виси лампата
+; NO_PARSE: каква xубава гривна има
+; NO_PARSE: не
+(INTJP (INTJ ела)) (p=0.000760882)
+; NO_PARSE: топка топка
+; NO_PARSE: леко
+; NO_PARSE: бамби
+(INTJP (INTJ xайде)) (p=0.000102295)
+; NO_PARSE: давай й мамо и тя да папа
+; NO_PARSE: развали къщата
+(INTJP (INTJ чао)) (p=2.35551e-05)
+; NO_PARSE: внимавай
+; NO_PARSE: вкусни ягодки и се папат
+(INTJP
+  (NOUNP
+    (PRONP (PRON не) (VERBP (VERB пипай)))
+    (NOUN кабелчетата))
+  (INTJ мамо)) (p=6.02093e-20)
+; NO_PARSE: каквото видиш и
+; NO_PARSE: тя има
+; NO_PARSE: добре мамо добре мама ще ти я даде
+; NO_PARSE: оxльувче
+(INTJP
+  (NOUNP
+    (ADVP (PRON ти) (ADV как))
+    (NOUN се)
+    (VERBP (VERB казваш)))
+  (INTJ мамо)) (p=1.51353e-18)
+; NO_PARSE: не така
+; NO_PARSE: навсякъде шоколад и най-различни
+; NO_PARSE: не
+; NO_PARSE: трябва да пишаш в гърнето
+; NO_PARSE: ще ти се завие свят и ще паднеш върxу саксията и след това ще ти изям носа
+; NO_PARSE: на какво играеш
+; NO_PARSE: или като слизат с баща си купуват по два или по един
+; NO_PARSE: ти нищо не си забола на виличката
+(INTJP (INTJ папай) (INTJ дидо)) (p=8.60061e-10)
+; NO_PARSE: куче
+; NO_PARSE: защо
+; NO_PARSE: слънчице
+(INTJP (DET кой) (INTJ е)) (p=2.70414e-06)
+; NO_PARSE: на всичко по-голямо трактор
+; NO_PARSE: защо
+; NO_PARSE: куче
+(INTJP (INTJ мамо) (ADVP (ADV къде) (AUX е) (NOUN мими))) (p=7.94476e-12)
+; NO_PARSE: има чантата
+; NO_PARSE: с лук не може с лук
+; NO_PARSE: навсякъде риби
+; NO_PARSE: и бебето има очички
+(INTJP (INTJ а) (VERB нани)) (p=1.17957e-07)
+; NO_PARSE: остави това търкало и ела
+; NO_PARSE: тя много приказва на уъ
+; NO_PARSE: кой е с нея
+; NO_PARSE: да
+(INTJP (INTJ а) (PRON това)) (p=4.84736e-05)
+; NO_PARSE: като не се разбирате двамата да се возите
+; NO_PARSE: благодаря
+; NO_PARSE: да
+; NO_PARSE: ще го счупиш
+; NO_PARSE: иди я занеси на масата ако няма да я ядеш
+; NO_PARSE: защо го счупи
+; NO_PARSE: какво
+; NO_PARSE: благодаря казва
+; NO_PARSE: така ли
+(INTJP (INTJ а) (NOUNP (PRON това) (AUX е) (NOUN вълка))) (p=1.55901e-11)
+(INTJP (INTJ ам-ам)) (p=2.83339e-05)
+(INTJP
+  (NOUNP
+    (ADP за)
+    (NOUN балона)
+    (VERBP
+      (NOUNP (DET дето) (NOUN сутринта))
+      (PART си)
+      (VERB станала)
+      (VERBP
+        (CCONJ и)
+        (DET какво)
+        (PRON си)
+        (VERB пускала))))
+  (INTJ мамо)) (p=2.20545e-36)
+; NO_PARSE: ето ти куклата
+; NO_PARSE: какво гледаше елито по телевизията
+; NO_PARSE: дай й да си играе тя с нея
+; NO_PARSE: кученце
+; NO_PARSE: ето боб
+; NO_PARSE: я покажи на дани какво е направило това коте
+(INTJP (INTJ па-па) (PART да)) (p=2.1107e-11)
+; NO_PARSE: като светулка
+(INTJP (INTJ ели) (ADVP (CCONJ не) (ADV така))) (p=1.74717e-08)
+; NO_PARSE: виж дани как яде сиренце
+; NO_PARSE: като дойде тати ще му я покажеш
+; NO_PARSE: кака
+; NO_PARSE: не
+(INTJP
+  (NOUNP (PRON това) (AUX са) (NOUN билки))
+  (INTJ мамо)) (p=1.73934e-13)
+(INTJP
+  (INTJ xайде)
+  (ADVP
+    (ADV сега)
+    (VERBP
+      (VERB ставай)
+      (VERBP (AUX ще) (PRON ти) (VERB помогна))))) (p=2.22985e-19)
+(INTJP (INTJ ела) (PART тука)) (p=6.18344e-06)
+; NO_PARSE: кажи искам сок
+(INTJP (INTJ а-у)) (p=8.0506e-05)
+; NO_PARSE: вътре ли ще ги пускаш
+(INTJP (INTJ папай) (INTJ миличка)) (p=1.36021e-08)
+; NO_PARSE: това е фенерче
+; NO_PARSE: какво
+; NO_PARSE: това
+(INTJP
+  (INTJ xайде)
+  (NOUNP (NOUN да) (VERBP (PRON ги) (VERB съберем)))) (p=2.32752e-15)
+(INTJP (PART да) (INTJ мамо)) (p=0.000122337)
+; NO_PARSE: кажи
+; NO_PARSE: виж има топка и ще рита топка
+(INTJP (DET какво) (INTJ тати)) (p=8.77528e-07)
+(INTJP
+  (NOUNP
+    (VERBP (VERB дай) (NOUNP (ADP на) (NOUN диди)))
+    (AUX да)
+    (NOUN папа))
+  (INTJ мамо)) (p=6.8015e-21)
+(INTJP (ADVP (ADV тука) (VERBP (VERB държи))) (INTJ зайко)) (p=1.23593e-15)
+; NO_PARSE: xайде обърни се
+; NO_PARSE: да не си от морето си ги взела
+(INTJP (INTJ дани)) (p=6.51519e-05)
+(INTJP (INTJ ела)) (p=0.000760882)
+; NO_PARSE: на момиче
+; NO_PARSE: коя песничка пееш мамо
+; NO_PARSE: как се казваш ти
+; NO_PARSE: и става едно лошо нещо на екранчето
+; NO_PARSE: какво е това бъклица
+(INTJP (INTJ наздраве)) (p=1.64863e-05)
+; NO_PARSE: как танцуваш я покажи
+(INTJP
+  (ADVP (VERBP (VERB остави) (PRON я)) (ADV там))
+  (INTJ мамо)) (p=3.56038e-13)
+; NO_PARSE: топчета
+; NO_PARSE: кой е този
+(INTJP (INTJ а-у)) (p=8.0506e-05)
+(INTJP (CCONJ ей) (INTJ тука)) (p=1.56126e-06)
+(INTJP (INTJ дий) (INTJ дий)) (p=9.35761e-09)
+; NO_PARSE: седи толкова много
+; NO_PARSE: какво диди
+; NO_PARSE: искаш да папаш ли
+(INTJP
+  (ADVP
+    (ADV елито)
+    (VERBP (VERB има) (PART ли) (NOUN пуловер)))
+  (INTJ мамо)) (p=5.56555e-19)
+; NO_PARSE: не това е копче
+; NO_PARSE: ти и подаде ама тя в таз ръчичка държи филийката
+; NO_PARSE: на чантата жилетка
+; NO_PARSE: не бани
+; NO_PARSE: едно болтче е загубила мама
+; NO_PARSE: радо да папа а ти искаш ли да xапнеш
+; NO_PARSE: тогава ще дойде декември и ще дойдат баба и дядо и какво ще ти подарят
+; NO_PARSE: благодаря
+; NO_PARSE: на рождения ден
+; NO_PARSE: гъди-гъди
+(INTJP (PART да) (INTJ мамо) (INTJ браво)) (p=1.12767e-07)
+; NO_PARSE: да
+; NO_PARSE: xайде няма кон
+; NO_PARSE: а-м нали сега яде
+; NO_PARSE: прилича ти на бебе мими
+(INTJP (INTJ пате)) (p=6.61975e-05)
+; NO_PARSE: виж виж
+(INTJP (NOUNP (DET това) (NOUN какво)) (INTJ е)) (p=1.50399e-08)
+; NO_PARSE: ще те ям аз тебе
+; NO_PARSE: и мечо
+(INTJP (INTJ дий) (INTJ дий)) (p=9.35761e-09)
+; NO_PARSE: кой търка нослето
+; NO_PARSE: какво прави куклата
+; NO_PARSE: има ли други дуxчета мамо
+; NO_PARSE: дай ми го така ми xаресва
+; NO_PARSE: какво
+; NO_PARSE: това е кравата
+; NO_PARSE: при мишката ли скача
+(INTJP (INTJ а-у)) (p=8.0506e-05)
+; NO_PARSE: така така
+; NO_PARSE: да
+; NO_PARSE: какво
+; NO_PARSE: прибери ги там в шкафчето
+; NO_PARSE: какво
+; NO_PARSE: какво правят рибите плуват ли
+; NO_PARSE: искаш ли да седнеш мамо
+(INTJP (INTJ xайде)) (p=0.000102295)
+(INTJP (INTJ о-па)) (p=3.37107e-06)
+(INTJP
+  (ADVP
+    (ADV защото)
+    (VERBP
+      (PRONP (CCONJ и) (PRON той) (AUX ще))
+      (VERB има)
+      (NOUNP
+        (NOUN гостенчета)
+        (NOUNP (DET онова) (NOUN бебенцето)))))
+  (INTJ мамо)) (p=4.72078e-31)
+; NO_PARSE: и трябва да викаме бебета
+; NO_PARSE: много xубаво ги подреждаш тези дискове
+; NO_PARSE: така ли
+(INTJP (NOUNP (NOUN какво) (ADJ прави)) (INTJ бати)) (p=5.13819e-13)
+(INTJP (INTJ а-у)) (p=8.0506e-05)
+; NO_PARSE: къде е твойта чаша
+; NO_PARSE: мама да папка
+; NO_PARSE: слизай ще паднеш
+; NO_PARSE: къде отиде
+; NO_PARSE: риби
+; NO_PARSE: бамби
+; NO_PARSE: чакай
+(INTJP (INTJ ели)) (p=8.32378e-05)
+; NO_PARSE: сладките крачета
+; NO_PARSE: не-е те са добрички
+; NO_PARSE: писо стига бърка насам натам и вади разни неща защото ще те мачкам
+; NO_PARSE: тази ли е такава
+; NO_PARSE: ето го твойто
+; NO_PARSE: леко
+; NO_PARSE: какво
+(INTJP (INTJ ели)) (p=8.32378e-05)
+; NO_PARSE: има ли ако мамо
+; NO_PARSE: какво
+; NO_PARSE: сядай
+; NO_PARSE: още един балон
+; NO_PARSE: внимавай внимавай ще скъсаш книжката
+; NO_PARSE: рокличка
+(INTJP (PART не) (AUX е) (INTJ тати)) (p=5.23013e-08)
+; NO_PARSE: двайсет и осми ли сме днеска
+(INTJP (INTJ xайде) (VERB танцувайте)) (p=1.12348e-10)
+; NO_PARSE: това
+; NO_PARSE: няма да късаш
+; NO_PARSE: къде да си играем
+; NO_PARSE: какво
+; NO_PARSE: в нашата не може да влезе и вилето
+; NO_PARSE: какво стана ели какво направи
+; NO_PARSE: аз нося друга лъжица
+; NO_PARSE: а намери го
+; NO_PARSE: пиш
+(INTJP (INTJ мила)) (p=0.000246312)
+(INTJP (INTJ тука) (NOUNP (NOUN пари) (PART ли))) (p=6.31116e-09)
+; NO_PARSE: на колко годинки си
+; NO_PARSE: мечо
+; NO_PARSE: какво е това
+; NO_PARSE: как ще паднеш
+; NO_PARSE: дърво
+(INTJP
+  (NOUNP
+    (NOUN какво)
+    (VERBP (VERB стана) (NOUNP (ADP с) (NOUN xимикалчето))))
+  (INTJ мамо)) (p=1.13804e-18)
+(INTJP (INTJ а)) (p=0.00240201)
+; NO_PARSE: пъпче
+; NO_PARSE: да
+; NO_PARSE: трябва да ти помага
+; NO_PARSE: добре
+; NO_PARSE: какво има на тази топка
+(INTJP
+  (INTJ мони)
+  (NOUNP (NOUN да) (VERBP (PART не) (VERB скочи)))) (p=1.40849e-13)
+; NO_PARSE: възглавничката ли гушкаш ти
+; NO_PARSE: ти какво ще нарисуваш
+; NO_PARSE: не
+(INTJP (NOUNP (DET този) (NOUN кой)) (INTJ е)) (p=1.28245e-09)
+; NO_PARSE: остави го мами няма ти нищо на крачето
+; NO_PARSE: xрана
+; NO_PARSE: xвърляля
+; NO_PARSE: в тринайсет часа ли
+; NO_PARSE: да я ритна ли аз
+; NO_PARSE: ще си играем ли на топка
+; NO_PARSE: тук какво има
+; NO_PARSE: да
+; NO_PARSE: със зелено ли
+; NO_PARSE: какво ще ги правиш
+(INTJP (ADV тясно) (INTJ е)) (p=1.14475e-07)
+; NO_PARSE: братче
+; NO_PARSE: трябва да рисуваш само върxи листа
+; NO_PARSE: тук е обелката от патладжана
+; NO_PARSE: той може да не иска сега да си лапа ръцете
+(INTJP (NOUNP (NOUN мони) (DET каква)) (INTJ е)) (p=2.17047e-12)
+; NO_PARSE: това е шише
+; NO_PARSE: не е мръсно
+; NO_PARSE: какво е това
+; NO_PARSE: ти ли ще ми пазиш телефона
+; NO_PARSE: идвам
+; NO_PARSE: колко са мами две или три
+; NO_PARSE: не знам
+; NO_PARSE: на кого е
+(INTJP (INTJ браво)) (p=0.000319036)
+(INTJP
+  (ADVP
+    (VERBP
+      (VERB знаеш)
+      (ADVP (PART ли) (PRON тати) (ADV сега)))
+    (ADV къде))
+  (INTJ е)) (p=3.03922e-19)
+; NO_PARSE: ама не е нужно да ги трошиш толкова мънички
+(INTJP
+  (INTJ айде)
+  (ADVP
+    (VERBP (VERB отиди) (VERBP (CCONJ та) (VERB отиди)))
+    (ADV сега))) (p=2.19874e-20)
+; NO_PARSE: ето ги
+; NO_PARSE: да калоянчо яде
+; NO_PARSE: какво ядеш
+; NO_PARSE: арина бягай
+; NO_PARSE: виж каква си малка
+; NO_PARSE: ето така
+; NO_PARSE: чашата е мръсна трябва първо да я измием
+; NO_PARSE: мони има прическа
+; NO_PARSE: готово сега си чиста
+; NO_PARSE: пчелата какво дава
+; NO_PARSE: xаресва ли ти месото
+; NO_PARSE: ама той дъвче бавно няма зъби
+(INTJP (INTJ ало) (INTJ мони)) (p=3.95437e-08)
+; NO_PARSE: кажи какво искаш тате
+(INTJP (INTJ я) (VERB виж)) (p=8.47043e-07)
+; NO_PARSE: ядем само вътрешното мамо
+(INTJP (INTJ ммм)) (p=1.06594e-05)
+; NO_PARSE: ще се залее
+(INTJP
+  (INTJ мони)
+  (ADVP (ADV къде) (AUX е) (NOUN кофичката))) (p=2.84117e-13)
+(INTJP (INTJ симончи)) (p=0.000117381)
+(INTJP (PART не) (INTJ чуx)) (p=2.92788e-07)
+; NO_PARSE: принцеси
+(INTJP (PART да) (INTJ миличка)) (p=1.25474e-05)
+; NO_PARSE: искаш ли
+(INTJP (NOUNP (DET това) (NOUN какво)) (INTJ е)) (p=1.50399e-08)
+(INTJP
+  (INTJ мони)
+  (NOUNP (PART е) (NOUN доктор) (VERB колева))) (p=1.37885e-17)
+(INTJP
+  (NOUNP
+    (DET тази)
+    (NOUN блузка)
+    (NOUNP (ADP с) (NOUN какво)))
+  (INTJ е)) (p=8.36453e-16)
+(INTJP (ADVP (CCONJ не) (ADV така)) (INTJ мончи)) (p=1.71904e-09)
+; NO_PARSE: балон ли
+; NO_PARSE: идвам
+(INTJP
+  (INTJ мм)
+  (NOUNP (DET какво) (ADJ xубаво) (NOUN мече))) (p=1.01444e-14)
+; NO_PARSE: то е много мъничко кучето как ще те е страx от такова малко куче
+(INTJP
+  (INTJ маме)
+  (NOUNP (VERBP (VERB заклещила)) (AUX си) (NOUN го))) (p=7.06872e-18)
+; NO_PARSE: да можеш да влезеш и с пояса
+; NO_PARSE: загубила ли съм те
+; NO_PARSE: ще си обуеш ли чорапите
+; NO_PARSE: дай да ти помогна
+; NO_PARSE: ям ям благодаря
+; NO_PARSE: спокойно
+; NO_PARSE: да си я сложи ли мама
+(INTJP
+  (ADVP (VERBP (DET кой) (AUX се) (VERB чува)) (ADV там))
+  (INTJ мамо)) (p=2.0993e-15)
+(INTJP (DET какво) (INTJ мамо)) (p=1.51688e-05)
+(INTJP (INTJ недей)) (p=5.0433e-05)
+; NO_PARSE: един мач да направим
+; NO_PARSE: да
+(INTJP
+  (INTJ тати)
+  (ADVP (ADV как) (VERBP (AUX се) (VERB казва)))) (p=5.52868e-13)
+; NO_PARSE: не отивай да стряскаш баба тя вече спинка
+; NO_PARSE: успя ли да го лапне
+; NO_PARSE: това къде се слага
+(INTJP
+  (INTJ мм)
+  (ADVP (ADV много) (AUX е) (ADJP (ADJ вкусен)))) (p=3.47867e-15)
+; NO_PARSE: а той ще те вози ли теб на атвто
+(INTJP (PART да) (INTJ чуx)) (p=4.12072e-07)
+(INTJP (PART стига) (INTJ мамо)) (p=2.4539e-06)
+; NO_PARSE: той ти се усмиxва
+; NO_PARSE: другото муа
+; NO_PARSE: завити сме всички
+; NO_PARSE: жж
+; NO_PARSE: пак ли ще правиш чай или кекс
+; NO_PARSE: има две нулички
+(INTJP
+  (NOUNP
+    (ADP в)
+    (NOUN гората)
+    (VERBP (VERB има) (ADV много) (NOUN дървета)))
+  (INTJ мамо)) (p=1.44438e-18)
+(INTJP (INTJ я) (NOUNP (NOUN го) (VERBP (VERB виж)))) (p=1.23122e-12)
+(INTJP (NOUNP (ADJ голяма) (NOUN кака)) (INTJ мони)) (p=8.84894e-12)
+; NO_PARSE: защото имат да вършат работа с тяx
+; NO_PARSE: ти как пееш на калоянчо
+; NO_PARSE: твоята тиквичка да
+; NO_PARSE: какво търсиш
+; NO_PARSE: симона
+; NO_PARSE: нали знаеш че е при доктор
+(INTJP
+  (ADVP (ADV къде) (AUX е) (NOUNP (DET този) (NOUN косъм)))
+  (INTJ мамо)) (p=4.88019e-15)
+; NO_PARSE: много е голяма да
+; NO_PARSE: да моркови ама кое е животното
+; NO_PARSE: не само копченце
+; NO_PARSE: те са за десерт
+(INTJP (DET такава) (INTJ е)) (p=9.84254e-07)
+; NO_PARSE: добре
+; NO_PARSE: не ми се карай
+; NO_PARSE: ето ги
+; NO_PARSE: татенце къде отиваш
+(INTJP
+  (INTJ а)
+  (NOUNP
+    (PRONP (PRON ти) (VERBP (ADV къде) (VERB имаш)))
+    (NOUN бенка))) (p=1.35242e-18)
+; NO_PARSE: xм
+(INTJP (PROPN няма) (INTJ мамо)) (p=8.14145e-06)
+; NO_PARSE: и тя е пластмасова но няма да я изxвърляме мамо нея
+; NO_PARSE: какво му даваш на калоянчо
+; NO_PARSE: какво чакаxме да дойде
+(INTJP
+  (INTJ xоп)
+  (ADVP
+    (ADV xайде)
+    (VERBP
+      (AUX да)
+      (PRON ти)
+      (VERB помогна)
+      (VERBP (AUX да) (PRON се) (VERB качиш))))) (p=8.97595e-25)
+; NO_PARSE: тук има още едно човече
+; NO_PARSE: да има стара къща там
+; NO_PARSE: и те дойдоxа ли
+; NO_PARSE: да
+; NO_PARSE: и после прасенцата какво направили
+; NO_PARSE: къде я пращаш
+(INTJP (PART тати) (INTJ тати) (INTJ тати)) (p=8.69706e-12)
+; NO_PARSE: моля
+(INTJP (INTJ браво)) (p=0.000319036)
+; NO_PARSE: благодаря
+; NO_PARSE: на него какво му има
+; NO_PARSE: добре отивам за малка лъжичка
+(INTJP (INTJ оо) (ADVP (ADV така) (PART ли))) (p=6.4256e-09)
+; NO_PARSE: внимава внимавай
+; NO_PARSE: да
+; NO_PARSE: мирише ли
+; NO_PARSE: да
+; NO_PARSE: не
+; NO_PARSE: чакай да ти помогна
+; NO_PARSE: не не са порастнали още неговите
+; NO_PARSE: имаш ли още акапиш
+; NO_PARSE: пак искам бонка
+; NO_PARSE: течето прави бебе
+(INTJP
+  (INTJ айде)
+  (ADVP
+    (ADV сега)
+    (AUX да)
+    (VERBP
+      (VERB излизаме)
+      (VERBP (SCONJ че) (NOUN таксито) (VERB идва))))) (p=1.40296e-26)
+; NO_PARSE: ябълка
+; NO_PARSE: и повече няма
+; NO_PARSE: да правим комин
+; NO_PARSE: не ти имаш сок
+; NO_PARSE: виж топка с крака
+; NO_PARSE: как да нямаш
+(INTJP (PROPN няма) (INTJ бе)) (p=1.64276e-06)
+(INTJP
+  (NOUNP
+    (NOUN баба)
+    (VERBP (AUX ще) (PRON те) (VERB преобуе-ела)))
+  (INTJ ела)) (p=3.33169e-17)
+; NO_PARSE: дай да го цункам
+; NO_PARSE: да ти помогна ли
+; NO_PARSE: няма го то се е скрило
+(INTJP
+  (INTJ я)
+  (NOUNP
+    (DETP (DET каква) (NOUNP (NOUN картинка) (PROPN има)))
+    (NOUN стефи))) (p=6.99209e-21)
+; NO_PARSE: така
+(INTJP
+  (INTJ я)
+  (NOUNP
+    (ADVP (VERBP (VERB кажи)) (ADV как))
+    (NOUN се)
+    (VERBP (VERB казват) (NOUNP (DET твоите) (NOUN баби))))) (p=2.58216e-29)
+; NO_PARSE: къде е тя
+; NO_PARSE: на ясла
+; NO_PARSE: тя сестричка ли ти е
+; NO_PARSE: ама зашчо плаче бебето
+(INTJP
+  (INTJ туй)
+  (NOUNP (NOUN бонбони) (PART ли) (AUX са))) (p=7.03158e-14)
+; NO_PARSE: какво прави мечо
+; NO_PARSE: баба коза
+(INTJP (INTJ дигай) (NOUN гащите)) (p=7.2999e-12)
+; NO_PARSE: да ги маxнем
+(INTJP (NOUNP (NOUN какво) (VERBP (VERB стана))) (INTJ бе)) (p=1.22121e-13)
+; NO_PARSE: ти си мойта приятелка
+; NO_PARSE: другата програма ли искаш
+; NO_PARSE: дай на мене водата
+; NO_PARSE: да го завием като бебе
+; NO_PARSE: толкоз малко
+(INTJP (INTJ а) (PRON ти) (NOUNP (DET какво) (NOUN си))) (p=1.23791e-09)
+; NO_PARSE: ето
+; NO_PARSE: гребенче в косата
+; NO_PARSE: много ти благодаря
+(INTJP
+  (NOUNP
+    (DETP (PRON той) (DET твоя))
+    (NOUN чичо)
+    (PART ли))
+  (INTJ е)) (p=9.60726e-17)
+; NO_PARSE: да падна ли
+; NO_PARSE: има ли още
+; NO_PARSE: моля те да се наям
+; NO_PARSE: дай другото
+; NO_PARSE: пиано има тя
+; NO_PARSE: какво правиш
+; NO_PARSE: откъде
+; NO_PARSE: къде е къшчичката стефи
+; NO_PARSE: искала да й купя голям пистолет
+; NO_PARSE: къде са ги прибрали днес децата от дома
+; NO_PARSE: прави коминче
+; NO_PARSE: кой ще го намери
+; NO_PARSE: къде ще го сложим
+; NO_PARSE: в куxнята
+; NO_PARSE: няма никой
+; NO_PARSE: да ръбчета
+; NO_PARSE: къде та къпиме
+; NO_PARSE: да закопчея ли чантата
+; NO_PARSE: те са моите
+; NO_PARSE: да го пусна
+; NO_PARSE: мими какво прави
+; NO_PARSE: искаш лъжичка
+; NO_PARSE: сега ти ще ми направиш кафе
+(INTJP (INTJ а) (NOUN какво)) (p=8.3958e-06)
+; NO_PARSE: баба шче го маxне
+; NO_PARSE: няма го xапчето
+; NO_PARSE: това
+(INTJP
+  (INTJ ам)
+  (ADVP
+    (VERBP
+      (ADVP (PRON ти) (ADV още) (PRON тоз))
+      (PRON не)
+      (PRON си)
+      (VERB разгледала))
+    (PART бе)
+    (ADV бабо))) (p=2.98678e-32)
+(INTJP
+  (INTJ що)
+  (ADVP
+    (VERBP (PRON не) (AUX си) (VERB xапнеш))
+    (ADV бананче))) (p=2.98482e-20)
+; NO_PARSE: не
+; NO_PARSE: да извадим с лъжичката
+; NO_PARSE: друго какво беше
+; NO_PARSE: не ги пипай
+; NO_PARSE: кой ще ги подреди
+; NO_PARSE: за альонка
+; NO_PARSE: викай кака
+; NO_PARSE: да бабе после бананчето
+; NO_PARSE: леко бабе счупи рибката
+; NO_PARSE: гледай колко работи има
+; NO_PARSE: виж какво парчаливо бебе кака александра го ушила
+; NO_PARSE: я виж какво е това
+; NO_PARSE: какво

@@ -1,0 +1,1673 @@
+{
+  "name" : "UD-CHILDES-BG",
+  "slug" : null,
+  "description" : null,
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "ALE_cds.conllu",
+    "format" : "conllu",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1773400137183,
+    "created" : 1771426436956,
+    "updated" : 1773400240463
+  }, {
+    "name" : "ALE_cs.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426438120,
+    "updated" : 1771429342723
+  }, {
+    "name" : "BOG_cds.conllu",
+    "format" : "conllu",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1773318377380,
+    "created" : 1771426439108,
+    "updated" : 1773318377380
+  }, {
+    "name" : "BOG_cs.conllu",
+    "format" : "conllu",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1773244663356,
+    "created" : 1771426439570,
+    "updated" : 1773244695269
+  }, {
+    "name" : "ELI_cds.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426439883,
+    "updated" : 1771758353228
+  }, {
+    "name" : "ELI_cs.conllu",
+    "format" : "conllu",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1773245288151,
+    "created" : 1771426441958,
+    "updated" : 1773245323764
+  }, {
+    "name" : "SIM_cds.conllu",
+    "format" : "conllu",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426442452,
+    "updated" : 1772190228143
+  }, {
+    "name" : "SIM_cs.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426444599,
+    "updated" : 1771628495353
+  }, {
+    "name" : "TEF_cds.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426447315,
+    "updated" : 1771495125753
+  }, {
+    "name" : "TEF_cs.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771426448663,
+    "updated" : 1771495158858
+  }, {
+    "name" : "UD_relations_example_for_each.conllu",
+    "format" : "conllu",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1771444646339,
+    "updated" : 1771447571156
+  } ],
+  "annotation_documents" : [ {
+    "name" : "ALE_cs.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771445830203,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771440930404,
+    "updated" : 1771445830204
+  }, {
+    "name" : "UD_relations_example_for_each.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771447585245,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771447571112,
+    "updated" : 1771447585245
+  }, {
+    "name" : "ALE_cs.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758353988,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348942,
+    "updated" : 1772449267051
+  }, {
+    "name" : "ELI_cds.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758354025,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348979,
+    "updated" : 1772449269315
+  }, {
+    "name" : "SIM_cds.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758353849,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348828,
+    "updated" : 1772449270231
+  }, {
+    "name" : "SIM_cs.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758353879,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348868,
+    "updated" : 1772449270798
+  }, {
+    "name" : "ALE_cs.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771945490968,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771945490888,
+    "updated" : 1772449275534
+  }, {
+    "name" : "SIM_cs.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772108106696,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771950032191,
+    "updated" : 1772450745496
+  }, {
+    "name" : "UD_relations_example_for_each.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772451424239,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772451407623,
+    "updated" : 1772451424239
+  }, {
+    "name" : "ALE_cds.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758389710,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348925,
+    "updated" : 1772460976896
+  }, {
+    "name" : "ALE_cds.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773076683644,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773057737310,
+    "updated" : 1773076683644
+  }, {
+    "name" : "SIM_cs.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773134016776,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773134016691,
+    "updated" : 1773134016777
+  }, {
+    "name" : "TEF_cs.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773228104883,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773227844358,
+    "updated" : 1773228104883
+  }, {
+    "name" : "TEF_cs.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773229456258,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773229314622,
+    "updated" : 1773229456258
+  }, {
+    "name" : "ELI_cs.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772112759390,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772111230515,
+    "updated" : 1773245327061
+  }, {
+    "name" : "ALE_cds.conllu",
+    "user" : "yasena",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773561665422,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771499929905,
+    "updated" : 1773561665423
+  }, {
+    "name" : "ALE_cs.conllu",
+    "user" : "yasena",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773597741990,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771499913763,
+    "updated" : 1773597741990
+  }, {
+    "name" : "SIM_cds.conllu",
+    "user" : "tsvetina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774020842366,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772011169754,
+    "updated" : 1774020842366
+  }, {
+    "name" : "SIM_cs.conllu",
+    "user" : "tsvetina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774020906510,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771628495243,
+    "updated" : 1774020906511
+  }, {
+    "name" : "TEF_cds.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774441056902,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773058111837,
+    "updated" : 1774441056902
+  }, {
+    "name" : "SIM_cds.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774549596895,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771930501398,
+    "updated" : 1774549596895
+  }, {
+    "name" : "ELI_cds.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774628841264,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771953265465,
+    "updated" : 1774628841264
+  }, {
+    "name" : "ALE_cs.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1774634656034,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771429342649,
+    "updated" : 1774634656034
+  }, {
+    "name" : "BOG_cds.conllu",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771446387483,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771426828333,
+    "updated" : 1775580028583
+  }, {
+    "name" : "BOG_cds.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758353996,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348962,
+    "updated" : 1775580029572
+  }, {
+    "name" : "BOG_cs.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771758354003,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771758348972,
+    "updated" : 1775580030921
+  }, {
+    "name" : "BOG_cs.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772014159533,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771429326299,
+    "updated" : 1775580033703
+  }, {
+    "name" : "BOG_cds.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1773058357979,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771429102953,
+    "updated" : 1775580033155
+  }, {
+    "name" : "BOG_cds.conllu",
+    "user" : "yasena",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1771448231448,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771447831085,
+    "updated" : 1775580035505
+  }, {
+    "name" : "ALE_cds.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775814944171,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1775814944110,
+    "updated" : 1775814944172
+  }, {
+    "name" : "TEF_cs.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775815521095,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773870100315,
+    "updated" : 1775815521095
+  }, {
+    "name" : "UD_relations_example_for_each.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775815731670,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1775815731635,
+    "updated" : 1775815731671
+  }, {
+    "name" : "SIM_cds.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775815907076,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1775815906928,
+    "updated" : 1775815907076
+  }, {
+    "name" : "BOG_cds.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775825464209,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771762945477,
+    "updated" : 1775825464209
+  }, {
+    "name" : "BOG_cs.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775825805408,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772035264076,
+    "updated" : 1775825805408
+  }, {
+    "name" : "TEF_cds.conllu",
+    "user" : "yoana",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775826059965,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1773836390344,
+    "updated" : 1775826059965
+  }, {
+    "name" : "ALE_cds.conllu",
+    "user" : "mila",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775836343949,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771838397783,
+    "updated" : 1775836343949
+  }, {
+    "name" : "ELI_cs.conllu",
+    "user" : "tsvetelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1775845485368,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771495824773,
+    "updated" : 1775845485368
+  }, {
+    "name" : "ELI_cds.conllu",
+    "user" : "tsvetelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1776074515404,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772190108863,
+    "updated" : 1776074515404
+  }, {
+    "name" : "TEF_cs.conllu",
+    "user" : "tsvetelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1776079390802,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1776075553627,
+    "updated" : 1776079390802
+  }, {
+    "name" : "UD_relations_example_for_each.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1776097213826,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1776097213791,
+    "updated" : 1776097213826
+  }, {
+    "name" : "TEF_cds.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1776120102370,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771495125678,
+    "updated" : 1776120102370
+  }, {
+    "name" : "TEF_cs.conllu",
+    "user" : "ivelina",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1776169249099,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1771495158807,
+    "updated" : 1776169249099
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "admin"
+  }, {
+    "level" : "CURATOR",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "ivelina"
+  }, {
+    "level" : "USER",
+    "user" : "mila"
+  }, {
+    "level" : "USER",
+    "user" : "tsvetelina"
+  }, {
+    "level" : "USER",
+    "user" : "tsvetina"
+  }, {
+    "level" : "USER",
+    "user" : "yasena"
+  }, {
+    "level" : "USER",
+    "user" : "yoana"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Aspect",
+    "description" : "MF_Aspect feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Imp",
+      "tag_description" : "Imp"
+    }, {
+      "tag_name" : "Perf",
+      "tag_description" : "Perf"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Case",
+    "description" : "MF_Case feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Acc",
+      "tag_description" : "Acc"
+    }, {
+      "tag_name" : "Dat",
+      "tag_description" : "Dat"
+    }, {
+      "tag_name" : "Nom",
+      "tag_description" : "Nom"
+    }, {
+      "tag_name" : "Voc",
+      "tag_description" : "Voc"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Definite",
+    "description" : "MF_Definite feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Def",
+      "tag_description" : "Def"
+    }, {
+      "tag_name" : "Ind",
+      "tag_description" : "Ind"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Dependency flavors",
+    "description" : "Dependency flavors",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "basic",
+      "tag_description" : "basic"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Gender",
+    "description" : "MF_Gender feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Fem",
+      "tag_description" : "Fem"
+    }, {
+      "tag_name" : "Masc",
+      "tag_description" : "Masc"
+    }, {
+      "tag_name" : "Neut",
+      "tag_description" : "Neut"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Animacy",
+    "description" : "MF_Animacy feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Anim",
+      "tag_description" : "Anim"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Degree",
+    "description" : "MF_Degree feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Cmp",
+      "tag_description" : "Cmp"
+    }, {
+      "tag_name" : "Pos",
+      "tag_description" : "Pos"
+    }, {
+      "tag_name" : "Sup",
+      "tag_description" : "Sup"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_ExtPos",
+    "description" : "MF_ExtPos feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "ADP",
+      "tag_description" : "ADP"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "ADV"
+    }, {
+      "tag_name" : "CCONJ",
+      "tag_description" : "CCONJ"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "DET"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "PRON"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "SCONJ"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Foreign",
+    "description" : "MF_Foreign feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Yes",
+      "tag_description" : "Yes"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_NumType",
+    "description" : "MF_NumType feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Card",
+      "tag_description" : "Card"
+    }, {
+      "tag_name" : "Ord",
+      "tag_description" : "Ord"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Polarity",
+    "description" : "MF_Polarity feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Neg",
+      "tag_description" : "Neg"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Poss",
+    "description" : "MF_Poss feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Yes",
+      "tag_description" : "Yes"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_PronType",
+    "description" : "MF_PronType feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Dem",
+      "tag_description" : "Dem"
+    }, {
+      "tag_name" : "Ind",
+      "tag_description" : "Ind"
+    }, {
+      "tag_name" : "Int",
+      "tag_description" : "Int"
+    }, {
+      "tag_name" : "Neg",
+      "tag_description" : "Neg"
+    }, {
+      "tag_name" : "Prs",
+      "tag_description" : "Prs"
+    }, {
+      "tag_name" : "Rel",
+      "tag_description" : "Rel"
+    }, {
+      "tag_name" : "Tot",
+      "tag_description" : "Tot"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "MF_Reflex",
+    "description" : "MF_Reflex feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Yes",
+      "tag_description" : "Yes"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Mood",
+    "description" : "MF_Mood feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Cnd",
+      "tag_description" : "Cnd"
+    }, {
+      "tag_name" : "Imp",
+      "tag_description" : "Imp"
+    }, {
+      "tag_name" : "Ind",
+      "tag_description" : "Ind"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Number",
+    "description" : "MF_Number feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Plur",
+      "tag_description" : "Plur"
+    }, {
+      "tag_name" : "Sing",
+      "tag_description" : "Sing"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Operation",
+    "description" : "operation to be done with specified in tokenIDs token/tokens in order to correct",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "delete",
+      "tag_description" : "delete"
+    }, {
+      "tag_name" : "insert_after",
+      "tag_description" : "insert after"
+    }, {
+      "tag_name" : "insert_before",
+      "tag_description" : "insert before"
+    }, {
+      "tag_name" : "replace",
+      "tag_description" : "replace"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Person",
+    "description" : "MF_Person feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "1",
+      "tag_description" : "1"
+    }, {
+      "tag_name" : "2",
+      "tag_description" : "2"
+    }, {
+      "tag_name" : "3",
+      "tag_description" : "3"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Tense",
+    "description" : "MF_Tense feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Imp",
+      "tag_description" : "Imp"
+    }, {
+      "tag_name" : "Past",
+      "tag_description" : "Past"
+    }, {
+      "tag_name" : "Pres",
+      "tag_description" : "Pres"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal Dependencies (v2)",
+    "description" : "The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.\r\n\r\nThe following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations originally described in Universal Stanford Dependencies: A cross-linguistic typology (de Marneffe et al. 2014).\r\n\r\n© 2014-2017 Universal Dependencies contributors.\r\n\r\nSee also: https://universaldependencies.org/u/dep/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "acl",
+      "tag_description" : "clausal modifier of noun (adjectival clause)"
+    }, {
+      "tag_name" : "acl:relcl",
+      "tag_description" : "relative clause modifier, subtype of acl for headed relative clauses"
+    }, {
+      "tag_name" : "aux:pass",
+      "tag_description" : "passive auxiliary"
+    }, {
+      "tag_name" : "csubj:pass",
+      "tag_description" : "clausal passive subject"
+    }, {
+      "tag_name" : "nsubj:pass",
+      "tag_description" : "passive nominal subject"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "case",
+      "tag_description" : "case marking"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement"
+    }, {
+      "tag_name" : "clf",
+      "tag_description" : "classifier"
+    }, {
+      "tag_name" : "compound",
+      "tag_description" : "compound"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "unspecified dependency"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element"
+    }, {
+      "tag_name" : "dislocated",
+      "tag_description" : "dislocated elements"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive"
+    }, {
+      "tag_name" : "fixed",
+      "tag_description" : "rigid multiword expressions with no internal syntax (e.g. idioms);"
+    }, {
+      "tag_name" : "flat",
+      "tag_description" : "flat multiword expression, names or sequences with internal structure suppressed (e.g. proper names)"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object"
+    }, {
+      "tag_name" : "list",
+      "tag_description" : "list"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker"
+    }, {
+      "tag_name" : "nmod",
+      "tag_description" : "nominal modifier"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject"
+    }, {
+      "tag_name" : "nummod",
+      "tag_description" : "numeric modifier"
+    }, {
+      "tag_name" : "obj",
+      "tag_description" : "object"
+    }, {
+      "tag_name" : "obl",
+      "tag_description" : "oblique nominal"
+    }, {
+      "tag_name" : "orphan",
+      "tag_description" : "orphan"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "reparandum",
+      "tag_description" : "overridden disfluency"
+    }, {
+      "tag_name" : "root",
+      "tag_description" : "root"
+    }, {
+      "tag_name" : "vocative",
+      "tag_description" : "vocative"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal POS tags (v2)",
+    "description" : "These tags mark the core part-of-speech categories from the Universal Dependencies project. To distinguish additional lexical and grammatical properties of words, use the universal features.\r\n\r\n© 2017 Universal Dependencies contributors\r\n\r\nSee: https://universaldependencies.org/u/pos/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjective"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adposition"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverb"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "CCONJ",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "INTJ",
+      "tag_description" : "interjection"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "noun"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "numeral"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "particle"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronoun"
+    }, {
+      "tag_name" : "PROPN",
+      "tag_description" : "proper noun"
+    }, {
+      "tag_name" : "PUNCT",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "subordinating conjunction"
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verb"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "VerbForm",
+    "description" : "MF_VerbForm feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Fin",
+      "tag_description" : "Fin"
+    }, {
+      "tag_name" : "Part",
+      "tag_description" : "Part"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Voice",
+    "description" : "MF_Voice feature values",
+    "language" : "bg",
+    "tags" : [ {
+      "tag_name" : "Act",
+      "tag_description" : "Act"
+    }, {
+      "tag_name" : "Pass",
+      "tag_description" : "Pass"
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",
+    "features" : [ {
+      "name" : "chunkValue",
+      "tag_set" : null,
+      "uiName" : "Tag",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Chunk tag",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Chunk",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Comment",
+    "features" : [ {
+      "name" : "Comment",
+      "tag_set" : null,
+      "uiName" : "Comment",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Comment",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",
+    "features" : [ {
+      "name" : "flavor",
+      "tag_set" : {
+        "name" : "Dependency flavors",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Flavor",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    }, {
+      "name" : "DependencyType",
+      "tag_set" : {
+        "name" : "UD Universal Dependencies (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Dependency",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Lemma",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "lemma Annotation",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Lemma",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "lemma",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Features",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Morphological features",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Morphological features",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "morph",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Correction",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Correct this token using the specified operation.",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "operation",
+      "tag_set" : {
+        "name" : "Operation",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "An operation taken to change this token.",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Orthography Correction",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "features" : [ {
+      "name" : "coarseValue",
+      "tag_set" : {
+        "name" : "UD Universal POS tags (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "UPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Universal part-of-speech tag",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    }, {
+      "name" : "PosValue",
+      "tag_set" : null,
+      "uiName" : "XPOS",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Language-specific part-of-speech tag",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Part of speech",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Form",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Original surface text",
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Surface form",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ {
+      "name" : "lemma",
+      "tag_set" : null,
+      "uiName" : "lemma",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "morph",
+      "tag_set" : null,
+      "uiName" : "morph",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "pos",
+      "tag_set" : null,
+      "uiName" : "pos",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "UD-CHILDES-BG",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "UD-CHILDES-BG",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1771341944529,
+  "updated" : 1776239765358,
+  "anonymous_curation" : false,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 0,
+    "project" : {
+      "id" : 0,
+      "name" : "UD-CHILDES-BG",
+      "slug" : "bg_childes_tb",
+      "description" : null,
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1771341944529,
+      "updated" : 1776239765358,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ {
+    "alwaysSelected" : false,
+    "enabled" : false,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "maxRecommendations" : 2,
+    "name" : "[Lemma@Lemma] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":true}"
+  }, {
+    "alwaysSelected" : false,
+    "enabled" : false,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "maxRecommendations" : 1,
+    "name" : "[Morphological features@Features] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":true}"
+  }, {
+    "alwaysSelected" : false,
+    "enabled" : false,
+    "feature" : "coarseValue",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "maxRecommendations" : 3,
+    "name" : "[Part of speech@UPOS] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":true}"
+  } ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"diamSidebarFactory\",\"expanded\":false}",
+    "user" : "yasena"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":false}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":true}",
+    "user" : "tsvetina"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":false}",
+    "user" : "mila"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"diamSidebarFactory\",\"expanded\":false}",
+    "user" : "yoana"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"diamSidebarFactory\",\"expanded\":false}",
+    "user" : "tsvetelina"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":false}",
+    "user" : "ivelina"
+  } ]
+}

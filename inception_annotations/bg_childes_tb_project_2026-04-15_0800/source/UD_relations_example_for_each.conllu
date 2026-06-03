@@ -1,0 +1,564 @@
+# relation = acl
+# relation_expanded = adnominal clause
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = akadgram-s562
+# source_text = Аз нямам право повече да мълча.
+# target_token_id = 6
+# target_token_form = мълча
+# target_deprel = acl
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|6:nsubj	_
+2	нямам	нямам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	право	право	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	2	obj	2:obj	_
+4	повече	повече	ADV	Md--i	Definite=Ind|Degree=Pos|Number=Plur|NumType=Card	6	advmod	6:advmod	_
+5	да	да	AUX	Tx	_	6	aux	6:aux	_
+6	мълча	мълча	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl	SpaceAfter=No
+7	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# relation = acl:relcl
+# relation_expanded = relative clause modifier, adnominal clause introduced by a relative word
+# example_index = 1
+# sentence_token_count = 7
+# source_sent_id = penchev-s86
+# source_text = Ние сме тия, които търсите.
+# target_token_id = 6
+# target_token_form = търсите
+# target_deprel = acl:relcl
+1	Ние	аз	PRON	Ppe-op1	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	сме	съм	AUX	Vxitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	тия	този	DET	Pde-op	Number=Plur|PronType=Dem	0	root	0:root|6:obj	SpaceAfter=No
+4	,	,	PUNCT	punct	_	6	punct	6:punct	_
+5	които	който	PRON	Pre-op	Case=Nom|Number=Plur|PronType=Rel	6	obj	3:ref	_
+6	търсите	търся	VERB	Vpitf-r2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	SpaceAfter=No
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = advcl
+# relation_expanded = adverbial clause modifier
+# example_index = 1
+# sentence_token_count = 7
+# source_sent_id = akadgram-s440
+# source_text = Гдето стъпи, трева не никне...
+# target_token_id = 2
+# target_token_form = гдето
+# target_deprel = advcl
+1	Гдето	където	ADV	Prl	PronType=Rel	2	advmod	6:ref	_
+2	стъпи	стъпя	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	SpaceAfter=No
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	трева	трева	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
+5	не	не	PART	Tn	Polarity=Neg	6	advmod	6:advmod	_
+6	никне	никна	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root|2:advmod	SpaceAfter=No
+7	...	...	PUNCT	punct	_	6	punct	6:punct	_
+
+# relation = advmod
+# relation_expanded = adverbial modifier
+# example_index = 4
+# sentence_token_count = 5
+# source_sent_id = akadgram-s17
+# source_text = Да си лягам вече?
+# target_token_id = 4
+# target_token_form = вече
+# target_deprel = advmod
+1	Да	да	AUX	Tx	_	3	aux	3:aux	_
+2	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	3	expl	3:expl	_
+3	лягам	лягам-(си)	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	вече	вече	ADV	Dt	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = amod
+# relation_expanded = adjectival modifier
+# example_index = 1
+# sentence_token_count = 6
+# source_sent_id = akadgram-s62
+# source_text = Сънят ми е най-верният приятел.
+# target_token_id = 4
+# target_token_form = най-верният
+# target_deprel = amod
+1	Сънят	сън	NOUN	Ncmsf	Definite=Def|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+2	ми	аз	PRON	Ppetss1	Number=Sing|Person=1|PronType=Prs	5	expl	5:expl	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
+4	най-верният	верен	ADJ	Amsf	Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	5	amod	5:amod	_
+5	приятел	приятел	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = aux
+# relation_expanded = auxiliary
+# example_index = 2
+# sentence_token_count = 5
+# source_sent_id = akadgram-s16
+# source_text = Да плуваш ли можеш?
+# target_token_id = 1
+# target_token_form = Да
+# target_deprel = aux
+1	Да	да	AUX	Tx	_	2	aux	2:aux	_
+2	плуваш	плувам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	_
+3	ли	ли	PART	Ti	_	2	discourse	2:discourse	_
+4	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# relation = aux:pass
+# relation_expanded = passive auxiliary
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = penchev-s109
+# source_text = Детето беше оставено при баба си.
+# target_token_id = 2
+# target_token_form = беше
+# target_deprel = aux:pass
+1	Детето	дете	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	nsubj:pass	3:nsubj:pass	_
+2	беше	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	_
+3	оставено	оставя-(се)	VERB	Vpptcv--sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	при	при	ADP	R	_	5	case	5:case	_
+5	баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	iobj	3:iobj	_
+6	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	5:det	SpaceAfter=No
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = case
+# relation_expanded = case marker
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s37
+# source_text = И стана алчен за злато.
+# target_token_id = 4
+# target_token_form = за
+# target_deprel = case
+1	И	и	CCONJ	Cp	_	2	cc	2:cc	_
+2	стана	стана	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	алчен	алчен	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	obj	2:obj	_
+4	за	за	ADP	R	_	5	case	5:case	_
+5	злато	злато	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	obl	3:obl:за	SpaceAfter=No
+6	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# relation = cc
+# relation_expanded = coordinating conjunction
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = akadgram-s78
+# source_text = Железарските работилници кънтят денем и нощем.
+# target_token_id = 5
+# target_token_form = и
+# target_deprel = cc
+1	Железарските	железарски	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	2	amod	2:amod	_
+2	работилници	работилница	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
+3	кънтят	кънтя	VERB	Vpiif-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	денем	денем	ADV	Dt	Degree=Pos	3	advmod	3:advmod	_
+5	и	и	CCONJ	Cp	_	6	cc	6:cc	_
+6	нощем	нощем	ADV	Dt	Degree=Pos	4	conj	4:conj	SpaceAfter=No
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = ccomp
+# relation_expanded = clausal complement (with its own subject)
+# example_index = 5
+# sentence_token_count = 13
+# source_sent_id = akadgram-s363
+# source_text = Аз забелязах, че той успя да хвърли бърз поглед на жълтиците.
+# target_token_id = 5
+# target_token_form = той
+# target_deprel = ccomp
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	забелязах	забележа-(се)	VERB	Vpptf-o1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	punct	_	6	punct	6:punct	_
+4	че	че	SCONJ	Cs	_	6	mark	6:mark	_
+5	той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|8:nsubj	_
+6	успя	успея	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	_
+7	да	да	AUX	Tx	_	8	aux	8:aux	_
+8	хвърли	хвърля-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	6:xcomp	_
+9	бърз	бърз	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
+10	поглед	поглед	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	8	obj	8:obj	_
+11	на	на	ADP	R	_	12	case	12:case	_
+12	жълтиците	жълтица	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	8	iobj	8:iobj	SpaceAfter=No
+13	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# relation = compound
+# relation_expanded = compound
+# example_index = 1
+# sentence_token_count = 7
+# source_sent_id = random2-s339
+# source_text = Закривам Тридесет и осмото Народно събрание.
+# target_token_id = 3
+# target_token_form = и
+# target_deprel = compound
+1	Закривам	закривам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	Тридесет	тридесет	NUM	Mc--i	Definite=Ind|Number=Plur|NumType=Card	6	nummod	6:nummod	_
+3	и	и	CCONJ	Cp	_	2	compound	2:compound	_
+4	осмото	осми	ADJ	Monsd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	2	compound	2:compound	_
+5	Народно	народен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	6:amod	_
+6	събрание	събрание	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obj	1:obj	SpaceAfter=No
+7	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# relation = conj
+# relation_expanded = conjunct itself, rather than the conjunction
+# example_index = 1
+# sentence_token_count = 7
+# source_sent_id = akadgram-s78
+# source_text = Железарските работилници кънтят денем и нощем.
+# target_token_id = 6
+# target_token_form = нощем
+# target_deprel = conj
+1	Железарските	железарски	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	2	amod	2:amod	_
+2	работилници	работилница	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
+3	кънтят	кънтя	VERB	Vpiif-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	денем	денем	ADV	Dt	Degree=Pos	3	advmod	3:advmod	_
+5	и	и	CCONJ	Cp	_	6	cc	6:cc	_
+6	нощем	нощем	ADV	Dt	Degree=Pos	4	conj	4:conj	SpaceAfter=No
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = conj
+# relation_expanded = conjunct
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s92
+# source_text = Повече слушай, по-малко говори.
+# target_token_id = 5
+# target_token_form = говори
+# target_deprel = conj
+1	Повече	повече	ADV	Md--i	Definite=Ind|Degree=Pos|Number=Plur|NumType=Card	2	advmod	2:advmod	_
+2	слушай	слушам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	punct	_	5	punct	5:punct	_
+4	по-малко	малко	ADV	Md--i	Degree=Cmp	5	advmod	5:advmod	_
+5	говори	говоря	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	conj	2:conj	SpaceAfter=No
+6	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# relation = cop
+# relation_expanded = copula
+# example_index = 1
+# sentence_token_count = 6
+# source_sent_id = akadgram-s5
+# source_text = Наистина, това беше прилеп.
+# target_token_id = 4
+# target_token_form = беше
+# target_deprel = cop
+1	Наистина	наистина	ADV	Dd	Degree=Pos	5	advmod	5:advmod	SpaceAfter=No
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
+4	беше	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
+5	прилеп	прилеп	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = csubj
+# relation_expanded = clausal subject
+# example_index = 6
+# sentence_token_count = 8
+# source_sent_id = akadgram-s90
+# source_text = Който е богат, ще плаща повече.
+# target_token_id = 3
+# target_token_form = богат
+# target_deprel = csubj
+1	Който	който	PRON	Pre-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	6:ref	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	богат	богат	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	csubj	6:csubj	SpaceAfter=No
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	ще	ще	AUX	Tx	_	6	aux	6:aux	_
+6	плаща	плащам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root|3:nsubj	_
+7	повече	повече	ADV	Md--i	Definite=Ind|Degree=Pos|Number=Plur|NumType=Card	6	advmod	6:advmod	SpaceAfter=No
+8	.	.	PUNCT	punct	_	6	punct	6:punct	_
+
+# relation = csubj:pass
+# relation_expanded = passive clausal subject
+# example_index = 1
+# sentence_token_count = 6
+# source_sent_id = penchev-s631
+# source_text = Иван беше решено да замине.
+# target_token_id = 5
+# target_token_form = замине
+# target_deprel = csubj:pass
+1	Иван	иван	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+2	беше	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	_
+3	решено	реша	VERB	Vpptcv--sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	да	да	AUX	Tx	_	5	aux	5:aux	_
+5	замине	замина	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj:pass	3:csubj:pass	SpaceAfter=No
+6	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = det
+# relation_expanded = determiner
+# example_index = 1
+# sentence_token_count = 5
+# source_sent_id = akadgram-s63
+# source_text = Сърцето ми бие силно.
+# target_token_id = 2
+# target_token_form = ми
+# target_deprel = det
+1	Сърцето	сърце	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+2	ми	мой	PRON	Psot--1	Person=1|Poss=Yes|PronType=Prs	1	det	1:det	_
+3	бие	бия-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	силно	силно	ADV	Dm	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = discourse
+# relation_expanded = discourse particle
+# example_index = 1
+# sentence_token_count = 5
+# source_sent_id = akadgram-s16
+# source_text = Да плуваш ли можеш?
+# target_token_id = 3
+# target_token_form = ли
+# target_deprel = discourse
+1	Да	да	AUX	Tx	_	2	aux	2:aux	_
+2	плуваш	плувам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	_
+3	ли	ли	PART	Ti	_	2	discourse	2:discourse	_
+4	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+
+# relation = expl
+# relation_expanded = expletive, part of a reflexive verb
+# example_index = 1
+# sentence_token_count = 5
+# source_sent_id = akadgram-s17
+# source_text = Да си лягам вече?
+# target_token_id = 2
+# target_token_form = си
+# target_deprel = expl
+1	Да	да	AUX	Tx	_	3	aux	3:aux	_
+2	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	3	expl	3:expl	_
+3	лягам	лягам-(си)	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	вече	вече	ADV	Dt	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = fixed
+# relation_expanded = fixed multi word expression
+# example_index = 1
+# sentence_token_count = 5
+# source_sent_id = penchev-s199
+# source_text = Тя обича себе си.
+# target_token_id = 4
+# target_token_form = си
+# target_deprel = fixed
+1	Тя	аз	PRON	Ppe-os3f	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	обича	обичам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	себе	себе	PRON	Ppxla	Case=Acc|ExtPos=PRON|PronType=Prs|Reflex=Yes	2	obj	2:obj	_
+4	си	си	PART	T	_	3	fixed	3:fixed	SpaceAfter=No
+5	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# relation = flat
+# relation_expanded = flat multi word expression
+# example_index = 2
+# sentence_token_count = 2
+# source_sent_id = bg-lit-s527
+# source_text = Христо Смирненски
+# target_token_id = 2
+# target_token_form = Смирненски
+# target_deprel = flat
+1	Христо	христо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	_
+2	Смирненски	смирненски	PROPN	Hmsi	Definite=Ind|Gender=Masc|Number=Sing	1	flat	1:flat	_
+
+# relation = iobj
+# relation_expanded = indirect object
+# example_index = 2
+# sentence_token_count = 4
+# source_sent_id = akadgram-s39
+# source_text = Купувам му къща.
+# target_token_id = 2
+# target_token_form = му
+# target_deprel = iobj
+1	Купувам	купувам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	къща	къща	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# relation = mark
+# relation_expanded = marker (subordinator etc.)
+# example_index = 1
+# sentence_token_count = 6
+# source_sent_id = akadgram-s369
+# source_text = Виждам, че идва често.
+# target_token_id = 3
+# target_token_form = че
+# target_deprel = mark
+1	Виждам	виждам-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	punct	_	4	punct	4:punct	_
+3	че	че	SCONJ	Cs	_	4	mark	4:mark	_
+4	идва	идвам	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	_
+5	често	често	ADV	Dm	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# relation = nmod
+# relation_expanded = nominal modifier, i.e. adjunct to intermediate N phrase
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s52
+# source_text = Дърветата около него шумяха плачевно.
+# target_token_id = 3
+# target_token_form = него
+# target_deprel = nmod
+1	Дърветата	дърво	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	4	nsubj	4:nsubj	_
+2	около	около	ADP	R	_	3	case	3:case	_
+3	него	аз	PRON	Ppelas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	1:nmod:около	_
+4	шумяха	шумя	VERB	Vpiif-m3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	плачевно	плачевно	ADV	Dm	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
+6	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+# relation = nsubj
+# relation_expanded = nominal subject
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = akadgram-s21
+# source_text = Някой от вас да играе табла?
+# target_token_id = 1
+# target_token_form = Някой
+# target_deprel = nsubj
+1	Някой	някой	DET	Pfe-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	_
+2	от	от	ADP	R	_	3	case	3:case	_
+3	вас	аз	PRON	Ppelap2	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	nmod	1:nmod:от	_
+4	да	да	AUX	Tx	_	5	aux	5:aux	_
+5	играе	играя	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	табла	табла	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	obj	5:obj	SpaceAfter=No
+7	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = nsubj:pass
+# relation_expanded = passive subject
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s139
+# source_text = Черквата се затопли от свещите.
+# target_token_id = 1
+# target_token_form = Черквата
+# target_deprel = nsubj:pass
+1	Черквата	черква	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	nsubj:pass	3:nsubj:pass	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	3:expl	_
+3	затопли	затопля-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	от	от	ADP	R	_	5	case	5:case	_
+5	свещите	свещ	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	3	iobj	3:iobj	SpaceAfter=No
+6	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = nummod
+# relation_expanded = numeric modifier
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = brezinski-s105
+# source_text = Къщата ни беше на два етажа.
+# target_token_id = 5
+# target_token_form = два
+# target_deprel = nummod
+1	Къщата	къща	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
+2	ни	наш	PRON	Pszt--1	Person=1|Poss=Yes|PronType=Prs	1	det	1:det	_
+3	беше	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
+4	на	на	ADP	R	_	6	case	6:case	_
+5	два	два	NUM	Mcmpi	Definite=Ind|Gender=Masc|Number=Plur|NumType=Card	6	nummod	6:nummod	_
+6	етажа	етаж	NOUN	Ncmt	Gender=Masc|Number=Count	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	punct	_	6	punct	6:punct	_
+
+# relation = obj
+# relation_expanded = object
+# example_index = 1
+# sentence_token_count = 7
+# source_sent_id = akadgram-s21
+# source_text = Някой от вас да играе табла?
+# target_token_id = 6
+# target_token_form = табла
+# target_deprel = obj
+1	Някой	някой	DET	Pfe-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	_
+2	от	от	ADP	R	_	3	case	3:case	_
+3	вас	аз	PRON	Ppelap2	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	nmod	1:nmod:от	_
+4	да	да	AUX	Tx	_	5	aux	5:aux	_
+5	играе	играя	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	табла	табла	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	obj	5:obj	SpaceAfter=No
+7	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = obl
+# relation_expanded = oblique nominal, i.e. adjunct to a clause or verb expressed via preposition
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s53
+# source_text = Купих от пазара кола дърва.
+# target_token_id = 3
+# target_token_form = пазара
+# target_deprel = obl
+1	Купих	купя	VERB	Vpptf-o1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	от	от	ADP	R	_	3	case	3:case	_
+3	пазара	пазар	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	1	obl	1:obl:от	_
+4	кола	кола	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	1:obj	_
+5	дърва	дърво	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# relation = parataxis
+# relation_expanded = parataxis, i.e. two equal clauses, neither is subordinate
+# example_index = 2
+# sentence_token_count = 7
+# source_sent_id = Novinar-2001-01-08-s217
+# source_text = Причините са канонични, твърдят богословите.
+# target_token_id = 3
+# target_token_form = канонични
+# target_deprel = parataxis
+1	Причините	причина	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	канонични	каноничен	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	5	parataxis	5:parataxis	SpaceAfter=No
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	твърдят	твърдя	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	богословите	богослов	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
+7	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = root
+# relation_expanded = root
+# example_index = 2
+# sentence_token_count = 6
+# source_sent_id = akadgram-s15
+# source_text = Да не си бил болен?
+# target_token_id = 5
+# target_token_form = болен
+# target_deprel = root
+1	Да	да	AUX	Tx	_	5	aux	5:aux	_
+2	не	не	PART	Tn	Polarity=Neg	5	advmod	5:advmod	_
+3	си	съм	AUX	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
+4	бил	съм	AUX	Vxitcat-smi	Aspect=Imp|Definite=Ind|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Part|Voice=Act	5	cop	5:cop	_
+5	болен	болен	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# relation = vocative
+# relation_expanded = vocative
+# example_index = 2
+# sentence_token_count = 5
+# source_sent_id = akadgram-s184
+# source_text = Обвиняемий, пристъпете по-близко.
+# target_token_id = 1
+# target_token_form = Обвиняемий
+# target_deprel = vocative
+1	Обвиняемий	обвиняем	NOUN	Ncms-v	Gender=Masc|Number=Sing	3	vocative	3:vocative	SpaceAfter=No
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	пристъпете	пристъпя	VERB	Vppiz--2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	0:root	_
+4	по-близко	близко	ADV	Dl	Degree=Cmp	3	obj	3:obj	SpaceAfter=No
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# relation = xcomp
+# relation_expanded = open clausal complement, same subject as the main clause
+# example_index = 1
+# sentence_token_count = 5
+# source_sent_id = akadgram-s16
+# source_text = Да плуваш ли можеш?
+# target_token_id = 2
+# target_token_form = плуваш
+# target_deprel = xcomp
+1	Да	да	AUX	Tx	_	2	aux	2:aux	_
+2	плуваш	плувам	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	_
+3	ли	ли	PART	Ti	_	2	discourse	2:discourse	_
+4	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# child specific examples
+# ommitted "da" in infinitive clause
+# sent_id = 364, ALE_cs
+# text = Сашето иска говори !
+1	Сашето	сашo	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	иска	искам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	говори	говоря	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+4	!	!	PUNCT	punct	_	2	punct	_	_
+
+# child specific examples
+# repetition of a word
+# sent_id = 365, ALE_cs
+# text = Мама , мама , мама .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# child specific examples
+# fragment
+# sent_id = 366
+# text = Топки .
+1	Топки	топка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+
+

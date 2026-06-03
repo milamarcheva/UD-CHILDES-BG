@@ -1,0 +1,530 @@
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Кати .
+1	Кати	кати	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = О-па , не .
+1	О-па	о-па	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	не	не	PART	Tn	Polarity=Neg	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Този .
+1	Този	този	DET	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бебета .
+1	Бебета	бебе	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тол .
+1	Тол	стол	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бау , бау , бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	бау	бау	INTJ	_	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бау	бау	INTJ	_	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Деди , xxx .
+1	Деди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	xxx	xxx	X	_	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бати .
+1	Бати	батко	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Рибите .
+1	Рибите	риба	NOUN	Ncmpd	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ели .
+1	Ели	ели	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мамо , тати .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А-у !
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# text = Дяди .
+1	Дяди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Виж там .
+1	Виж	видя-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	там	там	ADV	Pdl	PronType=Dem	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Дяди .
+1	Дяди	дядо	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мими .
+1	Мими	мими	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Па-па .
+1	Па-па	па-па	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Пак .
+1	Пак	пак	ADV	Dt	Degree=Pos	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ели .
+1	Ели	ели	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Е , бебе .
+1	Е	е	INTJ	I	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# text = Бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тао .
+1	Тао	тао	X	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Дий , дий .
+1	Дий	дий	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дий	дий	INTJ	_	_	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Куко .
+1	Куко	кукло	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Коле .
+1	Коле	кольо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Баба .
+1	Баба	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бати .
+1	Бати	батко	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бон .
+1	Бон	бонбон	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Коле .
+1	Коле	кольо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = М-и-и-и .
+1	М-и-и-и	м-и-и-и	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бебе .
+1	Бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бабо .
+1	Бабо	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ето кати .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	кати	кати	PROPN	_	_	1	discourse	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бау .
+1	Бау	бау	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тама .
+1	Тама	там	ADV	_	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Баба .
+1	Баба	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Баби .
+1	Баби	баба	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Топче .
+1	Топче	топче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Льуля .
+1	Льуля	люля	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А-м , а-м , а-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	а-м	а-м	INTJ	I	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	а-м	а-м	INTJ	I	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бонбон .
+1	Бонбон	бонбон	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ето .
+1	Ето	ето	PART	Tv	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мамо .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Дий , дий .
+1	Дий	дий	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дий	дий	INTJ	_	_	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Самолетче .
+1	Самолетче	самолетче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Топки .
+1	Топки	топка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мами .
+1	Мами	мами	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Риби .
+1	Риби	риби	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ай !
+1	Ай	ай	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# text = Обувки .
+1	Обувки	обувка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мими , мими .
+1	Мими	мими	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	мими	мими	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Паляче .
+1	Паляче	паляче	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Няма го .
+1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бръм , бръм , бръм .
+1	Бръм	бръм	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	бръм	бръм	INTJ	I	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	бръм	бръм	INTJ	I	_	1	conj	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Е , е .
+1	Е	е	PART	Te	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	е	е	PART	_	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мама .
+1	Мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мамо .
+1	Мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мама .
+1	Мама	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Кой ?
+1	Кой	кой	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# text = Къв .
+1	Къв	къв	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Паня .
+1	Паня	паня	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Риби , риби , риби , риби , риби .
+1	Риби	риби	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+8	,	,	PUNCT	punct	_	9	punct	_	_
+9	риби	риба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	conj	_	_
+10	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = О-п !
+1	О-п	о-п	INTJ	I	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# text = А-м .
+1	А-м	а-м	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Тати .
+1	Тати	тати	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бебета .
+1	Бебета	бебета	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Аз .
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Б-у , б-у .
+1	Б-у	б-у	INTJ	I	_	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	б-у	б-у	INTJ	I	_	1	discourse	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Чао .
+1	Чао	чао	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А , а !
+1	А	а	PART	Te	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	а	а	CCONJ	Cp	_	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# text = Тати .
+1	Тати	тати	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Люля .
+1	Люля	люля	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бебе .
+1	Бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Дай ми !
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Часовник .
+1	Часовник	часовник	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бамби .
+1	Бамби	бамби	PROPN	Npfsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Там .
+1	Там	там	ADV	Pdl	PronType=Dem	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Дай , дай .
+1	Дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	дай	дам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# text = Вики .
+1	Вики	вики	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Мече .
+1	Мече	мече	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Не .
+1	Не	не	PART	Tn	Polarity=Neg	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Да .
+1	Да	да	PART	Ta	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Ка-ка .
+1	Ка-ка	ка-ка	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бау-бау .
+1	Бау-бау	бау-бау	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бу-у !
+1	Бу-у	бу-у	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# text = Кола .
+1	Кола	кола	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Паня .
+1	Паня	паня	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Бебете .
+1	Бебете	беба	VERB	Vpitz--2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Вземи .
+1	Вземи	взема	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = Риби .
+1	Риби	риби	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# text = А-у .
+1	А-у	а-у	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+

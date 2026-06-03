@@ -1,0 +1,82 @@
+# upos_examples = 1 per requested UPOS
+# sentence_length_filter = token_count < 8
+# sentence_uniqueness = no sentence reused across UPOS tags
+
+# UPOS = ADJ
+Sentence ID: akadgram-s62
+Sentence: Сънят ми е най-верният приятел.
+Word: най-верният
+
+# UPOS = ADP
+Sentence ID: akadgram-s37
+Sentence: И стана алчен за злато.
+Word: за
+
+# UPOS = ADV
+Sentence ID: akadgram-s19
+Sentence: Дали да си лягам вече?
+Word: вече
+
+# UPOS = AUX
+Sentence ID: akadgram-s15
+Sentence: Да не си бил болен?
+Word: Да, си, бил
+
+# UPOS = CCONJ
+Sentence ID: akadgram-s78
+Sentence: Железарските работилници кънтят денем и нощем.
+Word: и
+
+# UPOS = DET
+Sentence ID: akadgram-s121
+Sentence: Над пътниците безшумно прелетя някаква птица.
+Word: някаква
+
+# UPOS = INTJ
+Sentence ID: akadgram-s34
+Sentence: Той - хъка-мъка.
+Word: хъка-мъка
+
+# UPOS = NOUN
+Sentence ID: akadgram-s21
+Sentence: Някой от вас да играе табла?
+Word: табла
+
+# UPOS = NUM
+Sentence ID: akadgram-s173
+Sentence: Малцина запазиха присъствие на духа.
+Word: Малцина
+
+# UPOS = PART
+Sentence ID: akadgram-s16
+Sentence: Да плуваш ли можеш?
+Word: ли
+
+# UPOS = PRON
+Sentence ID: akadgram-s18
+Sentence: Да си лягам ли вече?
+Word: си
+
+# UPOS = PROPN
+Sentence ID: akadgram-s61
+Sentence: Светнаха й очите на стрина Дойна.
+Word: Дойна
+
+# UPOS = PUNCT
+Sentence ID: akadgram-s5
+Sentence: Наистина, това беше прилеп.
+Word: ,
+
+# UPOS = SCONJ
+Sentence ID: akadgram-s369
+Sentence: Виждам, че идва често.
+Word: че
+
+# UPOS = VERB
+Sentence ID: akadgram-s17
+Sentence: Да си лягам вече?
+Word: лягам
+
+# UPOS = X
+Sentece: Тпру.
+Word: тпру

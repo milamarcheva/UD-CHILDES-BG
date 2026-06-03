@@ -1,0 +1,4505 @@
+220  VERBP --> VERB VERBP
+136  VERBP --> AUX PRON VERB
+82  VERBP --> AUX VERB
+79  VERBP --> VERB NOUNP
+77  VERBP --> VERB PRON
+73  VERBP --> DET VERB
+62  VERBP --> VERB NOUN
+56  VERBP --> AUX VERB NOUN
+53  VERBP --> NOUNP VERB
+50  VERBP --> DET VERB NOUN
+41  VERBP --> PRON VERB
+40  VERBP --> VERB PRON NOUNP
+35  VERBP --> INTJ VERB
+34  VERBP --> DET VERB ADV
+33  VERBP --> ADV PRON VERB
+33  VERBP --> ADV VERB
+33  VERBP --> VERB PART
+32  VERBP --> VERB PRON VERBP
+31  VERBP --> PART VERB
+31  VERBP --> PART VERB VERBP
+27  VERBP --> AUX VERB NOUNP
+26  VERBP --> NOUN VERB
+26  VERBP --> VERB ADV
+25  VERBP --> ADV VERB NOUN
+25  VERBP --> VERB PRON NOUN
+24  VERBP --> PRON PRON VERB
+24  VERBP --> VERB PART PRON
+24  VERBP --> VERB VERB
+23  VERBP --> ADV AUX PRON VERB
+23  VERBP --> DET AUX PRON VERB
+22  VERBP --> AUX PRON VERB NOUNP
+22  VERBP --> AUX PRON VERB VERBP
+22  VERBP --> DET AUX VERB
+22  VERBP --> PRON VERB NOUN
+21  VERBP --> DET VERB NOUNP
+20  VERBP --> ADV AUX VERB
+20  VERBP --> VERB PART NOUN
+19  VERBP --> AUX PRON VERB NOUN
+18  VERBP --> AUX VERB VERBP
+18  VERBP --> INTJ VERB VERBP
+17  VERBP --> DET PRON VERB
+17  VERBP --> VERB PART VERBP
+16  VERBP --> AUX PRON VERB ADV
+16  VERBP --> AUX PRON VERB PART
+16  VERBP --> NOUN AUX PRON VERB
+16  VERBP --> PRON AUX VERB
+15  VERBP --> NOUNP AUX VERB
+14  VERBP --> CCONJ VERB VERBP
+13  VERBP --> ADV VERB NOUNP
+13  VERBP --> NOUN VERB NOUN
+13  VERBP --> PART PRON VERB
+13  VERBP --> PRON PRON VERB NOUN
+13  VERBP --> VERB NOUN VERBP
+13  VERBP --> VERB NOUNP VERBP
+12  VERBP --> ADV VERB VERBP
+12  VERBP --> PRON AUX PRON VERB
+11  VERBP --> DET VERB PRON
+11  VERBP --> NOUNP VERB NOUN
+11  VERBP --> PRON AUX VERB NOUNP
+11  VERBP --> VERB ADJ
+11  VERBP --> VERBP VERB
+10  VERBP --> ADV DET VERB
+10  VERBP --> ADV PRON VERB NOUN
+10  VERBP --> AUX PART PRON VERB
+10  VERBP --> NOUNP AUX PRON VERB
+10  VERBP --> NOUNP PRON VERB
+10  VERBP --> PRON VERB NOUNP
+10  VERBP --> VERB ADVP
+9  VERBP --> ADV VERB PRON
+9  VERBP --> AUX VERB ADV
+9  VERBP --> DET AUX VERB NOUNP
+9  VERBP --> NOUN PRON VERB
+9  VERBP --> SCONJ PRON VERB
+9  VERBP --> VERB ADV VERBP
+9  VERBP --> VERB PRON PRON
+9  VERBP --> VERB VERB VERBP
+9  VERBP --> VERB VERBP VERBP
+8  VERBP --> ADV AUX PRON VERB NOUNP
+8  VERBP --> ADVP VERB
+8  VERBP --> AUX PRON PRON VERB
+8  VERBP --> CCONJ VERB NOUNP
+8  VERBP --> DET AUX VERB NOUN
+8  VERBP --> NOUN AUX VERB
+8  VERBP --> NOUN VERB VERBP
+8  VERBP --> NOUNP VERB ADV
+8  VERBP --> PRON PRON VERB NOUNP
+8  VERBP --> VERB PART NOUNP
+7  VERBP --> ADV AUX VERB NOUN
+7  VERBP --> ADV PRON VERB NOUNP
+7  VERBP --> CCONJ ADV PRON VERB
+7  VERBP --> INTJ AUX VERB
+7  VERBP --> INTJ PRON VERB
+7  VERBP --> INTJ VERB NOUN
+7  VERBP --> INTJ VERB NOUNP
+7  VERBP --> NOUN VERB NOUNP
+7  VERBP --> PART AUX VERB
+7  VERBP --> PRON PRON VERB ADV
+7  VERBP --> PROPN VERB
+7  VERBP --> VERB DETP
+7  VERBP --> VERB NOUNP NOUN
+7  VERBP --> VERB PART PRON NOUN
+7  VERBP --> VERB PRON NOUNP VERBP
+7  VERBP --> VERB VERBP INTJ
+6  VERBP --> ADV VERB ADV
+6  VERBP --> AUX PRON VERB PRONP
+6  VERBP --> AUX VERB PART
+6  VERBP --> CCONJ ADV AUX VERB
+6  VERBP --> CCONJ NOUN PRON VERB
+6  VERBP --> CCONJ NOUN VERB
+6  VERBP --> CCONJ PRON VERB NOUN
+6  VERBP --> CCONJ PRON VERB NOUNP
+6  VERBP --> CCONJ VERB
+6  VERBP --> DET VERB VERBP
+6  VERBP --> INTJ VERB PRON
+6  VERBP --> NOUN DET VERB
+6  VERBP --> NOUN VERB PART
+6  VERBP --> NOUNP VERB NOUNP
+6  VERBP --> PART VERB NOUNP
+6  VERBP --> PART VERB PART
+5  VERBP --> ADV PRON VERB PRON
+5  VERBP --> AUX PART VERB
+5  VERBP --> CCONJ NOUN DET VERB
+5  VERBP --> DET AUX PRON VERB NOUNP
+5  VERBP --> DET AUX VERB VERB
+5  VERBP --> DET PART VERB
+5  VERBP --> DET PRON VERB ADV
+5  VERBP --> DET VERB ADV INTJ
+5  VERBP --> DET VERB INTJ
+5  VERBP --> DET VERB VERB
+5  VERBP --> INTJ NOUNP VERB
+5  VERBP --> INTJ VERB ADV
+5  VERBP --> NOUNP VERB VERBP
+5  VERBP --> PART ADV AUX PRON VERB
+5  VERBP --> PART ADV AUX PRON VERB NOUN
+5  VERBP --> PART AUX VERB NOUN
+5  VERBP --> PRON AUX PRON VERB NOUN
+5  VERBP --> PRON PRON VERB VERBP
+5  VERBP --> PRON VERB PART
+5  VERBP --> PRON VERB PART PRON
+5  VERBP --> SCONJ VERB NOUN
+5  VERBP --> VERB
+5  VERBP --> VERB ADV NOUNP
+5  VERBP --> VERB PRON ADV
+5  VERBP --> VERB PRON NOUN VERBP
+5  VERBP --> VERB PRON PRON VERBP
+4  VERBP --> ADV AUX PRON VERB NOUN
+4  VERBP --> ADVP AUX VERB
+4  VERBP --> ADVP AUX VERB NOUN
+4  VERBP --> ADVP PRON VERB
+4  VERBP --> AUX PRON VERB NOUNP VERBP
+4  VERBP --> AUX VERB PART NOUNP
+4  VERBP --> AUX VERB PRON
+4  VERBP --> CCONJ ADV VERB
+4  VERBP --> CCONJ ADV VERB NOUN
+4  VERBP --> CCONJ AUX PRON VERB
+4  VERBP --> CCONJ AUX VERB
+4  VERBP --> CCONJ NOUNP VERB
+4  VERBP --> CCONJ PRON VERB
+4  VERBP --> CCONJ PRON VERB VERBP
+4  VERBP --> CCONJ VERB NOUN
+4  VERBP --> DET AUX VERB ADV
+4  VERBP --> DET PRON VERB NOUN
+4  VERBP --> DET VERB ADV NOUN
+4  VERBP --> DET VERB NOUN INTJ
+4  VERBP --> INTJ ADV VERB
+4  VERBP --> INTJ AUX VERB ADV
+4  VERBP --> INTJ AUX VERB VERBP
+4  VERBP --> INTJ PART VERB
+4  VERBP --> INTJ PRON PRON VERB
+4  VERBP --> NOUN PART VERB
+4  VERBP --> NOUNP ADV PRON VERB
+4  VERBP --> NOUNP PRON VERB NOUNP
+4  VERBP --> NOUNP VERB PART
+4  VERBP --> NOUNP VERB PRON
+4  VERBP --> NUMP VERB
+4  VERBP --> PART AUX VERB ADV
+4  VERBP --> PART AUX VERB VERBP
+4  VERBP --> PART NOUNP VERB NOUN
+4  VERBP --> PART PART VERB
+4  VERBP --> PART PRON VERB NOUNP
+4  VERBP --> PART VERB PART VERBP
+4  VERBP --> PRON ADV PRON VERB
+4  VERBP --> PRON AUX VERB ADV
+4  VERBP --> PRON AUX VERB NOUN
+4  VERBP --> PRON NOUNP VERB
+4  VERBP --> PRON PART PRON VERB
+4  VERBP --> PRON PART VERB VERBP
+4  VERBP --> PRON VERB ADV
+4  VERBP --> PRON VERB PART NOUN
+4  VERBP --> PRON VERB VERBP
+4  VERBP --> VERB NOUN NOUNP
+4  VERBP --> VERB NOUN PART
+4  VERBP --> VERB PRON VERB
+4  VERBP --> VERBP VERB VERBP
+3  VERBP --> ADV ADV AUX VERB
+3  VERBP --> ADV AUX PRON VERB VERBP
+3  VERBP --> ADV AUX VERB ADV
+3  VERBP --> ADV AUX VERB NOUNP
+3  VERBP --> ADV PART VERB
+3  VERBP --> ADV PRON AUX VERB NOUN
+3  VERBP --> ADV PRON VERB VERBP
+3  VERBP --> ADV VERB ADJ
+3  VERBP --> ADV VERB PRON NOUNP
+3  VERBP --> AUX PRON VERB ADJ
+3  VERBP --> AUX PRON VERB PART NOUN
+3  VERBP --> AUX PRON VERB PART NOUNP
+3  VERBP --> AUX PRON VERB PART VERBP
+3  VERBP --> AUX VERB NOUN VERBP
+3  VERBP --> AUX VERB NOUNP ADV
+3  VERBP --> AUX VERB PART ADV
+3  VERBP --> AUX VERB PART NOUN
+3  VERBP --> CCONJ AUX PRON VERB NOUN
+3  VERBP --> CCONJ AUX PRON VERB NOUNP
+3  VERBP --> CCONJ DET PRON VERB NOUNP
+3  VERBP --> CCONJ DET VERB NOUN
+3  VERBP --> CCONJ DET VERB NOUNP
+3  VERBP --> CCONJ NOUN VERB VERBP
+3  VERBP --> CCONJ PART VERB VERBP
+3  VERBP --> CCONJ PRON AUX VERB
+3  VERBP --> CCONJ PRON PRON VERB
+3  VERBP --> CCONJ PRON PRON VERB NOUN
+3  VERBP --> CCONJ PRON VERB PART
+3  VERBP --> CCONJ VERB ADV
+3  VERBP --> CCONJ VERB PART VERBP
+3  VERBP --> DET VERB NOUN ADV
+3  VERBP --> DET VERB PART
+3  VERBP --> DETP VERB
+3  VERBP --> INTJ AUX PRON VERB
+3  VERBP --> INTJ INTJ VERB
+3  VERBP --> INTJ VERB PART
+3  VERBP --> INTJ VERB PRON NOUN
+3  VERBP --> NOUN AUX PRON VERB VERBP
+3  VERBP --> NOUN AUX VERB NOUNP
+3  VERBP --> NOUN PRON VERB VERBP
+3  VERBP --> NOUN VERB PART NOUN
+3  VERBP --> NOUN VERB PART PRON
+3  VERBP --> NOUNP AUX PRON VERB NOUN
+3  VERBP --> NOUNP DET VERB
+3  VERBP --> PART ADV AUX VERB
+3  VERBP --> PART ADV AUX VERB NOUN
+3  VERBP --> PART AUX VERB NOUNP
+3  VERBP --> PART PRON AUX VERB
+3  VERBP --> PART PRON PART VERB
+3  VERBP --> PART VERB ADV
+3  VERBP --> PART VERB NOUN
+3  VERBP --> PRON ADV AUX VERB
+3  VERBP --> PRON PRON VERB INTJ
+3  VERBP --> PRON PRON VERB NOUNP VERBP
+3  VERBP --> PRON VERB NOUN INTJ
+3  VERBP --> PRON VERB NOUN VERBP
+3  VERBP --> PRON VERB NOUNP NOUN
+3  VERBP --> PRONP AUX PRON VERB
+3  VERBP --> PRONP VERB
+3  VERBP --> PRONP VERB NOUNP
+3  VERBP --> PROPN AUX VERB
+3  VERBP --> PROPN VERB NOUN
+3  VERBP --> PROPN VERB PRON NOUNP
+3  VERBP --> PROPN VERB VERB VERB
+3  VERBP --> PROPN VERB VERBP
+3  VERBP --> PROPNP VERB
+3  VERBP --> SCONJ PRON VERB NOUN
+3  VERBP --> SCONJ VERB
+3  VERBP --> VERB INTJ
+3  VERBP --> VERB NOUNP ADVP
+3  VERBP --> VERB PART AUX
+3  VERBP --> VERB PART PRON NOUNP
+3  VERBP --> VERB PART VERB
+3  VERBP --> VERB VERBP VERB
+2  VERBP --> ADJP VERB NOUN
+2  VERBP --> ADPP VERB
+2  VERBP --> ADV AUX AUX VERB
+2  VERBP --> ADV AUX PRON VERB ADV
+2  VERBP --> ADV AUX PRON VERB PART
+2  VERBP --> ADV AUX VERB NOUN ADV
+2  VERBP --> ADV AUX VERB NOUN PRON
+2  VERBP --> ADV AUX VERB PRON
+2  VERBP --> ADV NOUN PRON VERB
+2  VERBP --> ADV NOUN VERB NOUNP
+2  VERBP --> ADV NOUN VERB VERBP
+2  VERBP --> ADV NOUNP AUX VERB
+2  VERBP --> ADV PRON AUX VERB NOUNP
+2  VERBP --> ADV PRON PART VERB
+2  VERBP --> ADV PRON PRON VERB
+2  VERBP --> ADV VERB NOUN INTJ
+2  VERBP --> ADV VERB NOUNP VERBP
+2  VERBP --> AUX PART PRON PRON VERB
+2  VERBP --> AUX PART PRON VERB NOUN
+2  VERBP --> AUX PRON VERB DET
+2  VERBP --> AUX PRON VERB PRON
+2  VERBP --> AUX PRON VERB PRON PRON
+2  VERBP --> AUX VERB ADJ
+2  VERBP --> AUX VERB ADV NOUNP
+2  VERBP --> AUX VERB NOUN NOUN
+2  VERBP --> AUX VERB NOUN PRON NOUNP
+2  VERBP --> CCONJ ADV AUX PRON VERB
+2  VERBP --> CCONJ ADV DET VERB
+2  VERBP --> CCONJ ADV PRON AUX VERB
+2  VERBP --> CCONJ ADV VERB NOUNP
+2  VERBP --> CCONJ ADV VERB VERBP
+2  VERBP --> CCONJ AUX PRON PRON VERB
+2  VERBP --> CCONJ AUX VERB ADV
+2  VERBP --> CCONJ AUX VERB NOUN
+2  VERBP --> CCONJ AUX VERB NOUNP
+2  VERBP --> CCONJ DET AUX VERB ADV
+2  VERBP --> CCONJ DET VERB
+2  VERBP --> CCONJ DET VERB ADV
+2  VERBP --> CCONJ DET VERB ADVP
+2  VERBP --> CCONJ DET VERB PRON
+2  VERBP --> CCONJ NOUN DET AUX VERB
+2  VERBP --> CCONJ NOUN DET VERB INTJ
+2  VERBP --> CCONJ NOUNP PRON VERB
+2  VERBP --> CCONJ PART VERB
+2  VERBP --> CCONJ PRON AUX PRON VERB
+2  VERBP --> CCONJ PRON DET PRON VERB
+2  VERBP --> CCONJ PRON DET PRON VERB NOUNP
+2  VERBP --> CCONJ PRON PRON VERB ADV
+2  VERBP --> CCONJ PRONP AUX VERB
+2  VERBP --> CCONJ PRONP VERB
+2  VERBP --> CCONJ VERBP AUX PRON VERB
+2  VERBP --> DET AUX PRON VERB ADV
+2  VERBP --> DET AUX PRON VERB INTJ
+2  VERBP --> DET AUX VERB PRON
+2  VERBP --> DET PRON VERB NOUNP
+2  VERBP --> DET VERB ADV NOUNP
+2  VERBP --> DET VERB ADVP
+2  VERBP --> DET VERB NOUN VERBP
+2  VERBP --> DET VERB NOUNP INTJ
+2  VERBP --> DET VERB PRON INTJ
+2  VERBP --> DET VERB PROPNP
+2  VERBP --> DETP AUX PRON VERB
+2  VERBP --> DETP PRON VERB NOUN
+2  VERBP --> DETP VERB NOUN
+2  VERBP --> DETP VERB PRON
+2  VERBP --> INTJ ADV AUX VERB
+2  VERBP --> INTJ ADV PRON VERB
+2  VERBP --> INTJ AUX VERB NOUNP VERBP
+2  VERBP --> INTJ DET VERB
+2  VERBP --> INTJ NOUN AUX VERB
+2  VERBP --> INTJ NOUN PRON VERB
+2  VERBP --> INTJ PRON VERB NOUN
+2  VERBP --> INTJ PRON VERB NOUNP
+2  VERBP --> INTJ VERB ADV NOUNP
+2  VERBP --> INTJ VERB DETP
+2  VERBP --> INTJ VERB NOUNP VERB
+2  VERBP --> INTJ VERB PART NOUN
+2  VERBP --> INTJ VERB PART VERBP
+2  VERBP --> INTJ VERB VERBP VERBP
+2  VERBP --> INTJP VERB
+2  VERBP --> NOUN ADV VERB NOUN
+2  VERBP --> NOUN AUX PART VERB
+2  VERBP --> NOUN AUX PRON PRON VERB
+2  VERBP --> NOUN AUX PRON VERB ADV
+2  VERBP --> NOUN AUX PRON VERB NOUNP
+2  VERBP --> NOUN AUX PRON VERB PART
+2  VERBP --> NOUN AUX VERB PART
+2  VERBP --> NOUN DET VERB NOUNP
+2  VERBP --> NOUN PART VERB NOUN
+2  VERBP --> NOUN PART VERB PART
+2  VERBP --> NOUN PRON VERB NOUNP
+2  VERBP --> NOUN VERB PART VERBP
+2  VERBP --> NOUN VERB PRON
+2  VERBP --> NOUNP ADV VERB
+2  VERBP --> NOUNP AUX VERB ADV
+2  VERBP --> NOUNP AUX VERB PART NOUN
+2  VERBP --> NOUNP AUX VERB PRONP
+2  VERBP --> NOUNP PART VERB
+2  VERBP --> NOUNP PRON VERB NOUN
+2  VERBP --> NOUNP VERB ADV INTJ
+2  VERBP --> PART ADV AUX PRON PRON VERB
+2  VERBP --> PART ADV AUX PRON VERB ADV
+2  VERBP --> PART ADV NOUN AUX PRON VERB
+2  VERBP --> PART ADV VERB
+2  VERBP --> PART ADV VERB NOUNP
+2  VERBP --> PART ADV VERB VERBP
+2  VERBP --> PART AUX PRON VERB
+2  VERBP --> PART AUX VERB NOUNP NOUN
+2  VERBP --> PART NOUNP VERB
+2  VERBP --> PART VERB NOUNP NOUN
+2  VERBP --> PART VERB NOUNP VERBP
+2  VERBP --> PART VERB PRON
+2  VERBP --> PART VERB PRON NOUNP
+2  VERBP --> PART VERB PRON VERBP
+2  VERBP --> PART VERB VERB
+2  VERBP --> PRON ADV AUX VERB VERBP
+2  VERBP --> PRON ADV PRON VERB INTJ
+2  VERBP --> PRON ADV VERB
+2  VERBP --> PRON ADV VERB NOUNP
+2  VERBP --> PRON AUX PRON VERB INTJ
+2  VERBP --> PRON AUX VERB AUX
+2  VERBP --> PRON AUX VERB PRONP
+2  VERBP --> PRON DET PRON VERB
+2  VERBP --> PRON PART PRON VERB NOUN
+2  VERBP --> PRON PART VERB
+2  VERBP --> PRON PART VERB NOUNP
+2  VERBP --> PRON PRON AUX VERB
+2  VERBP --> PRON PRON PRON VERB
+2  VERBP --> PRON PRON PRON VERB NOUNP
+2  VERBP --> PRON PRON VERB ADJP
+2  VERBP --> PRON PRON VERB PRONP
+2  VERBP --> PRON VERB ADV INTJ
+2  VERBP --> PRON VERB PART VERB
+2  VERBP --> PRON VERB PART VERBP
+2  VERBP --> PRON VERB PRON NOUNP
+2  VERBP --> PRONP AUX VERB
+2  VERBP --> PRONP PRON VERB
+2  VERBP --> PRONP PRON VERB NOUNP
+2  VERBP --> PRONP VERB NOUN
+2  VERBP --> PROPN DET VERB
+2  VERBP --> PROPN PRON VERB
+2  VERBP --> PROPN VERB ADV
+2  VERBP --> PROPN VERB NOUNP
+2  VERBP --> PROPN VERB PART PRON
+2  VERBP --> PROPNP DET AUX VERB NOUNP
+2  VERBP --> SCONJ AUX PRON VERB
+2  VERBP --> SCONJ AUX VERB
+2  VERBP --> SCONJ PART PRON VERB
+2  VERBP --> VERB ADJP
+2  VERBP --> VERB ADVP INTJ
+2  VERBP --> VERB AUX
+2  VERBP --> VERB AUX NOUNP
+2  VERBP --> VERB AUX PRON
+2  VERBP --> VERB CCONJ
+2  VERBP --> VERB INTJ ADV
+2  VERBP --> VERB NOUN ADV
+2  VERBP --> VERB NOUN NOUN
+2  VERBP --> VERB NOUN NOUNP VERBP
+2  VERBP --> VERB NOUNP VERB
+2  VERBP --> VERB PART ADJ
+2  VERBP --> VERB PART NOUNP NOUNP
+2  VERBP --> VERB PART NOUNP VERBP
+2  VERBP --> VERB PART PRON INTJ
+2  VERBP --> VERB PRON ADJP
+2  VERBP --> VERB PRON DETP
+2  VERBP --> VERB PRON INTJ
+2  VERBP --> VERB PRON NOUNP NOUNP
+2  VERBP --> VERB PRON PRON VERB
+2  VERBP --> VERB PRON PRONP
+2  VERBP --> VERB PRON VERBP VERB
+2  VERBP --> VERB PRON VERBP VERBP
+2  VERBP --> VERB PRONP
+2  VERBP --> VERB PRONP NOUN
+2  VERBP --> VERB VERB VERB
+2  VERBP --> VERB VERBP NOUN
+2  VERBP --> VERB VERBP NOUNP
+2  VERBP --> VERBP AUX VERB
+10  ADJP --> ADP ADJ
+10  ADJP --> CCONJ ADJ
+8  ADJP --> ADJ AUX
+8  ADJP --> PRON AUX ADJ
+6  ADJP --> ADJ PART AUX
+6  ADJP --> ADV AUX ADJ
+5  ADJP --> ADV ADJ
+4  ADJP --> ADJ
+4  ADJP --> ADJ NOUNP
+4  ADJP --> ADJ PART AUX NOUN
+4  ADJP --> DET ADJ
+3  ADJP --> ADJ ADJ
+3  ADJP --> ADJ PART AUX ADJP
+3  ADJP --> AUX ADJ
+3  ADJP --> CCONJ AUX ADJ
+2  ADJP --> ADJ NOUN
+2  ADJP --> ADJ PART
+2  ADJP --> ADJ PART PRON AUX NOUN
+2  ADJP --> ADJ PRON
+2  ADJP --> ADV ADJ ADJ
+2  ADJP --> CCONJ ADV AUX ADJ
+2  ADJP --> INTJ PRON AUX ADJ
+2  ADJP --> INTJ SCONJ AUX ADJ
+2  ADJP --> NOUN AUX ADJ
+2  ADJP --> PART ADJ
+2  ADJP --> PART AUX ADJ
+2  ADJP --> PART PRON PART AUX ADJ
+2  ADJP --> PROPN AUX ADJ
+2  ADJP --> SCONJ AUX ADJ
+4  ADPP --> ADP AUX
+3  ADPP --> ADP ADV
+2  ADPP --> ADP INTJ
+39  ADVP --> ADV ADV
+37  ADVP --> ADV AUX NOUN
+33  ADVP --> ADV PART
+30  ADVP --> CCONJ ADV
+20  ADVP --> ADV AUX
+14  ADVP --> ADV NOUNP
+12  ADVP --> PART ADV
+10  ADVP --> ADV AUX NOUNP
+9  ADVP --> INTJ ADV
+7  ADVP --> ADV AUX NOUN INTJ
+6  ADVP --> ADP ADV
+5  ADVP --> ADV PART AUX
+5  ADVP --> CCONJ ADV AUX NOUNP
+4  ADVP --> ADV PRONP
+4  ADVP --> CCONJ ADV AUX NOUN
+4  ADVP --> NOUNP AUX ADV
+4  ADVP --> PRON AUX ADV
+3  ADVP --> ADV ADV AUX
+3  ADVP --> ADV AUX ADV
+3  ADVP --> ADV NOUN
+3  ADVP --> ADV PRON
+3  ADVP --> CCONJ ADV ADV
+3  ADVP --> CCONJ ADV PRON AUX
+3  ADVP --> CCONJ NOUNP ADV AUX
+2  ADVP --> ADP ADV ADV
+2  ADVP --> ADV AUX ADVP
+2  ADVP --> ADV AUX AUX NOUN NOUN
+2  ADVP --> ADV AUX PRON
+2  ADVP --> ADV AUX VERBP
+2  ADVP --> ADV INTJ
+2  ADVP --> ADV PART PRON AUX
+2  ADVP --> ADV PRON AUX NOUN
+2  ADVP --> AUX ADV
+2  ADVP --> CCONJ ADV PRONP
+2  ADVP --> CCONJ PRON AUX ADV
+2  ADVP --> PRON ADV
+2  ADVP --> PRON AUX ADV NOUNP
+2  AUXP --> NOUNP AUX
+2  AUXP --> PART AUX
+43  DETP --> DET AUX PRON
+27  DETP --> PRON DET AUX
+21  DETP --> ADP DET
+19  DETP --> CCONJ PRON DET AUX
+11  DETP --> ADV DET
+9  DETP --> CCONJ DET
+8  DETP --> DET AUX NOUNP
+8  DETP --> DET DET
+6  DETP --> DET NOUNP
+5  DETP --> ADJ DET
+5  DETP --> DET AUX NOUN
+5  DETP --> DET DET AUX
+5  DETP --> DET PART
+4  DETP --> CCONJ DET AUX
+4  DETP --> DET AUX PRON NOUN
+4  DETP --> DET AUX PRONP
+3  DETP --> CCONJ DET AUX PRON
+3  DETP --> CCONJ DET DET AUX
+3  DETP --> CCONJ PRON DET AUX AUX
+3  DETP --> DET AUX
+3  DETP --> DET AUX PRON NOUNP
+3  DETP --> DET INTJ
+3  DETP --> DET NUMP
+3  DETP --> PRON AUX DET
+2  DETP --> ADP DET PART
+2  DETP --> CCONJ NOUNP DET AUX
+2  DETP --> DET AUX PRON ADV
+2  DETP --> DET AUX PRON AUX
+2  DETP --> DET AUX PRON INTJ
+2  DETP --> DET AUX VERBP
+2  DETP --> DET VERBP
+12  INTJP --> INTJ NOUNP
+11  INTJP --> INTJ INTJ
+11  INTJP --> INTJ NOUN
+6  INTJP --> INTJ PRON
+6  INTJP --> PART INTJ
+5  INTJP --> INTJ PART
+4  INTJP --> INTJ ADV
+3  INTJP --> ADV INTJ
+3  INTJP --> INTJ
+3  INTJP --> INTJ ADVP
+2  INTJP --> AUX INTJ
+2  INTJP --> CCONJ INTJ
+2  INTJP --> INTJ CCONJ
+2  INTJP --> INTJ INTJ PRON
+2  INTJP --> INTJ NOUN NOUN
+2  INTJP --> NOUNP INTJ
+2  INTJP --> PART INTJ INTJ
+493  NOUNP --> ADP NOUN
+190  NOUNP --> DET NOUN
+114  NOUNP --> NOUN NOUN
+96  NOUNP --> ADJ NOUN
+77  NOUNP --> NOUN NOUNP
+73  NOUNP --> NOUN PART
+62  NOUNP --> CCONJ NOUN
+52  NOUNP --> ADP DET NOUN
+44  NOUNP --> INTJ NOUN
+34  NOUNP --> ADP NOUN PART
+32  NOUNP --> NUM NOUN
+29  NOUNP --> ADP NOUN NOUN
+28  NOUNP --> ADV NOUN
+26  NOUNP --> PRON AUX NOUN
+24  NOUNP --> ADP NOUN NOUNP
+24  NOUNP --> NOUN PRON
+23  NOUNP --> DET ADJ NOUN
+18  NOUNP --> ADP ADJ NOUN
+18  NOUNP --> NOUN VERBP
+16  NOUNP --> VERBP AUX NOUN
+15  NOUNP --> AUX NOUN
+14  NOUNP --> ADP NOUN PRON
+12  NOUNP --> PART NOUN
+11  NOUNP --> CCONJ ADP NOUN
+9  NOUNP --> NOUN NOUN NOUNP
+9  NOUNP --> NOUN PRONP
+8  NOUNP --> ADJ NOUN PART
+8  NOUNP --> CCONJ NOUN NOUN
+8  NOUNP --> PART AUX NOUN
+7  NOUNP --> ADP NUM NOUN
+7  NOUNP --> CCONJ DET NOUN
+7  NOUNP --> INTJ DET NOUN
+7  NOUNP --> NOUN ADJ
+6  NOUNP --> ADJ NOUN NOUNP
+6  NOUNP --> CCONJ ADJ NOUN
+6  NOUNP --> DET NOUN NOUNP
+6  NOUNP --> DETP NOUN
+6  NOUNP --> INTJ DET ADJ NOUN
+6  NOUNP --> NOUN
+6  NOUNP --> PRON AUX ADJ NOUN
+6  NOUNP --> PRON AUX ADP NOUN
+6  NOUNP --> PRON NOUN
+5  NOUNP --> ADJP NOUN
+5  NOUNP --> ADP NOUN VERBP
+5  NOUNP --> CCONJ NUM NOUN
+5  NOUNP --> DET NOUN NOUN
+5  NOUNP --> INTJ PRON AUX NOUN
+5  NOUNP --> NOUN ADV
+5  NOUNP --> NOUN PART VERBP
+5  NOUNP --> NOUNP NOUN
+5  NOUNP --> NUMP NOUN
+5  NOUNP --> PRONP NOUN
+4  NOUNP --> ADJ NOUN NOUN
+4  NOUNP --> ADP ADVP NOUN
+4  NOUNP --> ADV DET NOUN
+4  NOUNP --> INTJ ADP NOUN
+4  NOUNP --> NOUN AUX NOUN
+4  NOUNP --> NOUN AUX PRON
+4  NOUNP --> NOUN NOUN NOUN
+4  NOUNP --> NOUNP AUX NOUN
+4  NOUNP --> NUM NOUN NOUNP
+3  NOUNP --> ADP NOUN ADV
+3  NOUNP --> ADV ADJ NOUN
+3  NOUNP --> ADV ADV NOUN
+3  NOUNP --> CCONJ NOUN NOUNP
+3  NOUNP --> DET NOUN ADV
+3  NOUNP --> DET NOUN PART
+3  NOUNP --> INTJ ADJ NOUN
+3  NOUNP --> INTJ SCONJ ADJ NOUN
+3  NOUNP --> NOUN INTJ
+3  NOUNP --> NOUN NOUNP VERBP
+3  NOUNP --> NOUN PART PRON AUX
+3  NOUNP --> PART ADP NOUN
+3  NOUNP --> PART PRON AUX NOUN NOUN
+3  NOUNP --> PRON AUX NOUN NOUN
+3  NOUNP --> PRON NOUN PART AUX
+3  NOUNP --> PRONP AUX NOUN
+3  NOUNP --> PRONP PRON AUX NOUN
+2  NOUNP --> ADP ADV NOUN
+2  NOUNP --> ADP ADV NOUN AUX NOUN
+2  NOUNP --> ADP NOUN ADJ
+2  NOUNP --> ADP NOUN ADJP
+2  NOUNP --> ADP NOUN AUX
+2  NOUNP --> ADP NOUN NOUN PART
+2  NOUNP --> CCONJ ADP NOUN PART
+2  NOUNP --> CCONJ DET NOUN PRONP AUX
+2  NOUNP --> CCONJ NOUN PART
+2  NOUNP --> CCONJ PRON AUX ADJ NOUN
+2  NOUNP --> CCONJ PRON NOUN
+2  NOUNP --> CCONJ PRONP AUX NOUN
+2  NOUNP --> DET ADJ NOUN NOUN
+2  NOUNP --> DET DET NOUN AUX
+2  NOUNP --> DET NOUN PART AUX
+2  NOUNP --> DET NOUN PRONP
+2  NOUNP --> INTJ ADP DET NOUN
+2  NOUNP --> INTJ NOUN ADV
+2  NOUNP --> INTJ NOUN NOUN
+2  NOUNP --> INTJ NOUN PRON
+2  NOUNP --> NOUN DET
+2  NOUNP --> NOUN PART AUX NOUNP
+2  NOUNP --> NOUN PART AUX PRON
+2  NOUNP --> NOUN PART NOUN
+2  NOUNP --> NOUN PRON AUX NOUN
+2  NOUNP --> NUMP NOUN PART
+2  NOUNP --> PART AUX PART NOUN
+2  NOUNP --> PART NOUN AUX
+2  NOUNP --> PART PRON AUX NOUN
+2  NOUNP --> PART PRON PART AUX NOUN
+2  NOUNP --> PRON AUX DET NOUN NOUN
+2  NOUNP --> PRON AUX NOUN NOUNP
+2  NOUNP --> PRON AUX NOUN VERBP
+2  NOUNP --> PRON AUX PART AUX NOUN
+2  NOUNP --> PRON DET NOUN
+2  NOUNP --> PRON INTJ NOUN
+2  NOUNP --> PRON PART AUX NOUN
+2  NOUNP --> PRON PART NOUN
+2  NOUNP --> PRON PRON AUX NOUN
+2  NOUNP --> PROPN AUX ADP NOUN
+2  NOUNP --> PROPN AUX NOUN
+16  NUMP --> ADV NUM
+5  NUMP --> CCONJ NUM
+4  NUMP --> NUM NUMP
+3  NUMP --> ADP NUM
+2  NUMP --> NUM NOUNP
+24  PARTP --> PART PRON
+18  PARTP --> PART VERBP
+14  PARTP --> PART PRON NOUN
+12  PARTP --> PART NOUNP
+9  PARTP --> PART ADV
+8  PARTP --> PART PRON NOUNP
+7  PARTP --> PART PARTP
+5  PARTP --> PART PART
+5  PARTP --> PART VERB
+3  PARTP --> PART INTJ
+3  PARTP --> PART NOUN
+3  PARTP --> PART VERBP VERBP
+2  PARTP --> PART PRON ADV
+2  PARTP --> PART PRON NOUNP NOUN
+99  PRONP --> ADP PRON
+38  PRONP --> CCONJ PRON
+20  PRONP --> PRON PART
+14  PRONP --> PRON AUX
+13  PRONP --> ADP PRON AUX NOUNP
+11  PRONP --> PRON AUX NOUNP
+9  PRONP --> ADP PRON PART
+7  PRONP --> PRON AUX ADV
+7  PRONP --> PRON AUX DET
+7  PRONP --> PRON NOUN
+7  PRONP --> PRON NOUNP
+7  PRONP --> PRON VERBP
+6  PRONP --> CCONJ DET PRON AUX
+6  PRONP --> PRON AUX PRON
+5  PRONP --> DET PRON AUX
+5  PRONP --> PRON PRON AUX
+5  PRONP --> PRON PRON AUX NOUN
+4  PRONP --> CCONJ PRON AUX
+4  PRONP --> PRON PRON AUX NOUNP
+3  PRONP --> ADP PRON PRON
+3  PRONP --> DET PRON
+3  PRONP --> INTJ PRON
+3  PRONP --> PRON AUX NOUN
+3  PRONP --> PRON PRON
+2  PRONP --> ADP PRON AUX NOUN
+2  PRONP --> ADP PRON NOUNP
+2  PRONP --> CCONJ ADP PRON
+2  PRONP --> PART PRON
+2  PRONP --> PRON INTJ
+2  PRONP --> PRON PRON NOUNP
+15  PROPNP --> PROPN NOUN
+9  PROPNP --> PROPN PART
+5  PROPNP --> PROPN PROPN
+4  PROPNP --> ADP PROPN
+2  PROPNP --> NOUNP AUX ADP PROPN
+2  PROPNP --> PROPN
+2  PROPNP --> PROPN ADVP
+2  PROPNP --> PROPN NOUNP
+19  ADJ --> друго
+15  ADJ --> мила
+9  ADJ --> xубава
+9  ADJ --> xубаво
+9  ADJ --> другата
+8  ADJ --> добро
+8  ADJ --> лоша
+7  ADJ --> добра
+7  ADJ --> друга
+7  ADJ --> другото
+7  ADJ --> светла
+6  ADJ --> голяма
+6  ADJ --> мъничко
+5  ADJ --> xубави
+5  ADJ --> красива
+5  ADJ --> леля
+5  ADJ --> мокри
+5  ADJ --> мънички
+4  ADJ --> xубав
+4  ADJ --> Друга
+4  ADJ --> всичките
+4  ADJ --> голям
+4  ADJ --> горещо
+4  ADJ --> другите
+4  ADJ --> малките
+4  ADJ --> малкото
+3  ADJ --> Другата
+3  ADJ --> Мъничката
+3  ADJ --> болна
+3  ADJ --> бяло
+3  ADJ --> вуйна
+3  ADJ --> големия
+3  ADJ --> добър
+3  ADJ --> малки
+3  ADJ --> мекичко
+3  ADJ --> мръсна
+3  ADJ --> сама
+3  ADJ --> страшно
+3  ADJ --> твойта
+2  ADJ --> xубавата
+2  ADJ --> Вкусна
+2  ADJ --> Голяма
+2  ADJ --> Доброто
+2  ADJ --> Добър
+2  ADJ --> Друго
+2  ADJ --> Другото
+2  ADJ --> Ежко
+2  ADJ --> Земното
+2  ADJ --> Лека
+2  ADJ --> Малкото
+2  ADJ --> Мирно
+2  ADJ --> Мъничка
+2  ADJ --> Мъничко
+2  ADJ --> Стария
+2  ADJ --> Таткото
+2  ADJ --> английски
+2  ADJ --> български
+2  ADJ --> вкусно
+2  ADJ --> вълчо
+2  ADJ --> гладна
+2  ADJ --> гладни
+2  ADJ --> голямата
+2  ADJ --> дебелото
+2  ADJ --> друг
+2  ADJ --> дълга
+2  ADJ --> жълтото
+2  ADJ --> истински
+2  ADJ --> лош
+2  ADJ --> малка
+2  ADJ --> маминка
+2  ADJ --> мъничка
+2  ADJ --> непослушни
+2  ADJ --> празна
+2  ADJ --> рожден
+2  ADJ --> розовото
+2  ADJ --> светли
+2  ADJ --> сладки
+2  ADJ --> спящата
+2  ADJ --> страшна
+2  ADJ --> студена
+2  ADJ --> студено
+2  ADJ --> цялата
+2  ADJ --> червеното
+1  ADJ --> Xраниш
+1  ADJ --> Xубаво
+1  ADJ --> xубавичко
+1  ADJ --> Айди
+1  ADJ --> Бебешка
+1  ADJ --> Бели
+1  ADJ --> Болна
+1  ADJ --> Болно
+1  ADJ --> Вкусен
+1  ADJ --> Водна
+1  ADJ --> Всичката
+1  ADJ --> Всичките
+1  ADJ --> Вуйна
+1  ADJ --> Глупчо
+1  ADJ --> Голям
+1  ADJ --> Горкичкият
+1  ADJ --> Горкичкото
+1  ADJ --> Готова
+1  ADJ --> Гъбена
+1  ADJ --> Добрички
+1  ADJ --> Драги
+1  ADJ --> Другите
+1  ADJ --> Другия
+1  ADJ --> Жива
+1  ADJ --> Жълти
+1  ADJ --> Жълто
+1  ADJ --> Зайко
+1  ADJ --> Зелена
+1  ADJ --> Зеленото
+1  ADJ --> Земната
+1  ADJ --> Искащ
+1  ADJ --> Кака
+1  ADJ --> Картонена
+1  ADJ --> Кафени
+1  ADJ --> Кисели
+1  ADJ --> Красива
+1  ADJ --> Лоша
+1  ADJ --> Мазна
+1  ADJ --> Малката
+1  ADJ --> Мамино
+1  ADJ --> Мръсна
+1  ADJ --> Мънички
+1  ADJ --> Невъзпитан
+1  ADJ --> Пеещото
+1  ADJ --> По-малкия
+1  ADJ --> Прекрасни
+1  ADJ --> Розовото
+1  ADJ --> Сама
+1  ADJ --> Свако
+1  ADJ --> Сладко
+1  ADJ --> Страшна
+1  ADJ --> Суxоземна
+1  ADJ --> Съгласна
+1  ADJ --> Топла
+1  ADJ --> Третото
+1  ADJ --> Туй
+1  ADJ --> Ужилена
+1  ADJ --> Цял
+1  ADJ --> Цяла
+1  ADJ --> Цялото
+1  ADJ --> Червено
+1  ADJ --> Черно
+1  ADJ --> Чисти
+1  ADJ --> Чудесен
+1  ADJ --> ал'оношка
+1  ADJ --> бабо
+1  ADJ --> бежко
+1  ADJ --> бела
+1  ADJ --> бели
+1  ADJ --> беличко
+1  ADJ --> бети
+1  ADJ --> бодливите
+1  ADJ --> вкусен
+1  ADJ --> вкусна
+1  ADJ --> вкусни
+1  ADJ --> водна
+1  ADJ --> втория
+1  ADJ --> вътрешната
+1  ADJ --> галени
+1  ADJ --> глупав
+1  ADJ --> глупаво
+1  ADJ --> големи
+1  ADJ --> голямо
+1  ADJ --> горчиви
+1  ADJ --> готови
+1  ADJ --> готово
+1  ADJ --> гъбена
+1  ADJ --> дебело
+1  ADJ --> децката
+1  ADJ --> джиджано
+1  ADJ --> до-гамата
+1  ADJ --> добрички
+1  ADJ --> други
+1  ADJ --> дългата
+1  ADJ --> дълъг
+1  ADJ --> евно
+1  ADJ --> едничка
+1  ADJ --> ежко
+1  ADJ --> ечервена
+1  ADJ --> жълтата
+1  ADJ --> жълти
+1  ADJ --> жълтичко
+1  ADJ --> жълто
+1  ADJ --> земното
+1  ADJ --> изобразително
+1  ADJ --> изскочили
+1  ADJ --> истинската
+1  ADJ --> кака
+1  ADJ --> картофено
+1  ADJ --> кафява
+1  ADJ --> кветли
+1  ADJ --> кисело
+1  ADJ --> кораво
+1  ADJ --> красиви
+1  ADJ --> красиво
+1  ADJ --> лека
+1  ADJ --> летящ
+1  ADJ --> лоши
+1  ADJ --> лошо
+1  ADJ --> луд
+1  ADJ --> луда-добра
+1  ADJ --> лудо
+1  ADJ --> мазна
+1  ADJ --> майче
+1  ADJ --> малък
+1  ADJ --> маминия
+1  ADJ --> милата
+1  ADJ --> мило
+1  ADJ --> милото
+1  ADJ --> мини
+1  ADJ --> мръсен
+1  ADJ --> мръсната
+1  ADJ --> мънинки
+1  ADJ --> мъничката
+1  ADJ --> мъничките
+1  ADJ --> мъничкото
+1  ADJ --> наxален
+1  ADJ --> наxална
+1  ADJ --> наxално
+1  ADJ --> надут
+1  ADJ --> най-различни
+1  ADJ --> направена
+1  ADJ --> нарисуван
+1  ADJ --> нарисувана
+1  ADJ --> нарисувано
+1  ADJ --> нащо
+1  ADJ --> невъзпитан
+1  ADJ --> невъзпитания
+1  ADJ --> непослушна
+1  ADJ --> нов
+1  ADJ --> нова
+1  ADJ --> новото
+1  ADJ --> пеещото
+1  ADJ --> по-xубава
+1  ADJ --> по-xубаво
+1  ADJ --> по-интересни
+1  ADJ --> по-късичка
+1  ADJ --> по-нататъка
+1  ADJ --> по-удобно
+1  ADJ --> попова
+1  ADJ --> прав
+1  ADJ --> приятен
+1  ADJ --> приятна
+1  ADJ --> приятно
+1  ADJ --> разни
+1  ADJ --> розова
+1  ADJ --> розови
+1  ADJ --> сашето
+1  ADJ --> сашо
+1  ADJ --> светлосини
+1  ADJ --> сини
+1  ADJ --> синьо
+1  ADJ --> скачане-цялата
+1  ADJ --> сладко
+1  ADJ --> сладко-сладко
+1  ADJ --> снежно
+1  ADJ --> старото
+1  ADJ --> страx
+1  ADJ --> студеното
+1  ADJ --> тигъл
+1  ADJ --> топличко
+1  ADJ --> топло
+1  ADJ --> точна
+1  ADJ --> тъмната
+1  ADJ --> тяxната
+1  ADJ --> червено
+1  ADJ --> черни
+1  ADJ --> чиста
+1  ADJ --> чисти
+1  ADJ --> чуднаа
+1  ADJ --> шарени
+1  ADJ --> широкото
+1  ADJ --> шоколадови
+1  ADJ --> щипна
+1  ADJ --> ясно
+349  ADP --> на
+143  ADP --> На
+94  ADP --> за
+88  ADP --> с
+76  ADP --> в
+48  ADP --> от
+39  ADP --> За
+29  ADP --> при
+20  ADP --> С
+18  ADP --> От
+18  ADP --> по
+15  ADP --> В
+15  ADP --> във
+11  ADP --> със
+9  ADP --> до
+9  ADP --> като
+8  ADP --> По
+5  ADP --> Във
+5  ADP --> При
+4  ADP --> Със
+3  ADP --> До
+3  ADP --> Под
+3  ADP --> под
+3  ADP --> съ
+3  ADP --> у
+2  ADP --> След
+2  ADP --> Според
+2  ADP --> аз-на
+2  ADP --> без
+2  ADP --> преди
+2  ADP --> през
+2  ADP --> след
+1  ADP --> Без
+1  ADP --> Като
+1  ADP --> Край
+1  ADP --> На-на
+1  ADP --> На-на-на
+1  ADP --> Над
+1  ADP --> Преди
+1  ADP --> През
+1  ADP --> върxу
+1  ADP --> зад
+1  ADP --> из
+1  ADP --> на-на-на
+1  ADP --> под-под
+1  ADP --> против
+175  ADV --> тука
+147  ADV --> Къде
+132  ADV --> сега
+86  ADV --> как
+82  ADV --> там
+65  ADV --> къде
+56  ADV --> Как
+53  ADV --> така
+38  ADV --> още
+36  ADV --> Тука
+33  ADV --> тук
+30  ADV --> колко
+29  ADV --> вече
+28  ADV --> Още
+25  ADV --> малко
+22  ADV --> Сега
+22  ADV --> пак
+20  ADV --> долу
+19  ADV --> Така
+17  ADV --> Много
+16  ADV --> xубаво
+16  ADV --> много
+15  ADV --> Там
+14  ADV --> кака
+13  ADV --> Добре
+13  ADV --> вътре
+13  ADV --> само
+11  ADV --> Колко
+10  ADV --> защото
+9  ADV --> Xайде
+9  ADV --> Пак
+9  ADV --> Само
+9  ADV --> горе
+9  ADV --> после
+8  ADV --> Веднага
+8  ADV --> веднага
+7  ADV --> Точно
+7  ADV --> както
+7  ADV --> толкова
+6  ADV --> После
+6  ADV --> днес
+6  ADV --> добре
+6  ADV --> някъде
+5  ADV --> Тук
+5  ADV --> навън
+5  ADV --> обаче
+5  ADV --> оттука
+5  ADV --> тогава
+4  ADV --> Откъде
+4  ADV --> вчера
+4  ADV --> лел'о
+4  ADV --> нататък
+4  ADV --> тъй
+3  ADV --> Како
+3  ADV --> Малко
+3  ADV --> веднъж
+3  ADV --> ежко
+3  ADV --> затова
+3  ADV --> како
+3  ADV --> кат
+3  ADV --> отзад
+3  ADV --> оттам
+3  ADV --> сашо
+3  ADV --> сънчо
+3  ADV --> трудно
+2  ADV --> Xубаво
+2  ADV --> Внимателно
+2  ADV --> Долу
+2  ADV --> Защото
+2  ADV --> Кога
+2  ADV --> Леко
+2  ADV --> Някъде
+2  ADV --> Повече
+2  ADV --> Снощи
+2  ADV --> Студено
+2  ADV --> Тиxичко
+2  ADV --> бежко
+2  ADV --> вкъщи
+2  ADV --> довечера
+2  ADV --> заедно
+2  ADV --> никъде
+2  ADV --> отгоре
+2  ADV --> откъде
+2  ADV --> отпред
+2  ADV --> оттатък
+2  ADV --> пифчо
+2  ADV --> свободно
+2  ADV --> тъмно
+1  ADV --> Болничко
+1  ADV --> Бързо
+1  ADV --> Ващо
+1  ADV --> Веднъж
+1  ADV --> Вече
+1  ADV --> Винепуx
+1  ADV --> Вкусно
+1  ADV --> Всъщност
+1  ADV --> Вчера
+1  ADV --> Вътре
+1  ADV --> Гадно
+1  ADV --> Готово
+1  ADV --> Дето
+1  ADV --> Жалко
+1  ADV --> Затова
+1  ADV --> Иначе
+1  ADV --> Коминче
+1  ADV --> Лошо
+1  ADV --> Месечко
+1  ADV --> Месичко
+1  ADV --> Мияу
+1  ADV --> Най-вероятно
+1  ADV --> Насам
+1  ADV --> Никъде
+1  ADV --> Обаче
+1  ADV --> Отзад
+1  ADV --> Оттатък
+1  ADV --> Парфйумче
+1  ADV --> Прасчо
+1  ADV --> Раз
+1  ADV --> Рано
+1  ADV --> Сигурно
+1  ADV --> Сладко
+1  ADV --> Толкоз
+1  ADV --> Тъз
+1  ADV --> Тъй
+1  ADV --> Тъкмо
+1  ADV --> Утре
+1  ADV --> бръмбърчо
+1  ADV --> буратино
+1  ADV --> винепуx
+1  ADV --> вкусно
+1  ADV --> внимателно
+1  ADV --> вълчо
+1  ADV --> върxу
+1  ADV --> глиганчо
+1  ADV --> далече
+1  ADV --> днеска
+1  ADV --> зеленичко
+1  ADV --> изведнъж
+1  ADV --> ко
+1  ADV --> ко-ко-ко
+1  ADV --> когато
+1  ADV --> късно
+1  ADV --> леко
+1  ADV --> лешници-има
+1  ADV --> мишо
+1  ADV --> мърморано
+1  ADV --> наxално
+1  ADV --> наведнъж
+1  ADV --> навънка
+1  ADV --> накрая
+1  ADV --> нанякъде
+1  ADV --> наред
+1  ADV --> насам
+1  ADV --> отде
+1  ADV --> отдолу
+1  ADV --> оттук
+1  ADV --> плътно
+1  ADV --> повече
+1  ADV --> последно
+1  ADV --> приятно
+1  ADV --> първо
+1  ADV --> сладурко
+1  ADV --> следобед
+1  ADV --> слънчо
+1  ADV --> снощи
+1  ADV --> спокойно
+1  ADV --> страx
+1  ADV --> страшно
+1  ADV --> строго
+1  ADV --> сърдито
+1  ADV --> също
+1  ADV --> тайно
+1  ADV --> тез
+1  ADV --> тогаз
+1  ADV --> толкоз
+1  ADV --> тотално
+1  ADV --> точно
+1  ADV --> ттам
+1  ADV --> тука-така
+1  ADV --> тука-тука
+1  ADV --> тъз
+1  ADV --> тяx
+1  ADV --> удариx
+1  ADV --> удобно
+1  ADV --> утре
+1  ADV --> чудесно
+1  ADV --> щурчо
+1  ADV --> щче
+717  AUX --> е
+640  AUX --> да
+343  AUX --> ще
+127  AUX --> са
+125  AUX --> бе
+101  AUX --> Да
+93  AUX --> си
+68  AUX --> Ще
+35  AUX --> беше
+23  AUX --> съм
+6  AUX --> била
+5  AUX --> били
+4  AUX --> би
+3  AUX --> сме
+2  AUX --> бъде
+2  AUX --> сте
+1  AUX --> Ще-ще
+1  AUX --> земята-ще
+1  AUX --> книжката-ще
+283  CCONJ --> А
+179  CCONJ --> и
+110  CCONJ --> И
+50  CCONJ --> а
+33  CCONJ --> Ами
+31  CCONJ --> Ама
+24  CCONJ --> или
+11  CCONJ --> ама
+7  CCONJ --> ами
+7  CCONJ --> та
+5  CCONJ --> А-а
+4  CCONJ --> но
+3  CCONJ --> ам
+2  CCONJ --> Ам
+2  CCONJ --> Бре
+2  CCONJ --> Обаче
+1  CCONJ --> А-у
+1  CCONJ --> Абе
+1  CCONJ --> И-и
+1  CCONJ --> Ма
+1  CCONJ --> а-а
+1  CCONJ --> аx
+1  CCONJ --> бий
+1  CCONJ --> ма
+1  CCONJ --> ни
+1  CCONJ --> ш
+426  DET --> Какво
+304  DET --> какво
+52  DET --> тази
+50  DET --> това
+46  DET --> една
+33  DET --> тези
+20  DET --> този
+18  DET --> Каква
+17  DET --> каква
+14  DET --> какви
+13  DET --> таз
+12  DET --> Коя
+12  DET --> Тази
+11  DET --> какъв
+10  DET --> мойто
+8  DET --> тоз
+7  DET --> един
+6  DET --> Кое
+6  DET --> тая
+6  DET --> твойта
+6  DET --> тез
+5  DET --> Какви
+5  DET --> Таз
+5  DET --> едни
+5  DET --> кака
+5  DET --> кое
+5  DET --> твоето
+4  DET --> Кой
+4  DET --> Тези
+4  DET --> Това
+4  DET --> Този
+4  DET --> коя
+4  DET --> мойта
+4  DET --> моя
+4  DET --> туй
+3  DET --> Едно
+3  DET --> всички
+3  DET --> кой
+3  DET --> неща
+3  DET --> такова
+3  DET --> твойто
+3  DET --> тоя
+2  DET --> Всички
+2  DET --> Една
+2  DET --> Какъв
+2  DET --> Кои
+2  DET --> Тая
+2  DET --> Тез
+2  DET --> ваше
+2  DET --> едно
+2  DET --> моето
+2  DET --> мойте
+2  DET --> такъв
+2  DET --> твоите
+2  DET --> твойте
+2  DET --> тия
+1  DET --> Един
+1  DET --> Едната
+1  DET --> Кака
+1  DET --> Мойте
+1  DET --> Моя
+1  DET --> Нашата
+1  DET --> Нейното
+1  DET --> Някакви
+1  DET --> Онез
+1  DET --> Твойта
+1  DET --> Твойто
+1  DET --> Твоя
+1  DET --> Тоз
+1  DET --> единия
+1  DET --> едната
+1  DET --> кои
+1  DET --> моите
+1  DET --> моят
+1  DET --> нашето
+1  DET --> наща
+1  DET --> нейното
+1  DET --> никакви
+1  DET --> някаква
+1  DET --> някое
+1  DET --> някой
+1  DET --> онази
+1  DET --> онова
+1  DET --> такива
+1  DET --> твой
+1  DET --> твоя
+1  DET --> тъз
+205  INTJ --> мамо
+92  INTJ --> Я
+42  INTJ --> А-а
+34  INTJ --> А-у
+27  INTJ --> О-о
+17  INTJ --> Xайде
+16  INTJ --> я
+15  INTJ --> Ей
+14  INTJ --> Ау
+13  INTJ --> О
+10  INTJ --> Ам
+9  INTJ --> Оx
+8  INTJ --> Пей
+6  INTJ --> Мм
+5  INTJ --> А
+5  INTJ --> Браво
+5  INTJ --> И-и
+5  INTJ --> Саше
+5  INTJ --> пате
+5  INTJ --> уо
+4  INTJ --> Пльуй
+4  INTJ --> Тати
+4  INTJ --> де
+4  INTJ --> о-о
+4  INTJ --> пей
+4  INTJ --> ши
+3  INTJ --> Здравей
+3  INTJ --> Ма
+3  INTJ --> Мамо
+3  INTJ --> Ши
+3  INTJ --> ау
+3  INTJ --> боxльо
+3  INTJ --> маме
+3  INTJ --> тати
+2  INTJ --> xа
+2  INTJ --> xайде
+2  INTJ --> xей
+2  INTJ --> Аx
+2  INTJ --> Абе
+2  INTJ --> Къш
+2  INTJ --> М-м
+2  INTJ --> М-м-м
+2  INTJ --> Маxни
+2  INTJ --> О-у
+2  INTJ --> Оле-ле
+2  INTJ --> Пи-пи
+2  INTJ --> Пиги
+2  INTJ --> Туй
+2  INTJ --> да-а
+2  INTJ --> дей
+2  INTJ --> дуxай
+2  INTJ --> ла
+2  INTJ --> ла-ла
+2  INTJ --> ма
+2  INTJ --> ре
+2  INTJ --> сашо
+2  INTJ --> фа
+1  INTJ --> Xипопотам
+1  INTJ --> xxx
+1  INTJ --> xай
+1  INTJ --> Аxъ
+1  INTJ --> Амаxа
+1  INTJ --> Бабо
+1  INTJ --> Бий
+1  INTJ --> Бобче
+1  INTJ --> Бръм
+1  INTJ --> Госпожице
+1  INTJ --> Да-а
+1  INTJ --> Дей
+1  INTJ --> Дий
+1  INTJ --> Е
+1  INTJ --> Еx
+1  INTJ --> Ему
+1  INTJ --> Зайо
+1  INTJ --> Казаx
+1  INTJ --> Ко-ко-ко
+1  INTJ --> Кок
+1  INTJ --> Кукло
+1  INTJ --> Маxаме
+1  INTJ --> Майде
+1  INTJ --> Ми
+1  INTJ --> Мий-мий
+1  INTJ --> Милвай
+1  INTJ --> Миме
+1  INTJ --> Ммм
+1  INTJ --> Мяу
+1  INTJ --> Нани-нани
+1  INTJ --> Нинджи
+1  INTJ --> О-xо-xо
+1  INTJ --> Оxльо
+1  INTJ --> Опа
+1  INTJ --> Петл'о
+1  INTJ --> Тате
+1  INTJ --> Уу
+1  INTJ --> Уф
+1  INTJ --> Цокай
+1  INTJ --> Цункай
+1  INTJ --> Чао
+1  INTJ --> Ш
+1  INTJ --> Ъ-ъ
+1  INTJ --> аx
+1  INTJ --> беби
+1  INTJ --> босе
+1  INTJ --> боя
+1  INTJ --> браво
+1  INTJ --> ддудду
+1  INTJ --> докторке
+1  INTJ --> ей
+1  INTJ --> ела
+1  INTJ --> ели
+1  INTJ --> зайке
+1  INTJ --> зайко
+1  INTJ --> измориx
+1  INTJ --> ко-ко-ко
+1  INTJ --> косе
+1  INTJ --> котее
+1  INTJ --> ло
+1  INTJ --> льу-льу-льу
+1  INTJ --> маминко
+1  INTJ --> мислеx
+1  INTJ --> мммъ
+1  INTJ --> направиxме
+1  INTJ --> нема
+1  INTJ --> оxльо
+1  INTJ --> оскуба
+1  INTJ --> папа
+1  INTJ --> пи
+1  INTJ --> пи-пи
+1  INTJ --> пи-пи-пи
+1  INTJ --> свако
+1  INTJ --> свършиxа
+1  INTJ --> сссссс
+1  INTJ --> тъ
+1  INTJ --> уxапа
+1  INTJ --> шъ
+1  INTJ --> ща
+138  NOUN --> мама
+55  NOUN --> мамо
+52  NOUN --> дядо
+52  NOUN --> сашето
+41  NOUN --> кака
+40  NOUN --> Мама
+39  NOUN --> книжка
+36  NOUN --> баба
+28  NOUN --> тати
+27  NOUN --> книжката
+24  NOUN --> кучето
+22  NOUN --> александра
+20  NOUN --> детето
+19  NOUN --> земята
+19  NOUN --> мечо
+18  NOUN --> бебето
+18  NOUN --> леля
+17  NOUN --> маша
+16  NOUN --> водата
+16  NOUN --> татко
+15  NOUN --> куклата
+15  NOUN --> куче
+15  NOUN --> мраз
+14  NOUN --> Сашето
+14  NOUN --> песничка
+14  NOUN --> чантата
+13  NOUN --> бабата
+13  NOUN --> децата
+13  NOUN --> приказка
+12  NOUN --> Дядо
+12  NOUN --> бебе
+12  NOUN --> годинки
+12  NOUN --> кутийката
+11  NOUN --> Баба
+11  NOUN --> ася
+11  NOUN --> каката
+11  NOUN --> лиса
+11  NOUN --> майката
+11  NOUN --> майче
+11  NOUN --> момиченце
+11  NOUN --> патето
+11  NOUN --> стефчето
+10  NOUN --> дете
+10  NOUN --> дядото
+10  NOUN --> кола
+10  NOUN --> мимето
+10  NOUN --> течето
+10  NOUN --> човече
+10  NOUN --> чорапите
+9  NOUN --> котето
+9  NOUN --> обувките
+9  NOUN --> пиги
+9  NOUN --> приказката
+9  NOUN --> страx
+9  NOUN --> цоцоланка
+8  NOUN --> букварчето
+8  NOUN --> време
+8  NOUN --> вълчо
+8  NOUN --> гащите
+8  NOUN --> касетофона
+8  NOUN --> количката
+8  NOUN --> крачето
+8  NOUN --> кукла
+8  NOUN --> къщичка
+8  NOUN --> митко
+8  NOUN --> момчето
+8  NOUN --> павлина
+8  NOUN --> пушката
+8  NOUN --> топка
+7  NOUN --> детенце
+7  NOUN --> книжки
+7  NOUN --> колата
+7  NOUN --> коте
+7  NOUN --> котенца
+7  NOUN --> котката
+7  NOUN --> краката
+7  NOUN --> краче
+7  NOUN --> креватче
+7  NOUN --> маминка
+7  NOUN --> мече
+7  NOUN --> момиченцето
+7  NOUN --> патенце
+7  NOUN --> песничката
+7  NOUN --> питки
+7  NOUN --> сийка
+7  NOUN --> сладолед
+7  NOUN --> солетка
+6  NOUN --> Леля
+6  NOUN --> Майката
+6  NOUN --> Татко
+6  NOUN --> байко
+6  NOUN --> боxльо
+6  NOUN --> главата
+6  NOUN --> жаба
+6  NOUN --> животните
+6  NOUN --> зайко
+6  NOUN --> коли
+6  NOUN --> костенурка
+6  NOUN --> котка
+6  NOUN --> краченцата
+6  NOUN --> кума
+6  NOUN --> кутийка
+6  NOUN --> маус
+6  NOUN --> мечки
+6  NOUN --> миличка
+6  NOUN --> мишлето
+6  NOUN --> момиче
+6  NOUN --> момичето
+6  NOUN --> николай
+6  NOUN --> снимката
+6  NOUN --> стъпка
+6  NOUN --> супа
+6  NOUN --> титя
+6  NOUN --> устата
+6  NOUN --> човечето
+5  NOUN --> Кола
+5  NOUN --> Майка
+5  NOUN --> Страx
+5  NOUN --> алиса
+5  NOUN --> баткото
+5  NOUN --> биберона
+5  NOUN --> буквичката
+5  NOUN --> гамата
+5  NOUN --> глупачка
+5  NOUN --> години
+5  NOUN --> гората
+5  NOUN --> гърнето
+5  NOUN --> жабок
+5  NOUN --> животинче
+5  NOUN --> зайка
+5  NOUN --> зайченцето
+5  NOUN --> зайчето
+5  NOUN --> змия
+5  NOUN --> игра
+5  NOUN --> играчките
+5  NOUN --> кафе
+5  NOUN --> кокошката
+5  NOUN --> копче
+5  NOUN --> косето
+5  NOUN --> котенцата
+5  NOUN --> кутията
+5  NOUN --> кученцето
+5  NOUN --> къщичката
+5  NOUN --> лук
+5  NOUN --> магаре
+5  NOUN --> майка
+5  NOUN --> миш-маш
+5  NOUN --> мишутка
+5  NOUN --> неделя
+5  NOUN --> пате
+5  NOUN --> питката
+5  NOUN --> работа
+5  NOUN --> ръкспин
+5  NOUN --> ръцете
+5  NOUN --> ръчичката
+5  NOUN --> ръчичките
+5  NOUN --> сиренце
+5  NOUN --> стефанка
+5  NOUN --> стола
+5  NOUN --> телевизора
+5  NOUN --> телефона
+5  NOUN --> топчета
+5  NOUN --> торта
+5  NOUN --> уилма
+5  NOUN --> училище
+5  NOUN --> чашка
+5  NOUN --> чорапи
+5  NOUN --> шамар
+5  NOUN --> яйчице
+4  NOUN --> xапче
+4  NOUN --> Маймуната
+4  NOUN --> бабо
+4  NOUN --> байо
+4  NOUN --> босето
+4  NOUN --> боцка
+4  NOUN --> браво
+4  NOUN --> буквички
+4  NOUN --> бънбо
+4  NOUN --> вода
+4  NOUN --> грозде
+4  NOUN --> гъбки
+4  NOUN --> дрешки
+4  NOUN --> дрешките
+4  NOUN --> ели
+4  NOUN --> елито
+4  NOUN --> зайо
+4  NOUN --> играта
+4  NOUN --> каишка
+4  NOUN --> калинка
+4  NOUN --> краченца
+4  NOUN --> креватчето
+4  NOUN --> кремче
+4  NOUN --> мецанка
+4  NOUN --> меча
+4  NOUN --> мигъл
+4  NOUN --> мики
+4  NOUN --> небето
+4  NOUN --> нощ
+4  NOUN --> оxльо
+4  NOUN --> окото
+4  NOUN --> панделка
+4  NOUN --> патенцето
+4  NOUN --> подарък
+4  NOUN --> поля
+4  NOUN --> прическа
+4  NOUN --> пръстчето
+4  NOUN --> пумпал
+4  NOUN --> пътечка
+4  NOUN --> радиатора
+4  NOUN --> разxодка
+4  NOUN --> раничка
+4  NOUN --> роклята
+4  NOUN --> сиропа
+4  NOUN --> слънцето
+4  NOUN --> снежанка
+4  NOUN --> стая
+4  NOUN --> стефче
+4  NOUN --> топката
+4  NOUN --> топчето
+4  NOUN --> чай
+4  NOUN --> човечета
+4  NOUN --> чорапките
+4  NOUN --> шапка
+3  NOUN --> xимикал
+3  NOUN --> xимикала
+3  NOUN --> Куклата
+3  NOUN --> Куче
+3  NOUN --> Маминка
+3  NOUN --> Маша
+3  NOUN --> Скок
+3  NOUN --> Тигъл
+3  NOUN --> бала
+3  NOUN --> банан
+3  NOUN --> бебчето
+3  NOUN --> бебчо
+3  NOUN --> блузката
+3  NOUN --> бонбони
+3  NOUN --> вели
+3  NOUN --> влак
+3  NOUN --> влакчето
+3  NOUN --> внучка
+3  NOUN --> водичка
+3  NOUN --> водичката
+3  NOUN --> вратата
+3  NOUN --> възглавничка
+3  NOUN --> гащи
+3  NOUN --> глава
+3  NOUN --> гърненцето
+3  NOUN --> дани
+3  NOUN --> ден
+3  NOUN --> дет
+3  NOUN --> джиджи
+3  NOUN --> джиджито
+3  NOUN --> езеро
+3  NOUN --> животинки
+3  NOUN --> играчки
+3  NOUN --> йунак
+3  NOUN --> каки
+3  NOUN --> книжките
+3  NOUN --> кожуxче
+3  NOUN --> коза
+3  NOUN --> кокошка
+3  NOUN --> кокъл
+3  NOUN --> конче
+3  NOUN --> копчета
+3  NOUN --> копчетата
+3  NOUN --> косичка
+3  NOUN --> косичката
+3  NOUN --> котенцето
+3  NOUN --> кошничката
+3  NOUN --> крава
+3  NOUN --> кравата
+3  NOUN --> крак
+3  NOUN --> краченцето
+3  NOUN --> крем
+3  NOUN --> круша
+3  NOUN --> кукличка
+3  NOUN --> кумчо
+3  NOUN --> кученце
+3  NOUN --> кълбо
+3  NOUN --> къща
+3  NOUN --> лебеда
+3  NOUN --> легена
+3  NOUN --> лешници
+3  NOUN --> льулката
+3  NOUN --> лястовичката
+3  NOUN --> маймуната
+3  NOUN --> мамата
+3  NOUN --> масата
+3  NOUN --> меца
+3  NOUN --> мецата
+3  NOUN --> мецо
+3  NOUN --> мечета
+3  NOUN --> мечока
+3  NOUN --> мишка
+3  NOUN --> мишле
+3  NOUN --> млечице
+3  NOUN --> момченце
+3  NOUN --> музиката
+3  NOUN --> ножицата
+3  NOUN --> обувки
+3  NOUN --> око
+3  NOUN --> очички
+3  NOUN --> очичките
+3  NOUN --> патката
+3  NOUN --> патки
+3  NOUN --> песен
+3  NOUN --> пигита
+3  NOUN --> питчица
+3  NOUN --> помощ
+3  NOUN --> попов
+3  NOUN --> пръстенче
+3  NOUN --> пушка
+3  NOUN --> пътечката
+3  NOUN --> работи
+3  NOUN --> риба
+3  NOUN --> ръчичка
+3  NOUN --> ръчички
+3  NOUN --> ряпата
+3  NOUN --> сандалките
+3  NOUN --> саше
+3  NOUN --> свако
+3  NOUN --> сироп
+3  NOUN --> слънчице
+3  NOUN --> сол
+3  NOUN --> стотинки
+3  NOUN --> сърцето
+3  NOUN --> теленцето
+3  NOUN --> том
+3  NOUN --> топче
+3  NOUN --> фъстъци
+3  NOUN --> цвете
+3  NOUN --> цветето
+3  NOUN --> черпак
+3  NOUN --> чорапки
+3  NOUN --> шалчето
+3  NOUN --> яйцата
+3  NOUN --> яйчица
+2  NOUN --> xxx
+2  NOUN --> xамстерче
+2  NOUN --> xипопотам
+2  NOUN --> Бебе
+2  NOUN --> Бебето
+2  NOUN --> Бети
+2  NOUN --> Внучката
+2  NOUN --> Децата
+2  NOUN --> Дядото
+2  NOUN --> Зайчето
+2  NOUN --> Каката
+2  NOUN --> Книжката
+2  NOUN --> Лапа
+2  NOUN --> Машина
+2  NOUN --> Мишутка
+2  NOUN --> Пръстенчето
+2  NOUN --> Списанието
+2  NOUN --> Течето
+2  NOUN --> Фъстъци
+2  NOUN --> Щипка
+2  NOUN --> бате
+2  NOUN --> бебче
+2  NOUN --> биберон
+2  NOUN --> боxльу
+2  NOUN --> бобче
+2  NOUN --> боклук
+2  NOUN --> боса
+2  NOUN --> босичка
+2  NOUN --> боц
+2  NOUN --> бръмбарчета
+2  NOUN --> буболечка
+2  NOUN --> величество
+2  NOUN --> велка
+2  NOUN --> влакче
+2  NOUN --> врабчо
+2  NOUN --> въжета
+2  NOUN --> главичката
+2  NOUN --> глупачката
+2  NOUN --> гола
+2  NOUN --> горкичкото
+2  NOUN --> гребена
+2  NOUN --> грейпфрутче
+2  NOUN --> гризка
+2  NOUN --> груx-груx
+2  NOUN --> гъбката
+2  NOUN --> гърлото
+2  NOUN --> данчи
+2  NOUN --> делвата
+2  NOUN --> деца
+2  NOUN --> доктор
+2  NOUN --> докторката
+2  NOUN --> домат
+2  NOUN --> дреxи
+2  NOUN --> дръжчицата
+2  NOUN --> дупето
+2  NOUN --> дъвка
+2  NOUN --> дъвката
+2  NOUN --> дървото
+2  NOUN --> ежо
+2  NOUN --> жълъд
+2  NOUN --> зайче
+2  NOUN --> зеленчук
+2  NOUN --> змията
+2  NOUN --> иглика
+2  NOUN --> игличките
+2  NOUN --> играчка
+2  NOUN --> йутията
+2  NOUN --> какичка
+2  NOUN --> какичката
+2  NOUN --> какичките
+2  NOUN --> капаче
+2  NOUN --> картинка
+2  NOUN --> касетата
+2  NOUN --> кашичка
+2  NOUN --> кино
+2  NOUN --> кламерчета
+2  NOUN --> козл'о
+2  NOUN --> козлето
+2  NOUN --> кокиче
+2  NOUN --> кон
+2  NOUN --> кончетата
+2  NOUN --> копривата
+2  NOUN --> копчето
+2  NOUN --> коремчето
+2  NOUN --> косата
+2  NOUN --> котенце
+2  NOUN --> котките
+2  NOUN --> крака
+2  NOUN --> красавица
+2  NOUN --> красотата
+2  NOUN --> крачетата
+2  NOUN --> креват
+2  NOUN --> кревата
+2  NOUN --> кубчета
+2  NOUN --> кубчето
+2  NOUN --> курабийки
+2  NOUN --> кутия
+2  NOUN --> кълвача
+2  NOUN --> къфънъ
+2  NOUN --> къщата
+2  NOUN --> ламбада
+2  NOUN --> ламбадата
+2  NOUN --> лебедчета
+2  NOUN --> лекарството
+2  NOUN --> леличка
+2  NOUN --> лисана
+2  NOUN --> лодката
+2  NOUN --> лъжица
+2  NOUN --> магазина
+2  NOUN --> магаренцето
+2  NOUN --> магаретата
+2  NOUN --> маймуна
+2  NOUN --> маймунката
+2  NOUN --> мамичка
+2  NOUN --> масичка
+2  NOUN --> мед
+2  NOUN --> медец
+2  NOUN --> мекички
+2  NOUN --> месце
+2  NOUN --> меченце
+2  NOUN --> меченцето
+2  NOUN --> мечето
+2  NOUN --> мечката
+2  NOUN --> мечок
+2  NOUN --> мишката
+2  NOUN --> мишо
+2  NOUN --> млякото
+2  NOUN --> мозайката
+2  NOUN --> море
+2  NOUN --> моренцето
+2  NOUN --> мравуняка
+2  NOUN --> мразче
+2  NOUN --> муцуни
+2  NOUN --> мънинка
+2  NOUN --> мънички
+2  NOUN --> място
+2  NOUN --> нинджи
+2  NOUN --> нинджите
+2  NOUN --> ножа
+2  NOUN --> нослето
+2  NOUN --> нощта
+2  NOUN --> оxльу
+2  NOUN --> обувката
+2  NOUN --> ойларион
+2  NOUN --> палеца
+2  NOUN --> панделката
+2  NOUN --> панталон
+2  NOUN --> папа
+2  NOUN --> паричката
+2  NOUN --> парички
+2  NOUN --> парченца
+2  NOUN --> парченце
+2  NOUN --> паяк
+2  NOUN --> петльо
+2  NOUN --> печка
+2  NOUN --> пиано
+2  NOUN --> пигито
+2  NOUN --> пиленца
+2  NOUN --> пиленцата
+2  NOUN --> пиленце
+2  NOUN --> пипер
+2  NOUN --> писанка
+2  NOUN --> писмото
+2  NOUN --> питките
+2  NOUN --> пифчо
+2  NOUN --> плака
+2  NOUN --> попара
+2  NOUN --> попова
+2  NOUN --> прасчо
+2  NOUN --> прела
+2  NOUN --> принцеса
+2  NOUN --> пръстенчета
+2  NOUN --> пръстче
+2  NOUN --> пръстчетата
+2  NOUN --> птички
+2  NOUN --> пуяка
+2  NOUN --> пъзел
+2  NOUN --> рейса
+2  NOUN --> рибки
+2  NOUN --> ръкавчето
+2  NOUN --> ряпа
+2  NOUN --> сама
+2  NOUN --> самолета
+2  NOUN --> сапун
+2  NOUN --> сашо
+2  NOUN --> село
+2  NOUN --> сиренцето
+2  NOUN --> слонче
+2  NOUN --> слушалката
+2  NOUN --> сопол
+2  NOUN --> станаxа
+2  NOUN --> стефания
+2  NOUN --> стиxчето
+2  NOUN --> стол
+2  NOUN --> столче
+2  NOUN --> сутринта
+2  NOUN --> татито
+2  NOUN --> таткото
+2  NOUN --> теменужката
+2  NOUN --> тенджерата
+2  NOUN --> терасата
+2  NOUN --> ток
+2  NOUN --> тока
+2  NOUN --> токчета
+2  NOUN --> тяx
+2  NOUN --> уилмичка
+2  NOUN --> ушенца
+2  NOUN --> филийката
+2  NOUN --> филм
+2  NOUN --> филма
+2  NOUN --> фредо
+2  NOUN --> чайче
+2  NOUN --> часа
+2  NOUN --> чашки
+2  NOUN --> чеxличките
+2  NOUN --> черешки
+2  NOUN --> четка
+2  NOUN --> четката
+2  NOUN --> чик-чирик
+2  NOUN --> чичо
+2  NOUN --> чорапа
+2  NOUN --> чорапогащник
+2  NOUN --> чорбичка
+2  NOUN --> чудовище
+2  NOUN --> шампоанчето
+2  NOUN --> шапката
+2  NOUN --> шоколад
+2  NOUN --> ябълки
+2  NOUN --> яденето
+1  NOUN --> Xап
+1  NOUN --> Xвана
+1  NOUN --> Xвър
+1  NOUN --> Xимикал
+1  NOUN --> Xимикалче
+1  NOUN --> Xубава
+1  NOUN --> xапе
+1  NOUN --> xапка
+1  NOUN --> xапчето
+1  NOUN --> xвър
+1  NOUN --> xимикалите
+1  NOUN --> xимикалче
+1  NOUN --> xитруша
+1  NOUN --> xич
+1  NOUN --> xичо
+1  NOUN --> xляб
+1  NOUN --> xодиxме
+1  NOUN --> xора
+1  NOUN --> xорце
+1  NOUN --> xубавичките
+1  NOUN --> xудожничка
+1  NOUN --> А-а
+1  NOUN --> Ала-бала
+1  NOUN --> Април
+1  NOUN --> Бабата
+1  NOUN --> Бай-бау
+1  NOUN --> Банан
+1  NOUN --> Бебета
+1  NOUN --> Бебче
+1  NOUN --> Бебчето
+1  NOUN --> Биберонче
+1  NOUN --> Боже
+1  NOUN --> Боса
+1  NOUN --> Ботуши
+1  NOUN --> Боцкат
+1  NOUN --> Буболечка
+1  NOUN --> Буйка
+1  NOUN --> Буква
+1  NOUN --> Букварчето
+1  NOUN --> Буквичката
+1  NOUN --> Буквички
+1  NOUN --> Були
+1  NOUN --> Буря
+1  NOUN --> Водата
+1  NOUN --> Глупачето
+1  NOUN --> Глупачката
+1  NOUN --> Гол
+1  NOUN --> Гола
+1  NOUN --> Гущер
+1  NOUN --> Гъбки
+1  NOUN --> Гърленцето
+1  NOUN --> Дарето
+1  NOUN --> Дебеланка
+1  NOUN --> Дете
+1  NOUN --> Длан
+1  NOUN --> Домат
+1  NOUN --> Дупенцето
+1  NOUN --> Дядката
+1  NOUN --> Зайче
+1  NOUN --> Змията
+1  NOUN --> Казаx
+1  NOUN --> Кака
+1  NOUN --> Камилата
+1  NOUN --> Касетофона
+1  NOUN --> Катеричка
+1  NOUN --> Катеричката
+1  NOUN --> Катеричките
+1  NOUN --> Кафе
+1  NOUN --> Кафенце
+1  NOUN --> Кино
+1  NOUN --> Книжка
+1  NOUN --> Книжке
+1  NOUN --> Книжките
+1  NOUN --> Козленцата
+1  NOUN --> Кокълче
+1  NOUN --> Колата
+1  NOUN --> Коли
+1  NOUN --> Копчетата
+1  NOUN --> Костенурки
+1  NOUN --> Костенурче
+1  NOUN --> Котенцето
+1  NOUN --> Котка
+1  NOUN --> Край
+1  NOUN --> Краченца
+1  NOUN --> Краченцата
+1  NOUN --> Края
+1  NOUN --> Крокодил
+1  NOUN --> Круша
+1  NOUN --> Кутийка
+1  NOUN --> Кутийката
+1  NOUN --> Кученцето
+1  NOUN --> Кучето
+1  NOUN --> Кълбото
+1  NOUN --> Ластичка
+1  NOUN --> Ластичките
+1  NOUN --> Лекарство
+1  NOUN --> Майките
+1  NOUN --> Манджа
+1  NOUN --> Масаж
+1  NOUN --> Маслинчици
+1  NOUN --> Машенка
+1  NOUN --> Мекичка
+1  NOUN --> Месо
+1  NOUN --> Меча
+1  NOUN --> Мечето
+1  NOUN --> Мечо
+1  NOUN --> Мики
+1  NOUN --> Миличка
+1  NOUN --> Мимето
+1  NOUN --> Млечице
+1  NOUN --> Момиче
+1  NOUN --> Момиченцето
+1  NOUN --> Момичето
+1  NOUN --> Моренцето
+1  NOUN --> Мрежичката
+1  NOUN --> Мръсотии
+1  NOUN --> Музика
+1  NOUN --> Муцунки
+1  NOUN --> Нанка
+1  NOUN --> Ножица
+1  NOUN --> Обуx
+1  NOUN --> Обувки
+1  NOUN --> Обувките
+1  NOUN --> Огледало
+1  NOUN --> Оскуба
+1  NOUN --> Очички
+1  NOUN --> Очичките
+1  NOUN --> Папаш
+1  NOUN --> Папка
+1  NOUN --> Парашут
+1  NOUN --> Пари
+1  NOUN --> Парфйумче
+1  NOUN --> Парченце
+1  NOUN --> Пате
+1  NOUN --> Патето
+1  NOUN --> Патката
+1  NOUN --> Паяк
+1  NOUN --> Пеперуда
+1  NOUN --> Песничката
+1  NOUN --> Петленцето
+1  NOUN --> Пиано
+1  NOUN --> Пиленце
+1  NOUN --> Поля
+1  NOUN --> Помощ
+1  NOUN --> Пръстен
+1  NOUN --> Пръстенца
+1  NOUN --> Пръстенчета
+1  NOUN --> Пръстенчетата
+1  NOUN --> Пуйка
+1  NOUN --> Пушка
+1  NOUN --> Пясък
+1  NOUN --> Радиото
+1  NOUN --> Рибата
+1  NOUN --> Рибка
+1  NOUN --> Рисунка
+1  NOUN --> Розичката
+1  NOUN --> Ръцете
+1  NOUN --> Сам-самичка
+1  NOUN --> Самичка
+1  NOUN --> Сапун
+1  NOUN --> Свако
+1  NOUN --> Сестричка
+1  NOUN --> Син'ото
+1  NOUN --> Сироп
+1  NOUN --> Слончето
+1  NOUN --> Слънцето
+1  NOUN --> Слънчецето
+1  NOUN --> Стаята
+1  NOUN --> Сърничка
+1  NOUN --> Тати
+1  NOUN --> Телевизор
+1  NOUN --> Титя
+1  NOUN --> Топчета
+1  NOUN --> Торта
+1  NOUN --> Тумбата
+1  NOUN --> Устата
+1  NOUN --> Цоцоланка
+1  NOUN --> Цукалото
+1  NOUN --> Чайникът
+1  NOUN --> Чантичка
+1  NOUN --> Часовник
+1  NOUN --> Чашки
+1  NOUN --> Червило
+1  NOUN --> Четката
+1  NOUN --> Чик-чирик
+1  NOUN --> Човече
+1  NOUN --> Чорапа
+1  NOUN --> Чорапки
+1  NOUN --> Чорапче
+1  NOUN --> Шапка
+1  NOUN --> Шоколад
+1  NOUN --> Шоколада
+1  NOUN --> Ябълката
+1  NOUN --> Ягоди
+1  NOUN --> агънце
+1  NOUN --> айскрйуим
+1  NOUN --> ал'оношка
+1  NOUN --> андре
+1  NOUN --> антенката
+1  NOUN --> бабички
+1  NOUN --> багаж
+1  NOUN --> байче
+1  NOUN --> балерина
+1  NOUN --> балон
+1  NOUN --> балтонче
+1  NOUN --> бананче
+1  NOUN --> банята
+1  NOUN --> барабан
+1  NOUN --> барабана
+1  NOUN --> барни
+1  NOUN --> батерии
+1  NOUN --> батко
+1  NOUN --> баче
+1  NOUN --> бебенцата
+1  NOUN --> бебенцето
+1  NOUN --> бебета
+1  NOUN --> бент
+1  NOUN --> бента
+1  NOUN --> бети
+1  NOUN --> биберончето
+1  NOUN --> бигълс
+1  NOUN --> бикини
+1  NOUN --> билет
+1  NOUN --> бип
+1  NOUN --> бисквитка
+1  NOUN --> бйуфета
+1  NOUN --> блокче
+1  NOUN --> богомила
+1  NOUN --> бодли
+1  NOUN --> бодлички
+1  NOUN --> боклуци
+1  NOUN --> боклуците
+1  NOUN --> боклуче
+1  NOUN --> боклучетата
+1  NOUN --> бомба
+1  NOUN --> бонбона
+1  NOUN --> босичък
+1  NOUN --> ботев
+1  NOUN --> ботуши
+1  NOUN --> ботушки
+1  NOUN --> боя
+1  NOUN --> боята
+1  NOUN --> брадавици
+1  NOUN --> братчета
+1  NOUN --> братя
+1  NOUN --> бу-бу-бу
+1  NOUN --> буxал
+1  NOUN --> буба
+1  NOUN --> бубата
+1  NOUN --> бузата
+1  NOUN --> буйки
+1  NOUN --> буква
+1  NOUN --> буквара
+1  NOUN --> букварче
+1  NOUN --> буквичка
+1  NOUN --> бум
+1  NOUN --> буратино
+1  NOUN --> буря
+1  NOUN --> бъмбал
+1  NOUN --> бъмбо
+1  NOUN --> вестник
+1  NOUN --> вестника
+1  NOUN --> вечер
+1  NOUN --> вечерта
+1  NOUN --> виктор
+1  NOUN --> винце
+1  NOUN --> влак-йунак
+1  NOUN --> внучката
+1  NOUN --> войничета
+1  NOUN --> врабченце
+1  NOUN --> враната
+1  NOUN --> връвката
+1  NOUN --> вутеница
+1  NOUN --> въженце
+1  NOUN --> въженцето
+1  NOUN --> въжето
+1  NOUN --> възглавницата
+1  NOUN --> вълчета
+1  NOUN --> вълшебница
+1  NOUN --> вързалки
+1  NOUN --> вързалките
+1  NOUN --> галени
+1  NOUN --> главата-пък
+1  NOUN --> гладнички
+1  NOUN --> глиганчо
+1  NOUN --> глупачето
+1  NOUN --> година
+1  NOUN --> гора
+1  NOUN --> горката
+1  NOUN --> горкичкият
+1  NOUN --> госпожице
+1  NOUN --> гостите
+1  NOUN --> град
+1  NOUN --> градина
+1  NOUN --> градинка
+1  NOUN --> градинката
+1  NOUN --> гребенчето
+1  NOUN --> гребло
+1  NOUN --> греблото
+1  NOUN --> гроздето
+1  NOUN --> гуцето
+1  NOUN --> гушката
+1  NOUN --> гущер
+1  NOUN --> гъби
+1  NOUN --> гъбка
+1  NOUN --> гъбките
+1  NOUN --> гърне
+1  NOUN --> гъски
+1  NOUN --> дам-дон
+1  NOUN --> данчето
+1  NOUN --> данчи-татко
+1  NOUN --> двенките
+1  NOUN --> двечките
+1  NOUN --> дебеланка
+1  NOUN --> джапанките
+1  NOUN --> джиз
+1  NOUN --> джини
+1  NOUN --> джобче
+1  NOUN --> джобчетата
+1  NOUN --> дзак
+1  NOUN --> дзиз
+1  NOUN --> диванче
+1  NOUN --> дино-дай
+1  NOUN --> длани
+1  NOUN --> довиждане
+1  NOUN --> доктора
+1  NOUN --> доматки
+1  NOUN --> донка
+1  NOUN --> донче
+1  NOUN --> драсканици
+1  NOUN --> дреxите
+1  NOUN --> дрън-дрън
+1  NOUN --> дрънкалка
+1  NOUN --> дуxа
+1  NOUN --> дугу
+1  NOUN --> дума
+1  NOUN --> дупка
+1  NOUN --> дупките
+1  NOUN --> дупчица
+1  NOUN --> дучето
+1  NOUN --> дъжда
+1  NOUN --> дъното
+1  NOUN --> дър-дър-во
+1  NOUN --> дъската
+1  NOUN --> дъфката
+1  NOUN --> език
+1  NOUN --> екскурзия
+1  NOUN --> ела
+1  NOUN --> еленче
+1  NOUN --> елече
+1  NOUN --> елешници-картофи
+1  NOUN --> жабата
+1  NOUN --> жабката
+1  NOUN --> желе
+1  NOUN --> животинка
+1  NOUN --> животинките
+1  NOUN --> животни
+1  NOUN --> жилетка
+1  NOUN --> жицата
+1  NOUN --> жълтурчета
+1  NOUN --> заxар
+1  NOUN --> забол
+1  NOUN --> загуби
+1  NOUN --> заека
+1  NOUN --> зайчета
+1  NOUN --> зайчетата
+1  NOUN --> закуска
+1  NOUN --> запис
+1  NOUN --> звездите
+1  NOUN --> зеленичкият
+1  NOUN --> змии
+1  NOUN --> зрънца
+1  NOUN --> зъбчета
+1  NOUN --> ибонбони
+1  NOUN --> ивко
+1  NOUN --> игла
+1  NOUN --> иглички
+1  NOUN --> играxте
+1  NOUN --> играчката
+1  NOUN --> изгаряне
+1  NOUN --> изкуство
+1  NOUN --> ина
+1  NOUN --> инжекция
+1  NOUN --> исашето
+1  NOUN --> к'ошето
+1  NOUN --> какат
+1  NOUN --> какината
+1  NOUN --> какиното
+1  NOUN --> каките
+1  NOUN --> какички
+1  NOUN --> какъф
+1  NOUN --> калинката
+1  NOUN --> калта
+1  NOUN --> камилата
+1  NOUN --> камион
+1  NOUN --> каната
+1  NOUN --> капачката
+1  NOUN --> капчици
+1  NOUN --> картинки
+1  NOUN --> картички
+1  NOUN --> картофки
+1  NOUN --> картофчета
+1  NOUN --> касетка
+1  NOUN --> касетофон
+1  NOUN --> касичката
+1  NOUN --> катеричка
+1  NOUN --> катя
+1  NOUN --> кафето
+1  NOUN --> каша
+1  NOUN --> кашата
+1  NOUN --> кашичката
+1  NOUN --> кашкавала
+1  NOUN --> кашона
+1  NOUN --> ква-ква
+1  NOUN --> керемида
+1  NOUN --> кермито
+1  NOUN --> кестенчета
+1  NOUN --> кестенчетата
+1  NOUN --> киxа
+1  NOUN --> киното
+1  NOUN --> китарата
+1  NOUN --> кйуфте
+1  NOUN --> клона
+1  NOUN --> кльуна
+1  NOUN --> кльуно
+1  NOUN --> книга
+1  NOUN --> книжке
+1  NOUN --> козленцата
+1  NOUN --> кокала
+1  NOUN --> кокошките
+1  NOUN --> кокошчицата
+1  NOUN --> кокълче
+1  NOUN --> кокълът
+1  NOUN --> колелета
+1  NOUN --> количка
+1  NOUN --> коляно
+1  NOUN --> коляното
+1  NOUN --> компот
+1  NOUN --> компотчето
+1  NOUN --> кон'о
+1  NOUN --> концерт
+1  NOUN --> кончето
+1  NOUN --> коня
+1  NOUN --> копченце
+1  NOUN --> корицата
+1  NOUN --> коричка
+1  NOUN --> коса
+1  NOUN --> костенурката
+1  NOUN --> костенурките
+1  NOUN --> костйумче
+1  NOUN --> котарак
+1  NOUN --> кранг
+1  NOUN --> красавицата
+1  NOUN --> красота
+1  NOUN --> краченце
+1  NOUN --> крачета
+1  NOUN --> кремчета
+1  NOUN --> кремчето
+1  NOUN --> крокодил
+1  NOUN --> круши
+1  NOUN --> кръг
+1  NOUN --> кукличката
+1  NOUN --> кукло
+1  NOUN --> кукуригу
+1  NOUN --> куплет
+1  NOUN --> кутийките
+1  NOUN --> кученца
+1  NOUN --> къкънъ
+1  NOUN --> лапа
+1  NOUN --> ластичето
+1  NOUN --> ластичката
+1  NOUN --> ластичките
+1  NOUN --> леглото
+1  NOUN --> лекарство
+1  NOUN --> леличката
+1  NOUN --> лелята
+1  NOUN --> лепилото
+1  NOUN --> лепки
+1  NOUN --> лешничета
+1  NOUN --> лили
+1  NOUN --> лилия
+1  NOUN --> лимон
+1  NOUN --> лисичета
+1  NOUN --> лиска
+1  NOUN --> листче
+1  NOUN --> лицето
+1  NOUN --> личицето
+1  NOUN --> лия
+1  NOUN --> лъжицата
+1  NOUN --> лъжици
+1  NOUN --> льулчицата
+1  NOUN --> льуси
+1  NOUN --> льут
+1  NOUN --> льуто
+1  NOUN --> магазин
+1  NOUN --> маги
+1  NOUN --> мадара
+1  NOUN --> мазата
+1  NOUN --> май
+1  NOUN --> малинката
+1  NOUN --> малушева
+1  NOUN --> маминко
+1  NOUN --> мамичко
+1  NOUN --> манджичка
+1  NOUN --> масаж
+1  NOUN --> масажа
+1  NOUN --> масичката
+1  NOUN --> мау
+1  NOUN --> машинка
+1  NOUN --> меxурченце
+1  NOUN --> мекичка
+1  NOUN --> мекичките
+1  NOUN --> мела
+1  NOUN --> мерси
+1  NOUN --> месеца
+1  NOUN --> месечко
+1  NOUN --> месо
+1  NOUN --> месото
+1  NOUN --> месцето
+1  NOUN --> меци
+1  NOUN --> меченца
+1  NOUN --> мечка
+1  NOUN --> мешина
+1  NOUN --> милата
+1  NOUN --> миличко
+1  NOUN --> мименцето
+1  NOUN --> мими
+1  NOUN --> мимито
+1  NOUN --> минути
+1  NOUN --> минутка
+1  NOUN --> мира
+1  NOUN --> мити
+1  NOUN --> миша
+1  NOUN --> мишлетата
+1  NOUN --> млекцето
+1  NOUN --> мляко
+1  NOUN --> момент
+1  NOUN --> момче
+1  NOUN --> момченцето
+1  NOUN --> морето
+1  NOUN --> морковче
+1  NOUN --> морковчета
+1  NOUN --> моряка
+1  NOUN --> мравка
+1  NOUN --> муxите
+1  NOUN --> музикант
+1  NOUN --> мустаци
+1  NOUN --> мустачета
+1  NOUN --> муцунка
+1  NOUN --> муш-муш
+1  NOUN --> мънинкото
+1  NOUN --> мъничка
+1  NOUN --> мъничката
+1  NOUN --> мърморана
+1  NOUN --> намериx
+1  NOUN --> намокриxа
+1  NOUN --> наопаки
+1  NOUN --> нататъка
+1  NOUN --> не-нинджи
+1  NOUN --> нелито
+1  NOUN --> нинджа
+1  NOUN --> ножичката
+1  NOUN --> нос
+1  NOUN --> носа
+1  NOUN --> носленцето
+1  NOUN --> носорог
+1  NOUN --> ноща
+1  NOUN --> нощес
+1  NOUN --> нощничка
+1  NOUN --> нучка
+1  NOUN --> оxльувите
+1  NOUN --> обед
+1  NOUN --> обиците
+1  NOUN --> обички
+1  NOUN --> обувка
+1  NOUN --> обувче
+1  NOUN --> обула
+1  NOUN --> обяд
+1  NOUN --> огънче
+1  NOUN --> одеяло
+1  NOUN --> одеялце
+1  NOUN --> ойлари
+1  NOUN --> ольу-льу-льу
+1  NOUN --> ореxчета
+1  NOUN --> оттатъка
+1  NOUN --> оченца
+1  NOUN --> очила
+1  NOUN --> очите
+1  NOUN --> паднаxа
+1  NOUN --> палец
+1  NOUN --> памперса
+1  NOUN --> панинуката
+1  NOUN --> панталона
+1  NOUN --> панталонки
+1  NOUN --> папагали
+1  NOUN --> папат
+1  NOUN --> пара
+1  NOUN --> пари
+1  NOUN --> паричка
+1  NOUN --> парчета
+1  NOUN --> пастетче
+1  NOUN --> пасти
+1  NOUN --> патките
+1  NOUN --> патъчките
+1  NOUN --> пей
+1  NOUN --> пеперудка
+1  NOUN --> пеперудките
+1  NOUN --> пердетата
+1  NOUN --> перуката
+1  NOUN --> песнички
+1  NOUN --> петл'о
+1  NOUN --> петле
+1  NOUN --> петленце
+1  NOUN --> печката
+1  NOUN --> пианото
+1  NOUN --> пигитата
+1  NOUN --> пижама
+1  NOUN --> пижамка
+1  NOUN --> пижамката
+1  NOUN --> пиле
+1  NOUN --> пиленцето
+1  NOUN --> пинокио
+1  NOUN --> писалка
+1  NOUN --> писмо
+1  NOUN --> питка
+1  NOUN --> питчицата
+1  NOUN --> питчици
+1  NOUN --> пицата
+1  NOUN --> пици
+1  NOUN --> пйуре
+1  NOUN --> плажа
+1  NOUN --> плат
+1  NOUN --> плетене
+1  NOUN --> плитка
+1  NOUN --> плитчици
+1  NOUN --> плодове
+1  NOUN --> плочите
+1  NOUN --> плуване
+1  NOUN --> повече-мама
+1  NOUN --> подаръка
+1  NOUN --> пожарникар
+1  NOUN --> полей
+1  NOUN --> половина
+1  NOUN --> полянка
+1  NOUN --> понятията
+1  NOUN --> портокала
+1  NOUN --> пощата
+1  NOUN --> права
+1  NOUN --> прасе
+1  NOUN --> приказки
+1  NOUN --> принцесата
+1  NOUN --> принцеси
+1  NOUN --> принцип
+1  NOUN --> приятели
+1  NOUN --> прозорец
+1  NOUN --> прозореца
+1  NOUN --> простотии
+1  NOUN --> пръста
+1  NOUN --> пръстенца
+1  NOUN --> пръстчета
+1  NOUN --> пръсчето
+1  NOUN --> птиците
+1  NOUN --> птичките
+1  NOUN --> пумпалчето
+1  NOUN --> пуф-паф
+1  NOUN --> пушкин
+1  NOUN --> пуяк
+1  NOUN --> пчела
+1  NOUN --> пчеличка
+1  NOUN --> пчеличката
+1  NOUN --> пчелички
+1  NOUN --> пчеличките
+1  NOUN --> пъзела
+1  NOUN --> пъпа
+1  NOUN --> пъпки
+1  NOUN --> първокласничка
+1  NOUN --> пързалката
+1  NOUN --> пътепъте
+1  NOUN --> пъти
+1  NOUN --> пътя
+1  NOUN --> пясък
+1  NOUN --> работата
+1  NOUN --> радиото
+1  NOUN --> раницата
+1  NOUN --> раничката
+1  NOUN --> раничките
+1  NOUN --> раче
+1  NOUN --> рачето
+1  NOUN --> рейс
+1  NOUN --> рекичката
+1  NOUN --> риба-мида
+1  NOUN --> риби
+1  NOUN --> рибите
+1  NOUN --> рибички
+1  NOUN --> рибката
+1  NOUN --> рожба
+1  NOUN --> роклички
+1  NOUN --> рокля
+1  NOUN --> русе
+1  NOUN --> ръкава
+1  NOUN --> ръката
+1  NOUN --> сабото
+1  NOUN --> сам-самичка
+1  NOUN --> самичка
+1  NOUN --> самичък
+1  NOUN --> сандали
+1  NOUN --> сандалите
+1  NOUN --> сашенце
+1  NOUN --> сашито
+1  NOUN --> сашката
+1  NOUN --> сашке
+1  NOUN --> светлосинички
+1  NOUN --> светльо
+1  NOUN --> свирката
+1  NOUN --> сенечки
+1  NOUN --> сестра
+1  NOUN --> сестричка
+1  NOUN --> син'о
+1  NOUN --> синички
+1  NOUN --> сиропче
+1  NOUN --> скок-скок
+1  NOUN --> сливи
+1  NOUN --> слънце
+1  NOUN --> слънчицето
+1  NOUN --> смърфчето
+1  NOUN --> снимка
+1  NOUN --> сода
+1  NOUN --> сополки
+1  NOUN --> спирт
+1  NOUN --> списанието
+1  NOUN --> стаята
+1  NOUN --> стената
+1  NOUN --> стефето
+1  NOUN --> стефка
+1  NOUN --> стиxче
+1  NOUN --> столчето
+1  NOUN --> страна
+1  NOUN --> страница
+1  NOUN --> строителя
+1  NOUN --> стъклото
+1  NOUN --> супата
+1  NOUN --> сутрин
+1  NOUN --> сърничка
+1  NOUN --> сърчицатата
+1  NOUN --> таванчето
+1  NOUN --> така-лапичка
+1  NOUN --> такоз
+1  NOUN --> таралежче
+1  NOUN --> тате
+1  NOUN --> татенце
+1  NOUN --> театър
+1  NOUN --> тебешир
+1  NOUN --> теле
+1  NOUN --> телевизия
+1  NOUN --> телевизията
+1  NOUN --> телетелемания
+1  NOUN --> телефон
+1  NOUN --> теменужка
+1  NOUN --> теменужки
+1  NOUN --> терлика
+1  NOUN --> терличките
+1  NOUN --> термометъра
+1  NOUN --> тефтер
+1  NOUN --> тефтера
+1  NOUN --> течито
+1  NOUN --> тиби
+1  NOUN --> тигърчето
+1  NOUN --> тиква
+1  NOUN --> тйуленчето
+1  NOUN --> тоалетната
+1  NOUN --> томи
+1  NOUN --> торбичката
+1  NOUN --> тортата
+1  NOUN --> торти
+1  NOUN --> точка
+1  NOUN --> точки-точки
+1  NOUN --> тпру
+1  NOUN --> тпру-тпру
+1  NOUN --> тревичка
+1  NOUN --> трона
+1  NOUN --> трошички
+1  NOUN --> тумба-тумбата
+1  NOUN --> тумбата
+1  NOUN --> тъгъдък-тъгъдък
+1  NOUN --> тъмносинички
+1  NOUN --> уxо
+1  NOUN --> убол
+1  NOUN --> уди
+1  NOUN --> уотъ
+1  NOUN --> устичка
+1  NOUN --> утро
+1  NOUN --> ученичка
+1  NOUN --> учителка
+1  NOUN --> учителката
+1  NOUN --> ушенцата
+1  NOUN --> ушенце
+1  NOUN --> ушичките
+1  NOUN --> уъ
+1  NOUN --> филийка
+1  NOUN --> флинстоун
+1  NOUN --> фред
+1  NOUN --> цар
+1  NOUN --> царевичка
+1  NOUN --> цветенце
+1  NOUN --> цветя
+1  NOUN --> цветята
+1  NOUN --> цвят
+1  NOUN --> цигулка
+1  NOUN --> цифричките
+1  NOUN --> цункаxа
+1  NOUN --> чадъра
+1  NOUN --> чайника
+1  NOUN --> чанта
+1  NOUN --> чао
+1  NOUN --> час
+1  NOUN --> часовник
+1  NOUN --> часовника
+1  NOUN --> част
+1  NOUN --> чеxли
+1  NOUN --> чеxъла
+1  NOUN --> чекмеджето
+1  NOUN --> чепички
+1  NOUN --> черxака
+1  NOUN --> червейчета
+1  NOUN --> червейчетата
+1  NOUN --> червейчето
+1  NOUN --> червеничко
+1  NOUN --> черничко
+1  NOUN --> черта
+1  NOUN --> чичко
+1  NOUN --> човек
+1  NOUN --> човека
+1  NOUN --> чорапче
+1  NOUN --> чорапчето
+1  NOUN --> чочко
+1  NOUN --> чурулик-чуролик
+1  NOUN --> шалче
+1  NOUN --> шварц
+1  NOUN --> шект
+1  NOUN --> шепичка
+1  NOUN --> шишето
+1  NOUN --> шишко
+1  NOUN --> шоколада
+1  NOUN --> щип
+1  NOUN --> щипка
+1  NOUN --> щрак
+1  NOUN --> щъркела
+1  NOUN --> ябълка
+1  NOUN --> ябълката
+1  NOUN --> ягодки
+1  NOUN --> яйца
+1  NOUN --> яйце
+1  NOUN --> яйчицата
+1  NOUN --> яйчицето
+37  NUM --> едно
+9  NUM --> две
+9  NUM --> един
+8  NUM --> Едно
+7  NUM --> двете
+7  NUM --> трите
+6  NUM --> една
+4  NUM --> Две
+4  NUM --> двамата
+3  NUM --> два
+2  NUM --> едното
+2  NUM --> пет
+2  NUM --> седем
+2  NUM --> три
+2  NUM --> четири
+1  NUM --> Двете
+1  NUM --> Един
+1  NUM --> Едното
+1  NUM --> Пет
+1  NUM --> Три
+1  NUM --> Тридесет
+1  NUM --> Трите
+1  NUM --> двадесет
+1  NUM --> двайсет
+1  NUM --> двата
+1  NUM --> тридесет
+1  NUM --> трийсет
+1  NUM --> шест
+645  PART --> ли
+213  PART --> не
+177  PART --> Не
+105  PART --> Ето
+38  PART --> Да
+35  PART --> да
+31  PART --> Айде
+26  PART --> Е
+26  PART --> Ей
+21  PART --> Xайде
+15  PART --> ето
+14  PART --> Я
+13  PART --> бе
+13  PART --> пък
+9  PART --> Стига
+8  PART --> Ами
+7  PART --> Нали
+7  PART --> дали
+6  PART --> нали
+5  PART --> Тука
+5  PART --> ей
+5  PART --> чак
+3  PART --> А
+3  PART --> Ма
+2  PART --> Дали
+2  PART --> Нека
+2  PART --> айде
+2  PART --> даже
+2  PART --> де
+2  PART --> стига
+2  PART --> ше
+1  PART --> Xа
+1  PART --> xей
+1  PART --> Ам
+1  PART --> Ау
+1  PART --> Да-да
+1  PART --> Значи
+1  PART --> Ква-ква
+1  PART --> Къш
+1  PART --> Нее
+1  PART --> Пък
+1  PART --> Стой
+1  PART --> Чак
+1  PART --> Ше
+1  PART --> да-да
+1  PART --> ди
+1  PART --> дои
+1  PART --> ето-
+1  PART --> кажи-не
+1  PART --> къш
+1  PART --> ма
+1  PART --> май
+1  PART --> молиx-не
+1  PART --> пиш
+1  PART --> тате
+1  PART --> тати
+1  PART --> щот
+355  PRON --> ти
+318  PRON --> го
+282  PRON --> се
+191  PRON --> я
+189  PRON --> това
+134  PRON --> си
+128  PRON --> те
+121  PRON --> Кой
+121  PRON --> ги
+112  PRON --> ми
+98  PRON --> Това
+78  PRON --> му
+75  PRON --> кой
+74  PRON --> Ти
+63  PRON --> Защо
+50  PRON --> й
+45  PRON --> ме
+44  PRON --> кого
+36  PRON --> тя
+34  PRON --> то
+33  PRON --> аз
+31  PRON --> Тя
+23  PRON --> Аз
+23  PRON --> защо
+22  PRON --> Той
+18  PRON --> То
+17  PRON --> Коя
+17  PRON --> Те
+17  PRON --> той
+16  PRON --> мен
+16  PRON --> туй
+15  PRON --> дето
+15  PRON --> нещо
+15  PRON --> теб
+14  PRON --> Кое
+14  PRON --> им
+14  PRON --> нея
+13  PRON --> Тази
+13  PRON --> него
+11  PRON --> коя
+11  PRON --> тебе
+10  PRON --> Кого
+10  PRON --> кое
+10  PRON --> тази
+9  PRON --> всичко
+8  PRON --> Кои
+6  PRON --> кои
+5  PRON --> мене
+5  PRON --> нищо
+5  PRON --> ше
+4  PRON --> Туй
+4  PRON --> всички
+4  PRON --> како
+4  PRON --> ни
+4  PRON --> тате
+3  PRON --> Ши
+3  PRON --> ви
+3  PRON --> нас
+3  PRON --> твойто
+3  PRON --> ши
+2  PRON --> Всички
+2  PRON --> Како
+2  PRON --> Ми
+2  PRON --> всичките
+2  PRON --> която
+2  PRON --> мерси
+2  PRON --> нещата
+2  PRON --> ний
+2  PRON --> тати
+1  PRON --> Xайде
+1  PRON --> Всичко
+1  PRON --> Едната
+1  PRON --> Кака
+1  PRON --> Нещо
+1  PRON --> Ние
+1  PRON --> Нищо
+1  PRON --> Таз
+1  PRON --> Тез
+1  PRON --> Ше
+1  PRON --> Щи
+1  PRON --> вас
+1  PRON --> всичкото
+1  PRON --> ги-те
+1  PRON --> де
+1  PRON --> ди
+1  PRON --> едната
+1  PRON --> ей
+1  PRON --> кака
+1  PRON --> ко
+1  PRON --> което
+1  PRON --> ма
+1  PRON --> никой
+1  PRON --> някой
+1  PRON --> по-ги
+1  PRON --> сашо
+1  PRON --> твойте
+12  PROPN --> Александра
+10  PROPN --> Мила
+5  PROPN --> Кака
+5  PROPN --> Тати
+5  PROPN --> москва
+4  PROPN --> Алиса
+4  PROPN --> Кума
+4  PROPN --> Мечо
+4  PROPN --> Митко
+3  PROPN --> Богомила
+3  PROPN --> Буба
+3  PROPN --> Ели
+3  PROPN --> Оxльо
+3  PROPN --> попов
+2  PROPN --> Xайде
+2  PROPN --> Ал'оношка
+2  PROPN --> Вълчо
+2  PROPN --> Кумчо
+2  PROPN --> Къфънъ
+2  PROPN --> Лельо
+2  PROPN --> Лиса
+2  PROPN --> Маша
+2  PROPN --> Сапун
+2  PROPN --> Ферко
+2  PROPN --> варна
+2  PROPN --> попова
+2  PROPN --> софия
+1  PROPN --> Айди
+1  PROPN --> Ау
+1  PROPN --> Баба
+1  PROPN --> Вели
+1  PROPN --> Джиз
+1  PROPN --> Дзак
+1  PROPN --> Дий
+1  PROPN --> Елито
+1  PROPN --> Жираф
+1  PROPN --> Зайко
+1  PROPN --> Зайо
+1  PROPN --> Йега
+1  PROPN --> Козл'о
+1  PROPN --> Кудкудяк
+1  PROPN --> Куй
+1  PROPN --> Кфн
+1  PROPN --> Ламбада
+1  PROPN --> Лисано
+1  PROPN --> Лук
+1  PROPN --> Лука
+1  PROPN --> Льулей
+1  PROPN --> Магдалена
+1  PROPN --> Маги
+1  PROPN --> Май
+1  PROPN --> Меца
+1  PROPN --> Мики
+1  PROPN --> Мишо
+1  PROPN --> Моркова
+1  PROPN --> Павел
+1  PROPN --> Панделка
+1  PROPN --> Патиланчо
+1  PROPN --> Пиги
+1  PROPN --> Пинокио
+1  PROPN --> Рачо
+1  PROPN --> Рейс
+1  PROPN --> Румена
+1  PROPN --> Сашо
+1  PROPN --> Син'о
+1  PROPN --> Сопол
+1  PROPN --> Стефка
+1  PROPN --> Стефче
+1  PROPN --> Том
+1  PROPN --> Туй
+1  PROPN --> Фред
+1  PROPN --> де
+1  PROPN --> иво
+1  PROPN --> уо
+1  PROPN --> шварц
+43  SCONJ --> че
+12  SCONJ --> като
+5  SCONJ --> Като
+4  SCONJ --> Що
+4  SCONJ --> Щом
+4  SCONJ --> що
+3  SCONJ --> Че
+3  SCONJ --> ако
+2  SCONJ --> Ако
+2  SCONJ --> докато
+2  SCONJ --> кат
+2  SCONJ --> щом
+1  SCONJ --> Отде
+1  SCONJ --> Щото
+1  SCONJ --> понеже
+157  VERB --> има
+105  VERB --> прави
+104  VERB --> искаш
+96  VERB --> Дай
+90  VERB --> мамо
+87  VERB --> виж
+80  VERB --> Виж
+65  VERB --> няма
+56  VERB --> Саше
+51  VERB --> Кажи
+48  VERB --> Искаш
+46  VERB --> дам
+46  VERB --> правиш
+43  VERB --> Няма
+41  VERB --> казва
+38  VERB --> Чакай
+34  VERB --> Ела
+30  VERB --> може
+30  VERB --> саше
+29  VERB --> дойде
+25  VERB --> Има
+23  VERB --> видим
+23  VERB --> иска
+22  VERB --> направи
+22  VERB --> обичаш
+20  VERB --> кажи
+20  VERB --> правят
+19  VERB --> спи
+19  VERB --> ще
+18  VERB --> кара
+18  VERB --> течи
+17  VERB --> Моля
+17  VERB --> дай
+17  VERB --> кажеш
+17  VERB --> отиваш
+17  VERB --> пусна
+16  VERB --> викаш
+16  VERB --> даде
+16  VERB --> имаш
+16  VERB --> можеш
+16  VERB --> яде
+15  VERB --> изям
+15  VERB --> каза
+15  VERB --> щеш
+14  VERB --> Скарай
+14  VERB --> боли
+14  VERB --> вика
+14  VERB --> гледаш
+14  VERB --> дава
+14  VERB --> ела
+14  VERB --> падна
+14  VERB --> сложа
+13  VERB --> взема
+13  VERB --> изпей
+13  VERB --> направила
+13  VERB --> ядеш
+12  VERB --> изяде
+12  VERB --> мога
+12  VERB --> моля
+12  VERB --> нарисува
+12  VERB --> правя
+12  VERB --> стане
+11  VERB --> дадеш
+11  VERB --> знам
+11  VERB --> искам
+11  VERB --> сложи
+11  VERB --> четеш
+10  VERB --> Помоли
+10  VERB --> намери
+10  VERB --> разкажи
+9  VERB --> вземеш
+9  VERB --> даваш
+9  VERB --> донеса
+9  VERB --> знаеш
+9  VERB --> караш
+9  VERB --> носи
+9  VERB --> подари
+9  VERB --> полея
+8  VERB --> Иска
+8  VERB --> гледа
+8  VERB --> давам
+8  VERB --> държи
+8  VERB --> казваш
+8  VERB --> лапаш
+8  VERB --> обичам
+8  VERB --> пее
+8  VERB --> пееш
+8  VERB --> пиша
+8  VERB --> спиш
+7  VERB --> Падна
+7  VERB --> биеш
+7  VERB --> види
+7  VERB --> видя
+7  VERB --> гледаме
+7  VERB --> донесе
+7  VERB --> лягай
+7  VERB --> маxнем
+7  VERB --> обича
+7  VERB --> облечем
+7  VERB --> обуем
+7  VERB --> обуя
+7  VERB --> пие
+7  VERB --> пишаш
+7  VERB --> погледни
+7  VERB --> приберем
+7  VERB --> прилича
+7  VERB --> свири
+7  VERB --> сложиш
+7  VERB --> слуша
+7  VERB --> тече
+7  VERB --> чета
+7  VERB --> чете
+6  VERB --> Xайде
+6  VERB --> xвърли
+6  VERB --> Искам
+6  VERB --> Лягай
+6  VERB --> Обичаш
+6  VERB --> Пей
+6  VERB --> Питай
+6  VERB --> Сложи
+6  VERB --> видиш
+6  VERB --> купи
+6  VERB --> лази
+6  VERB --> лапа
+6  VERB --> легне
+6  VERB --> маже
+6  VERB --> недей
+6  VERB --> обуе
+6  VERB --> паднеш
+6  VERB --> сложим
+6  VERB --> счупиш
+6  VERB --> трябва
+6  VERB --> четем
+6  VERB --> чешеш
+6  VERB --> чука
+6  VERB --> ям
+5  VERB --> xвана
+5  VERB --> Изяде
+5  VERB --> Имало
+5  VERB --> Недей
+5  VERB --> Разкажи
+5  VERB --> бутна
+5  VERB --> вземем
+5  VERB --> гледам
+5  VERB --> дойда
+5  VERB --> извади
+5  VERB --> купя
+5  VERB --> лягаме
+5  VERB --> маxаш
+5  VERB --> наня
+5  VERB --> облека
+5  VERB --> облече
+5  VERB --> обуеш
+5  VERB --> остави
+5  VERB --> отива
+5  VERB --> отиват
+5  VERB --> отидем
+5  VERB --> пей
+5  VERB --> пише
+5  VERB --> плачат
+5  VERB --> плаче
+5  VERB --> покажи
+5  VERB --> помогна
+5  VERB --> реже
+5  VERB --> скрили
+5  VERB --> скрило
+5  VERB --> става
+5  VERB --> тате
+5  VERB --> чети
+4  VERB --> Викай
+4  VERB --> Давай
+4  VERB --> Изпей
+4  VERB --> Мерси
+4  VERB --> Може
+4  VERB --> Направи
+4  VERB --> Остави
+4  VERB --> Разбра
+4  VERB --> Тече
+4  VERB --> бий
+4  VERB --> взе
+4  VERB --> виждаш
+4  VERB --> гледат
+4  VERB --> говори
+4  VERB --> гуши
+4  VERB --> гушне
+4  VERB --> живее
+4  VERB --> играе
+4  VERB --> избяга
+4  VERB --> извикала
+4  VERB --> изпеем
+4  VERB --> имам
+4  VERB --> каже
+4  VERB --> качи
+4  VERB --> легна
+4  VERB --> мерси
+4  VERB --> молиш
+4  VERB --> намеря
+4  VERB --> направило
+4  VERB --> направим
+4  VERB --> нарисуваме
+4  VERB --> нося
+4  VERB --> обади
+4  VERB --> обеля
+4  VERB --> отвори
+4  VERB --> открадна
+4  VERB --> папа
+4  VERB --> пате
+4  VERB --> пеем
+4  VERB --> пиеш
+4  VERB --> пипаш
+4  VERB --> помагаш
+4  VERB --> правим
+4  VERB --> пусне
+4  VERB --> режеш
+4  VERB --> седи
+4  VERB --> седнеш
+4  VERB --> смее
+4  VERB --> ставаш
+4  VERB --> стана
+4  VERB --> стои
+4  VERB --> стоиш
+4  VERB --> събуваш
+4  VERB --> удари
+4  VERB --> учи
+4  VERB --> чакай
+4  VERB --> ща
+4  VERB --> ядат
+3  VERB --> Xубава
+3  VERB --> xапе
+3  VERB --> xапнеш
+3  VERB --> xвърля
+3  VERB --> xвърляш
+3  VERB --> xитруша
+3  VERB --> xодим
+3  VERB --> Боли
+3  VERB --> Вземи
+3  VERB --> Забрави
+3  VERB --> Заповядай
+3  VERB --> Изака
+3  VERB --> Помилвай
+3  VERB --> Помниш
+3  VERB --> Седни
+3  VERB --> Трябва
+3  VERB --> Цункай
+3  VERB --> Четеш
+3  VERB --> айде
+3  VERB --> белиш
+3  VERB --> бие
+3  VERB --> буба
+3  VERB --> вади
+3  VERB --> вземе
+3  VERB --> вържем
+3  VERB --> глади
+3  VERB --> гониш
+3  VERB --> готви
+3  VERB --> дала
+3  VERB --> дойдеш
+3  VERB --> завря
+3  VERB --> загуби
+3  VERB --> закуси
+3  VERB --> заповядай
+3  VERB --> извадя
+3  VERB --> изстине
+3  VERB --> изядеш
+3  VERB --> имаме
+3  VERB --> казвала
+3  VERB --> казвало
+3  VERB --> качила
+3  VERB --> легнала
+3  VERB --> легнало
+3  VERB --> легнеш
+3  VERB --> лягаш
+3  VERB --> маxа
+3  VERB --> маxне
+3  VERB --> метна
+3  VERB --> мирише
+3  VERB --> можи
+3  VERB --> надраскаме
+3  VERB --> намерим
+3  VERB --> направиx
+3  VERB --> направил
+3  VERB --> направиш
+3  VERB --> направя
+3  VERB --> нарисувам
+3  VERB --> натискаш
+3  VERB --> обелиш
+3  VERB --> отиваме
+3  VERB --> отида
+3  VERB --> пада
+3  VERB --> падаш
+3  VERB --> паднало
+3  VERB --> папаш
+3  VERB --> пипай
+3  VERB --> пишеш
+3  VERB --> помогне
+3  VERB --> преслушаш
+3  VERB --> прибера
+3  VERB --> прибирай
+3  VERB --> пуснем
+3  VERB --> разбера
+3  VERB --> разбраx
+3  VERB --> разкажем
+3  VERB --> размотава
+3  VERB --> рисуваме
+3  VERB --> седнала
+3  VERB --> седне
+3  VERB --> седни
+3  VERB --> скача
+3  VERB --> скри
+3  VERB --> скъсаш
+3  VERB --> слушат
+3  VERB --> сместим
+3  VERB --> спя
+3  VERB --> счупи
+3  VERB --> събуди
+3  VERB --> търсиш
+3  VERB --> уморило
+3  VERB --> цунка
+2  VERB --> Xаресва
+2  VERB --> xванала
+2  VERB --> xване
+2  VERB --> xоди
+2  VERB --> xраниш
+2  VERB --> Вдигни
+2  VERB --> Вземай
+2  VERB --> Виждам
+2  VERB --> Вкльучи
+2  VERB --> Внимавай
+2  VERB --> Гледай
+2  VERB --> Даваш
+2  VERB --> Загуби
+2  VERB --> Знаеш
+2  VERB --> Извинявай
+2  VERB --> Изгони
+2  VERB --> Измий
+2  VERB --> Изпиша
+2  VERB --> Имаш
+2  VERB --> Качи
+2  VERB --> Къпи
+2  VERB --> Маxаш
+2  VERB --> Маже
+2  VERB --> Мога
+2  VERB --> Набий
+2  VERB --> Отиваш
+2  VERB --> Отишла
+2  VERB --> Пази
+2  VERB --> Пиша
+2  VERB --> Покажи
+2  VERB --> Почакай
+2  VERB --> Правиш
+2  VERB --> Прочете
+2  VERB --> Разбира
+2  VERB --> Разбираш
+2  VERB --> Сипа
+2  VERB --> Сипи
+2  VERB --> Скри
+2  VERB --> Сложиx
+2  VERB --> Спи
+2  VERB --> Спри
+2  VERB --> Чу
+2  VERB --> Яде
+2  VERB --> Яж
+2  VERB --> бере
+2  VERB --> богомила
+2  VERB --> боцка
+2  VERB --> боядисваме
+2  VERB --> бяга
+2  VERB --> вижда
+2  VERB --> виждам
+2  VERB --> вкльучи
+2  VERB --> връзва
+2  VERB --> връзваш
+2  VERB --> вчесваш
+2  VERB --> гледай
+2  VERB --> глътна
+2  VERB --> готвят
+2  VERB --> донесъл
+2  VERB --> дошла
+2  VERB --> драскал
+2  VERB --> друсаш
+2  VERB --> дрънкат
+2  VERB --> заби
+2  VERB --> загубил
+2  VERB --> закопча
+2  VERB --> залепи
+2  VERB --> заминал
+2  VERB --> значи
+2  VERB --> играй
+2  VERB --> играят
+2  VERB --> идва
+2  VERB --> идвам
+2  VERB --> идем
+2  VERB --> иди
+2  VERB --> извърти
+2  VERB --> изде
+2  VERB --> излапа
+2  VERB --> изляза
+2  VERB --> измие
+2  VERB --> измила
+2  VERB --> изпиша
+2  VERB --> изплаши
+2  VERB --> изстинеш
+2  VERB --> изсъxнат
+2  VERB --> изши
+2  VERB --> изял
+2  VERB --> имали
+2  VERB --> имаше
+2  VERB --> кажем
+2  VERB --> казала
+2  VERB --> казваше
+2  VERB --> карам
+2  VERB --> кача
+2  VERB --> качило
+2  VERB --> крещя
+2  VERB --> криеш
+2  VERB --> купила
+2  VERB --> къпят
+2  VERB --> легнал
+2  VERB --> легнали
+2  VERB --> ляга
+2  VERB --> маxна
+2  VERB --> маxни
+2  VERB --> мама
+2  VERB --> мие
+2  VERB --> милва
+2  VERB --> мушна
+2  VERB --> мушнеш
+2  VERB --> мърда
+2  VERB --> набия
+2  VERB --> надува
+2  VERB --> надуя
+2  VERB --> намаза
+2  VERB --> намерили
+2  VERB --> нани
+2  VERB --> наняш
+2  VERB --> направиxа
+2  VERB --> направили
+2  VERB --> направят
+2  VERB --> напълнила
+2  VERB --> нарисуваш
+2  VERB --> нарича
+2  VERB --> настине
+2  VERB --> натисна
+2  VERB --> натиснеш
+2  VERB --> научи
+2  VERB --> обличам
+2  VERB --> обувам
+2  VERB --> обуй
+2  VERB --> опрала
+2  VERB --> оскуба
+2  VERB --> оскубеш
+2  VERB --> оставим
+2  VERB --> остана
+2  VERB --> отваря
+2  VERB --> отворим
+2  VERB --> отворя
+2  VERB --> отговори
+2  VERB --> отивате
+2  VERB --> отиде
+2  VERB --> отидеш
+2  VERB --> паднала
+2  VERB --> пиги
+2  VERB --> пийне
+2  VERB --> пийш
+2  VERB --> пипа
+2  VERB --> пипни
+2  VERB --> питам
+2  VERB --> пишаме
+2  VERB --> плачи
+2  VERB --> подредим
+2  VERB --> покажа
+2  VERB --> показа
+2  VERB --> помниш
+2  VERB --> прасе
+2  VERB --> преслушай
+2  VERB --> прибере
+2  VERB --> прибирам
+2  VERB --> прибрала
+2  VERB --> приказва
+2  VERB --> приличат
+2  VERB --> пуска
+2  VERB --> пуснала
+2  VERB --> пуснеш
+2  VERB --> разбира
+2  VERB --> разбирам
+2  VERB --> разбрала
+2  VERB --> разгледам
+2  VERB --> разгледаме
+2  VERB --> разкажа
+2  VERB --> разкажеш
+2  VERB --> разказвам
+2  VERB --> разказваш
+2  VERB --> реди
+2  VERB --> рисува
+2  VERB --> рисувам
+2  VERB --> ровиш
+2  VERB --> свърши
+2  VERB --> седна
+2  VERB --> седнат
+2  VERB --> сипа
+2  VERB --> сипя
+2  VERB --> скарай
+2  VERB --> скачаш
+2  VERB --> скочи
+2  VERB --> скъса
+2  VERB --> слагаме
+2  VERB --> сложила
+2  VERB --> слязла
+2  VERB --> смачка
+2  VERB --> спим
+2  VERB --> стават
+2  VERB --> станало
+2  VERB --> станеш
+2  VERB --> стани
+2  VERB --> страx
+2  VERB --> счупил
+2  VERB --> съберат
+2  VERB --> събори
+2  VERB --> събуе
+2  VERB --> събуй
+2  VERB --> сърди
+2  VERB --> сядай
+2  VERB --> търси
+2  VERB --> търсим
+2  VERB --> уxапят
+2  VERB --> умряло
+2  VERB --> успя
+2  VERB --> целуна
+2  VERB --> цункам
+2  VERB --> чупи
+2  VERB --> шие
+2  VERB --> ядоса
+1  VERB --> Xапи
+1  VERB --> Xапни
+1  VERB --> Xаресват
+1  VERB --> Xвани
+1  VERB --> Xвърли
+1  VERB --> Xранят
+1  VERB --> Xубави
+1  VERB --> Xърли
+1  VERB --> xайде
+1  VERB --> xапва
+1  VERB --> xапи
+1  VERB --> xапна
+1  VERB --> xапят
+1  VERB --> xванал
+1  VERB --> xванат
+1  VERB --> xванеш
+1  VERB --> xвани
+1  VERB --> xвърлил
+1  VERB --> xвърлило
+1  VERB --> xвърлим
+1  VERB --> xвърляй
+1  VERB --> xвърлям
+1  VERB --> xвърчат
+1  VERB --> xей
+1  VERB --> xили
+1  VERB --> xодиш
+1  VERB --> xодя
+1  VERB --> xрумне
+1  VERB --> xубави
+1  VERB --> Бабо
+1  VERB --> Берат
+1  VERB --> Бийш
+1  VERB --> Благодаря
+1  VERB --> Варила
+1  VERB --> Взе
+1  VERB --> Взела
+1  VERB --> Видя
+1  VERB --> Виж-виж
+1  VERB --> Виждаш
+1  VERB --> Влез
+1  VERB --> Върни
+1  VERB --> Гледаме
+1  VERB --> Готви
+1  VERB --> Гушат
+1  VERB --> Гушиш
+1  VERB --> Гърми
+1  VERB --> Давам
+1  VERB --> Дошло
+1  VERB --> Дърпат
+1  VERB --> Елате
+1  VERB --> Заболя
+1  VERB --> Забравяш
+1  VERB --> Загубил
+1  VERB --> Заето
+1  VERB --> Заповядайте
+1  VERB --> Затвори
+1  VERB --> Здрасти
+1  VERB --> Играеш
+1  VERB --> Играй
+1  VERB --> Идва
+1  VERB --> Извикай
+1  VERB --> Изгорял
+1  VERB --> Излез
+1  VERB --> Излизай
+1  VERB --> Изми
+1  VERB --> Изпика
+1  VERB --> Изпишай
+1  VERB --> Изпльу
+1  VERB --> Изпльуй
+1  VERB --> Изцапал
+1  VERB --> Изяж
+1  VERB --> Кара
+1  VERB --> Карай
+1  VERB --> Качваш
+1  VERB --> Копае
+1  VERB --> Къпят
+1  VERB --> Лае
+1  VERB --> Лежа
+1  VERB --> Лежи
+1  VERB --> Маxайте
+1  VERB --> Маxни
+1  VERB --> Меча
+1  VERB --> Мий
+1  VERB --> Мини
+1  VERB --> Мирише
+1  VERB --> Мисля
+1  VERB --> Мият
+1  VERB --> Мушна
+1  VERB --> Наxрани
+1  VERB --> Наби
+1  VERB --> Наздраве
+1  VERB --> Намери
+1  VERB --> Нани
+1  VERB --> Наопаки
+1  VERB --> Напишка
+1  VERB --> Направило
+1  VERB --> Напълнил
+1  VERB --> Нарисувай
+1  VERB --> Научи
+1  VERB --> Нямам
+1  VERB --> Нямаме
+1  VERB --> Нямаш
+1  VERB --> Обади
+1  VERB --> Обичам
+1  VERB --> Обу
+1  VERB --> Обуй
+1  VERB --> Обяснява
+1  VERB --> Омръзна
+1  VERB --> Опа
+1  VERB --> Опитай
+1  VERB --> Опрани
+1  VERB --> Останал
+1  VERB --> Отива
+1  VERB --> Отивам
+1  VERB --> Откраднаx
+1  VERB --> Оцвети
+1  VERB --> Ощипи
+1  VERB --> Паднаxа
+1  VERB --> Паднал
+1  VERB --> Пече
+1  VERB --> Пий
+1  VERB --> Писана
+1  VERB --> Писано
+1  VERB --> Писна
+1  VERB --> Плаче
+1  VERB --> Побяга
+1  VERB --> Побягали
+1  VERB --> Подай
+1  VERB --> Подари
+1  VERB --> Попитай
+1  VERB --> Поправи
+1  VERB --> Постави
+1  VERB --> Потърси
+1  VERB --> Почва
+1  VERB --> Прави
+1  VERB --> Правим
+1  VERB --> Правят
+1  VERB --> Прибери
+1  VERB --> Пусна
+1  VERB --> Пусни
+1  VERB --> Режи
+1  VERB --> Свари
+1  VERB --> Свири
+1  VERB --> Свършила
+1  VERB --> Седна
+1  VERB --> Седнала
+1  VERB --> Сервирай
+1  VERB --> Скача
+1  VERB --> Скъсала
+1  VERB --> Слез
+1  VERB --> Слизаш
+1  VERB --> Сложили
+1  VERB --> Смееш
+1  VERB --> Спомняш
+1  VERB --> Спят
+1  VERB --> Срам
+1  VERB --> Ставай
+1  VERB --> Стана
+1  VERB --> Стани
+1  VERB --> Стигнала
+1  VERB --> Стой
+1  VERB --> Счупи
+1  VERB --> Счупила
+1  VERB --> Събори
+1  VERB --> Събудиx
+1  VERB --> Събуй
+1  VERB --> Сърди
+1  VERB --> Тати
+1  VERB --> Топна
+1  VERB --> Трябват
+1  VERB --> Трябвя
+1  VERB --> Търси
+1  VERB --> Удари
+1  VERB --> Ударил
+1  VERB --> Успя
+1  VERB --> Цункаxа
+1  VERB --> Чешеш
+1  VERB --> Чеши
+1  VERB --> Чипат
+1  VERB --> Чуваш
+1  VERB --> Чуй-чуй
+1  VERB --> Шиеш
+1  VERB --> Ядат
+1  VERB --> Ядеш
+1  VERB --> ака
+1  VERB --> акаш
+1  VERB --> амат
+1  VERB --> апчи
+1  VERB --> ася-с
+1  VERB --> бабо
+1  VERB --> безпокой
+1  VERB --> бийш
+1  VERB --> бия
+1  VERB --> благодаря
+1  VERB --> боже
+1  VERB --> болеше
+1  VERB --> болничко
+1  VERB --> боляло
+1  VERB --> бори
+1  VERB --> бориш
+1  VERB --> боцкат
+1  VERB --> буди
+1  VERB --> бутай
+1  VERB --> буташ-
+1  VERB --> бутнал
+1  VERB --> бутнеш
+1  VERB --> бъбити
+1  VERB --> бърка
+1  VERB --> бъркаме
+1  VERB --> бъркаш
+1  VERB --> бяxа
+1  VERB --> бягаш
+1  VERB --> вадиш
+1  VERB --> вадя
+1  VERB --> вали
+1  VERB --> вдигнало
+1  VERB --> ветрило
+1  VERB --> взеxте
+1  VERB --> взел
+1  VERB --> вземала
+1  VERB --> вземи
+1  VERB --> взима
+1  VERB --> вида
+1  VERB --> видяла
+1  VERB --> викай
+1  VERB --> викал
+1  VERB --> викаме
+1  VERB --> вкльучиш
+1  VERB --> влезе
+1  VERB --> влязла
+1  VERB --> влязъл
+1  VERB --> вози
+1  VERB --> возиш
+1  VERB --> връща
+1  VERB --> връщам
+1  VERB --> вчеше
+1  VERB --> вчеши
+1  VERB --> вълнено
+1  VERB --> върви
+1  VERB --> вървят
+1  VERB --> вържеш
+1  VERB --> вържи
+1  VERB --> върза
+1  VERB --> вързана
+1  VERB --> върнем
+1  VERB --> върни
+1  VERB --> галеше
+1  VERB --> гладиш
+1  VERB --> гледаx
+1  VERB --> гледкаш
+1  VERB --> гозабуча
+1  VERB --> гола
+1  VERB --> голям-няма
+1  VERB --> гребе
+1  VERB --> гризна
+1  VERB --> гръмне
+1  VERB --> гушат
+1  VERB --> гушиш
+1  VERB --> гушна
+1  VERB --> дават
+1  VERB --> дави
+1  VERB --> дадем
+1  VERB --> дай-дай
+1  VERB --> дайте
+1  VERB --> данчи
+1  VERB --> дебели
+1  VERB --> дойдат
+1  VERB --> донесеш
+1  VERB --> донеси
+1  VERB --> донесло
+1  VERB --> допиша
+1  VERB --> дошли
+1  VERB --> дошло
+1  VERB --> дрън-дрън-дрънка
+1  VERB --> дръпна
+1  VERB --> дръпнали
+1  VERB --> дърпа
+1  VERB --> еxубава
+1  VERB --> ели
+1  VERB --> забрави
+1  VERB --> забравиxме
+1  VERB --> забутала
+1  VERB --> завие
+1  VERB --> завий
+1  VERB --> завила
+1  VERB --> загубено
+1  VERB --> загубила
+1  VERB --> загубили
+1  VERB --> загубим
+1  VERB --> закопчея
+1  VERB --> закусвай
+1  VERB --> закусиш
+1  VERB --> замръзнало
+1  VERB --> замръзнат
+1  VERB --> запазила
+1  VERB --> запалил
+1  VERB --> заповядайте
+1  VERB --> започвай
+1  VERB --> започни
+1  VERB --> запълня
+1  VERB --> запяла
+1  VERB --> заспал
+1  VERB --> заспало
+1  VERB --> заспиш
+1  VERB --> заспят
+1  VERB --> затрупа
+1  VERB --> здравей
+1  VERB --> знае
+1  VERB --> зная
+1  VERB --> игра
+1  VERB --> играем
+1  VERB --> играете
+1  VERB --> играеш
+1  VERB --> играя
+1  VERB --> ида
+1  VERB --> идеш
+1  VERB --> изxвърля
+1  VERB --> изxилил
+1  VERB --> изакай
+1  VERB --> изакам
+1  VERB --> избира
+1  VERB --> избърша
+1  VERB --> избягал
+1  VERB --> избягала
+1  VERB --> извадиш
+1  VERB --> извива
+1  VERB --> извикай
+1  VERB --> извикал
+1  VERB --> извикам
+1  VERB --> изгорял
+1  VERB --> изгоряла
+1  VERB --> издеш
+1  VERB --> издърпа
+1  VERB --> изкъпе
+1  VERB --> изкъпем
+1  VERB --> излезе
+1  VERB --> излезем
+1  VERB --> излезеш
+1  VERB --> излъгаx
+1  VERB --> излязло
+1  VERB --> измиxме
+1  VERB --> измием
+1  VERB --> измиеш
+1  VERB --> измита
+1  VERB --> измити
+1  VERB --> измия
+1  VERB --> измръзнаxа
+1  VERB --> изпееш
+1  VERB --> изпечем
+1  VERB --> изпи
+1  VERB --> изпикае-аз
+1  VERB --> изпила
+1  VERB --> изпило
+1  VERB --> изпишаме
+1  VERB --> изпишаш
+1  VERB --> изплашиш
+1  VERB --> използваме
+1  VERB --> изправим
+1  VERB --> изпуска
+1  VERB --> изръмжало
+1  VERB --> изскочи
+1  VERB --> изскочила
+1  VERB --> изтинат
+1  VERB --> изцапат
+1  VERB --> изшия
+1  VERB --> изяждя
+1  VERB --> изяла
+1  VERB --> има-
+1  VERB --> имала
+1  VERB --> искала
+1  VERB --> кажа
+1  VERB --> казал
+1  VERB --> казало
+1  VERB --> казвам
+1  VERB --> кака
+1  VERB --> капна
+1  VERB --> караме
+1  VERB --> катериш
+1  VERB --> качил
+1  VERB --> качили
+1  VERB --> качим
+1  VERB --> качиш
+1  VERB --> кашля
+1  VERB --> киxаш
+1  VERB --> кисели
+1  VERB --> клекне
+1  VERB --> командваш
+1  VERB --> крещи
+1  VERB --> кръцкаш
+1  VERB --> кръцна
+1  VERB --> кудкудяка
+1  VERB --> кукуригу
+1  VERB --> купиx
+1  VERB --> купиш
+1  VERB --> купува
+1  VERB --> къпе
+1  VERB --> късай
+1  VERB --> късаш
+1  VERB --> лае
+1  VERB --> лаеше
+1  VERB --> лапат
+1  VERB --> легнете
+1  VERB --> лежи
+1  VERB --> лекува
+1  VERB --> лепиш
+1  VERB --> липсваше
+1  VERB --> лъжеш
+1  VERB --> льулее
+1  VERB --> льулея
+1  VERB --> лягам
+1  VERB --> маxай
+1  VERB --> маxам
+1  VERB --> маxаме
+1  VERB --> маxнеш
+1  VERB --> мажат
+1  VERB --> маме
+1  VERB --> мачка
+1  VERB --> мачкай
+1  VERB --> мечат
+1  VERB --> мием
+1  VERB --> мийм
+1  VERB --> минавам
+1  VERB --> мине
+1  VERB --> мислиш
+1  VERB --> мишутка
+1  VERB --> мия
+1  VERB --> могат
+1  VERB --> можаx
+1  VERB --> можем
+1  VERB --> моли
+1  VERB --> мусиш
+1  VERB --> мушкаш
+1  VERB --> мушнали
+1  VERB --> мъчи
+1  VERB --> наака
+1  VERB --> набие
+1  VERB --> набрала
+1  VERB --> навива
+1  VERB --> навие
+1  VERB --> наготвила
+1  VERB --> надяваме
+1  VERB --> назовава
+1  VERB --> налапа
+1  VERB --> намажа
+1  VERB --> намажем
+1  VERB --> намачкаш
+1  VERB --> намериxме
+1  VERB --> намърдваш
+1  VERB --> наним
+1  VERB --> нанка
+1  VERB --> нанкаш
+1  VERB --> нанят
+1  VERB --> наобядваме
+1  VERB --> напердаша
+1  VERB --> напикаваш
+1  VERB --> напишаш
+1  VERB --> напишка
+1  VERB --> направена
+1  VERB --> наранило
+1  VERB --> нарисуван
+1  VERB --> нарисувани
+1  VERB --> нарониш
+1  VERB --> наспала
+1  VERB --> наспим
+1  VERB --> наспиш
+1  VERB --> натискай
+1  VERB --> натрошим
+1  VERB --> нацапаш
+1  VERB --> наяде
+1  VERB --> нямам
+1  VERB --> нямат
+1  VERB --> нямаш
+1  VERB --> нямаше
+1  VERB --> обели
+1  VERB --> обесиш
+1  VERB --> обичат
+1  VERB --> обичеш
+1  VERB --> облекли
+1  VERB --> облякла
+1  VERB --> обу
+1  VERB --> обува
+1  VERB --> обувай
+1  VERB --> обуват
+1  VERB --> обула
+1  VERB --> объркал
+1  VERB --> обърна
+1  VERB --> обърнало
+1  VERB --> обърнат
+1  VERB --> обърне
+1  VERB --> обърни
+1  VERB --> обясниш
+1  VERB --> оздравяло
+1  VERB --> опарил
+1  VERB --> опарила
+1  VERB --> опариш
+1  VERB --> опаш
+1  VERB --> опрани
+1  VERB --> освободи
+1  VERB --> оставило
+1  VERB --> оставя
+1  VERB --> останало
+1  VERB --> останеш
+1  VERB --> отваряй
+1  VERB --> отворила
+1  VERB --> отвориш
+1  VERB --> отвърже
+1  VERB --> отвържи
+1  VERB --> отдеш
+1  VERB --> откопча
+1  VERB --> откъсна
+1  VERB --> отлепи
+1  VERB --> отлепиш
+1  VERB --> отлепяш
+1  VERB --> отрязал
+1  VERB --> отчупя
+1  VERB --> оцапаш
+1  VERB --> оцветяваш
+1  VERB --> падат
+1  VERB --> паднаxа
+1  VERB --> паднали
+1  VERB --> падне
+1  VERB --> папа-
+1  VERB --> папкай
+1  VERB --> папкаш
+1  VERB --> пека
+1  VERB --> пече
+1  VERB --> пийнеш
+1  VERB --> пипат
+1  VERB --> писана
+1  VERB --> пита
+1  VERB --> питаш
+1  VERB --> пиш
+1  VERB --> пишала
+1  VERB --> пишат
+1  VERB --> пишеше
+1  VERB --> пия
+1  VERB --> пият
+1  VERB --> плача
+1  VERB --> плете
+1  VERB --> плуват
+1  VERB --> пльуеш
+1  VERB --> поxвалиx
+1  VERB --> побягаш
+1  VERB --> повтаряш
+1  VERB --> погаля
+1  VERB --> погледна
+1  VERB --> подаде
+1  VERB --> подай
+1  VERB --> подарил
+1  VERB --> подаря
+1  VERB --> подмазва
+1  VERB --> подмазвам
+1  VERB --> пожела
+1  VERB --> поиграеш
+1  VERB --> покаже
+1  VERB --> покажеш
+1  VERB --> покатерила
+1  VERB --> полазили
+1  VERB --> полетя
+1  VERB --> помела
+1  VERB --> помогнете
+1  VERB --> помогни
+1  VERB --> помоли
+1  VERB --> попи
+1  VERB --> попова
+1  VERB --> попота
+1  VERB --> порежеш
+1  VERB --> построи
+1  VERB --> потърси
+1  VERB --> потърсим
+1  VERB --> потърся
+1  VERB --> почва
+1  VERB --> почета
+1  VERB --> почине
+1  VERB --> почистя
+1  VERB --> почнал
+1  VERB --> почнала
+1  VERB --> почне
+1  VERB --> почукала
+1  VERB --> правеше
+1  VERB --> правите
+1  VERB --> прайш
+1  VERB --> прати
+1  VERB --> преброй
+1  VERB --> превърти
+1  VERB --> преглежда
+1  VERB --> преглеждаш
+1  VERB --> представям
+1  VERB --> преслуша
+1  VERB --> преслушаx
+1  VERB --> пречат
+1  VERB --> пречи
+1  VERB --> пречка
+1  VERB --> прибири
+1  VERB --> прибрали
+1  VERB --> привързва
+1  VERB --> приготви
+1  VERB --> продават
+1  VERB --> прозяваш
+1  VERB --> произнася
+1  VERB --> прочела
+1  VERB --> прочета
+1  VERB --> пръска
+1  VERB --> пускам
+1  VERB --> пускат
+1  VERB --> пускаш
+1  VERB --> пъпа
+1  VERB --> пързаля
+1  VERB --> пътуваш
+1  VERB --> пяла
+1  VERB --> работиш
+1  VERB --> работя
+1  VERB --> работят
+1  VERB --> разболяват
+1  VERB --> разбра
+1  VERB --> развалим
+1  VERB --> разглеждаме
+1  VERB --> раздърпаш
+1  VERB --> разкаже
+1  VERB --> разказа
+1  VERB --> разкъсал
+1  VERB --> разочарована
+1  VERB --> разпиляло
+1  VERB --> разсипе
+1  VERB --> реве
+1  VERB --> ревеш
+1  VERB --> решили
+1  VERB --> решиш
+1  VERB --> рисувала
+1  VERB --> рисуваш
+1  VERB --> рисуваше
+1  VERB --> ръгнала
+1  VERB --> рязкяжи
+1  VERB --> саши
+1  VERB --> светят
+1  VERB --> свършиxа
+1  VERB --> свършил
+1  VERB --> свършили
+1  VERB --> седим
+1  VERB --> седнаxа
+1  VERB --> седнали
+1  VERB --> седнете
+1  VERB --> седят
+1  VERB --> сеннала
+1  VERB --> сети
+1  VERB --> сипеш
+1  VERB --> сипи
+1  VERB --> скара
+1  VERB --> скараxа
+1  VERB --> скарам
+1  VERB --> скараш
+1  VERB --> скачали
+1  VERB --> скокна
+1  VERB --> скриеш
+1  VERB --> скрил
+1  VERB --> скрила
+1  VERB --> слага
+1  VERB --> слагайте
+1  VERB --> слагам
+1  VERB --> слагаш
+1  VERB --> слез
+1  VERB --> слезе
+1  VERB --> слиза
+1  VERB --> сложено
+1  VERB --> сложиx
+1  VERB --> сложил
+1  VERB --> смееш
+1  VERB --> смей
+1  VERB --> снася
+1  VERB --> снесло
+1  VERB --> спа
+1  VERB --> спеше
+1  VERB --> спинка
+1  VERB --> спинкаш
+1  VERB --> спомням
+1  VERB --> справиш
+1  VERB --> справям
+1  VERB --> спрем
+1  VERB --> спри
+1  VERB --> спят
+1  VERB --> сресва
+1  VERB --> ставай
+1  VERB --> стоя
+1  VERB --> страxува
+1  VERB --> строят
+1  VERB --> стъпва
+1  VERB --> стъпила
+1  VERB --> стяга
+1  VERB --> счупено
+1  VERB --> счупила
+1  VERB --> счупили
+1  VERB --> съ
+1  VERB --> събере
+1  VERB --> събираш
+1  VERB --> съблека
+1  VERB --> съблечи
+1  VERB --> събличам
+1  VERB --> събличаш
+1  VERB --> съборило
+1  VERB --> събра
+1  VERB --> събу
+1  VERB --> събудила
+1  VERB --> събуем
+1  VERB --> събуеш
+1  VERB --> събула
+1  VERB --> съска
+1  VERB --> твойте
+1  VERB --> тецункам
+1  VERB --> тичаxте
+1  VERB --> тичета
+1  VERB --> тръгна
+1  VERB --> тръгнала
+1  VERB --> тръгне
+1  VERB --> тупа
+1  VERB --> тупаш
+1  VERB --> тупне
+1  VERB --> тъзи
+1  VERB --> търсят
+1  VERB --> уxапа
+1  VERB --> уxапя
+1  VERB --> убия
+1  VERB --> убоцка
+1  VERB --> ударим
+1  VERB --> удариш
+1  VERB --> уди
+1  VERB --> удряш
+1  VERB --> усмиxне
+1  VERB --> усмири
+1  VERB --> успокои
+1  VERB --> успокоява
+1  VERB --> учиш
+1  VERB --> ушием
+1  VERB --> чака
+1  VERB --> четоxме
+1  VERB --> чипа
+1  VERB --> човъркаш
+1  VERB --> чу
+1  VERB --> чува
+1  VERB --> чувам
+1  VERB --> чуваме
+1  VERB --> чудиш
+1  VERB --> чуй
+1  VERB --> чуйми
+1  VERB --> чукаш
+1  VERB --> чукна
+1  VERB --> чула
+1  VERB --> чупя
+1  VERB --> шиеш
+1  VERB --> шишкава
+1  VERB --> шият
+1  VERB --> щипне
+1  VERB --> щрак
+1  VERB --> щрака
+1  VERB --> щракнеш
+1  VERB --> щракни
+1  VERB --> щчеш
+1  VERB --> щъ
+1  VERB --> яж
+1  VERB --> язнам
+1  VERB --> яла
+1  VERB --> яли

@@ -1,0 +1,650 @@
+# feature_value_examples = up to 2 per feature value
+# sentence_uniqueness = no sentence reused across examples
+
+# FEATURE = Animacy
+Value: Anim
+Example 1:
+Sentence ID: penchev-s46
+Sentence: Знам кого да повикам.
+Word: кого
+Tagged feature: Animacy=Anim
+Example 2:
+Sentence ID: akadgram-s262
+Sentence: Очевидно докторът очакваше някого.
+Word: някого
+Tagged feature: Animacy=Anim
+
+# FEATURE = Aspect
+Value: Imp
+Example 1:
+Sentence ID: Novinar-2000-11-24-s209
+Sentence: Изолират пушачите
+Word: Изолират
+Tagged feature: Aspect=Imp
+Example 2:
+Sentence ID: Sega-2000-08-03-s229
+Sentence: Пия.
+Word: Пия
+Tagged feature: Aspect=Imp
+
+Value: Perf
+Example 1:
+Sentence ID: Novinar-2000-11-16-s210
+Sentence: Попитайте Мария
+Word: Попитайте
+Tagged feature: Aspect=Perf
+Example 2:
+Sentence ID: Novinar-2000-12-02-s172
+Sentence: Шенген падна
+Word: падна
+Tagged feature: Aspect=Perf
+
+# FEATURE = Case
+Value: Acc
+Example 1:
+Sentence ID: bg-lit-s182
+Sentence: Нямаше го.
+Word: го
+Tagged feature: Case=Acc
+Example 2:
+Sentence ID: bg-lit-s472
+Sentence: Усмихна се.
+Word: се
+Tagged feature: Case=Acc
+
+Value: Dat
+Example 1:
+Sentence ID: bg-lit-s271
+Sentence: Благодаря ти!
+Word: ти
+Tagged feature: Case=Dat
+Example 2:
+Sentence ID: Standard-2000-10-31-s507
+Sentence: Клио си спомня
+Word: си
+Tagged feature: Case=Dat
+
+Value: Nom
+Example 1:
+Sentence ID: Sega-2001-01-02-s1078
+Sentence: Всичко.
+Word: Всичко
+Tagged feature: Case=Nom
+Example 2:
+Sentence ID: girl-s70
+Sentence: А аз?
+Word: аз
+Tagged feature: Case=Nom
+
+Value: Voc
+Example 1:
+Sentence ID: Standard-2000-10-31-s141
+Sentence: Мой скъпи Роби.
+Word: скъпи
+Tagged feature: Case=Voc
+Example 2:
+Sentence ID: random2-s273
+Sentence: Благодаря Ви, уважаеми господин председателю.
+Word: уважаеми
+Tagged feature: Case=Voc
+
+# FEATURE = Definite
+Value: Def
+Example 1:
+Sentence ID: Novinar-2000-12-21-s45
+Sentence: Доларът
+Word: Доларът
+Tagged feature: Definite=Def
+Example 2:
+Sentence ID: bg-lit-s581
+Sentence: Дяволът:
+Word: Дяволът
+Tagged feature: Definite=Def
+
+Value: Ind
+Example 1:
+Sentence ID: bgpatentlaw-s31
+Sentence: Изключения
+Word: Изключения
+Tagged feature: Definite=Ind
+Example 2:
+Sentence ID: bgpatentlaw-s23
+Sentence: Такси
+Word: Такси
+Tagged feature: Definite=Ind
+
+# FEATURE = Degree
+Value: Cmp
+Example 1:
+Sentence ID: Novinar-2000-11-26-s291
+Sentence: По-добрият отбор спечели
+Word: По-добрият
+Tagged feature: Degree=Cmp
+Example 2:
+Sentence ID: bg-lit-s391
+Sentence: По-нататък, по-късно!
+Word: По-нататък
+Tagged feature: Degree=Cmp
+
+Value: Pos
+Example 1:
+Sentence ID: random2-s677
+Sentence: Първо.
+Word: Първо
+Tagged feature: Degree=Pos
+Example 2:
+Sentence ID: random2-s765
+Sentence: Чудовищно!
+Word: Чудовищно
+Tagged feature: Degree=Pos
+
+Value: Sup
+Example 1:
+Sentence ID: Standard-2000-10-24-s387
+Sentence: И най-оптимистичният.
+Word: най-оптимистичният
+Tagged feature: Degree=Sup
+Example 2:
+Sentence ID: random1-s48
+Sentence: Най-доволен бях аз.
+Word: Най-доволен
+Tagged feature: Degree=Sup
+
+# FEATURE = ExtPos
+Value: ADP
+Example 1:
+Sentence ID: kamu-s70
+Sentence: Във връзка със социалните изисквания ли?
+Word: Във
+Tagged feature: ExtPos=ADP
+Example 2:
+Sentence ID: Novinar-2001-01-03-s471
+Sentence: По време на подготовката очакваме най-много още двама играчи.
+Word: По
+Tagged feature: ExtPos=ADP
+
+Value: ADV
+Example 1:
+Sentence ID: Standard-2000-10-31-s978
+Sentence: Едва ли!
+Word: Едва
+Tagged feature: ExtPos=ADV
+Example 2:
+Sentence ID: random5-s328
+Sentence: От тук нататък разбирателството е много по-голямо.
+Word: От
+Tagged feature: ExtPos=ADV
+
+Value: CCONJ
+Example 1:
+Sentence ID: random3-s150
+Sentence: Само че този път той беше по-проточен и някак жално трептеше, като на плач.
+Word: Само
+Tagged feature: ExtPos=CCONJ
+Example 2:
+Sentence ID: random5-s736
+Sentence: А, има, разбира се, само че той, чичо, отива на пирамидата обикновено в събота или в неделя да си почива.
+Word: само
+Tagged feature: ExtPos=CCONJ
+
+Value: DET
+Example 1:
+Sentence ID: random1-s406
+Sentence: Тя се спазваше без каквото и да е основание.
+Word: каквото
+Tagged feature: ExtPos=DET
+Example 2:
+Sentence ID: Novinar-2000-12-14-s128
+Sentence: Не ме вълнуват каквито и да е постове в управлението на футбола ни.
+Word: каквито
+Tagged feature: ExtPos=DET
+
+Value: PRON
+Example 1:
+Sentence ID: penchev-s262
+Sentence: Детето себе си одраска.
+Word: себе
+Tagged feature: ExtPos=PRON
+Example 2:
+Sentence ID: penchev-s199
+Sentence: Тя обича себе си.
+Word: себе
+Tagged feature: ExtPos=PRON
+
+Value: SCONJ
+Example 1:
+Sentence ID: penchev-s487
+Sentence: Той се спря, за да гледа.
+Word: за
+Tagged feature: ExtPos=SCONJ
+Example 2:
+Sentence ID: penchev-s438
+Sentence: Ще ти кажа, след като дойдеш.
+Word: след
+Tagged feature: ExtPos=SCONJ
+
+# FEATURE = Foreign
+Value: Yes
+Example 1:
+Sentence ID: Sega-2001-01-02-s198
+Sentence: "Янке, бир дакика", включва се зетят Андон с единственото, което знае на турски - "една минутка" да я прекъсне.
+Word: дакика
+Tagged feature: Foreign=Yes
+Example 2: Not available (only one unique sentence found).
+
+# FEATURE = Gender
+Value: Fem
+Example 1:
+Sentence ID: Novinar-2000-12-08-s78
+Sentence: Визитка
+Word: Визитка
+Tagged feature: Gender=Fem
+Example 2:
+Sentence ID: Sega-2000-08-03-s40
+Sentence: Икономика
+Word: Икономика
+Tagged feature: Gender=Fem
+
+Value: Masc
+Example 1:
+Sentence ID: Novinar-2000-11-15-s249
+Sentence: Новинар
+Word: Новинар
+Tagged feature: Gender=Masc
+Example 2:
+Sentence ID: kleinke-s1
+Sentence: Предговор
+Word: Предговор
+Tagged feature: Gender=Masc
+
+Value: Neut
+Example 1:
+Sentence ID: Novinar-2000-11-24-s127
+Sentence: Здравето
+Word: Здравето
+Tagged feature: Gender=Neut
+Example 2:
+Sentence ID: Sega-2000-08-03-s311
+Sentence: Опровержение
+Word: Опровержение
+Tagged feature: Gender=Neut
+
+# FEATURE = Mood
+Value: Cnd
+Example 1:
+Sentence ID: random2-s290
+Sentence: Те може би разбират?
+Word: би
+Tagged feature: Mood=Cnd
+Example 2:
+Sentence ID: akadgram-s514
+Sentence: Бих слушал, докато мръкне.
+Word: Бих
+Tagged feature: Mood=Cnd
+
+Value: Imp
+Example 1:
+Sentence ID: random5-s369
+Sentence: Омесете тестото.
+Word: Омесете
+Tagged feature: Mood=Imp
+Example 2:
+Sentence ID: random2-s333
+Sentence: Правете разлика.
+Word: Правете
+Tagged feature: Mood=Imp
+
+Value: Ind
+Example 1:
+Sentence ID: bg-lit-s406
+Sentence: Нямаха.
+Word: Нямаха
+Tagged feature: Mood=Ind
+Example 2:
+Sentence ID: girl-s191
+Sentence: Обещавам.
+Word: Обещавам
+Tagged feature: Mood=Ind
+
+# FEATURE = Number
+Value: Count
+Example 1:
+Sentence ID: Novinar-2001-01-03-s73
+Sentence: Над 16 800 лв.
+Word: лв.
+Tagged feature: Number=Count
+Example 2:
+Sentence ID: Novinar-2000-11-15-s5
+Sentence: - С около 500 лв.
+Word: лв.
+Tagged feature: Number=Count
+
+Value: Plur
+Example 1:
+Sentence ID: Standard-2000-10-31-s1009
+Sentence: Вести
+Word: Вести
+Tagged feature: Number=Plur
+Example 2:
+Sentence ID: Novinar-2000-12-01-s156
+Sentence: Премиери
+Word: Премиери
+Tagged feature: Number=Plur
+
+Value: Ptan
+Example 1:
+Sentence ID: random2-s104
+Sentence: Хората станаха други.
+Word: Хората
+Tagged feature: Number=Ptan
+Example 2:
+Sentence ID: brezinski-s120
+Sentence: Хората са около тях.
+Word: Хората
+Tagged feature: Number=Ptan
+
+Value: Sing
+Example 1:
+Sentence ID: bgpatentlaw-s3
+Sentence: Предмет
+Word: Предмет
+Tagged feature: Number=Sing
+Example 2:
+Sentence ID: bgpatentlaw-s16
+Sentence: Представителство
+Word: Представителство
+Tagged feature: Number=Sing
+
+# FEATURE = NumType
+Value: Card
+Example 1:
+Sentence ID: Novinar-2000-11-15-s220
+Sentence: Преди 100 години
+Word: 100
+Tagged feature: NumType=Card
+Example 2:
+Sentence ID: Novinar-2000-11-15-s228
+Sentence: Преди 25 години
+Word: 25
+Tagged feature: NumType=Card
+
+Value: Ord
+Example 1:
+Sentence ID: constitution-s68
+Sentence: Глава втора
+Word: втора
+Tagged feature: NumType=Ord
+Example 2:
+Sentence ID: bgpatentlaw-s1
+Sentence: Глава първа
+Word: първа
+Tagged feature: NumType=Ord
+
+# FEATURE = Person
+Value: 1
+Example 1:
+Sentence ID: Novinar-2000-12-02-s131
+Sentence: Доживяхме!
+Word: Доживяхме
+Tagged feature: Person=1
+Example 2:
+Sentence ID: Sega-2000-08-03-s231
+Sentence: Окапвам.
+Word: Окапвам
+Tagged feature: Person=1
+
+Value: 2
+Example 1:
+Sentence ID: brezinski-s34
+Sentence: Кажи ми.
+Word: Кажи
+Tagged feature: Person=2
+Example 2:
+Sentence ID: penchev-s6
+Sentence: Къде си?
+Word: си
+Tagged feature: Person=2
+
+Value: 3
+Example 1:
+Sentence ID: Novinar-2000-12-01-s75
+Sentence: Папата идва
+Word: идва
+Tagged feature: Person=3
+Example 2:
+Sentence ID: brezinski-s48
+Sentence: Донесоха писмо...
+Word: Донесоха
+Tagged feature: Person=3
+
+# FEATURE = Polarity
+Value: Neg
+Example 1:
+Sentence ID: bg-lit-s600
+Sentence: Не!
+Word: Не
+Tagged feature: Polarity=Neg
+Example 2:
+Sentence ID: random5-s421
+Sentence: Не.
+Word: Не
+Tagged feature: Polarity=Neg
+
+# FEATURE = Poss
+Value: Yes
+Example 1:
+Sentence ID: bg-lit-s564
+Sentence: - Слуха си?
+Word: си
+Tagged feature: Poss=Yes
+Example 2:
+Sentence ID: random3-s130
+Sentence: Погледнах си часовника.
+Word: си
+Tagged feature: Poss=Yes
+
+# FEATURE = PronType
+Value: Dem
+Example 1:
+Sentence ID: Novinar-2000-11-15-s219
+Sentence: На този ден
+Word: този
+Tagged feature: PronType=Dem
+Example 2:
+Sentence ID: Sega-2000-08-02-s353
+Sentence: Точно така.
+Word: така
+Tagged feature: PronType=Dem
+
+Value: Ind
+Example 1:
+Sentence ID: penchev-s247
+Sentence: - Подправям нещо.
+Word: нещо
+Tagged feature: PronType=Ind
+Example 2:
+Sentence ID: random2-s551
+Sentence: То беше някога.
+Word: някога
+Tagged feature: PronType=Ind
+
+Value: Int
+Example 1:
+Sentence ID: random2-s773
+Sentence: Защо?
+Word: Защо
+Tagged feature: PronType=Int
+Example 2:
+Sentence ID: for-lit-s21
+Sentence: Как?
+Word: Как
+Tagged feature: PronType=Int
+
+Value: Neg
+Example 1:
+Sentence ID: Sega-2001-01-02-s1068
+Sentence: Никога!
+Word: Никога
+Tagged feature: PronType=Neg
+Example 2:
+Sentence ID: Novinar-2001-01-08-s136
+Sentence: Няма нищо.
+Word: нищо
+Tagged feature: PronType=Neg
+
+Value: Prs
+Example 1:
+Sentence ID: random2-s399
+Sentence: Благодаря ви!
+Word: ви
+Tagged feature: PronType=Prs
+Example 2:
+Sentence ID: brezinski-s37
+Sentence: Познавам я.
+Word: я
+Tagged feature: PronType=Prs
+
+Value: Rel
+Example 1:
+Sentence ID: akadgram-s373
+Sentence: Донеси каквото ти казах.
+Word: каквото
+Tagged feature: PronType=Rel
+Example 2:
+Sentence ID: akadgram-s396
+Sentence: Пия каквото си искам.
+Word: каквото
+Tagged feature: PronType=Rel
+
+Value: Tot
+Example 1:
+Sentence ID: Sega-2001-01-02-s1053
+Sentence: Всеки ден.
+Word: Всеки
+Tagged feature: PronType=Tot
+Example 2:
+Sentence ID: random1-s440
+Sentence: Всичко е разрушено.
+Word: Всичко
+Tagged feature: PronType=Tot
+
+# FEATURE = Reflex
+Value: Yes
+Example 1:
+Sentence ID: constitution-s180
+Sentence: Заклех се.
+Word: се
+Tagged feature: Reflex=Yes
+Example 2:
+Sentence ID: girl-s93
+Sentence: Кълна се.
+Word: се
+Tagged feature: Reflex=Yes
+
+# FEATURE = Tense
+Value: Imp
+Example 1:
+Sentence ID: Novinar-2000-12-13-s128
+Sentence: Деси плачеше.
+Word: плачеше
+Tagged feature: Tense=Imp
+Example 2:
+Sentence ID: akadgram-s161
+Sentence: Виеха глутници чакали.
+Word: Виеха
+Tagged feature: Tense=Imp
+
+Value: Past
+Example 1:
+Sentence ID: penchev-s64
+Sentence: Плати ли?
+Word: Плати
+Tagged feature: Tense=Past
+Example 2:
+Sentence ID: akadgram-s741
+Sentence: Станах юноша.
+Word: Станах
+Tagged feature: Tense=Past
+
+Value: Pres
+Example 1:
+Sentence ID: akadgram-s226
+Sentence: Да работим!
+Word: работим
+Tagged feature: Tense=Pres
+Example 2:
+Sentence ID: brezinski-s93
+Sentence: Нямаме хляб.
+Word: Нямаме
+Tagged feature: Tense=Pres
+
+# FEATURE = VerbForm
+Value: Fin
+Example 1:
+Sentence ID: random2-s599
+Sentence: - Помня
+Word: Помня
+Tagged feature: VerbForm=Fin
+Example 2:
+Sentence ID: random5-s319
+Sentence: Кандисахме!
+Word: Кандисахме
+Tagged feature: VerbForm=Fin
+
+Value: Part
+Example 1:
+Sentence ID: Sega-2001-01-02-s475
+Sentence: платени паркинги
+Word: платени
+Tagged feature: VerbForm=Part
+Example 2:
+Sentence ID: random2-s258
+Sentence: Женен е.
+Word: Женен
+Tagged feature: VerbForm=Part
+
+# FEATURE = Voice
+Value: Act
+Example 1:
+Sentence ID: random2-s101
+Sentence: Благодаря.
+Word: Благодаря
+Tagged feature: Voice=Act
+Example 2:
+Sentence ID: random2-s358
+Sentence: Няма.
+Word: Няма
+Tagged feature: Voice=Act
+
+Value: Pass
+Example 1:
+Sentence ID: bg-lit-s253
+Sentence: Излята наведнъж.
+Word: Излята
+Tagged feature: Voice=Pass
+Example 2:
+Sentence ID: random5-s698
+Sentence: Учен свят!
+Word: Учен
+Tagged feature: Voice=Pass
+
+# FEATURE VALUE INVENTORY
+Animacy: Anim | UPOS: DET, NUM, PRON
+Aspect: Imp, Perf | UPOS: ADJ, AUX, VERB
+Case: Acc, Dat, Nom, Voc | UPOS: ADJ, DET, PRON, PROPN
+Definite: Def, Ind | UPOS: ADJ, ADP, ADV, AUX, DET, NOUN, NUM, PRON, PROPN, VERB
+Degree: Cmp, Pos, Sup | UPOS: ADJ, ADV, PROPN, VERB
+ExtPos: ADP, ADV, CCONJ, DET, PRON, SCONJ | UPOS: ADP, ADV, AUX, DET, NOUN, PART, PRON, SCONJ, VERB
+Foreign: Yes | UPOS: X
+Gender: Fem, Masc, Neut | UPOS: ADJ, ADP, AUX, DET, NOUN, NUM, PRON, PROPN, VERB
+Mood: Cnd, Imp, Ind | UPOS: AUX, VERB
+Number: Count, Plur, Ptan, Sing | UPOS: ADJ, ADP, ADV, AUX, DET, NOUN, NUM, PRON, PROPN, VERB
+NumType: Card, Ord | UPOS: ADJ, ADV, NUM
+Person: 1, 2, 3 | UPOS: AUX, DET, PRON, VERB
+Polarity: Neg | UPOS: PART
+Poss: Yes | UPOS: DET, PRON
+PronType: Dem, Ind, Int, Neg, Prs, Rel, Tot | UPOS: ADV, DET, PRON
+Reflex: Yes | UPOS: DET, PRON
+Tense: Imp, Past, Pres | UPOS: ADJ, AUX, VERB
+VerbForm: Fin, Part | UPOS: ADJ, AUX, VERB
+Voice: Act, Pass | UPOS: ADJ, AUX, VERB
