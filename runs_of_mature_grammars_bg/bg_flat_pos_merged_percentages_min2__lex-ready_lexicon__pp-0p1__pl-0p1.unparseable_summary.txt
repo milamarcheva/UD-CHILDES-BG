@@ -1,0 +1,7 @@
+total_unparseable	5825
+books_count	4878
+books_pct	83.742489
+UTT_count	947
+UTT_pct	16.257511
+other_count	0
+other_pct	0.000000

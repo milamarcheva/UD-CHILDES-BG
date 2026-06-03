@@ -1,0 +1,1045 @@
+2026-04-09 11:23:29,130 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 11:23:29,139 INFO __main__ :0 data has been converted.
+2026-04-09 11:23:29,156 INFO __main__ :Corpus size (sent): 145
+2026-04-09 11:23:29,156 INFO __main__ :Converted sentences: 145
+2026-04-09 11:23:29,156 INFO __main__ :and tokens: 700
+2026-04-09 11:23:29,156 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:23:29,156 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:23:29,156 INFO __main__ :Sentences with None: 0
+2026-04-09 11:23:29,156 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:23:29,156 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:23:29,156 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:23:29,156 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 11:23:29,163 INFO __main__ :0 data has been converted.
+2026-04-09 11:23:29,174 INFO __main__ :Corpus size (sent): 80
+2026-04-09 11:23:29,174 INFO __main__ :Converted sentences: 80
+2026-04-09 11:23:29,174 INFO __main__ :and tokens: 376
+2026-04-09 11:23:29,174 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:23:29,174 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:23:29,174 INFO __main__ :Sentences with None: 0
+2026-04-09 11:23:29,174 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:23:29,174 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:23:29,174 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:23:29,175 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 11:23:29,185 INFO __main__ :0 data has been converted.
+2026-04-09 11:23:29,206 INFO __main__ :Corpus size (sent): 142
+2026-04-09 11:23:29,206 INFO __main__ :Converted sentences: 142
+2026-04-09 11:23:29,206 INFO __main__ :and tokens: 706
+2026-04-09 11:23:29,206 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:23:29,206 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:23:29,206 INFO __main__ :Sentences with None: 0
+2026-04-09 11:23:29,206 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:23:29,206 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:23:29,206 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:23:29,206 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 11:23:29,292 INFO __main__ :0 data has been converted.
+2026-04-09 11:23:29,372 INFO __main__ :Corpus size (sent): 373
+2026-04-09 11:23:29,372 INFO __main__ :Converted sentences: 373
+2026-04-09 11:23:29,372 INFO __main__ :and tokens: 1726
+2026-04-09 11:23:29,372 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:23:29,372 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:23:29,372 INFO __main__ :Sentences with None: 0
+2026-04-09 11:23:29,372 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:23:29,372 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:23:29,373 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:23:29,373 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 11:23:29,393 INFO __main__ :0 data has been converted.
+2026-04-09 11:23:29,429 INFO __main__ :Corpus size (sent): 204
+2026-04-09 11:23:29,429 INFO __main__ :Converted sentences: 204
+2026-04-09 11:23:29,429 INFO __main__ :and tokens: 946
+2026-04-09 11:23:29,429 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:23:29,430 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:23:29,430 INFO __main__ :Sentences with None: 0
+2026-04-09 11:23:29,430 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:23:29,430 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:23:29,430 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:34:02,117 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 11:34:02,126 INFO __main__ :0 data has been converted.
+2026-04-09 11:34:02,139 INFO __main__ :Corpus size (sent): 145
+2026-04-09 11:34:02,139 INFO __main__ :Converted sentences: 145
+2026-04-09 11:34:02,139 INFO __main__ :and tokens: 700
+2026-04-09 11:34:02,139 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:34:02,139 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:34:02,139 INFO __main__ :Sentences with None: 0
+2026-04-09 11:34:02,140 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:34:02,140 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:34:02,140 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:34:02,140 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 11:34:02,146 INFO __main__ :0 data has been converted.
+2026-04-09 11:34:02,153 INFO __main__ :Corpus size (sent): 80
+2026-04-09 11:34:02,154 INFO __main__ :Converted sentences: 80
+2026-04-09 11:34:02,154 INFO __main__ :and tokens: 376
+2026-04-09 11:34:02,154 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:34:02,154 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:34:02,154 INFO __main__ :Sentences with None: 0
+2026-04-09 11:34:02,154 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:34:02,154 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:34:02,154 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:34:02,154 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 11:34:02,162 INFO __main__ :0 data has been converted.
+2026-04-09 11:34:02,175 INFO __main__ :Corpus size (sent): 142
+2026-04-09 11:34:02,175 INFO __main__ :Converted sentences: 142
+2026-04-09 11:34:02,175 INFO __main__ :and tokens: 706
+2026-04-09 11:34:02,176 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:34:02,176 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:34:02,176 INFO __main__ :Sentences with None: 0
+2026-04-09 11:34:02,176 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:34:02,176 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:34:02,176 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:34:02,176 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 11:34:02,198 INFO __main__ :0 data has been converted.
+2026-04-09 11:34:02,230 INFO __main__ :Corpus size (sent): 373
+2026-04-09 11:34:02,230 INFO __main__ :Converted sentences: 373
+2026-04-09 11:34:02,230 INFO __main__ :and tokens: 1726
+2026-04-09 11:34:02,230 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:34:02,230 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:34:02,230 INFO __main__ :Sentences with None: 0
+2026-04-09 11:34:02,230 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:34:02,231 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:34:02,231 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:34:02,231 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 11:34:02,247 INFO __main__ :0 data has been converted.
+2026-04-09 11:34:02,266 INFO __main__ :Corpus size (sent): 204
+2026-04-09 11:34:02,266 INFO __main__ :Converted sentences: 204
+2026-04-09 11:34:02,266 INFO __main__ :and tokens: 946
+2026-04-09 11:34:02,267 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:34:02,267 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:34:02,267 INFO __main__ :Sentences with None: 0
+2026-04-09 11:34:02,267 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:34:02,267 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:34:02,267 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:45:20,279 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 11:45:20,299 INFO __main__ :0 data has been converted.
+2026-04-09 11:45:20,322 INFO __main__ :Corpus size (sent): 145
+2026-04-09 11:45:20,322 INFO __main__ :Converted sentences: 145
+2026-04-09 11:45:20,322 INFO __main__ :and tokens: 700
+2026-04-09 11:45:20,322 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:45:20,322 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:45:20,323 INFO __main__ :Sentences with None: 0
+2026-04-09 11:45:20,323 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:45:20,323 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:45:20,323 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:45:20,323 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 11:45:20,335 INFO __main__ :0 data has been converted.
+2026-04-09 11:45:20,346 INFO __main__ :Corpus size (sent): 80
+2026-04-09 11:45:20,346 INFO __main__ :Converted sentences: 80
+2026-04-09 11:45:20,346 INFO __main__ :and tokens: 376
+2026-04-09 11:45:20,346 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:45:20,346 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:45:20,346 INFO __main__ :Sentences with None: 0
+2026-04-09 11:45:20,346 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:45:20,346 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:45:20,346 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:45:20,346 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 11:45:20,359 INFO __main__ :0 data has been converted.
+2026-04-09 11:45:20,378 INFO __main__ :Corpus size (sent): 142
+2026-04-09 11:45:20,378 INFO __main__ :Converted sentences: 142
+2026-04-09 11:45:20,378 INFO __main__ :and tokens: 706
+2026-04-09 11:45:20,378 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:45:20,378 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:45:20,378 INFO __main__ :Sentences with None: 0
+2026-04-09 11:45:20,378 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:45:20,378 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:45:20,378 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:45:20,379 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 11:45:20,407 INFO __main__ :0 data has been converted.
+2026-04-09 11:45:20,447 INFO __main__ :Corpus size (sent): 373
+2026-04-09 11:45:20,447 INFO __main__ :Converted sentences: 373
+2026-04-09 11:45:20,447 INFO __main__ :and tokens: 1726
+2026-04-09 11:45:20,447 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:45:20,447 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:45:20,447 INFO __main__ :Sentences with None: 0
+2026-04-09 11:45:20,447 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:45:20,447 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:45:20,447 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 11:45:20,448 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 11:45:20,463 INFO __main__ :0 data has been converted.
+2026-04-09 11:45:20,485 INFO __main__ :Corpus size (sent): 204
+2026-04-09 11:45:20,485 INFO __main__ :Converted sentences: 204
+2026-04-09 11:45:20,485 INFO __main__ :and tokens: 946
+2026-04-09 11:45:20,485 INFO __main__ :Non-projective sentences: 0
+2026-04-09 11:45:20,485 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 11:45:20,485 INFO __main__ :Sentences with None: 0
+2026-04-09 11:45:20,486 INFO __main__ :Sentences with empty node: 0
+2026-04-09 11:45:20,486 INFO __main__ :Sentences with control character: 0
+2026-04-09 11:45:20,486 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:11:32,469 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 12:11:32,478 INFO __main__ :0 data has been converted.
+2026-04-09 12:11:32,493 INFO __main__ :Corpus size (sent): 145
+2026-04-09 12:11:32,493 INFO __main__ :Converted sentences: 145
+2026-04-09 12:11:32,494 INFO __main__ :and tokens: 700
+2026-04-09 12:11:32,494 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:11:32,494 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:11:32,494 INFO __main__ :Sentences with None: 0
+2026-04-09 12:11:32,494 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:11:32,494 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:11:32,494 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:11:32,494 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 12:11:32,501 INFO __main__ :0 data has been converted.
+2026-04-09 12:11:32,508 INFO __main__ :Corpus size (sent): 80
+2026-04-09 12:11:32,508 INFO __main__ :Converted sentences: 80
+2026-04-09 12:11:32,508 INFO __main__ :and tokens: 376
+2026-04-09 12:11:32,508 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:11:32,508 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:11:32,508 INFO __main__ :Sentences with None: 0
+2026-04-09 12:11:32,508 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:11:32,508 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:11:32,508 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:11:32,508 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 12:11:32,518 INFO __main__ :0 data has been converted.
+2026-04-09 12:11:32,540 INFO __main__ :Corpus size (sent): 142
+2026-04-09 12:11:32,540 INFO __main__ :Converted sentences: 142
+2026-04-09 12:11:32,540 INFO __main__ :and tokens: 706
+2026-04-09 12:11:32,540 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:11:32,541 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:11:32,541 INFO __main__ :Sentences with None: 0
+2026-04-09 12:11:32,542 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:11:32,542 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:11:32,542 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:11:32,543 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 12:11:32,631 INFO __main__ :0 data has been converted.
+2026-04-09 12:11:32,765 INFO __main__ :Corpus size (sent): 373
+2026-04-09 12:11:32,765 INFO __main__ :Converted sentences: 373
+2026-04-09 12:11:32,765 INFO __main__ :and tokens: 1726
+2026-04-09 12:11:32,765 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:11:32,765 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:11:32,765 INFO __main__ :Sentences with None: 0
+2026-04-09 12:11:32,765 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:11:32,765 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:11:32,765 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:11:32,765 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 12:11:32,796 INFO __main__ :0 data has been converted.
+2026-04-09 12:11:32,836 INFO __main__ :Corpus size (sent): 204
+2026-04-09 12:11:32,836 INFO __main__ :Converted sentences: 204
+2026-04-09 12:11:32,836 INFO __main__ :and tokens: 946
+2026-04-09 12:11:32,836 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:11:32,836 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:11:32,836 INFO __main__ :Sentences with None: 0
+2026-04-09 12:11:32,836 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:11:32,836 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:11:32,836 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:29:16,532 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 12:29:16,540 INFO __main__ :0 data has been converted.
+2026-04-09 12:29:16,552 INFO __main__ :Corpus size (sent): 145
+2026-04-09 12:29:16,552 INFO __main__ :Converted sentences: 145
+2026-04-09 12:29:16,552 INFO __main__ :and tokens: 700
+2026-04-09 12:29:16,552 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:29:16,553 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:29:16,553 INFO __main__ :Sentences with None: 0
+2026-04-09 12:29:16,553 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:29:16,553 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:29:16,553 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:29:16,553 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 12:29:16,558 INFO __main__ :0 data has been converted.
+2026-04-09 12:29:16,565 INFO __main__ :Corpus size (sent): 80
+2026-04-09 12:29:16,565 INFO __main__ :Converted sentences: 80
+2026-04-09 12:29:16,565 INFO __main__ :and tokens: 376
+2026-04-09 12:29:16,565 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:29:16,565 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:29:16,565 INFO __main__ :Sentences with None: 0
+2026-04-09 12:29:16,565 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:29:16,565 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:29:16,565 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:29:16,565 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 12:29:16,572 INFO __main__ :0 data has been converted.
+2026-04-09 12:29:16,584 INFO __main__ :Corpus size (sent): 142
+2026-04-09 12:29:16,584 INFO __main__ :Converted sentences: 142
+2026-04-09 12:29:16,584 INFO __main__ :and tokens: 706
+2026-04-09 12:29:16,584 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:29:16,584 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:29:16,584 INFO __main__ :Sentences with None: 0
+2026-04-09 12:29:16,584 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:29:16,584 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:29:16,584 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:29:16,584 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 12:29:16,602 INFO __main__ :0 data has been converted.
+2026-04-09 12:29:16,631 INFO __main__ :Corpus size (sent): 373
+2026-04-09 12:29:16,631 INFO __main__ :Converted sentences: 373
+2026-04-09 12:29:16,631 INFO __main__ :and tokens: 1726
+2026-04-09 12:29:16,631 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:29:16,631 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:29:16,631 INFO __main__ :Sentences with None: 0
+2026-04-09 12:29:16,631 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:29:16,631 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:29:16,631 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:29:16,631 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 12:29:16,644 INFO __main__ :0 data has been converted.
+2026-04-09 12:29:16,663 INFO __main__ :Corpus size (sent): 204
+2026-04-09 12:29:16,663 INFO __main__ :Converted sentences: 204
+2026-04-09 12:29:16,663 INFO __main__ :and tokens: 946
+2026-04-09 12:29:16,663 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:29:16,663 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:29:16,663 INFO __main__ :Sentences with None: 0
+2026-04-09 12:29:16,663 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:29:16,663 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:29:16,663 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:59:35,438 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 12:59:35,445 INFO __main__ :0 data has been converted.
+2026-04-09 12:59:35,456 INFO __main__ :Corpus size (sent): 145
+2026-04-09 12:59:35,456 INFO __main__ :Converted sentences: 145
+2026-04-09 12:59:35,456 INFO __main__ :and tokens: 700
+2026-04-09 12:59:35,456 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:59:35,456 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:59:35,456 INFO __main__ :Sentences with None: 0
+2026-04-09 12:59:35,456 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:59:35,456 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:59:35,456 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:59:35,456 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 12:59:35,461 INFO __main__ :0 data has been converted.
+2026-04-09 12:59:35,466 INFO __main__ :Corpus size (sent): 80
+2026-04-09 12:59:35,467 INFO __main__ :Converted sentences: 80
+2026-04-09 12:59:35,467 INFO __main__ :and tokens: 376
+2026-04-09 12:59:35,467 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:59:35,467 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:59:35,467 INFO __main__ :Sentences with None: 0
+2026-04-09 12:59:35,467 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:59:35,467 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:59:35,467 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:59:35,467 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 12:59:35,473 INFO __main__ :0 data has been converted.
+2026-04-09 12:59:35,483 INFO __main__ :Corpus size (sent): 142
+2026-04-09 12:59:35,483 INFO __main__ :Converted sentences: 142
+2026-04-09 12:59:35,483 INFO __main__ :and tokens: 706
+2026-04-09 12:59:35,483 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:59:35,483 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:59:35,483 INFO __main__ :Sentences with None: 0
+2026-04-09 12:59:35,483 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:59:35,483 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:59:35,483 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:59:35,483 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 12:59:35,500 INFO __main__ :0 data has been converted.
+2026-04-09 12:59:35,524 INFO __main__ :Corpus size (sent): 373
+2026-04-09 12:59:35,524 INFO __main__ :Converted sentences: 373
+2026-04-09 12:59:35,524 INFO __main__ :and tokens: 1726
+2026-04-09 12:59:35,524 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:59:35,524 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:59:35,524 INFO __main__ :Sentences with None: 0
+2026-04-09 12:59:35,524 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:59:35,524 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:59:35,524 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 12:59:35,524 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 12:59:35,533 INFO __main__ :0 data has been converted.
+2026-04-09 12:59:35,547 INFO __main__ :Corpus size (sent): 204
+2026-04-09 12:59:35,547 INFO __main__ :Converted sentences: 204
+2026-04-09 12:59:35,547 INFO __main__ :and tokens: 946
+2026-04-09 12:59:35,547 INFO __main__ :Non-projective sentences: 0
+2026-04-09 12:59:35,547 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 12:59:35,547 INFO __main__ :Sentences with None: 0
+2026-04-09 12:59:35,547 INFO __main__ :Sentences with empty node: 0
+2026-04-09 12:59:35,547 INFO __main__ :Sentences with control character: 0
+2026-04-09 12:59:35,547 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 13:16:35,511 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 13:16:35,521 INFO __main__ :0 data has been converted.
+2026-04-09 13:16:35,539 INFO __main__ :Corpus size (sent): 145
+2026-04-09 13:16:35,539 INFO __main__ :Converted sentences: 145
+2026-04-09 13:16:35,539 INFO __main__ :and tokens: 700
+2026-04-09 13:16:35,539 INFO __main__ :Non-projective sentences: 0
+2026-04-09 13:16:35,539 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 13:16:35,539 INFO __main__ :Sentences with None: 0
+2026-04-09 13:16:35,539 INFO __main__ :Sentences with empty node: 0
+2026-04-09 13:16:35,539 INFO __main__ :Sentences with control character: 0
+2026-04-09 13:16:35,539 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 13:16:35,539 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 13:16:35,546 INFO __main__ :0 data has been converted.
+2026-04-09 13:16:35,556 INFO __main__ :Corpus size (sent): 80
+2026-04-09 13:16:35,556 INFO __main__ :Converted sentences: 80
+2026-04-09 13:16:35,556 INFO __main__ :and tokens: 376
+2026-04-09 13:16:35,556 INFO __main__ :Non-projective sentences: 0
+2026-04-09 13:16:35,556 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 13:16:35,556 INFO __main__ :Sentences with None: 0
+2026-04-09 13:16:35,556 INFO __main__ :Sentences with empty node: 0
+2026-04-09 13:16:35,556 INFO __main__ :Sentences with control character: 0
+2026-04-09 13:16:35,556 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 13:16:35,556 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 13:16:35,566 INFO __main__ :0 data has been converted.
+2026-04-09 13:16:35,584 INFO __main__ :Corpus size (sent): 142
+2026-04-09 13:16:35,584 INFO __main__ :Converted sentences: 142
+2026-04-09 13:16:35,585 INFO __main__ :and tokens: 706
+2026-04-09 13:16:35,585 INFO __main__ :Non-projective sentences: 0
+2026-04-09 13:16:35,585 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 13:16:35,585 INFO __main__ :Sentences with None: 0
+2026-04-09 13:16:35,585 INFO __main__ :Sentences with empty node: 0
+2026-04-09 13:16:35,585 INFO __main__ :Sentences with control character: 0
+2026-04-09 13:16:35,585 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 13:16:35,585 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 13:16:35,608 INFO __main__ :0 data has been converted.
+2026-04-09 13:16:35,648 INFO __main__ :Corpus size (sent): 373
+2026-04-09 13:16:35,648 INFO __main__ :Converted sentences: 373
+2026-04-09 13:16:35,649 INFO __main__ :and tokens: 1726
+2026-04-09 13:16:35,649 INFO __main__ :Non-projective sentences: 0
+2026-04-09 13:16:35,649 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 13:16:35,649 INFO __main__ :Sentences with None: 0
+2026-04-09 13:16:35,649 INFO __main__ :Sentences with empty node: 0
+2026-04-09 13:16:35,649 INFO __main__ :Sentences with control character: 0
+2026-04-09 13:16:35,649 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 13:16:35,649 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 13:16:35,663 INFO __main__ :0 data has been converted.
+2026-04-09 13:16:35,685 INFO __main__ :Corpus size (sent): 204
+2026-04-09 13:16:35,685 INFO __main__ :Converted sentences: 204
+2026-04-09 13:16:35,685 INFO __main__ :and tokens: 946
+2026-04-09 13:16:35,685 INFO __main__ :Non-projective sentences: 0
+2026-04-09 13:16:35,685 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 13:16:35,685 INFO __main__ :Sentences with None: 0
+2026-04-09 13:16:35,685 INFO __main__ :Sentences with empty node: 0
+2026-04-09 13:16:35,685 INFO __main__ :Sentences with control character: 0
+2026-04-09 13:16:35,685 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:33:18,286 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 14:33:18,293 INFO __main__ :0 data has been converted.
+2026-04-09 14:33:18,303 INFO __main__ :Corpus size (sent): 145
+2026-04-09 14:33:18,303 INFO __main__ :Converted sentences: 145
+2026-04-09 14:33:18,303 INFO __main__ :and tokens: 700
+2026-04-09 14:33:18,303 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:33:18,303 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:33:18,303 INFO __main__ :Sentences with None: 0
+2026-04-09 14:33:18,303 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:33:18,303 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:33:18,303 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:33:18,303 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 14:33:18,308 INFO __main__ :0 data has been converted.
+2026-04-09 14:33:18,314 INFO __main__ :Corpus size (sent): 80
+2026-04-09 14:33:18,314 INFO __main__ :Converted sentences: 80
+2026-04-09 14:33:18,314 INFO __main__ :and tokens: 376
+2026-04-09 14:33:18,314 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:33:18,314 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:33:18,314 INFO __main__ :Sentences with None: 0
+2026-04-09 14:33:18,314 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:33:18,314 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:33:18,314 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:33:18,314 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 14:33:18,320 INFO __main__ :0 data has been converted.
+2026-04-09 14:33:18,330 INFO __main__ :Corpus size (sent): 142
+2026-04-09 14:33:18,331 INFO __main__ :Converted sentences: 142
+2026-04-09 14:33:18,331 INFO __main__ :and tokens: 706
+2026-04-09 14:33:18,331 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:33:18,331 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:33:18,331 INFO __main__ :Sentences with None: 0
+2026-04-09 14:33:18,331 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:33:18,331 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:33:18,331 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:33:18,331 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 14:33:18,347 INFO __main__ :0 data has been converted.
+2026-04-09 14:33:18,371 INFO __main__ :Corpus size (sent): 373
+2026-04-09 14:33:18,371 INFO __main__ :Converted sentences: 373
+2026-04-09 14:33:18,371 INFO __main__ :and tokens: 1726
+2026-04-09 14:33:18,371 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:33:18,371 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:33:18,371 INFO __main__ :Sentences with None: 0
+2026-04-09 14:33:18,371 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:33:18,371 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:33:18,371 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:33:18,371 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 14:33:18,380 INFO __main__ :0 data has been converted.
+2026-04-09 14:33:18,394 INFO __main__ :Corpus size (sent): 204
+2026-04-09 14:33:18,394 INFO __main__ :Converted sentences: 204
+2026-04-09 14:33:18,394 INFO __main__ :and tokens: 946
+2026-04-09 14:33:18,395 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:33:18,395 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:33:18,395 INFO __main__ :Sentences with None: 0
+2026-04-09 14:33:18,395 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:33:18,395 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:33:18,395 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:51:27,936 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 14:51:27,949 INFO __main__ :0 data has been converted.
+2026-04-09 14:51:27,964 INFO __main__ :Corpus size (sent): 145
+2026-04-09 14:51:27,964 INFO __main__ :Converted sentences: 145
+2026-04-09 14:51:27,964 INFO __main__ :and tokens: 700
+2026-04-09 14:51:27,965 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:51:27,965 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:51:27,965 INFO __main__ :Sentences with None: 0
+2026-04-09 14:51:27,965 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:51:27,965 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:51:27,965 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:51:27,965 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 14:51:27,972 INFO __main__ :0 data has been converted.
+2026-04-09 14:51:27,979 INFO __main__ :Corpus size (sent): 80
+2026-04-09 14:51:27,979 INFO __main__ :Converted sentences: 80
+2026-04-09 14:51:27,979 INFO __main__ :and tokens: 376
+2026-04-09 14:51:27,979 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:51:27,979 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:51:27,979 INFO __main__ :Sentences with None: 0
+2026-04-09 14:51:27,980 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:51:27,980 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:51:27,980 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:51:27,980 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 14:51:27,988 INFO __main__ :0 data has been converted.
+2026-04-09 14:51:28,003 INFO __main__ :Corpus size (sent): 142
+2026-04-09 14:51:28,003 INFO __main__ :Converted sentences: 142
+2026-04-09 14:51:28,003 INFO __main__ :and tokens: 706
+2026-04-09 14:51:28,003 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:51:28,003 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:51:28,003 INFO __main__ :Sentences with None: 0
+2026-04-09 14:51:28,003 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:51:28,003 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:51:28,003 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:51:28,003 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 14:51:28,021 INFO __main__ :0 data has been converted.
+2026-04-09 14:51:28,050 INFO __main__ :Corpus size (sent): 373
+2026-04-09 14:51:28,050 INFO __main__ :Converted sentences: 373
+2026-04-09 14:51:28,050 INFO __main__ :and tokens: 1726
+2026-04-09 14:51:28,050 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:51:28,050 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:51:28,050 INFO __main__ :Sentences with None: 0
+2026-04-09 14:51:28,050 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:51:28,050 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:51:28,050 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 14:51:28,050 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 14:51:28,061 INFO __main__ :0 data has been converted.
+2026-04-09 14:51:28,083 INFO __main__ :Corpus size (sent): 204
+2026-04-09 14:51:28,083 INFO __main__ :Converted sentences: 204
+2026-04-09 14:51:28,083 INFO __main__ :and tokens: 946
+2026-04-09 14:51:28,083 INFO __main__ :Non-projective sentences: 0
+2026-04-09 14:51:28,083 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 14:51:28,083 INFO __main__ :Sentences with None: 0
+2026-04-09 14:51:28,083 INFO __main__ :Sentences with empty node: 0
+2026-04-09 14:51:28,083 INFO __main__ :Sentences with control character: 0
+2026-04-09 14:51:28,083 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:08:30,699 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 15:08:30,712 INFO __main__ :0 data has been converted.
+2026-04-09 15:08:30,736 INFO __main__ :Corpus size (sent): 145
+2026-04-09 15:08:30,736 INFO __main__ :Converted sentences: 145
+2026-04-09 15:08:30,736 INFO __main__ :and tokens: 700
+2026-04-09 15:08:30,736 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:08:30,736 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:08:30,737 INFO __main__ :Sentences with None: 0
+2026-04-09 15:08:30,737 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:08:30,737 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:08:30,737 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:08:30,737 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 15:08:30,746 INFO __main__ :0 data has been converted.
+2026-04-09 15:08:30,757 INFO __main__ :Corpus size (sent): 80
+2026-04-09 15:08:30,757 INFO __main__ :Converted sentences: 80
+2026-04-09 15:08:30,757 INFO __main__ :and tokens: 376
+2026-04-09 15:08:30,757 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:08:30,757 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:08:30,759 INFO __main__ :Sentences with None: 0
+2026-04-09 15:08:30,760 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:08:30,760 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:08:30,760 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:08:30,760 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 15:08:30,771 INFO __main__ :0 data has been converted.
+2026-04-09 15:08:30,800 INFO __main__ :Corpus size (sent): 142
+2026-04-09 15:08:30,800 INFO __main__ :Converted sentences: 142
+2026-04-09 15:08:30,800 INFO __main__ :and tokens: 706
+2026-04-09 15:08:30,800 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:08:30,800 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:08:30,800 INFO __main__ :Sentences with None: 0
+2026-04-09 15:08:30,800 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:08:30,800 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:08:30,801 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:08:30,801 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 15:08:30,844 INFO __main__ :0 data has been converted.
+2026-04-09 15:08:30,944 INFO __main__ :Corpus size (sent): 373
+2026-04-09 15:08:30,945 INFO __main__ :Converted sentences: 373
+2026-04-09 15:08:30,945 INFO __main__ :and tokens: 1726
+2026-04-09 15:08:30,945 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:08:30,945 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:08:30,945 INFO __main__ :Sentences with None: 0
+2026-04-09 15:08:30,945 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:08:30,945 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:08:30,945 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:08:30,945 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 15:08:30,972 INFO __main__ :0 data has been converted.
+2026-04-09 15:08:31,013 INFO __main__ :Corpus size (sent): 204
+2026-04-09 15:08:31,014 INFO __main__ :Converted sentences: 204
+2026-04-09 15:08:31,014 INFO __main__ :and tokens: 946
+2026-04-09 15:08:31,014 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:08:31,014 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:08:31,014 INFO __main__ :Sentences with None: 0
+2026-04-09 15:08:31,014 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:08:31,014 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:08:31,014 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:19:00,126 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 15:19:00,425 INFO __main__ :0 data has been converted.
+2026-04-09 15:19:00,711 INFO __main__ :Corpus size (sent): 145
+2026-04-09 15:19:00,717 INFO __main__ :Converted sentences: 145
+2026-04-09 15:19:00,718 INFO __main__ :and tokens: 700
+2026-04-09 15:19:00,718 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:19:00,718 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:19:00,718 INFO __main__ :Sentences with None: 0
+2026-04-09 15:19:00,718 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:19:00,718 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:19:00,718 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:19:00,718 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 15:19:00,878 INFO __main__ :0 data has been converted.
+2026-04-09 15:19:00,958 INFO __main__ :Corpus size (sent): 80
+2026-04-09 15:19:00,958 INFO __main__ :Converted sentences: 80
+2026-04-09 15:19:00,958 INFO __main__ :and tokens: 376
+2026-04-09 15:19:00,959 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:19:00,959 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:19:00,959 INFO __main__ :Sentences with None: 0
+2026-04-09 15:19:00,959 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:19:00,959 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:19:00,960 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:19:00,960 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 15:19:01,030 INFO __main__ :0 data has been converted.
+2026-04-09 15:19:01,176 INFO __main__ :Corpus size (sent): 142
+2026-04-09 15:19:01,177 INFO __main__ :Converted sentences: 142
+2026-04-09 15:19:01,178 INFO __main__ :and tokens: 706
+2026-04-09 15:19:01,178 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:19:01,178 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:19:01,178 INFO __main__ :Sentences with None: 0
+2026-04-09 15:19:01,178 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:19:01,178 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:19:01,178 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:19:01,178 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 15:19:01,369 INFO __main__ :0 data has been converted.
+2026-04-09 15:19:01,599 INFO __main__ :Corpus size (sent): 373
+2026-04-09 15:19:01,600 INFO __main__ :Converted sentences: 373
+2026-04-09 15:19:01,600 INFO __main__ :and tokens: 1726
+2026-04-09 15:19:01,600 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:19:01,600 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:19:01,600 INFO __main__ :Sentences with None: 0
+2026-04-09 15:19:01,600 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:19:01,601 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:19:01,601 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 15:19:01,601 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 15:19:01,649 INFO __main__ :0 data has been converted.
+2026-04-09 15:19:01,735 INFO __main__ :Corpus size (sent): 204
+2026-04-09 15:19:01,736 INFO __main__ :Converted sentences: 204
+2026-04-09 15:19:01,736 INFO __main__ :and tokens: 946
+2026-04-09 15:19:01,736 INFO __main__ :Non-projective sentences: 0
+2026-04-09 15:19:01,736 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 15:19:01,736 INFO __main__ :Sentences with None: 0
+2026-04-09 15:19:01,736 INFO __main__ :Sentences with empty node: 0
+2026-04-09 15:19:01,736 INFO __main__ :Sentences with control character: 0
+2026-04-09 15:19:01,736 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 18:38:08,092 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 18:38:08,099 INFO __main__ :0 data has been converted.
+2026-04-09 18:38:08,113 INFO __main__ :Corpus size (sent): 145
+2026-04-09 18:38:08,113 INFO __main__ :Converted sentences: 145
+2026-04-09 18:38:08,113 INFO __main__ :and tokens: 700
+2026-04-09 18:38:08,113 INFO __main__ :Non-projective sentences: 0
+2026-04-09 18:38:08,113 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 18:38:08,113 INFO __main__ :Sentences with None: 0
+2026-04-09 18:38:08,113 INFO __main__ :Sentences with empty node: 0
+2026-04-09 18:38:08,113 INFO __main__ :Sentences with control character: 0
+2026-04-09 18:38:08,113 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 18:38:08,113 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 18:38:08,119 INFO __main__ :0 data has been converted.
+2026-04-09 18:38:08,126 INFO __main__ :Corpus size (sent): 80
+2026-04-09 18:38:08,126 INFO __main__ :Converted sentences: 80
+2026-04-09 18:38:08,126 INFO __main__ :and tokens: 376
+2026-04-09 18:38:08,126 INFO __main__ :Non-projective sentences: 0
+2026-04-09 18:38:08,126 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 18:38:08,126 INFO __main__ :Sentences with None: 0
+2026-04-09 18:38:08,126 INFO __main__ :Sentences with empty node: 0
+2026-04-09 18:38:08,126 INFO __main__ :Sentences with control character: 0
+2026-04-09 18:38:08,126 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 18:38:08,126 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 18:38:08,133 INFO __main__ :0 data has been converted.
+2026-04-09 18:38:08,146 INFO __main__ :Corpus size (sent): 142
+2026-04-09 18:38:08,146 INFO __main__ :Converted sentences: 142
+2026-04-09 18:38:08,146 INFO __main__ :and tokens: 706
+2026-04-09 18:38:08,146 INFO __main__ :Non-projective sentences: 0
+2026-04-09 18:38:08,146 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 18:38:08,146 INFO __main__ :Sentences with None: 0
+2026-04-09 18:38:08,146 INFO __main__ :Sentences with empty node: 0
+2026-04-09 18:38:08,146 INFO __main__ :Sentences with control character: 0
+2026-04-09 18:38:08,146 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 18:38:08,146 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 18:38:08,165 INFO __main__ :0 data has been converted.
+2026-04-09 18:38:08,197 INFO __main__ :Corpus size (sent): 373
+2026-04-09 18:38:08,197 INFO __main__ :Converted sentences: 373
+2026-04-09 18:38:08,197 INFO __main__ :and tokens: 1726
+2026-04-09 18:38:08,197 INFO __main__ :Non-projective sentences: 0
+2026-04-09 18:38:08,197 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 18:38:08,197 INFO __main__ :Sentences with None: 0
+2026-04-09 18:38:08,197 INFO __main__ :Sentences with empty node: 0
+2026-04-09 18:38:08,197 INFO __main__ :Sentences with control character: 0
+2026-04-09 18:38:08,197 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 18:38:08,197 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 18:38:08,209 INFO __main__ :0 data has been converted.
+2026-04-09 18:38:08,229 INFO __main__ :Corpus size (sent): 204
+2026-04-09 18:38:08,229 INFO __main__ :Converted sentences: 204
+2026-04-09 18:38:08,229 INFO __main__ :and tokens: 946
+2026-04-09 18:38:08,229 INFO __main__ :Non-projective sentences: 0
+2026-04-09 18:38:08,229 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 18:38:08,229 INFO __main__ :Sentences with None: 0
+2026-04-09 18:38:08,229 INFO __main__ :Sentences with empty node: 0
+2026-04-09 18:38:08,229 INFO __main__ :Sentences with control character: 0
+2026-04-09 18:38:08,229 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 19:12:02,884 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 19:12:02,894 INFO __main__ :0 data has been converted.
+2026-04-09 19:12:02,906 INFO __main__ :Corpus size (sent): 145
+2026-04-09 19:12:02,908 INFO __main__ :Converted sentences: 145
+2026-04-09 19:12:02,908 INFO __main__ :and tokens: 700
+2026-04-09 19:12:02,908 INFO __main__ :Non-projective sentences: 0
+2026-04-09 19:12:02,908 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 19:12:02,908 INFO __main__ :Sentences with None: 0
+2026-04-09 19:12:02,908 INFO __main__ :Sentences with empty node: 0
+2026-04-09 19:12:02,908 INFO __main__ :Sentences with control character: 0
+2026-04-09 19:12:02,908 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 19:12:02,908 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 19:12:02,913 INFO __main__ :0 data has been converted.
+2026-04-09 19:12:02,920 INFO __main__ :Corpus size (sent): 80
+2026-04-09 19:12:02,920 INFO __main__ :Converted sentences: 80
+2026-04-09 19:12:02,920 INFO __main__ :and tokens: 376
+2026-04-09 19:12:02,920 INFO __main__ :Non-projective sentences: 0
+2026-04-09 19:12:02,920 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 19:12:02,920 INFO __main__ :Sentences with None: 0
+2026-04-09 19:12:02,920 INFO __main__ :Sentences with empty node: 0
+2026-04-09 19:12:02,920 INFO __main__ :Sentences with control character: 0
+2026-04-09 19:12:02,920 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 19:12:02,920 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 19:12:02,927 INFO __main__ :0 data has been converted.
+2026-04-09 19:12:02,939 INFO __main__ :Corpus size (sent): 142
+2026-04-09 19:12:02,939 INFO __main__ :Converted sentences: 142
+2026-04-09 19:12:02,939 INFO __main__ :and tokens: 706
+2026-04-09 19:12:02,939 INFO __main__ :Non-projective sentences: 0
+2026-04-09 19:12:02,939 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 19:12:02,939 INFO __main__ :Sentences with None: 0
+2026-04-09 19:12:02,939 INFO __main__ :Sentences with empty node: 0
+2026-04-09 19:12:02,939 INFO __main__ :Sentences with control character: 0
+2026-04-09 19:12:02,939 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 19:12:02,939 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 19:12:02,955 INFO __main__ :0 data has been converted.
+2026-04-09 19:12:02,981 INFO __main__ :Corpus size (sent): 373
+2026-04-09 19:12:02,981 INFO __main__ :Converted sentences: 373
+2026-04-09 19:12:02,981 INFO __main__ :and tokens: 1726
+2026-04-09 19:12:02,981 INFO __main__ :Non-projective sentences: 0
+2026-04-09 19:12:02,981 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 19:12:02,981 INFO __main__ :Sentences with None: 0
+2026-04-09 19:12:02,981 INFO __main__ :Sentences with empty node: 0
+2026-04-09 19:12:02,981 INFO __main__ :Sentences with control character: 0
+2026-04-09 19:12:02,981 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 19:12:02,981 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 19:12:02,992 INFO __main__ :0 data has been converted.
+2026-04-09 19:12:03,007 INFO __main__ :Corpus size (sent): 204
+2026-04-09 19:12:03,007 INFO __main__ :Converted sentences: 204
+2026-04-09 19:12:03,007 INFO __main__ :and tokens: 946
+2026-04-09 19:12:03,007 INFO __main__ :Non-projective sentences: 0
+2026-04-09 19:12:03,007 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 19:12:03,007 INFO __main__ :Sentences with None: 0
+2026-04-09 19:12:03,008 INFO __main__ :Sentences with empty node: 0
+2026-04-09 19:12:03,008 INFO __main__ :Sentences with control character: 0
+2026-04-09 19:12:03,008 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 21:17:12,962 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 21:17:12,999 INFO __main__ :0 data has been converted.
+2026-04-09 21:17:13,036 INFO __main__ :Corpus size (sent): 145
+2026-04-09 21:17:13,036 INFO __main__ :Converted sentences: 145
+2026-04-09 21:17:13,036 INFO __main__ :and tokens: 700
+2026-04-09 21:17:13,036 INFO __main__ :Non-projective sentences: 0
+2026-04-09 21:17:13,036 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 21:17:13,036 INFO __main__ :Sentences with None: 0
+2026-04-09 21:17:13,036 INFO __main__ :Sentences with empty node: 0
+2026-04-09 21:17:13,036 INFO __main__ :Sentences with control character: 0
+2026-04-09 21:17:13,036 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 21:17:13,036 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 21:17:13,047 INFO __main__ :0 data has been converted.
+2026-04-09 21:17:13,070 INFO __main__ :Corpus size (sent): 80
+2026-04-09 21:17:13,070 INFO __main__ :Converted sentences: 80
+2026-04-09 21:17:13,070 INFO __main__ :and tokens: 376
+2026-04-09 21:17:13,071 INFO __main__ :Non-projective sentences: 0
+2026-04-09 21:17:13,071 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 21:17:13,071 INFO __main__ :Sentences with None: 0
+2026-04-09 21:17:13,071 INFO __main__ :Sentences with empty node: 0
+2026-04-09 21:17:13,071 INFO __main__ :Sentences with control character: 0
+2026-04-09 21:17:13,071 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 21:17:13,071 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 21:17:13,094 INFO __main__ :0 data has been converted.
+2026-04-09 21:17:13,142 INFO __main__ :Corpus size (sent): 142
+2026-04-09 21:17:13,143 INFO __main__ :Converted sentences: 142
+2026-04-09 21:17:13,143 INFO __main__ :and tokens: 706
+2026-04-09 21:17:13,143 INFO __main__ :Non-projective sentences: 0
+2026-04-09 21:17:13,143 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 21:17:13,143 INFO __main__ :Sentences with None: 0
+2026-04-09 21:17:13,143 INFO __main__ :Sentences with empty node: 0
+2026-04-09 21:17:13,143 INFO __main__ :Sentences with control character: 0
+2026-04-09 21:17:13,143 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 21:17:13,143 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 21:17:13,189 INFO __main__ :0 data has been converted.
+2026-04-09 21:17:13,255 INFO __main__ :Corpus size (sent): 373
+2026-04-09 21:17:13,255 INFO __main__ :Converted sentences: 373
+2026-04-09 21:17:13,255 INFO __main__ :and tokens: 1726
+2026-04-09 21:17:13,255 INFO __main__ :Non-projective sentences: 0
+2026-04-09 21:17:13,255 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 21:17:13,255 INFO __main__ :Sentences with None: 0
+2026-04-09 21:17:13,255 INFO __main__ :Sentences with empty node: 0
+2026-04-09 21:17:13,256 INFO __main__ :Sentences with control character: 0
+2026-04-09 21:17:13,256 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 21:17:13,256 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 21:17:13,271 INFO __main__ :0 data has been converted.
+2026-04-09 21:17:13,301 INFO __main__ :Corpus size (sent): 204
+2026-04-09 21:17:13,301 INFO __main__ :Converted sentences: 204
+2026-04-09 21:17:13,301 INFO __main__ :and tokens: 946
+2026-04-09 21:17:13,301 INFO __main__ :Non-projective sentences: 0
+2026-04-09 21:17:13,301 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 21:17:13,301 INFO __main__ :Sentences with None: 0
+2026-04-09 21:17:13,301 INFO __main__ :Sentences with empty node: 0
+2026-04-09 21:17:13,301 INFO __main__ :Sentences with control character: 0
+2026-04-09 21:17:13,301 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 22:10:47,045 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-09 22:10:47,052 INFO __main__ :0 data has been converted.
+2026-04-09 22:10:47,065 INFO __main__ :Corpus size (sent): 145
+2026-04-09 22:10:47,065 INFO __main__ :Converted sentences: 145
+2026-04-09 22:10:47,065 INFO __main__ :and tokens: 700
+2026-04-09 22:10:47,065 INFO __main__ :Non-projective sentences: 0
+2026-04-09 22:10:47,066 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 22:10:47,066 INFO __main__ :Sentences with None: 0
+2026-04-09 22:10:47,066 INFO __main__ :Sentences with empty node: 0
+2026-04-09 22:10:47,066 INFO __main__ :Sentences with control character: 0
+2026-04-09 22:10:47,066 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 22:10:47,066 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-09 22:10:47,070 INFO __main__ :0 data has been converted.
+2026-04-09 22:10:47,077 INFO __main__ :Corpus size (sent): 80
+2026-04-09 22:10:47,077 INFO __main__ :Converted sentences: 80
+2026-04-09 22:10:47,077 INFO __main__ :and tokens: 376
+2026-04-09 22:10:47,077 INFO __main__ :Non-projective sentences: 0
+2026-04-09 22:10:47,077 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 22:10:47,077 INFO __main__ :Sentences with None: 0
+2026-04-09 22:10:47,077 INFO __main__ :Sentences with empty node: 0
+2026-04-09 22:10:47,077 INFO __main__ :Sentences with control character: 0
+2026-04-09 22:10:47,077 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 22:10:47,077 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-09 22:10:47,083 INFO __main__ :0 data has been converted.
+2026-04-09 22:10:47,098 INFO __main__ :Corpus size (sent): 142
+2026-04-09 22:10:47,098 INFO __main__ :Converted sentences: 142
+2026-04-09 22:10:47,099 INFO __main__ :and tokens: 706
+2026-04-09 22:10:47,099 INFO __main__ :Non-projective sentences: 0
+2026-04-09 22:10:47,099 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 22:10:47,099 INFO __main__ :Sentences with None: 0
+2026-04-09 22:10:47,099 INFO __main__ :Sentences with empty node: 0
+2026-04-09 22:10:47,099 INFO __main__ :Sentences with control character: 0
+2026-04-09 22:10:47,099 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 22:10:47,099 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-09 22:10:47,114 INFO __main__ :0 data has been converted.
+2026-04-09 22:10:47,146 INFO __main__ :Corpus size (sent): 373
+2026-04-09 22:10:47,146 INFO __main__ :Converted sentences: 373
+2026-04-09 22:10:47,146 INFO __main__ :and tokens: 1726
+2026-04-09 22:10:47,146 INFO __main__ :Non-projective sentences: 0
+2026-04-09 22:10:47,146 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 22:10:47,146 INFO __main__ :Sentences with None: 0
+2026-04-09 22:10:47,146 INFO __main__ :Sentences with empty node: 0
+2026-04-09 22:10:47,146 INFO __main__ :Sentences with control character: 0
+2026-04-09 22:10:47,146 INFO __main__ :Sentences with not root contained: 0
+2026-04-09 22:10:47,146 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-09 22:10:47,157 INFO __main__ :0 data has been converted.
+2026-04-09 22:10:47,177 INFO __main__ :Corpus size (sent): 204
+2026-04-09 22:10:47,177 INFO __main__ :Converted sentences: 204
+2026-04-09 22:10:47,177 INFO __main__ :and tokens: 946
+2026-04-09 22:10:47,177 INFO __main__ :Non-projective sentences: 0
+2026-04-09 22:10:47,177 INFO __main__ :Root-non-projective sentences: 0
+2026-04-09 22:10:47,177 INFO __main__ :Sentences with None: 0
+2026-04-09 22:10:47,177 INFO __main__ :Sentences with empty node: 0
+2026-04-09 22:10:47,177 INFO __main__ :Sentences with control character: 0
+2026-04-09 22:10:47,177 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 10:10:13,604 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-10 10:10:13,613 INFO __main__ :0 data has been converted.
+2026-04-10 10:10:13,629 INFO __main__ :Corpus size (sent): 145
+2026-04-10 10:10:13,629 INFO __main__ :Converted sentences: 145
+2026-04-10 10:10:13,629 INFO __main__ :and tokens: 700
+2026-04-10 10:10:13,629 INFO __main__ :Non-projective sentences: 0
+2026-04-10 10:10:13,629 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 10:10:13,629 INFO __main__ :Sentences with None: 0
+2026-04-10 10:10:13,629 INFO __main__ :Sentences with empty node: 0
+2026-04-10 10:10:13,629 INFO __main__ :Sentences with control character: 0
+2026-04-10 10:10:13,629 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 10:10:13,629 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-10 10:10:13,635 INFO __main__ :0 data has been converted.
+2026-04-10 10:10:13,644 INFO __main__ :Corpus size (sent): 80
+2026-04-10 10:10:13,644 INFO __main__ :Converted sentences: 80
+2026-04-10 10:10:13,644 INFO __main__ :and tokens: 376
+2026-04-10 10:10:13,644 INFO __main__ :Non-projective sentences: 0
+2026-04-10 10:10:13,644 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 10:10:13,644 INFO __main__ :Sentences with None: 0
+2026-04-10 10:10:13,644 INFO __main__ :Sentences with empty node: 0
+2026-04-10 10:10:13,644 INFO __main__ :Sentences with control character: 0
+2026-04-10 10:10:13,644 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 10:10:13,644 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-10 10:10:13,651 INFO __main__ :0 data has been converted.
+2026-04-10 10:10:13,666 INFO __main__ :Corpus size (sent): 142
+2026-04-10 10:10:13,666 INFO __main__ :Converted sentences: 142
+2026-04-10 10:10:13,666 INFO __main__ :and tokens: 706
+2026-04-10 10:10:13,666 INFO __main__ :Non-projective sentences: 0
+2026-04-10 10:10:13,666 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 10:10:13,666 INFO __main__ :Sentences with None: 0
+2026-04-10 10:10:13,666 INFO __main__ :Sentences with empty node: 0
+2026-04-10 10:10:13,666 INFO __main__ :Sentences with control character: 0
+2026-04-10 10:10:13,666 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 10:10:13,666 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-10 10:10:13,685 INFO __main__ :0 data has been converted.
+2026-04-10 10:10:13,720 INFO __main__ :Corpus size (sent): 373
+2026-04-10 10:10:13,720 INFO __main__ :Converted sentences: 373
+2026-04-10 10:10:13,720 INFO __main__ :and tokens: 1726
+2026-04-10 10:10:13,720 INFO __main__ :Non-projective sentences: 0
+2026-04-10 10:10:13,720 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 10:10:13,720 INFO __main__ :Sentences with None: 0
+2026-04-10 10:10:13,720 INFO __main__ :Sentences with empty node: 0
+2026-04-10 10:10:13,720 INFO __main__ :Sentences with control character: 0
+2026-04-10 10:10:13,720 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 10:10:13,720 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-10 10:10:13,731 INFO __main__ :0 data has been converted.
+2026-04-10 10:10:13,754 INFO __main__ :Corpus size (sent): 204
+2026-04-10 10:10:13,754 INFO __main__ :Converted sentences: 204
+2026-04-10 10:10:13,754 INFO __main__ :and tokens: 946
+2026-04-10 10:10:13,754 INFO __main__ :Non-projective sentences: 0
+2026-04-10 10:10:13,754 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 10:10:13,754 INFO __main__ :Sentences with None: 0
+2026-04-10 10:10:13,754 INFO __main__ :Sentences with empty node: 0
+2026-04-10 10:10:13,754 INFO __main__ :Sentences with control character: 0
+2026-04-10 10:10:13,754 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 11:14:01,311 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-10 11:14:01,320 INFO __main__ :0 data has been converted.
+2026-04-10 11:14:01,339 INFO __main__ :Corpus size (sent): 145
+2026-04-10 11:14:01,339 INFO __main__ :Converted sentences: 145
+2026-04-10 11:14:01,339 INFO __main__ :and tokens: 700
+2026-04-10 11:14:01,339 INFO __main__ :Non-projective sentences: 0
+2026-04-10 11:14:01,339 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 11:14:01,339 INFO __main__ :Sentences with None: 0
+2026-04-10 11:14:01,339 INFO __main__ :Sentences with empty node: 0
+2026-04-10 11:14:01,339 INFO __main__ :Sentences with control character: 0
+2026-04-10 11:14:01,339 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 11:14:01,339 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-10 11:14:01,346 INFO __main__ :0 data has been converted.
+2026-04-10 11:14:01,356 INFO __main__ :Corpus size (sent): 80
+2026-04-10 11:14:01,356 INFO __main__ :Converted sentences: 80
+2026-04-10 11:14:01,356 INFO __main__ :and tokens: 376
+2026-04-10 11:14:01,356 INFO __main__ :Non-projective sentences: 0
+2026-04-10 11:14:01,357 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 11:14:01,357 INFO __main__ :Sentences with None: 0
+2026-04-10 11:14:01,357 INFO __main__ :Sentences with empty node: 0
+2026-04-10 11:14:01,357 INFO __main__ :Sentences with control character: 0
+2026-04-10 11:14:01,357 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 11:14:01,357 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-10 11:14:01,364 INFO __main__ :0 data has been converted.
+2026-04-10 11:14:01,382 INFO __main__ :Corpus size (sent): 142
+2026-04-10 11:14:01,382 INFO __main__ :Converted sentences: 142
+2026-04-10 11:14:01,382 INFO __main__ :and tokens: 706
+2026-04-10 11:14:01,382 INFO __main__ :Non-projective sentences: 0
+2026-04-10 11:14:01,382 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 11:14:01,382 INFO __main__ :Sentences with None: 0
+2026-04-10 11:14:01,382 INFO __main__ :Sentences with empty node: 0
+2026-04-10 11:14:01,382 INFO __main__ :Sentences with control character: 0
+2026-04-10 11:14:01,382 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 11:14:01,382 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-10 11:14:01,399 INFO __main__ :0 data has been converted.
+2026-04-10 11:14:01,441 INFO __main__ :Corpus size (sent): 373
+2026-04-10 11:14:01,442 INFO __main__ :Converted sentences: 373
+2026-04-10 11:14:01,442 INFO __main__ :and tokens: 1726
+2026-04-10 11:14:01,442 INFO __main__ :Non-projective sentences: 0
+2026-04-10 11:14:01,442 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 11:14:01,442 INFO __main__ :Sentences with None: 0
+2026-04-10 11:14:01,442 INFO __main__ :Sentences with empty node: 0
+2026-04-10 11:14:01,442 INFO __main__ :Sentences with control character: 0
+2026-04-10 11:14:01,442 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 11:14:01,442 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-10 11:14:01,452 INFO __main__ :0 data has been converted.
+2026-04-10 11:14:01,479 INFO __main__ :Corpus size (sent): 204
+2026-04-10 11:14:01,479 INFO __main__ :Converted sentences: 204
+2026-04-10 11:14:01,479 INFO __main__ :and tokens: 946
+2026-04-10 11:14:01,479 INFO __main__ :Non-projective sentences: 0
+2026-04-10 11:14:01,479 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 11:14:01,479 INFO __main__ :Sentences with None: 0
+2026-04-10 11:14:01,479 INFO __main__ :Sentences with empty node: 0
+2026-04-10 11:14:01,479 INFO __main__ :Sentences with control character: 0
+2026-04-10 11:14:01,479 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 15:47:22,166 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-10 15:47:22,184 INFO __main__ :0 data has been converted.
+2026-04-10 15:47:22,230 INFO __main__ :Corpus size (sent): 145
+2026-04-10 15:47:22,230 INFO __main__ :Converted sentences: 145
+2026-04-10 15:47:22,230 INFO __main__ :and tokens: 700
+2026-04-10 15:47:22,230 INFO __main__ :Non-projective sentences: 0
+2026-04-10 15:47:22,230 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 15:47:22,230 INFO __main__ :Sentences with None: 0
+2026-04-10 15:47:22,230 INFO __main__ :Sentences with empty node: 0
+2026-04-10 15:47:22,230 INFO __main__ :Sentences with control character: 0
+2026-04-10 15:47:22,230 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 15:47:22,230 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-10 15:47:22,237 INFO __main__ :0 data has been converted.
+2026-04-10 15:47:22,254 INFO __main__ :Corpus size (sent): 80
+2026-04-10 15:47:22,254 INFO __main__ :Converted sentences: 80
+2026-04-10 15:47:22,254 INFO __main__ :and tokens: 376
+2026-04-10 15:47:22,254 INFO __main__ :Non-projective sentences: 0
+2026-04-10 15:47:22,254 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 15:47:22,254 INFO __main__ :Sentences with None: 0
+2026-04-10 15:47:22,254 INFO __main__ :Sentences with empty node: 0
+2026-04-10 15:47:22,254 INFO __main__ :Sentences with control character: 0
+2026-04-10 15:47:22,254 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 15:47:22,254 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-10 15:47:22,264 INFO __main__ :0 data has been converted.
+2026-04-10 15:47:22,292 INFO __main__ :Corpus size (sent): 142
+2026-04-10 15:47:22,292 INFO __main__ :Converted sentences: 142
+2026-04-10 15:47:22,293 INFO __main__ :and tokens: 706
+2026-04-10 15:47:22,293 INFO __main__ :Non-projective sentences: 0
+2026-04-10 15:47:22,293 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 15:47:22,293 INFO __main__ :Sentences with None: 0
+2026-04-10 15:47:22,293 INFO __main__ :Sentences with empty node: 0
+2026-04-10 15:47:22,293 INFO __main__ :Sentences with control character: 0
+2026-04-10 15:47:22,293 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 15:47:22,293 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-10 15:47:22,317 INFO __main__ :0 data has been converted.
+2026-04-10 15:47:22,461 INFO __main__ :Corpus size (sent): 373
+2026-04-10 15:47:22,461 INFO __main__ :Converted sentences: 373
+2026-04-10 15:47:22,461 INFO __main__ :and tokens: 1726
+2026-04-10 15:47:22,486 INFO __main__ :Non-projective sentences: 0
+2026-04-10 15:47:22,490 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 15:47:22,490 INFO __main__ :Sentences with None: 0
+2026-04-10 15:47:22,490 INFO __main__ :Sentences with empty node: 0
+2026-04-10 15:47:22,490 INFO __main__ :Sentences with control character: 0
+2026-04-10 15:47:22,490 INFO __main__ :Sentences with not root contained: 0
+2026-04-10 15:47:22,490 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-10 15:47:22,506 INFO __main__ :0 data has been converted.
+2026-04-10 15:47:22,547 INFO __main__ :Corpus size (sent): 204
+2026-04-10 15:47:22,547 INFO __main__ :Converted sentences: 204
+2026-04-10 15:47:22,547 INFO __main__ :and tokens: 946
+2026-04-10 15:47:22,547 INFO __main__ :Non-projective sentences: 0
+2026-04-10 15:47:22,548 INFO __main__ :Root-non-projective sentences: 0
+2026-04-10 15:47:22,548 INFO __main__ :Sentences with None: 0
+2026-04-10 15:47:22,548 INFO __main__ :Sentences with empty node: 0
+2026-04-10 15:47:22,548 INFO __main__ :Sentences with control character: 0
+2026-04-10 15:47:22,548 INFO __main__ :Sentences with not root contained: 0
+2026-04-15 16:51:52,098 INFO __main__ :Converting BOG_cds.conllu with structured-POS method.
+2026-04-15 16:51:52,206 INFO __main__ :0 data has been converted.
+2026-04-15 16:51:52,255 INFO __main__ :Corpus size (sent): 145
+2026-04-15 16:51:52,255 INFO __main__ :Converted sentences: 145
+2026-04-15 16:51:52,255 INFO __main__ :and tokens: 700
+2026-04-15 16:51:52,255 INFO __main__ :Non-projective sentences: 0
+2026-04-15 16:51:52,255 INFO __main__ :Root-non-projective sentences: 0
+2026-04-15 16:51:52,255 INFO __main__ :Sentences with None: 0
+2026-04-15 16:51:52,255 INFO __main__ :Sentences with empty node: 0
+2026-04-15 16:51:52,255 INFO __main__ :Sentences with control character: 0
+2026-04-15 16:51:52,255 INFO __main__ :Sentences with not root contained: 0
+2026-04-15 16:51:52,255 INFO __main__ :Converting TEF_cds.conllu with structured-POS method.
+2026-04-15 16:51:52,266 INFO __main__ :0 data has been converted.
+2026-04-15 16:51:52,295 INFO __main__ :Corpus size (sent): 80
+2026-04-15 16:51:52,295 INFO __main__ :Converted sentences: 80
+2026-04-15 16:51:52,295 INFO __main__ :and tokens: 376
+2026-04-15 16:51:52,295 INFO __main__ :Non-projective sentences: 0
+2026-04-15 16:51:52,295 INFO __main__ :Root-non-projective sentences: 0
+2026-04-15 16:51:52,295 INFO __main__ :Sentences with None: 0
+2026-04-15 16:51:52,295 INFO __main__ :Sentences with empty node: 0
+2026-04-15 16:51:52,295 INFO __main__ :Sentences with control character: 0
+2026-04-15 16:51:52,295 INFO __main__ :Sentences with not root contained: 0
+2026-04-15 16:51:52,295 INFO __main__ :Converting SIM_cds.conllu with structured-POS method.
+2026-04-15 16:51:52,313 INFO __main__ :0 data has been converted.
+2026-04-15 16:51:52,350 INFO __main__ :Corpus size (sent): 142
+2026-04-15 16:51:52,350 INFO __main__ :Converted sentences: 142
+2026-04-15 16:51:52,350 INFO __main__ :and tokens: 706
+2026-04-15 16:51:52,350 INFO __main__ :Non-projective sentences: 0
+2026-04-15 16:51:52,351 INFO __main__ :Root-non-projective sentences: 0
+2026-04-15 16:51:52,351 INFO __main__ :Sentences with None: 0
+2026-04-15 16:51:52,351 INFO __main__ :Sentences with empty node: 0
+2026-04-15 16:51:52,352 INFO __main__ :Sentences with control character: 0
+2026-04-15 16:51:52,352 INFO __main__ :Sentences with not root contained: 0
+2026-04-15 16:51:52,352 INFO __main__ :Converting ELI_cds.conllu with structured-POS method.
+2026-04-15 16:51:52,385 INFO __main__ :0 data has been converted.
+2026-04-15 16:51:52,465 INFO __main__ :Corpus size (sent): 373
+2026-04-15 16:51:52,465 INFO __main__ :Converted sentences: 373
+2026-04-15 16:51:52,465 INFO __main__ :and tokens: 1726
+2026-04-15 16:51:52,465 INFO __main__ :Non-projective sentences: 0
+2026-04-15 16:51:52,465 INFO __main__ :Root-non-projective sentences: 0
+2026-04-15 16:51:52,465 INFO __main__ :Sentences with None: 0
+2026-04-15 16:51:52,465 INFO __main__ :Sentences with empty node: 0
+2026-04-15 16:51:52,465 INFO __main__ :Sentences with control character: 0
+2026-04-15 16:51:52,465 INFO __main__ :Sentences with not root contained: 0
+2026-04-15 16:51:52,465 INFO __main__ :Converting ALE_cds.conllu with structured-POS method.
+2026-04-15 16:51:52,483 INFO __main__ :0 data has been converted.
+2026-04-15 16:51:52,532 INFO __main__ :Corpus size (sent): 204
+2026-04-15 16:51:52,532 INFO __main__ :Converted sentences: 204
+2026-04-15 16:51:52,532 INFO __main__ :and tokens: 946
+2026-04-15 16:51:52,532 INFO __main__ :Non-projective sentences: 0
+2026-04-15 16:51:52,532 INFO __main__ :Root-non-projective sentences: 0
+2026-04-15 16:51:52,532 INFO __main__ :Sentences with None: 0
+2026-04-15 16:51:52,532 INFO __main__ :Sentences with empty node: 0
+2026-04-15 16:51:52,532 INFO __main__ :Sentences with control character: 0
+2026-04-15 16:51:52,532 INFO __main__ :Sentences with not root contained: 0

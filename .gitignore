@@ -1,1 +1,8 @@
 training_grammars/bg_stderr.txt
+.DS_Store
+
+__pycache__/
+.pytest_cache/
+.venv/
+
+.DS_Store

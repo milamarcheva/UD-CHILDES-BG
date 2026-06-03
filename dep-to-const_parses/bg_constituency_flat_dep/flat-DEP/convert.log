@@ -1,0 +1,112 @@
+2026-03-09 11:14:27,458 INFO __main__ :Converting BOG_cds.conllu with flat-DEP method.
+2026-03-09 11:35:21,273 INFO __main__ :Converting BOG_cds.conllu with flat-DEP method.
+2026-03-09 11:53:49,755 INFO __main__ :Converting BOG_cds.conllu with flat-DEP method.
+2026-03-09 11:53:49,765 INFO __main__ :0 data has been converted.
+2026-03-09 11:53:49,779 INFO __main__ :Corpus size (sent): 143
+2026-03-09 11:53:49,779 INFO __main__ :Converted sentences: 142
+2026-03-09 11:53:49,779 INFO __main__ :and tokens: 680
+2026-03-09 11:53:49,779 INFO __main__ :Non-projective sentences: 0
+2026-03-09 11:53:49,779 INFO __main__ :Root-non-projective sentences: 0
+2026-03-09 11:53:49,779 INFO __main__ :Sentences with None: 0
+2026-03-09 11:53:49,779 INFO __main__ :Sentences with empty node: 1
+2026-03-09 11:53:49,779 INFO __main__ :Sentences with control character: 0
+2026-03-09 11:53:49,779 INFO __main__ :Sentences with not root contained: 0
+2026-03-09 11:53:49,779 INFO __main__ :Converting TEF_cds.conllu with flat-DEP method.
+2026-03-09 11:53:49,799 INFO __main__ :0 data has been converted.
+2026-03-09 11:53:49,857 INFO __main__ :Corpus size (sent): 388
+2026-03-09 11:53:49,857 INFO __main__ :Converted sentences: 379
+2026-03-09 11:53:49,857 INFO __main__ :and tokens: 2015
+2026-03-09 11:53:49,857 INFO __main__ :Non-projective sentences: 0
+2026-03-09 11:53:49,857 INFO __main__ :Root-non-projective sentences: 0
+2026-03-09 11:53:49,857 INFO __main__ :Sentences with None: 0
+2026-03-09 11:53:49,857 INFO __main__ :Sentences with empty node: 9
+2026-03-09 11:53:49,857 INFO __main__ :Sentences with control character: 0
+2026-03-09 11:53:49,857 INFO __main__ :Sentences with not root contained: 0
+2026-03-09 11:53:49,858 INFO __main__ :Converting SIM_cds.conllu with flat-DEP method.
+2026-03-09 11:53:49,896 INFO __main__ :0 data has been converted.
+2026-03-09 11:53:49,939 INFO __main__ :Corpus size (sent): 791
+2026-03-09 11:53:49,939 INFO __main__ :Converted sentences: 787
+2026-03-09 11:53:49,940 INFO __main__ :and tokens: 4223
+2026-03-09 11:53:49,940 INFO __main__ :Non-projective sentences: 0
+2026-03-09 11:53:49,940 INFO __main__ :Root-non-projective sentences: 2
+2026-03-09 11:53:49,940 INFO __main__ :Sentences with None: 0
+2026-03-09 11:53:49,940 INFO __main__ :Sentences with empty node: 2
+2026-03-09 11:53:49,940 INFO __main__ :Sentences with control character: 0
+2026-03-09 11:53:49,940 INFO __main__ :Sentences with not root contained: 0
+2026-03-09 11:53:49,940 INFO __main__ :Converting ELI_cds.conllu with flat-DEP method.
+2026-03-09 11:53:49,971 INFO __main__ :0 data has been converted.
+2026-03-09 11:53:50,008 INFO __main__ :Corpus size (sent): 697
+2026-03-09 11:53:50,009 INFO __main__ :Converted sentences: 694
+2026-03-09 11:53:50,009 INFO __main__ :and tokens: 3235
+2026-03-09 11:53:50,009 INFO __main__ :Non-projective sentences: 0
+2026-03-09 11:53:50,009 INFO __main__ :Root-non-projective sentences: 2
+2026-03-09 11:53:50,009 INFO __main__ :Sentences with None: 0
+2026-03-09 11:53:50,009 INFO __main__ :Sentences with empty node: 1
+2026-03-09 11:53:50,009 INFO __main__ :Sentences with control character: 0
+2026-03-09 11:53:50,009 INFO __main__ :Sentences with not root contained: 0
+2026-03-09 11:53:50,009 INFO __main__ :Converting ALE_cds.conllu with flat-DEP method.
+2026-03-09 11:53:50,030 INFO __main__ :0 data has been converted.
+2026-03-09 11:53:50,054 INFO __main__ :Corpus size (sent): 426
+2026-03-09 11:53:50,055 INFO __main__ :Converted sentences: 417
+2026-03-09 11:53:50,055 INFO __main__ :and tokens: 2030
+2026-03-09 11:53:50,055 INFO __main__ :Non-projective sentences: 0
+2026-03-09 11:53:50,055 INFO __main__ :Root-non-projective sentences: 1
+2026-03-09 11:53:50,055 INFO __main__ :Sentences with None: 0
+2026-03-09 11:53:50,055 INFO __main__ :Sentences with empty node: 8
+2026-03-09 11:53:50,055 INFO __main__ :Sentences with control character: 0
+2026-03-09 11:53:50,055 INFO __main__ :Sentences with not root contained: 0
+2026-03-10 14:02:09,633 INFO __main__ :Converting BOG_cds.conllu with flat-DEP method.
+2026-03-10 14:02:09,640 INFO __main__ :0 data has been converted.
+2026-03-10 14:02:09,646 INFO __main__ :Corpus size (sent): 143
+2026-03-10 14:02:09,646 INFO __main__ :Converted sentences: 143
+2026-03-10 14:02:09,646 INFO __main__ :and tokens: 685
+2026-03-10 14:02:09,646 INFO __main__ :Non-projective sentences: 0
+2026-03-10 14:02:09,646 INFO __main__ :Root-non-projective sentences: 0
+2026-03-10 14:02:09,646 INFO __main__ :Sentences with None: 0
+2026-03-10 14:02:09,646 INFO __main__ :Sentences with empty node: 0
+2026-03-10 14:02:09,646 INFO __main__ :Sentences with control character: 0
+2026-03-10 14:02:09,646 INFO __main__ :Sentences with not root contained: 0
+2026-03-10 14:02:09,646 INFO __main__ :Converting TEF_cds.conllu with flat-DEP method.
+2026-03-10 14:02:09,663 INFO __main__ :0 data has been converted.
+2026-03-10 14:02:09,678 INFO __main__ :Corpus size (sent): 388
+2026-03-10 14:02:09,678 INFO __main__ :Converted sentences: 383
+2026-03-10 14:02:09,678 INFO __main__ :and tokens: 2037
+2026-03-10 14:02:09,678 INFO __main__ :Non-projective sentences: 0
+2026-03-10 14:02:09,678 INFO __main__ :Root-non-projective sentences: 0
+2026-03-10 14:02:09,678 INFO __main__ :Sentences with None: 0
+2026-03-10 14:02:09,678 INFO __main__ :Sentences with empty node: 0
+2026-03-10 14:02:09,678 INFO __main__ :Sentences with control character: 0
+2026-03-10 14:02:09,678 INFO __main__ :Sentences with not root contained: 5
+2026-03-10 14:02:09,678 INFO __main__ :Converting SIM_cds.conllu with flat-DEP method.
+2026-03-10 14:02:09,711 INFO __main__ :0 data has been converted.
+2026-03-10 14:02:09,741 INFO __main__ :Corpus size (sent): 791
+2026-03-10 14:02:09,741 INFO __main__ :Converted sentences: 790
+2026-03-10 14:02:09,741 INFO __main__ :and tokens: 4240
+2026-03-10 14:02:09,741 INFO __main__ :Non-projective sentences: 0
+2026-03-10 14:02:09,741 INFO __main__ :Root-non-projective sentences: 1
+2026-03-10 14:02:09,741 INFO __main__ :Sentences with None: 0
+2026-03-10 14:02:09,741 INFO __main__ :Sentences with empty node: 0
+2026-03-10 14:02:09,741 INFO __main__ :Sentences with control character: 0
+2026-03-10 14:02:09,741 INFO __main__ :Sentences with not root contained: 0
+2026-03-10 14:02:09,742 INFO __main__ :Converting ELI_cds.conllu with flat-DEP method.
+2026-03-10 14:02:09,769 INFO __main__ :0 data has been converted.
+2026-03-10 14:02:09,791 INFO __main__ :Corpus size (sent): 697
+2026-03-10 14:02:09,791 INFO __main__ :Converted sentences: 696
+2026-03-10 14:02:09,791 INFO __main__ :and tokens: 3245
+2026-03-10 14:02:09,791 INFO __main__ :Non-projective sentences: 0
+2026-03-10 14:02:09,791 INFO __main__ :Root-non-projective sentences: 1
+2026-03-10 14:02:09,791 INFO __main__ :Sentences with None: 0
+2026-03-10 14:02:09,791 INFO __main__ :Sentences with empty node: 0
+2026-03-10 14:02:09,791 INFO __main__ :Sentences with control character: 0
+2026-03-10 14:02:09,791 INFO __main__ :Sentences with not root contained: 0
+2026-03-10 14:02:09,791 INFO __main__ :Converting ALE_cds.conllu with flat-DEP method.
+2026-03-10 14:02:09,810 INFO __main__ :0 data has been converted.
+2026-03-10 14:02:09,826 INFO __main__ :Corpus size (sent): 426
+2026-03-10 14:02:09,826 INFO __main__ :Converted sentences: 425
+2026-03-10 14:02:09,826 INFO __main__ :and tokens: 2079
+2026-03-10 14:02:09,826 INFO __main__ :Non-projective sentences: 0
+2026-03-10 14:02:09,826 INFO __main__ :Root-non-projective sentences: 0
+2026-03-10 14:02:09,826 INFO __main__ :Sentences with None: 0
+2026-03-10 14:02:09,826 INFO __main__ :Sentences with empty node: 0
+2026-03-10 14:02:09,826 INFO __main__ :Sentences with control character: 0
+2026-03-10 14:02:09,826 INFO __main__ :Sentences with not root contained: 1

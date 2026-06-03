@@ -1,0 +1,44 @@
+2026-03-14 16:41:38,770 INFO __main__ :Converting bg_cds_min2.conllu with flat-POS method.
+2026-03-14 16:41:40,113 INFO __main__ :0 data has been converted.
+2026-03-14 16:41:40,371 INFO __main__ :Corpus size (sent): 20872
+2026-03-14 16:41:40,371 INFO __main__ :Converted sentences: 5000
+2026-03-14 16:41:40,372 INFO __main__ :and tokens: 27673
+2026-03-14 16:41:40,372 INFO __main__ :Non-projective sentences: 20
+2026-03-14 16:41:40,372 INFO __main__ :Root-non-projective sentences: 14
+2026-03-14 16:41:40,372 INFO __main__ :Sentences with None: 0
+2026-03-14 16:41:40,372 INFO __main__ :Sentences with empty node: 0
+2026-03-14 16:41:40,372 INFO __main__ :Sentences with control character: 0
+2026-03-14 16:41:40,372 INFO __main__ :Sentences with not root contained: 1
+2026-03-14 16:48:22,099 INFO __main__ :Converting bg_cds_min2.conllu with flat-POS method.
+2026-03-14 16:48:23,397 INFO __main__ :0 data has been converted.
+2026-03-14 16:48:24,274 INFO __main__ :Corpus size (sent): 20872
+2026-03-14 16:48:24,274 INFO __main__ :Converted sentences: 20664
+2026-03-14 16:48:24,274 INFO __main__ :and tokens: 118653
+2026-03-14 16:48:24,274 INFO __main__ :Non-projective sentences: 101
+2026-03-14 16:48:24,274 INFO __main__ :Root-non-projective sentences: 101
+2026-03-14 16:48:24,275 INFO __main__ :Sentences with None: 0
+2026-03-14 16:48:24,275 INFO __main__ :Sentences with empty node: 0
+2026-03-14 16:48:24,275 INFO __main__ :Sentences with control character: 0
+2026-03-14 16:48:24,275 INFO __main__ :Sentences with not root contained: 6
+2026-03-14 20:36:30,511 INFO __main__ :Converting bg_cds_min2.conllu with flat-POS method.
+2026-03-14 20:36:31,857 INFO __main__ :0 data has been converted.
+2026-03-14 20:36:32,711 INFO __main__ :Corpus size (sent): 20872
+2026-03-14 20:36:32,711 INFO __main__ :Converted sentences: 20664
+2026-03-14 20:36:32,711 INFO __main__ :and tokens: 118653
+2026-03-14 20:36:32,711 INFO __main__ :Non-projective sentences: 101
+2026-03-14 20:36:32,711 INFO __main__ :Root-non-projective sentences: 101
+2026-03-14 20:36:32,711 INFO __main__ :Sentences with None: 0
+2026-03-14 20:36:32,711 INFO __main__ :Sentences with empty node: 0
+2026-03-14 20:36:32,711 INFO __main__ :Sentences with control character: 0
+2026-03-14 20:36:32,711 INFO __main__ :Sentences with not root contained: 6
+2026-03-14 20:45:15,544 INFO __main__ :Converting bg_cds_min2.conllu with flat-POS method.
+2026-03-14 20:45:16,889 INFO __main__ :0 data has been converted.
+2026-03-14 20:45:17,794 INFO __main__ :Corpus size (sent): 20872
+2026-03-14 20:45:17,794 INFO __main__ :Converted sentences: 20664
+2026-03-14 20:45:17,794 INFO __main__ :and tokens: 118653
+2026-03-14 20:45:17,794 INFO __main__ :Non-projective sentences: 101
+2026-03-14 20:45:17,794 INFO __main__ :Root-non-projective sentences: 101
+2026-03-14 20:45:17,794 INFO __main__ :Sentences with None: 0
+2026-03-14 20:45:17,794 INFO __main__ :Sentences with empty node: 0
+2026-03-14 20:45:17,794 INFO __main__ :Sentences with control character: 0
+2026-03-14 20:45:17,794 INFO __main__ :Sentences with not root contained: 6

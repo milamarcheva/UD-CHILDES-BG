@@ -1,0 +1,30 @@
+sent_id,sentence,notes
+3,  На враната и на зайо байо ., NOUNP but it should be ADP or PP
+6, Къде е мимито ?, VP should be (е мимито) and the sentence should be (ROOT (AUXP (ADVP (ADV къде)) (AUXP (AUX е) (PROPNP (PROPN мимито))) )) but this is not at all recoverable from the dep annotaion; so maybe (ROOT (AUXP  (AUXP (ADV Къде) (AUX е)) (PROPN мимито)))
+8,Скри ги долу ?, combine verb and object first; (ROOT (VERBP (VERBP (VERB Скри) (PRON ги) ) (ADV долу)))
+12, ,if nsubj -- make it NP VP or VP NP rather than including the NP in the VP; todo (ROOT (VERBP (NOUN Мама) (VERB вика) (ADPP (ADP на) (PROPN сашето)) (VERBP (AUX да) (PRON му) (VERB направи) (NOUNP (ADJ xубава) (NOUN прическа))) (VERBP (CCONJ а) (PROPN сашето) (PART не) (VERB ще))))
+14, , find a way to prioritise the closeness of vp to obj; (ROOT (VERBP (VERB Скъсала) (NOUNP (ADP на) (NOUN парчета)) (NOUN роклята) (NOUNP (NOUN баба) (PROPN цоцоланка))))
+15, , introduce depth; the interjections (discourse, vocative) should be attached to the whole sentence not  (ROOT (((PRONP (PRON Тез) ((PRON кои) (AUX са)))  (INTJ бе)) (NOUN мамо)))
+17, , keep the nsubj and the vp not as one phrase, but as NP VP; (ROOT (VERBP (ADVP (INTJ Ей) (ADV сега)) (NOUN мама) (AUX ще) (PRON го) (VERB донесе)))
+19, , (ROOT (VERBP (VERB Поправи) (ADV веднага) (NOUN кревата))) -- here the object needs to be conbined with the verb first; and then the VP with the ADV but I am not sure this is possible.
+29, , always group case with the nominal first(ROOT (VERBP (VERBP (ADP За) (VERBP (PRON кого) (AUX са))) (DET тези)))
+25, , complicated with the object and iobj in between aux and verb, figure out (ROOT (VERBP (VERBP (VERBP (VERBP (AUX Да) (PRON й)) (PRON го)) (VERB дам)) (PART ли)))
+22, , aux is split from the verb(ROOT (VERBP (NOUN Баба) (VERBP (VERBP (VERBP (DET какво) (AUX ще)) (VERB направи)) (ADPP (ADP от) (NOUN гъбките)))))
+17, , 1) obj is between aux and verb, what should be done; 2) is there a way to distinguish between nsubj NP or not? (ROOT (VERBP (VERBP (ADVP (INTJ Ей) (ADV сега)) (VERBP (VERBP (AUX ще) (PRON го)) (VERB донесе))) (NOUN мама)))
+15, ,  a way to mark question words/question sentences? (ROOT (VERBP (VERBP (VERBP (PRON Тез) (VERBP (PRON кои) (AUX са))) (INTJ бе)) (VOC (NOUN мамо))))
+, ,
+2, ,  (VERBP (VERB изпей) (NOUN песничката)) needs to be subordinated to моля in (ROOT (VERBP (VERBP (VERB Моля) (PRON те)) (VERBP (VERB изпей) (NOUN песничката))))
+17, , the order is shuffle AGAIN (ROOT (VERBP (VERBP (ADVP (INTJ Ей) (ADV сега)) (VERBP (AUX ще) (VERBP (PRON го) (VERB донесе)))) (NOUN мама)))
+29, , за кого is a constituent which then combines with са in (ROOT (VERBP (VERBP (ADP За) (VERBP (PRON кого) (AUX са))) (DET тези)))
+,,
+185, , is it possble to make (VERBP (VERB дошло))? (ROOT (VERBP (VERBP (VERB Дошло) (ADPP (ADP с) (NOUN какичката))) (SBAR (VERBP (AUX да) (VERBP (VERB xванат) (NOUN теленцето))))))
+,,
+39, , какво правят дете а -- decata
+63,, трети то копче ли натиска ш -- tretito
+73,, expected: саше на колко си годинка и
+76 ,, на колко година и е тати
+94, ,майка не дава чорапче ите (о.г. # text = Майка не дава чорапките .)
+125, костенурка и
+133, , xайде за трите мечка и разкажи
+
+
