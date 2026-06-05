@@ -4883,9 +4883,9 @@
 # original_utterance = ti s tvojata mynichkata .
 # text = Ти с твоята мъничката .
 1	Ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	_
-2	с	с	ADP	R   _   3   case    _   _
+2	с	с	ADP	R	_	3	case	_	_
 3	твоята	твой	DET	Pszl-s1fd	Definite=Def|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	_
-4	мъничката	мъничка	ADJ	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	conj    _	_
+4	мъничката	мъничка	ADJ	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	conj	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_031766
@@ -7182,9 +7182,9 @@
 # child_age = 1;04.19
 # participant_role = DIM
 # original_utterance = kakvo shche mi dadesh, tati ?
-# text = Какво шче ми дадеш , тати ?
+# text = Какво ще ми дадеш , тати ?
 1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	4	obj	_	_
-2	шче	ще	AUX	Vpiif-r3s	_	4	aux	_	_
+2	ще	ще	AUX	Vpiif-r3s	_	4	aux	_	_
 3	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
 4	дадеш	дам-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	,	,	PUNCT	punct	_	6	punct	_	_

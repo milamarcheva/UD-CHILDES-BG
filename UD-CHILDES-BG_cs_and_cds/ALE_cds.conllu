@@ -2433,7 +2433,7 @@
 # participant_role = VEL
 # original_utterance = stiga ste skachali !
 # text = Стига сте скачали !
-1	Стига	стига	PART	Tv	_	3   advmod  _	_
+1	Стига	стига	PART	Tv	_	3	advmod	_	_
 2	сте	съм	AUX	Vxitf-r2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	скачали	скачам	VERB	Vppicao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -2602,7 +2602,7 @@
 # participant_role = VEL
 # original_utterance = sashe, kyde otivash ti ?
 # text = Саше , къде отиваш ти ?
-1	Саше	саше	PROPN	Vpitz--2s	Definite=Ind|Case=Voc|Gender=Neut|Number=Sing	4	vocative    _	_
+1	Саше	саше	PROPN	Vpitz--2s	Definite=Ind|Case=Voc|Gender=Neut|Number=Sing	4	vocative	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
 3	къде	къде	ADV	Pil	PronType=Int	4	advmod	_	_
 4	отиваш	отивам-(си)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -4130,7 +4130,7 @@
 1	А	а	CCONJ	Cp	_	4	cc	_	_
 2	за	за	ADP	R	_	3	case	_	_
 3	нинджите	нинджа	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
-4	гледа	гледам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past||VerbForm=Fin|Voice=Act	0	root	_	_
+4	гледа	гледам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ли	ли	PART	Ti	_	4	discourse	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
