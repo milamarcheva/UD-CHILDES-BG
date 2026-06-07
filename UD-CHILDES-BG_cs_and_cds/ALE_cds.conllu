@@ -617,12 +617,12 @@
 # child_age = 1;09.19
 # participant_role = VEL
 # original_utterance = a mishleto ti go izjazhdja !
-# text = А мишлето ти го изяждя !
+# text = А мишлето ти го изяжда !
 1	А	а	CCONJ	Cp	_	5	cc	_	_
 2	мишлето	мишле	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
 3	ти	аз	PRON	Ppet-s2	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
 4	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
-5	изяждя	изяждам	VERB	Vpptf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	изяжда	изяждам	VERB	Vpptf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	!	!	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = UTT_007093
@@ -1985,9 +1985,9 @@
 # child_age = 2;03.12
 # participant_role = VEL
 # original_utterance = nali napravixme, mamo !
-# text = Нали направиxме , мамо !
+# text = Нали направихме , мамо !
 1	Нали	нали	PART	Ti	_	2	discourse	_	_
-2	направиxме	направиxме	VERB	_	_	0	root	_	_
+2	направиxме  направя VERB	_	_	0	root	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
 4	мамо	мама	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	2	vocative	_	_
 5	!	!	PUNCT	punct	_	2	punct	_	_
