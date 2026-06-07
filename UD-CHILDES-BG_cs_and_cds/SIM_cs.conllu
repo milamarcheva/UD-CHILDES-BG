@@ -287,10 +287,10 @@
 # child_age = 1;07.21
 # participant_role = SIM
 # original_utterance = aaaaa, darix se [: udarix se] !
-# text = Ааааа , удариx се !
+# text = Ааааа , ударих се !
 1	Ааааа	ааааа	INTJ	I	_	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	удариx	удариx	VERB	Vpptf-o1s	_	1	conj	_	_
+3	ударих	ударих	VERB	Vpptf-o1s	_	1	conj	_	_
 4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
 5	!	!	PUNCT	punct	_	1	punct	_	_
 
@@ -450,10 +450,10 @@
 # child_age = 1;10.12
 # participant_role = SIM
 # original_utterance = xvyrlja, xvyrlja v kosha, mirishe akoto .
-# text = Xвърля , xвърля в коша , мирише акото .
-1	Xвърля	хвърлям-(се)	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Хвърля , хвърля в коша , мирише акото .
+1	Хвърля	хвърлям-(се)	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	xвърля	хвърлям-(се)	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+3	хвърля	хвърлям-(се)	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 4	в	в	ADP	R	_	5	case	_	_
 5	коша	кош	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 6	,	,	PUNCT	punct	_	7	punct	_	_
@@ -556,10 +556,10 @@
 # child_age = 2;10.04
 # participant_role = SIM
 # original_utterance = za tjax xora.
-# text = За тяx xора .
+# text = За тях хора .
 1	За	за	ADP	R	_	2	case	_	_
-2	тяx	те	PRON	Ppelap3	Case=Acc|Person=3|PronType=Prs|Number=Plur	3	det	_	_
-3	xора	човек	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+2	тях	те	PRON	Ppelap3	Case=Acc|Person=3|PronType=Prs|Number=Plur	3	det	_	_
+3	хора	човек	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_031114
@@ -659,8 +659,8 @@
 # child_age = 2;02.15
 # participant_role = SIM
 # original_utterance = xajde da otivame gore.
-# text = Xайде да отиваме горе .
-1	Xайде	хайде	INTJ	Tm	_	3	discourse	_	_
+# text = Хайде да отиваме горе .
+1	Хайде	хайде	INTJ	Tm	_	3	discourse	_	_
 2	да	да	AUX	Tx	_	3	aux	_	_
 3	отиваме	отивам-(си)	VERB	Vpiif-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	горе	горе	ADV	Dl	Degree=Pos	3	advmod	_	_
@@ -680,20 +680,20 @@
 # child_age = 2;07.22
 # participant_role = SIM
 # original_utterance = az sym cjalata naxapana.
-# text = Аз съм цялата наxапана .
+# text = Аз съм цялата нахапана .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	съм	съм	AUX	Vxitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 3	цялата	цял	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-4	наxапана	наxапя	VERB	Vpptcv--sfi	Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Pas	0	root	_	_
+4	нахапана	нахапя	VERB	Vpptcv--sfi	Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Pas	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_033880
 # child_age = 2;06.26
 # participant_role = SIM
 # original_utterance = abe kazax li ti da ne vzimash drugoto.
-# text = Абе казаx ли ти да не взимаш другото .
+# text = Абе казах ли ти да не взимаш другото .
 1	Абе	абе	INTJ	I	_	2	discourse	_	_
-2	казаx	кажа	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	казах	кажа	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ли	ли	PART	Ti	_	2	discourse	_	_
 4	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
 5	да	да	AUX	Tx	_	7	aux	_	_
@@ -802,8 +802,8 @@
 # child_age = 1;09.25
 # participant_role = SIM
 # original_utterance = ax, tozi, tozi, tozi .
-# text = Аx , този , този , този .
-1	Аx	аx	INTJ	I	_	3	discourse	_	_
+# text = Ах , този , този , този .
+1	Ах	ах	INTJ	I	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	този	този	PRON	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -945,14 +945,14 @@
 # child_age = 1;07.23
 # participant_role = SIM
 # original_utterance = apche [: xapche], apche [: xapche], apche [: xapche], apche [: xapche] .
-# text = Хапче , xапче , xапче , xапче .
+# text = Хапче , хапче , хапче , хапче .
 1	Хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	xапче	xапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
+3	хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
-5	xапче	xапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
+5	хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
 6	,	,	PUNCT	punct	_	7	punct	_	_
-7	xапче	xапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
+7	хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
 8	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_023927
@@ -984,9 +984,9 @@
 # child_age = 2;05.21
 # participant_role = SIM
 # original_utterance = da xodim [: razxodim] malko bebeto, to ne zaspa, kato go razxodix dolu.
-# text = Да разxодим малко бебето , то не заспа , като го разxодиx долу .
+# text = Да разходим малко бебето , то не заспа , като го разходих долу .
 1	Да	да	AUX	Tx	_	2	aux	_	_
-2	разxодим	разxодя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	разходим	разходя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	малко	малко	ADV	Dq	Degree=Pos	2	advmod	_	_
 4	бебето	бебе	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	obj	_	_
 5	,	,	PUNCT	punct	_	8	punct	_	_
@@ -996,7 +996,7 @@
 9	,	,	PUNCT	punct	_	12	punct	_	_
 10	като	като	SCONJ	Cs	_	12	mark	_	_
 11	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
-12	разxодиx	разxодя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	разходих	разходя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
 13	долу	долу	ADV	Dl	Degree=Pos	12	advmod	_	_
 14	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -1256,10 +1256,10 @@
 # child_age = 1;08.17
 # participant_role = SIM
 # original_utterance = dexite [: drexite], dexite [: drexite] Moni .
-# text = Дреxите , дреxите Мони .
-1	Дреxите	дреxа	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
+# text = Дрехите , дрехите Мони .
+1	Дрехите	дреха	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	дреxите	дреxа	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	conj	_	_
+3	дрехите	дреха	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	conj	_	_
 4	Мони	мони	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	1	vocative	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -1421,10 +1421,10 @@
 # child_age = 2;11.19
 # participant_role = SIM
 # original_utterance = Kalojan go nauchix da govori.
-# text = Калоян го научиx да говори .
+# text = Калоян го научих да говори .
 1	Калоян	калоян	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-3	научиx	науча-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	научих	науча-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	да	да	AUX	Tx	_	5	aux	_	_
 5	говори	говоря	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
@@ -1696,8 +1696,8 @@
 # child_age = 2;02.14
 # participant_role = SIM
 # original_utterance = zakleshtix, da.
-# text = Заклещиx , да .
-1	Заклещиx	заклещя-(се)	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Заклещих , да .
+1	Заклещих	заклещя-(се)	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	да	да	PART	Ta	_	1	discourse	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
@@ -1788,9 +1788,9 @@
 # child_age = 2;10.03
 # participant_role = SIM
 # original_utterance = ne xaresvam.
-# text = Не xаресвам .
+# text = Не харесвам .
 1	Не	не	PART	Tn	Polarity=Neg	2	advmod	_	_
-2	xаресвам	наресвам-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	харесвам	наресвам-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_023758
@@ -1833,8 +1833,8 @@
 # child_age = 2;07.22
 # participant_role = SIM
 # original_utterance = namazax si.
-# text = Намазаx си .
-1	Намазаx	намажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Tense=Past	0	root	_	_
+# text = Намазах си .
+1	Намазах	намажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Tense=Past	0	root	_	_
 2	си	си	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	1	expl	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -1989,8 +1989,8 @@
 # child_age = 2;00.24
 # participant_role = SIM
 # original_utterance = kazax bu a [: na] Kaljanche [: Kalojanche].
-# text = Казаx бу на калоянче .
-1	Казаx	казаx	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+# text = Казах бу на калоянче .
+1	Казах	казах	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 2	бу	бу	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
 3	на	на	ADP	R	_	4	case	_	_
 4	калоянче	калоянчо	PROPN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing|Case=Dat	1	iobj	_	_
@@ -2059,8 +2059,8 @@
 # child_age = 2;07.22
 # participant_role = SIM
 # original_utterance = namerix edna fibichka, mozhe bi padnala.
-# text = Намериx една фибичка , може би паднала .
-1	Намериx	намеря-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Намерих една фибичка , може би паднала .
+1	Намерих	намеря-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
 3	фибичка	фибичка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
@@ -2161,7 +2161,7 @@
 # child_age = 2;08.29
 # participant_role = SIM
 # original_utterance = i mu slagame pampers, za da xvane pishito.
-# text = И му слагаме памперс , за да xване пишито .
+# text = И му слагаме памперс , за да хване пишито .
 1	И	и	CCONJ	Cp	_	3	cc	_	_
 2	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	слагаме	слагам-(се)	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -2169,7 +2169,7 @@
 5	,	,	PUNCT	punct	_	8	punct	_	_
 6	за	за	ADP	R	_	8	mark	_	_
 7	да	да	AUX	Tx	_	6	fixed	_	_
-8	xване	хвана	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+8	хване	хвана	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
 9	пишито	пиши	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	8	obj	_	_
 10	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -2197,7 +2197,7 @@
 # child_age = 2;11.24
 # participant_role = SIM
 # original_utterance = a pyk, kogato ne igraja, ne e xubav sport.
-# text = А пък , когато не играя , не е xубав спорт .
+# text = А пък , когато не играя , не е хубав спорт .
 1	А	а	CCONJ	Cp	_	11	cc	_	_
 2	пък	пък	PART	Te	_	11	discourse	_	_
 3	,	,	PUNCT	punct	_	6	punct	_	_
@@ -2207,7 +2207,7 @@
 7	,	,	PUNCT	punct	_	6	punct	_	_
 8	не	не	PART	Tn	Polarity=Neg	11	advmod	_	_
 9	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-10	xубав	хубав	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	хубав	хубав	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
 11	спорт	спорт	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
@@ -2290,10 +2290,10 @@
 # child_age = 2;07.29
 # participant_role = SIM
 # original_utterance = az si izpix vodata.
-# text = Аз си изпиx водата .
+# text = Аз си изпих водата .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	си	си	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	3	expl	_	_
-3	изпиx	изпия	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Tense=Past	0	root	_	_
+3	изпих	изпия	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Tense=Past	0	root	_	_
 4	водата	вода	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -2370,8 +2370,8 @@
 # child_age = 1;07.23
 # participant_role = SIM
 # original_utterance = xixixix .
-# text = Xиxиxиx .
-1	Xиxиxиx	xиxиxиx	INTJ	I	_	0	root	_	_
+# text = Хихихих .
+1	Хихихих	хихихих	INTJ	I	_	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_036831
@@ -2524,9 +2524,9 @@
 # text = Беби , беби , беби , вземи си го , айде .
 1	Беби	беби	NOUN	Ncfs-v	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	7	vocative	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	беби	бебe	NOUN	Ncfs-v	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	1	conj	_	_
+3	беби	бебе	NOUN	Ncfs-v	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	1	conj	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
-5	беби	бебe	NOUN	Ncfs-v	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	1	conj	_	_
+5	беби	бебе	NOUN	Ncfs-v	Definite=Ind|Gender=Neut|Number=Sing|Case=Voc	1	conj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	вземи	взема	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 8	си	си	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	7	expl	_	_
@@ -2820,7 +2820,7 @@
 # participant_role = SIM
 # original_utterance = bebi, bebcho, bebcho .
 # text = Беби , бебчо , бебчо .
-1	Беби	бебe	NOUN	Ncfsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+1	Беби	бебе	NOUN	Ncfsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	бебчо	бебчо	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -2866,11 +2866,11 @@
 # child_age = 2;07.29
 # participant_role = SIM
 # original_utterance = s vodichka go izmix, che tova e mnogo mrysno.
-# text = С водичка го измиx , че това е много мръсно .
+# text = С водичка го измих , че това е много мръсно .
 1	С	с	ADP	R	_	2	case	_	_
 2	водичка	водичка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	_
 3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	измиx	измия	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	измих	измия	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	,	,	PUNCT	punct	_	10	punct	_	_
 6	че	че	SCONJ	Cs	_	10	mark	_	_
 7	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
@@ -2903,10 +2903,10 @@
 # child_age = 2;05.29
 # participant_role = SIM
 # original_utterance = mnogo gi xaresax.
-# text = Много ги xаресаx .
+# text = Много ги харесах .
 1	Много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	3	advmod	_	_
 2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
-3	xаресаx	xаресаx	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	харесах	харесах	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_030846
@@ -3105,7 +3105,7 @@
 2	ли	ли	PART	Ti	_	1	discourse	_	_
 3	още	още	ADV	Dq	Degree=Pos	4	advmod	_	_
 4	банан	банан	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
-5	вкъщи	вкъщи	ADV	_	1	advmod	_	_
+5	вкъщи	вкъщи	ADV	_	_	1	advmod	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_031580
@@ -3168,8 +3168,8 @@
 # child_age = 1;10.12
 # participant_role = SIM
 # original_utterance = izvadix pepetata [: biskvitite] .
-# text = Извадиx бисквитите .
-1	Извадиx	извадя	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+# text = Извадих бисквитите .
+1	Извадих	извадя	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	бисквитите	бисквита	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	obj	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -3359,10 +3359,10 @@
 # child_age = 3;01.00
 # participant_role = SIM
 # original_utterance = az se izmorix da cheta.
-# text = Аз се измориx да чета .
+# text = Аз се изморих да чета .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
-3	измориx	изморя	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	изморих	изморя	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	да	да	AUX	Tx	_	5	aux	_	_
 5	чета	чета	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
@@ -3490,8 +3490,8 @@
 # child_age = 1;08.17
 # participant_role = SIM
 # original_utterance = maxa .
-# text = Маxа .
-1	Маxа	маxам	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+# text = Маха .
+1	Маха	махам	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_030792
@@ -3591,8 +3591,8 @@
 # child_age = 1;11.23
 # participant_role = SIM
 # original_utterance = xajde putince [: prystchence] myrdame svalim gi, svalim gi putinceta [: prystchenceta] s Muma Lisa [: Kuma Lisa] .
-# text = Xайде пръстченце мърдаме свалим ги , свалим ги пръстченцета с Кума Лиса .
-1	Xайде	хайде	INTJ	I	_	3	discourse	_	_
+# text = Хайде пръстченце мърдаме свалим ги , свалим ги пръстченцета с Кума Лиса .
+1	Хайде	хайде	INTJ	I	_	3	discourse	_	_
 2	пръстченце	пръстченце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	vocative	_	_
 3	мърдаме	мърдам-(се)	VERB	Vpitf-o1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	свалим	сваля	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -3634,10 +3634,10 @@
 # child_age = 2;07.29
 # participant_role = SIM
 # original_utterance = petyka shte xodim na svatba.
-# text = Петъка ще xодим на сватба .
+# text = Петъка ще ходим на сватба .
 1	Петъка	петъка	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	advmod	_	_
 2	ще	ще	AUX	Tx	_	3	aux	_	_
-3	xодим	ходя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ходим	ходя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	на	на	ADP	R	_	5	case	_	_
 5	сватба	сватба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	iobj	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
@@ -3717,10 +3717,10 @@
 # child_age = 1;04.25
 # participant_role = SIM
 # original_utterance = tova e xelikopter .
-# text = Това е xеликоптер .
+# text = Това е хеликоптер .
 1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	xеликоптер	xеликоптер	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+3	хеликоптер	хеликоптер	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_021898
@@ -3955,12 +3955,12 @@
 # child_age = 2;11.22
 # participant_role = SIM
 # original_utterance = az go slozhix v xladilnika.
-# text = Аз го сложиx в xладилника .
+# text = Аз го сложих в хладилника .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	сложиx	сложа-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сложих	сложа-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	в	в	ADP	R	_	5	case	_	_
-5	xладилника	xладилника	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
+5	хладилника	хладилника	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_031920
@@ -4025,10 +4025,10 @@
 # child_age = 2;03.16
 # participant_role = SIM
 # original_utterance = eto, naxrani se.
-# text = Ето , наxрани се .
+# text = Ето , нахрани се .
 1	Ето	ето	PART	Tv	_	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	наxрани	наxраня-(се)	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+3	нахрани	нахраня-(се)	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -4173,16 +4173,16 @@
 # child_age = 2;09.24
 # participant_role = SIM
 # original_utterance = kogato debne edna muxa, kogato debne edna muxa, kogato debne shte ja ubija.
-# text = Когато дебне една муxа , когато дебне една муxа , когато дебне ще я убия .
+# text = Когато дебне една муха , когато дебне една муха , когато дебне ще я убия .
 1	Когато	когато	ADV	Prt	PronType=Rel	2	advmod	_	_
 2	дебне	дебна	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
 3	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
-4	муxа	муxа	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	муха	муха	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
 5	,	,	PUNCT	punct	_	7	punct	_	_
 6	когато	когато	ADV	Prt	PronType=Rel	7	advmod	_	_
 7	дебне	дебна	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
 8	една	един	DET	Pfe-os-fi	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
-9	муxа	муxа	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
+9	муха	муха	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
 10	,	,	PUNCT	punct	_	12	punct	_	_
 11	когато	когато	ADV	Prt	PronType=Rel	12	advmod	_	_
 12	дебне	дебна	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
@@ -4283,8 +4283,8 @@
 # child_age = 2;08.19
 # participant_role = SIM
 # original_utterance = pix siropche samichka.
-# text = Пиx сиропче самичка .
-1	Пиx	пия	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Пих сиропче самичка .
+1	Пих	пия	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	сиропче	сиропче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
 3	самичка	самичка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
@@ -4368,9 +4368,9 @@
 # child_age = 2;05.29
 # participant_role = SIM
 # original_utterance = no narisuvax ej taka guma, ej taka guma.
-# text = Но нарисуваx ей така гума , ей така гума .
+# text = Но нарисувах ей така гума , ей така гума .
 1	Но	но	CCONJ	Cc	_	2	cc	_	_
-2	нарисуваx	нарисувам	VERB	Vpitf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	нарисувах	нарисувам	VERB	Vpitf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ей	ей	PART	Te	_	4	discourse	_	_
 4	така	така	ADV	Pdm	PronType=Dem	2	advmod	_	_
 5	гума	гума	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
@@ -4453,9 +4453,9 @@
 # child_age = 2;11.24
 # participant_role = SIM
 # original_utterance = az bjax v rodilnija dom.
-# text = Аз бяx в родилния дом .
+# text = Аз бях в родилния дом .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	бяx	съм	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	бях	съм	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	в	в	ADP	R	_	5	case	_	_
 4	родилния	родилен	ADJ	Amsh	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 5	дом	дом	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	_
@@ -4508,7 +4508,7 @@
 # child_age = 2;11.24
 # participant_role = SIM
 # original_utterance = v studenoto vreme, ama me puskash, koeto me xape i taka.
-# text = В студеното време , ама ме пускаш , което ме xапе и така .
+# text = В студеното време , ама ме пускаш , което ме хапе и така .
 1	В	в	ADP	R	_	3	case	_	_
 2	студеното	студен	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
 3	време	време	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	7	obl	_	_
@@ -4519,7 +4519,7 @@
 8	,	,	PUNCT	punct	_	11	punct	_	_
 9	което	който	PRON	Pre-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	nsubj	_	_
 10	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
-11	xапе	напема	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+11	хапе	напема	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 12	и	и	CCONJ	Cp	_	13	cc	_	_
 13	така	така	ADV	Pdm	PronType=Dem	11	conj	_	_
 14	.	.	PUNCT	punct	_	7	punct	_	_
@@ -4691,16 +4691,16 @@
 # child_age = 1;11.02
 # participant_role = SIM
 # original_utterance = slozha a pyt [: za izpyt] orexche, a pyt [: za izpyt] slozha orexche .
-# text = Сложа за изпът ореxче , за изпът сложа ореxче .
+# text = Сложа за изпът орехче , за изпът сложа орехче .
 1	Сложа	сложа-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	за	за	ADP	R	_	3	case	_	_
 3	изпът	път	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
-4	ореxче	ореx	NOUN	Dm	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
+4	орехче	орех	NOUN	Dm	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
 5	,	,	PUNCT	punct	_	8	punct	_	_
 6	за	за	ADP	R	_	7	case	_	_
 7	изпът	изп	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	_
 8	сложа	сложа	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-9	ореxче	ореxче	NOUN	Dm	Definite=Ind|Gender=Neut|Number=Sing	8	obj	_	_
+9	орехче	орехче	NOUN	Dm	Definite=Ind|Gender=Neut|Number=Sing	8	obj	_	_
 10	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_034280
@@ -4754,11 +4754,11 @@
 # child_age = 1;08.01
 # participant_role = SIM
 # original_utterance = momari [: komari], momari [: komari] apjat [: xapjat] .
-# text = Комари , комари xапят .
+# text = Комари , комари хапят .
 1	Комари	комар	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	4	nsubj	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	комари	комар	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	1	conj	_	_
-4	xапят	хапя	VERB	Vpiif-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	хапят	хапя	VERB	Vpiif-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_025216
@@ -4843,8 +4843,8 @@
 # child_age = 2;06.09
 # participant_role = SIM
 # original_utterance = vzex mnogo morkovi, za da gi jadem.
-# text = Взеx много моркови , за да ги ядем .
-1	Взеx	взема-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Взех много моркови , за да ги ядем .
+1	Взех	взема-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	3	advmod	_	_
 3	моркови	морков	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	_
 4	,	,	PUNCT	punct	_	8	punct	_	_
@@ -4875,13 +4875,13 @@
 # child_age = 2;07.22
 # participant_role = SIM
 # original_utterance = a, ej tam, vidjax.
-# text = А , ей там , видяx .
+# text = А , ей там , видях .
 1	А	а	INTJ	Te	_	4	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ей	ей	INTJ	I	_	4	discourse	_	_
 4	там	там	ADV	Pdl	PronType=Dem	6	advmod	_	_
 5	,	,	PUNCT	punct	_	6	punct	_	_
-6	видяx	видя-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	видях	видя-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = UTT_037066
@@ -5182,11 +5182,11 @@
 # child_age = 2;08.19
 # participant_role = SIM
 # original_utterance = kyde mi e ximikala?
-# text = Къде ми е xимикала ?
+# text = Къде ми е химикала ?
 1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
 2	ми	аз	PRON	Ppetds1	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-4	xимикала	xимикал	NOUN	Ncfsi	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	химикала	химикал	NOUN	Ncfsi	Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_026048
@@ -5269,8 +5269,8 @@
 # child_age = 2;00.23
 # participant_role = SIM
 # original_utterance = achistix [: izchistix] go.
-# text = Изчистиx го .
-1	Изчистиx	изчистя	VERB	Vpitz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+# text = Изчистих го .
+1	Изчистих	изчистя	VERB	Vpitz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -5287,8 +5287,8 @@
 # child_age = 1;06.06
 # participant_role = SIM
 # original_utterance = sax go [: strax go] .
-# text = Страx го .
-1	Страx	страx	VERB	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+# text = Страх го .
+1	Страх	страх	VERB	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -5354,11 +5354,11 @@
 # child_age = 2;07.19
 # participant_role = SIM
 # original_utterance = nali i az imax edno kotence, koeto peeshe?
-# text = Нали и аз имаx едно котенце , което пееше ?
+# text = Нали и аз имах едно котенце , което пееше ?
 1	Нали	нали	PART	Ti	_	4	discourse	_	_
 2	и	и	CCONJ	Cp	_	3	cc	_	_
 3	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	имаx	имам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	имах	имам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	едно	един	NUM	Mcnsi	Definite=Ind|Gender=Neut|NumType=Card|Number=Sing	6	det	_	_
 6	котенце	котенце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	_
 7	,	,	PUNCT	punct	_	9	punct	_	_
@@ -5404,18 +5404,18 @@
 # child_age = 2;00.18
 # participant_role = SIM
 # original_utterance = mjau, mjau, kotence, xajde da igraem, xajde igraem.
-# text = Мяу , мяу , котенце , xайде да играем , xайде играем .
+# text = Мяу , мяу , котенце , хайде да играем , хайде играем .
 1	Мяу	мяу	INTJ	Ncns-v	_	9	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	мяу	мяу	INTJ	Ncns-v	_	1	conj	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
 5	котенце	котенце	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	vocative	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	xайде	хайде	INTJ	Vpitz--2s	_	9	discourse	_	_
+7	хайде	хайде	INTJ	Vpitz--2s	_	9	discourse	_	_
 8	да	да	AUX	Tx	_	9	aux	_	_
 9	играем	играя	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	,	,	PUNCT	punct	_	12	punct	_	_
-11	xайде	хайде	INTJ	Cp	_	12	discourse	_	_
+11	хайде	хайде	INTJ	Cp	_	12	discourse	_	_
 12	играем	играя	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
 13	.	.	PUNCT	punct	_	9	punct	_	_
 
@@ -5485,10 +5485,10 @@
 # child_age = 2;06.09
 # participant_role = SIM
 # original_utterance = mamo, maxni vodata, zashtoto shte ja nastypja.
-# text = Мамо , маxни водата , защото ще я настъпя .
+# text = Мамо , махни водата , защото ще я настъпя .
 1	Мамо	мама	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	3	vocative	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	маxни	махам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+3	махни	махам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 4	водата	вода	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
 5	,	,	PUNCT	punct	_	9	punct	_	_
 6	защото	защото	ADV	Prc	_	9	advmod	_	_
@@ -5834,11 +5834,11 @@
 # child_age = 2;02.06
 # participant_role = SIM
 # original_utterance = Kaljancho [: Kalojancho] tuk da xvanesh tam.
-# text = Калоянчо тук да xванеш там .
+# text = Калоянчо тук да хванеш там .
 1	Калоянчо	калоянчо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing|Case=Voc	4	vocative	_	_
 2	тук	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
 3	да	да	AUX	Tx	_	4	aux	_	_
-4	xванеш	нвана	VERB	Vppif-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	хванеш	нвана	VERB	Vppif-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	там	там	ADV	Pdl	PronType=Dem	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
@@ -5860,8 +5860,8 @@
 # child_age = 2;07.19
 # participant_role = SIM
 # original_utterance = juxu!
-# text = Юxу !
-1	Юxу	юxу	INTJ	Npmsi	_	0	root	_	_
+# text = Юху !
+1	Юху	юху	INTJ	Npmsi	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_031662
@@ -5942,9 +5942,9 @@
 # child_age = 2;00.06
 # participant_role = SIM
 # original_utterance = dava xrana jade Kaljancho [: Kalojancho] .
-# text = Дава xрана яде калоянчо .
+# text = Дава храна яде калоянчо .
 1	Дава	давам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	xрана	xрана	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
+2	храна	храна	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
 3	яде	ям-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 4	калоянчо	калоянчо	PROPN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
@@ -5983,9 +5983,9 @@
 # child_age = 2;06.14
 # participant_role = SIM
 # original_utterance = s puxchetata.
-# text = С пуxчетата .
+# text = С пухчетата .
 1	С	с	ADP	R	_	2	case	_	_
-2	пуxчетата	пуxче	NOUN	Ncfsd	Definite=Def|Gender=Neut|Number=Plur	0	root	_	_
+2	пухчетата	пухче	NOUN	Ncfsd	Definite=Def|Gender=Neut|Number=Plur	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_029404
@@ -6243,7 +6243,7 @@
 2	му	мой	PRON	Psot--3--m	Person=3|Poss=Yes|PronType=Prs	1	det	_	_
 3	на	на	ADP	R	_	4	case	_	_
 4	калоянчо	калоянчо	PROPN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	nmod	_	_
-5	прибери	приберa-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	прибери	прибера-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 7	,	,	PUNCT	punct	_	9	punct	_	_
 8	ще	ще	AUX	Tx	_	9	aux	_	_
@@ -6349,9 +6349,9 @@
 # child_age = 1;10.22
 # participant_role = SIM
 # original_utterance = pampito [: pampersa] xvyrlja kosha .
-# text = Памперса xвърля коша .
+# text = Памперса хвърля коша .
 1	Памперса	памперс	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
-2	xвърля	xвърля	VERB	Vpitf-o3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	хвърля	хвърля	VERB	Vpitf-o3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	коша	кош	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	2	iobj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
@@ -6517,13 +6517,13 @@
 # child_age = 2;06.02
 # participant_role = SIM
 # original_utterance = ne, pravja ja s +...
-# text = Не , правя я с ххх
+# text = Не , правя я с xxx
 1	Не	не	PART	Tn	Polarity=Neg	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	правя	правя-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	с	с	ADP	R	_	6	case	_	_
-6	ххх	ххх	NOUN	I	_	3	iobj	_	_
+6	xxx	xxx	NOUN	I	_	3	iobj	_	_
 
 # sent_id = UTT_032513
 # child_age = 2;05.29
@@ -6541,10 +6541,10 @@
 # child_age = 2;06.18
 # participant_role = SIM
 # original_utterance = az ja otgriznax, tja e za nego.
-# text = Аз я отгризнаx , тя е за него .
+# text = Аз я отгризнах , тя е за него .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	отгризнаx	отгризна-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	отгризнах	отгризна-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	,	,	PUNCT	punct	_	8	punct	_	_
 5	тя	аз	PRON	Ppe-os3f	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
@@ -6598,12 +6598,12 @@
 # child_age = 2;07.22
 # participant_role = SIM
 # original_utterance = na koj e toz xipotam [: xipopotam] i mishkata?
-# text = На кой е тоз xипопотам и мишката ?
+# text = На кой е тоз хипопотам и мишката ?
 1	На	на	ADP	R	_	2	case	_	_
 2	кой	кой	PRON	Pie-os-m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
 3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
 4	тоз	този	DET	Pda-os-m	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-5	xипопотам	xипопотам	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	хипопотам	хипопотам	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
 6	и	и	CCONJ	Cp	_	7	cc	_	_
 7	мишката	мишка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	5	conj	_	_
 8	?	?	PUNCT	punct	_	2	punct	_	_
@@ -7005,13 +7005,13 @@
 # child_age = 2;06.18
 # participant_role = SIM
 # original_utterance = da mu e napylni s xrana na toz Kalojancho, da mu se napylni.
-# text = Да му е напълни с xрана на тоз Калоянчо , да му се напълни .
+# text = Да му е напълни с храна на тоз Калоянчо , да му се напълни .
 1	Да	да	AUX	Tx	_	4	aux	_	_
 2	му	аз	PRON	Ppetds3m	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
 3	е	се	PRON	Vxitf-r3s	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
 4	напълни	напълня-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	с	с	ADP	R	_	6	case	_	_
-6	xрана	xрана	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
+6	храна	храна	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
 7	на	на	ADP	R	_	9	case	_	_
 8	тоз	тоз	DET	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 9	Калоянчо	калоянчо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	_
@@ -7137,9 +7137,9 @@
 # child_age = 1;07.24
 # participant_role = SIM
 # original_utterance = kupi saap [: xljab] .
-# text = Купи xляб .
+# text = Купи хляб .
 1	Купи	купя	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	xляб	xляб	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
+2	хляб	хляб	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_029800
@@ -7171,18 +7171,18 @@
 # child_age = 1;07.23
 # participant_role = SIM
 # original_utterance = apche [: xapche], apche [: xapche] .
-# text = Хапче , xапче .
+# text = Хапче , хапче .
 1	Хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	xапче	xапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
+3	хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_026084
 # child_age = 1;09.21
 # participant_role = SIM
 # original_utterance = ux, goljamo nosi mama .
-# text = Уx , голямо носи мама .
-1	Уx	уx	INTJ	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	discourse	_	_
+# text = Ух , голямо носи мама .
+1	Ух	ух	INTJ	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	голямо	голям	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	obj	_	_
 4	носи	нося-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -7299,21 +7299,21 @@
 # child_age = 1;08.22
 # participant_role = SIM
 # original_utterance = xaresa .
-# text = Xареса .
-1	Xареса	xареса	VERB	Npfsi	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = Хареса .
+1	Хареса	хареса	VERB	Npfsi	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_036743
 # child_age = 2;11.22
 # participant_role = SIM
 # original_utterance = kogato tati si dojde ot cexa.
-# text = Когато тати си дойде от цеxа .
+# text = Когато тати си дойде от цеха .
 1	Когато	когато	ADV	Prt	PronType=Rel	4	advmod	_	_
 2	тати	тате	NOUN	Ncfsi	Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	си	си	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	4	expl	_	_
 4	дойде	дойда	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	от	от	ADP	R	_	6	case	_	_
-6	цеxа	цеx	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
+6	цеха	цех	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_027258
@@ -7421,10 +7421,10 @@
 # child_age = 2;03.00
 # participant_role = SIM
 # original_utterance = az vzema suxarcheto.
-# text = Аз взема суxарчето .
+# text = Аз взема сухарчето .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	взема	взема	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	суxарчето	суxарче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	obj	_	_
+3	сухарчето	сухарче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	obj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_024958
@@ -7518,7 +7518,7 @@
 # participant_role = SIM
 # original_utterance = oki [: ochi], oki [: ochi], oki [: ochi] .
 # text = Очи , очи , очи .
-1	Очи	oko	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+1	Очи	око	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	очи	око	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	1	conj	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -7632,8 +7632,8 @@
 # child_age = 1;08.06
 # participant_role = SIM
 # original_utterance = xrani .
-# text = Xрани .
-1	Xрани	храна	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+# text = Храни .
+1	Храни	храна	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_028742
@@ -8756,9 +8756,9 @@
 # child_age = 1;09.17
 # participant_role = SIM
 # original_utterance = kalinkite slozhix kalinkite .
-# text = Калинките сложиx калинките .
+# text = Калинките сложих калинките .
 1	Калинките	калинка	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	2	discourse	_	_
-2	сложиx	сложа-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	сложих	сложа-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	калинките	калинка	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	2	obj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
@@ -9068,12 +9068,12 @@
 # child_age = 2;10.09
 # participant_role = SIM
 # original_utterance = mi mozhe bi e xaxikopter [: xelikopter].
-# text = Ми може би е xеликоптер
+# text = Ми може би е хеликоптер
 1	Ми	ами	CCONJ	Ppe-os1	_	5	discourse	_	_
 2	може	мога	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	discourse	_	_
 3	би	съм	AUX	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	_	_
 4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	xеликоптер	xеликоптер	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	хеликоптер	хеликоптер	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UTT_031535
 # child_age = 2;04.15
@@ -9105,12 +9105,12 @@
 # child_age = 2;11.22
 # participant_role = SIM
 # original_utterance = vsichko go slagam v xladilnika malko da se zamrazi.
-# text = Всичко го слагам в xладилника малко да се замрази .
+# text = Всичко го слагам в хладилника малко да се замрази .
 1	Всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	слагам	слагам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	в	в	ADP	R	_	5	case	_	_
-5	xладилника	xладилника	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	iobj	_	_
+5	хладилника	хладилника	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	3	iobj	_	_
 6	малко	малко	ADV	Md-pi	Definite=Ind|Degree=Pos|NumType=Card|Number=Plur	9	advmod	_	_
 7	да	да	AUX	Tx	_	9	aux	_	_
 8	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	9	expl	_	_
@@ -9219,10 +9219,10 @@
 # child_age = 2;08.06
 # participant_role = SIM
 # original_utterance = az si slozhix edno stolche, ej tova, zashtoto Kalojancho sjadashe na nego stolche.
-# text = Аз си сложиx едно столче , ей това , защото Калоянчо сядаше на него столче .
+# text = Аз си сложих едно столче , ей това , защото Калоянчо сядаше на него столче .
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	си	си	PRON	Vxitf-r2s	_	3	expl	_	_
-3	сложиx	сложа-(се)	VERB	Vpitf--2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сложих	сложа-(се)	VERB	Vpitf--2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 4	едно	един	NUM	Mcnsi	Definite=Ind|Gender=Neut|NumType=Card|Number=Sing	5	nummod	_	_
 5	столче	столче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
 6	,	,	PUNCT	punct	_	8	punct	_	_
@@ -9330,10 +9330,10 @@
 # child_age = 2;11.29
 # participant_role = SIM
 # original_utterance = vsichko vi razkazax na prikazkata.
-# text = Всичко ви разказаx на приказката .
+# text = Всичко ви разказах на приказката .
 1	Всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
 2	ви	аз	PRON	Ppetas2	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-3	разказаx	разкажа	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	разказах	разкажа	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	на	на	ADP	R	_	5	case	_	_
 5	приказката	приказка	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
@@ -9352,10 +9352,10 @@
 # child_age = 1;11.07
 # participant_role = SIM
 # original_utterance = buux, buux .
-# text = Бууx , бууx .
-1	Бууx	бууx	INTJ	I	_	0	root	_	_
+# text = Буух , буух .
+1	Буух	буух	INTJ	I	_	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	бууx	бууx	INTJ	Ncmsi	_	1	conj	_	_
+3	буух	буух	INTJ	Ncmsi	_	1	conj	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_025550
@@ -9374,8 +9374,8 @@
 # child_age = 1;07.19
 # participant_role = SIM
 # original_utterance = ax, tii !
-# text = Аx , тии !
-1	Аx	аx	INTJ	I	_	3	discourse	_	_
+# text = Ах , тии !
+1	Ах	ах	INTJ	I	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	тии	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -9604,8 +9604,8 @@
 # child_age = 2;10.04
 # participant_role = SIM
 # original_utterance = obyrkax gi dumichkite.
-# text = Объркаx ги думичките .
-1	Объркаx	объркам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+# text = Обърках ги думичките .
+1	Обърках	объркам-(се)	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	expl	_	_
 3	думичките	думичка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	1	obj	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
@@ -9634,14 +9634,14 @@
 # child_age = 1;11.14
 # participant_role = SIM
 # original_utterance = bebcho obyrne a grybche, az obyrnax a gryb .
-# text = Бебчо обърне а гръбче , аз обърнаx а гръб .
+# text = Бебчо обърне а гръбче , аз обърнах а гръб .
 1	Бебчо	бебчо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	обърне	обърна-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	а	на	ADP	Cp	_	4	case	_	_
 4	гръбче	гръбче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	_
 5	,	,	PUNCT	punct	_	7	punct	_	_
 6	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-7	обърнаx	обърна-(се)	VERB	Vpitf-o3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	обърнах	обърна-(се)	VERB	Vpitf-o3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 8	а	на	ADP	Cp	_	9	case	_	_
 9	гръб	гръб	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	7	obj	_	_
 10	.	.	PUNCT	punct	_	2	punct	_	_
@@ -9959,11 +9959,11 @@
 # child_age = 2;08.28
 # participant_role = SIM
 # original_utterance = az si go xranja go da stane goljamo momche!
-# text = Аз си го xраня го да стане голямо момче !
+# text = Аз си го храня го да стане голямо момче !
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	си	си	PRON	Vxitf-r2s	_	4	expl	_	_
 3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	xраня	храня	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	храня	храня	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	discourse	_	_
 6	да	да	AUX	Tx	_	7	aux	_	_
 7	стане	стана	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_

@@ -299,11 +299,11 @@
 # child_age = 2;04.21
 # participant_role = VEL
 # original_utterance = kyde sa ti chexlite ?
-# text = Къде са ти чеxлите ?
+# text = Къде са ти чехлите ?
 1	Къде	къде	ADV	Pil	PronType=Int	0	root	_	_
 2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 3	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
-4	чеxлите	чехъл	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
+4	чехлите	чехъл	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
 5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_044949
@@ -319,10 +319,10 @@
 # child_age = 1;11.04
 # participant_role = VEL
 # original_utterance = da gi maxnem .
-# text = Да ги маxнем .
+# text = Да ги махнем .
 1	Да	да	AUX	Tx	_	3	aux	_	_
 2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
-3	маxнем	махна-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	махнем	махна-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_042590
@@ -561,7 +561,7 @@
 # child_age = 2;04.21
 # participant_role = VEL
 # original_utterance = zapovjadaj, milichka, da go priberesh v xladilnika !
-# text = Заповядай , миличка , да го прибереш в xладилника !
+# text = Заповядай , миличка , да го прибереш в хладилника !
 1	Заповядай	заповядам	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	миличка	миличък	ADJ	Ncfs-v	Case=Voc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	vocative	_	_
@@ -570,7 +570,7 @@
 6	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 7	прибереш	прибера-(се)	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 8	в	в	ADP	R	_	9	case	_	_
-9	xладилника	xладилник	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	7	obl	_	_
+9	хладилника	хладилник	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	7	obl	_	_
 10	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_042036
@@ -599,9 +599,9 @@
 # child_age = 2;05.25
 # participant_role = VEL
 # original_utterance = v kuxnjata .
-# text = В куxнята .
+# text = В кухнята .
 1	В	в	ADP	R	_	2	case	_	_
-2	куxнята	куxня	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+2	кухнята	кухня	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_037945
@@ -757,21 +757,21 @@
 # child_age = 1;08.00
 # participant_role = BAB
 # original_utterance = baba shche go maxne !
-# text = Баба ще го маxне !
+# text = Баба ще го махне !
 1	Баба	баба	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
 2	ще	ще	AUX	Ncfsi	_	4	aux	_	_
 3	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	маxне	махна-(се)	VERB	Vpitf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	махне	махна-(се)	VERB	Vpitf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_038191
 # child_age = 1;11.04
 # participant_role = VEL
 # original_utterance = njama go xapcheto ?
-# text = Няма го xапчето ?
+# text = Няма го хапчето ?
 1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
-3	xапчето	хапче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
+3	хапчето	хапче	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obj	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_039382
@@ -818,11 +818,11 @@
 # child_age = 2;04.21
 # participant_role = VEL
 # original_utterance = shto ne si xapnesh bananche ?
-# text = Що не си xапнеш бананче ?
+# text = Що не си хапнеш бананче ?
 1	Що	защо	PRON	Cs	PronType=Int	4	advmod	_	_
 2	не	не	PART	Tn	Polarity=Neg	4	advmod	_	_
 3	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	4	expl	_	_
-4	xапнеш	хапна	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	хапнеш	хапна	VERB	Vpptf-r2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	бананче	бананче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -994,14 +994,14 @@
 # child_age = 2;02.16
 # participant_role = VEL
 # original_utterance = a-u, Mime, az si namerix neshto !
-# text = А-у , миме , аз си намериx нещо !
+# text = А-у , миме , аз си намерих нещо !
 1	А-у	ау	INTJ	I	_	7	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	миме	мими	PROPN	I	Definite=Ind|Case=Voc|Number=Sing	7	vocative	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
 5	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	си	се	PRON	Vxitf-r2s	Case=Dat|PronType=Prs|Reflex=YesCase=Dat|PronType=Prs|Reflex=Yes	7	expl	_	_
-7	намериx	намеря-(се)	VERB	Dm	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	намерих	намеря-(се)	VERB	Dm	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	нещо	някой	PRON	Pfe-os-ni	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	7	obj	_	_
 9	!	!	PUNCT	punct	_	7	punct	_	_
 
@@ -1085,11 +1085,11 @@
 # child_age = 2;01.16
 # participant_role = VEL
 # original_utterance = kakvo pravjat tezi xora s chashite ?
-# text = Какво правят тези xора с чашите ?
+# text = Какво правят тези хора с чашите ?
 1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
 2	правят	правя-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	тези	този	DET	Pde-op	Number=Plur|PronType=Dem	4	det	_	_
-4	xора	xора	NOUN	Ncmt	Definite=Def|Number=Ptan	2	nsubj	_	_
+4	хора	хора	NOUN	Ncmt	Definite=Def|Number=Ptan	2	nsubj	_	_
 5	с	с	ADP	R	_	6	case	_	_
 6	чашите	чаша	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	obl	_	_
 7	?	?	PUNCT	punct	_	2	punct	_	_
@@ -1143,7 +1143,7 @@
 # participant_role = BAB
 # original_utterance = o-o, kolko strashno djavolche , vizh li kolko roga ima !
 # text = О-о , колко страшно дяволче , виж ли колко рога има !
-1	О-о	o	INTJ	I	_	5	discourse	_	_
+1	О-о	о	INTJ	I	_	5	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	колко	колко	ADV	Piq	NumType=Card|PronType=Int	4	advmod	_	_
 4	страшно	страшен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
@@ -1257,7 +1257,7 @@
 # participant_role = VEL
 # original_utterance = o-o, tova dete samichko podrezhda !
 # text = О-о , това дете самичко подрежда !
-1	О-о	o	INTJ	I	_	6	discourse	_	_
+1	О-о	о	INTJ	I	_	6	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	това	този	DET	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 4	дете	дете	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -1329,8 +1329,8 @@
 # child_age = 1;11.25
 # participant_role = VEL
 # original_utterance = xajde da podredim kyshtata: eto masata, chashkite .
-# text = Xайде да подредим къщата : ето масата , чашките .
-1	Xайде	хайде	INTJ	Dt	_	3	discourse	_	_
+# text = Хайде да подредим къщата : ето масата , чашките .
+1	Хайде	хайде	INTJ	Dt	_	3	discourse	_	_
 2	да	да	AUX	Tx	_	3	aux	_	_
 3	подредим	подредя-(се)	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	къщата	къща	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
@@ -1485,7 +1485,7 @@
 1	Боцка	боцкам-(се)	VERB	Ncfsi	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ли	ли	PART	Ti	_	1	discourse	_	_
 3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
-4	ежко	ежкo	PROPN	Vpitf-r3s	Definite=Ind|Number=Sing	1	nsubj	_	_
+4	ежко	ежко	PROPN	Vpitf-r3s	Definite=Ind|Number=Sing	1	nsubj	_	_
 5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_038137
@@ -1723,15 +1723,15 @@
 # child_age = 2;03.24
 # participant_role = VEL
 # original_utterance = ne sa xubavi , njama da j xaresat .
-# text = Не са xубави , няма да й xаресат .
+# text = Не са хубави , няма да й харесат .
 1	Не	не	PART	Tn	Polarity=Neg	3	advmod	_	_
 2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	xубави	хубав	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	0	root	_	_
+3	хубави	хубав	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	0	root	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
 5	няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 6	да	да	AUX	Tx	_	8	aux	_	_
 7	й	аз	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
-8	xаресат	харесам-(се)	VERB	Vpptf-r3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+8	харесат	харесам-(се)	VERB	Vpptf-r3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 9	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_037759
@@ -1784,8 +1784,8 @@
 # child_age = 2;01.16
 # participant_role = VEL
 # original_utterance = ix che si dobra !
-# text = Иx че си добра !
-1	Иx	иx	INTJ	Cp	_	4	discourse	_	_
+# text = Их че си добра !
+1	Их	их	INTJ	Cp	_	4	discourse	_	_
 2	че	че	SCONJ	Cs	_	4	mark	_	_
 3	си	съм	AUX	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	добра	добър	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
@@ -1795,12 +1795,12 @@
 # child_age = 2;05.25
 # participant_role = BAB
 # original_utterance = ja kazhi vchera kyde xodi, na koe selo ?
-# text = Я кажи вчера къде xоди , на кое село ?
+# text = Я кажи вчера къде ходи , на кое село ?
 1	Я	я	PART	I	_	2	discourse	_	_
 2	кажи	кажа	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	вчера	вчера	ADV	Dt	Degree=Pos	5	advmod	_	_
 4	къде	къде	ADV	Pil	PronType=Int	5	advmod	_	_
-5	xоди	ходя-(си)	VERB	Ncmsi	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	ходи	ходя-(си)	VERB	Ncmsi	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 6	,	,	PUNCT	punct	_	2	punct	_	_
 7	на	на	ADP	R	_	9	case	_	_
 8	кое	кой	DET	Pie-os-n	Gender=Neut|Number=Sing|PronType=Int	9	det	_	_
@@ -1915,11 +1915,11 @@
 # child_age = 2;03.24
 # participant_role = MIM
 # original_utterance = ou, nacapa xubavata bluzka !
-# text = Оу , нацапа xубавата блузка !
+# text = Оу , нацапа хубавата блузка !
 1	Оу	оу	INTJ	Npmsi	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	нацапа	нацапам-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	xубавата	хубав	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	хубавата	хубав	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 5	блузка	блузка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
 6	!	!	PUNCT	punct	_	3	punct	_	_
 
@@ -1947,13 +1947,13 @@
 # child_age = 2;04.21
 # participant_role = BAB
 # original_utterance = ti mozhesh li da ja sxruskash ?
-# text = Ти можеш ли да я сxрускаш ?
+# text = Ти можеш ли да я схрускаш ?
 1	Ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	можеш	мога	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ли	ли	PART	Ti	_	2	discourse	_	_
 4	да	да	AUX	Tx	_	6	aux	_	_
 5	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-6	сxрускаш	сxрускам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	схрускаш	схрускам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
 7	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_037440
@@ -2028,9 +2028,9 @@
 # child_age = 2;00.09
 # participant_role = VEL
 # original_utterance = kakvo jadoxte na rozhdenija den ?
-# text = Какво ядоxте на рождения ден ?
+# text = Какво ядохте на рождения ден ?
 1	Какво	какъв	DET	Pia--s-n	Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
-2	ядоxте	ям-(се)	VERB	Vpitf-r2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ядохте	ям-(се)	VERB	Vpitf-r2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	на	на	ADP	R	_	5	case	_	_
 4	рождения	рожден	ADJ	Amsh	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 5	ден	ден	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	_
@@ -2074,12 +2074,12 @@
 # child_age = 1;11.25
 # participant_role = BAB
 # original_utterance = iskash pri decata da xodish na detska gradina ?
-# text = Искаш при децата да xодиш на децка градина ?
+# text = Искаш при децата да ходиш на децка градина ?
 1	Искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	при	при	ADP	R	_	3	case	_	_
 3	децата	дете	NOUN	Ncnpd	Definite=Def|Gender=Neut|Number=Plur	1	obl	_	_
 4	да	да	AUX	Tx	_	5	aux	_	_
-5	xодиш	ходя-(си)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+5	ходиш	ходя-(си)	VERB	Vpiif-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 6	на	на	ADP	R	_	8	case	_	_
 7	децка	детски	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	градина	градина	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
@@ -2089,13 +2089,13 @@
 # child_age = 2;02.16
 # participant_role = VEL
 # original_utterance = tuj bonboni , ne sa xapcheta !
-# text = Туй бонбони , не са xапчета !
+# text = Туй бонбони , не са хапчета !
 1	Туй	този	PRON	Pde-os	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	бонбони	бонбон	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	не	не	PART	Tn	Polarity=Neg	6	advmod	_	_
 5	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-6	xапчета	хапче	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	2	conj	_	_
+6	хапчета	хапче	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	2	conj	_	_
 7	!	!	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = UTT_038997
@@ -2286,8 +2286,8 @@
 # child_age = 2;01.16
 # participant_role = BAB
 # original_utterance = ximikal iskash li da risuvash ?
-# text = Xимикал искаш ли да рисуваш ?
-1	Xимикал	xимикалка	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+# text = Химикал искаш ли да рисуваш ?
+1	Химикал	химикалка	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
 2	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ли	ли	PART	Ti	_	2	discourse	_	_
 4	да	да	AUX	Tx	_	5	aux	_	_
@@ -2462,12 +2462,12 @@
 # child_age = 2;05.25
 # participant_role = VEL
 # original_utterance = chakaj az da te xvana !
-# text = Чакай аз да те xвана !
+# text = Чакай аз да те хвана !
 1	Чакай	чакам	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 3	да	да	AUX	Tx	_	5	aux	_	_
 4	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
-5	xвана	хвана-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	хвана	хвана-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 6	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_037286
@@ -2599,11 +2599,11 @@
 # child_age = 2;04.21
 # participant_role = VEL
 # original_utterance = da ne se uxapa ?
-# text = Да не се уxапа ?
+# text = Да не се ухапа ?
 1	Да	да	AUX	Tx	_	4	aux	_	_
 2	не	не	PART	Tn	Polarity=Neg	4	advmod	_	_
 3	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
-4	уxапа	уxапя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ухапа	ухапя-(се)	VERB	Vpptf-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_042717
@@ -2656,8 +2656,8 @@
 # child_age = 1;11.25
 # participant_role = VEL
 # original_utterance = xajde vsichki bebeta da spjat !
-# text = Xайде всички бебета да спят !
-1	Xайде	хайде	INTJ	Vpptf-o3s	_	5	discourse	_	_
+# text = Хайде всички бебета да спят !
+1	Хайде	хайде	INTJ	Vpptf-o3s	_	5	discourse	_	_
 2	всички	всеки	DET	Pce-op	Case=Nom|Number=Plur|PronType=Tot	3	det	_	_
 3	бебета	бебе	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	5	nsubj	_	_
 4	да	да	AUX	Tx	_	5	aux	_	_
@@ -2749,8 +2749,8 @@
 # child_age = 1;11.04
 # participant_role = BAB
 # original_utterance = xubavo li pej kakata ?
-# text = Xубаво ли пей каката ?
-1	Xубаво	хубав	ADV	Dm	Degree=Pos	3	advmod	_	_
+# text = Хубаво ли пей каката ?
+1	Хубаво	хубав	ADV	Dm	Degree=Pos	3	advmod	_	_
 2	ли	ли	PART	Ti	_	3	discourse	_	_
 3	пей	пея	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	каката	кака	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
@@ -2902,8 +2902,8 @@
 # child_age = 2;01.16
 # participant_role = BAB
 # original_utterance = xubava li e ?
-# text = Xубава ли е ?
-1	Xубава	хубав	ADJ	Vpptcv--sfi	Gender=Fem|Number=Sing	0	root	_	_
+# text = Хубава ли е ?
+1	Хубава	хубав	ADJ	Vpptcv--sfi	Gender=Fem|Number=Sing	0	root	_	_
 2	ли	ли	PART	Ti	_	1	discourse	_	_
 3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
@@ -2950,8 +2950,8 @@
 # child_age = 2;00.09
 # participant_role = VEL
 # original_utterance = xajde, Teche, dovizhdane !
-# text = Xайде , тече , довиждане !
-1	Xайде	хайде	INTJ	I	_	5	discourse	_	_
+# text = Хайде , тече , довиждане !
+1	Хайде	хайде	INTJ	I	_	5	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	тече	стефче	PROPN	Vpiiz-r2s	Case=Voc|Case=Voc|Number=Sing	5	vocative	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -3071,10 +3071,10 @@
 # child_age = 2;03.24
 # participant_role = VEL
 # original_utterance = a, namerix drugi obuvki !
-# text = А , намериx други обувки !
+# text = А , намерих други обувки !
 1	А	а	INTJ	I	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	намериx	намеря	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+3	намерих	намеря	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 4	други	друг	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	5	amod	_	_
 5	обувки	обувка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	3	obj	_	_
 6	!	!	PUNCT	punct	_	3	punct	_	_
@@ -3194,8 +3194,8 @@
 # child_age = 1;11.25
 # participant_role = VEL
 # original_utterance = xaijde byrzo da izmiem dupeto !
-# text = Xаийде бързо да измием дупето !
-1	Xаийде	xайде	INTJ	Te	_	2	discourse	_	_
+# text = Хаийде бързо да измием дупето !
+1	Хаийде	хайде	INTJ	Te	_	2	discourse	_	_
 2	бързо	бързо	ADV	Dm	Degree=Pos	4	advmod	_	_
 3	да	да	AUX	Tx	_	4	aux	_	_
 4	измием	измия	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -3386,8 +3386,8 @@
 # child_age = 1;11.04
 # participant_role = BAB
 # original_utterance = xajde, kazhi, bebence, otvori si ustichkata !
-# text = Xайде , кажи , бебенце , отвори си устичката !
-1	Xайде	хайде	INTJ	I	_	3	discourse	_	_
+# text = Хайде , кажи , бебенце , отвори си устичката !
+1	Хайде	хайде	INTJ	I	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	кажи	казвам	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	advcl	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -3456,8 +3456,8 @@
 # child_age = 1;11.25
 # participant_role = VEL
 # original_utterance = xajde da igraem ?
-# text = Xайде да играем ?
-1	Xайде	хайде	INTJ	Dm	_	3	advmod	_	_
+# text = Хайде да играем ?
+1	Хайде	хайде	INTJ	Dm	_	3	advmod	_	_
 2	да	да	AUX	Tx	_	3	aux	_	_
 3	играем	играя	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
@@ -3733,12 +3733,12 @@
 # child_age = 1;11.25
 # participant_role = VEL
 # original_utterance = da j dadem li xapche ?
-# text = Да й дадем ли xапче ?
+# text = Да й дадем ли хапче ?
 1	Да	да	AUX	Tx	_	3	aux	_	_
 2	й	неин	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	дадем	давам	VERB	Vpptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ли	ли	PART	Ti	_	3	discourse	_	_
-5	xапче	xапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
+5	хапче	хапче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
 6	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_044045
@@ -3816,13 +3816,13 @@
 # child_age = 1;11.04
 # participant_role = BAB
 # original_utterance = kazhi na lelja Velka kyde xodi mama !
-# text = Кажи на леля велка къде xоди мама !
+# text = Кажи на леля велка къде ходи мама !
 1	Кажи	казвам	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	на	на	ADP	R	_	3	case	_	_
 3	леля	леля	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	1	iobj	_	_
 4	велка	велка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
 5	къде	къде	ADV	Pil	PronType=Int	6	advmod	_	_
-6	xоди	xодя	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	ходи	ходя	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 7	мама	мама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	_
 8	!	!	PUNCT	punct	_	1	punct	_	_
 
@@ -3875,7 +3875,7 @@
 # text = А-у , бабе , за никъде не си , виж какво направи !
 1	А-у	а-у	INTJ	I	_	10	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	бабе	бабa	INTJ	I	_	10	vocative	_	_
+3	бабе	баба	INTJ	I	_	10	vocative	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	за	за	ADP	R	_	6	case	_	_
 6	никъде	никъде	ADV	Pnl	PronType=Neg	10	conj	_	_
@@ -4049,10 +4049,10 @@
 # child_age = 2;03.24
 # participant_role = MIM
 # original_utterance = vizh kakva xubava Snezhanka !
-# text = Виж каква xубава снежанка !
+# text = Виж каква хубава снежанка !
 1	Виж	виждам-(се)	VERB	Vpptz--2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	каква	какъв	DET	Pia--s-f	Gender=Fem|Number=Sing|PronType=Int	4	det	_	_
-3	xубава	хубав	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	хубава	хубав	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 4	снежанка	снежанка	PROPN	Ncfsi	Definite=Ind	1	obj	_	_
 5	!	!	PUNCT	punct	_	1	punct	_	_
 
@@ -4367,7 +4367,7 @@
 3	й	аз	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
 4	вика	викам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	стефани	стефани	PROPN	Ncfpi	_	4	obj	_	_
-6	терзийска	терзийскa	PROPN	Afsi	_	5	flat	_	_
+6	терзийска	терзийска	PROPN	Afsi	_	5	flat	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = UTT_041749
@@ -4430,7 +4430,7 @@
 # participant_role = VEL
 # original_utterance = kukla ?
 # text = Кукла ?
-1	Кукла	куклa	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+1	Кукла	кукла	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 2	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_039410

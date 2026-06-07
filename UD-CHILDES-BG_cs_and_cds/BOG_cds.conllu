@@ -46,10 +46,10 @@
 # child_age = 2;01.13
 # participant_role = IRE
 # original_utterance = oshte edin buxal .
-# text = Още един буxал .
+# text = Още един бухал .
 1	Още	още	ADV	_	Degree=Pos	2	advmod	_	_
 2	един	един	NUM	_	Definite=Ind|Gender=Masc|NumType=Card|Number=Sing	3	nummod	_	_
-3	буxал	буxал	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+3	бухал	бухал	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = UTT_009398
@@ -162,8 +162,8 @@
 # child_age = 2;04.11
 # participant_role = IRE
 # original_utterance = xajde !
-# text = Xайде !
-1	Xайде	хайде	INTJ	I	_	0	root	_	_
+# text = Хайде !
+1	Хайде	хайде	INTJ	I	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_007935
@@ -228,13 +228,13 @@
 # child_age = 2;04.11
 # participant_role = IRE
 # original_utterance = ne, mamo, ne mozhax da ja namerja .
-# text = Не , мамо , не можаx да я намеря .
+# text = Не , мамо , не можах да я намеря .
 1	Не	не	PART	Tn	Polarity=Neg	6	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	мамо	мама	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	6	vocative	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	не	не	PART	Tn	Polarity=Neg	6	advmod	_	_
-6	можаx	мога	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	можах	мога	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	да	да	AUX	Tx	_	9	aux	_	_
 8	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	намеря	намеря-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
@@ -327,8 +327,8 @@
 # child_age = 2;02.27
 # participant_role = IRE
 # original_utterance = xajde da risuvame !
-# text = Xайде да рисуваме !
-1	Xайде	хайде	INTJ	Te	_	3	discourse	_	_
+# text = Хайде да рисуваме !
+1	Хайде	хайде	INTJ	Te	_	3	discourse	_	_
 2	да	да	AUX	Tx	_	3	aux	_	_
 3	рисуваме	рисувам	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -426,8 +426,8 @@
 # child_age = 2;01.13
 # participant_role = IRE
 # original_utterance = xajde da ja peem zaedno !
-# text = Xайде да я пеем заедно !
-1	Xайде	хайде	INTJ	_	_	4	discourse	_	_
+# text = Хайде да я пеем заедно !
+1	Хайде	хайде	INTJ	_	_	4	discourse	_	_
 2	да	да	AUX	Tx	_	4	aux	_	_
 3	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	пеем	пея	VERB	Vpitf-r1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -656,8 +656,8 @@
 # child_age = 2;04.05
 # participant_role = IRE
 # original_utterance = xajde cheti ti veche beshe pochnala da chetesh !
-# text = Xайде чети ти вече беше почнала да четеш !
-1	Xайде	хайде	INTJ	_	_	2	discourse	_	_
+# text = Хайде чети ти вече беше почнала да четеш !
+1	Хайде	хайде	INTJ	_	_	2	discourse	_	_
 2	чети	чета	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 4	вече	вече	ADV	Dt	Degree=Pos	6	advmod	_	_
@@ -777,8 +777,8 @@
 # child_age = 2;01.09
 # participant_role = IRE
 # original_utterance = xajde +"/.
-# text = Xайде .
-1	Xайде	хайде	INTJ	I	_	0	root	_	_
+# text = Хайде .
+1	Хайде	хайде	INTJ	I	_	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_008581
@@ -859,10 +859,10 @@
 # child_age = 2;03.01
 # participant_role = IRE
 # original_utterance = az ja preslushax, nishto j njama !
-# text = Аз я преслушаx , нищо й няма !
+# text = Аз я преслушах , нищо й няма !
 1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	я	аз	PRON	Ppetas3f	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	преслушаx	преслушам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	преслушах	преслушам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
 5	нищо	никой	PRON	Pne-os-ni	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Neg	7	obj	_	_
 6	й	аз	PRON	Ppetds3f	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
@@ -1190,8 +1190,8 @@
 # child_age = 2;01.13
 # participant_role = IRE
 # original_utterance = xajde stiga tolkova !
-# text = Xайде стига толкова !
-1	Xайде	хайде	INTJ	I	_	2	discourse	_	_
+# text = Хайде стига толкова !
+1	Хайде	хайде	INTJ	I	_	2	discourse	_	_
 2	стига	стига	PART	Tv	_	0	root	_	_
 3	толкова	толкова	ADV	Pdq	NumType=Card|PronType=Dem	2	advmod	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
@@ -1429,8 +1429,8 @@
 # child_age = 2;01.09
 # participant_role = IRE
 # original_utterance = xajde vtorija kuplet +"/.
-# text = Xайде втория куплет .
-1	Xайде	хайде	INTJ	_	_	3	discourse	_	_
+# text = Хайде втория куплет .
+1	Хайде	хайде	INTJ	_	_	3	discourse	_	_
 2	втория	втори	ADJ	Momsh	Definite=Def|Degree=Pos|Gender=Masc|NumType=Ord|Number=Sing	3	amod	_	_
 3	куплет	куплет	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
