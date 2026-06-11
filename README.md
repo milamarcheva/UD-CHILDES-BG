@@ -1,6 +1,9 @@
 # UD-CHILDES-BG
 Bulgarian CHILDES Universal Dependency treebank and accompanying analysis.
 
+The manually verified treebank data is in `UD-CHILDES-BG_cs_and_cds/`.
+Utterance-level metadata keyed by `UTT_...` identifiers, including child name, age, and speaker role (`Participant`), is in `dfs/LabLing_stratified_with_manual_with_ids.csv`.
+
 ## Annotator agreement
 Example usage of eval_agreement.py:  
 
@@ -87,3 +90,40 @@ python3 eval_gold_vs_stanza.py \
 
 Add `--top-k-relations 20` to print more relations in the per-relation F1
 table, or `--top-k-relations 0` to print all relations.
+
+## Citations
+
+- When using UD-CHILDES-BG please cite: 
+```bibtex
+@inproceedings{marcheva-nash-etal-2026-ud-childes-bg,
+  author    = {Marcheva-Nash, Mila and Chantova, Yasena and Kirilova, Tsvetina and Pavlova, Ivelina and Stefanova, Tsvetelina and Vasileva, Yoana and Sun, Weiwei},
+  title     = {{UD-CHILDES-BG}: A Dependency Treebank of Bulgarian Child and Child-Directed Speech},
+  booktitle = {Proceedings of the 20th Linguistic Annotation Workshop},
+  year      = {2026},
+  address   = {San Diego, United States of America},
+  note      = {To appear}
+}
+```
+- When using PS-CHILDES-BG please cite
+```bibtex
+@inproceedings{marcheva-nash-sun-2026-ps-childes-bg,
+  author    = {Marcheva-Nash, Mila and Sun, Weiwei},
+  title     = {{PS-CHILDES-BG}: A Constituency Treebank of Bulgarian Morphemically Tokenised Child-Directed Speech},
+  booktitle = {Proceedings of the Seventh International Conference on Computational Linguistics in Bulgaria},
+  year      = {2026},
+  address   = {Sofia, Bulgaria},
+  publisher = {Department of Computational Linguistics, Institute for Bulgarian Language, Bulgarian Academy of Sciences},
+  note      = {To appear}
+}
+```
+- Please also cite the Bulgarian CHILDES dataset
+```bibtex
+@misc{PopovaPopov2020,
+  doi = {10.21415/PHWH-J834},
+  url = {https://childes.talkbank.org/access/Slavic/Bulgarian/LabLing.html},
+  author = {Popova, Velka and Popov, Dimitar},
+  title = {{CHILDES} {Bulgarian} {LabLing Corpus}},
+  publisher = {TalkBank},
+  year = {2020}
+}
+```
