@@ -7,38 +7,45 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 веселата,весел,ата,весел ата,весела та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 независима,независим,а,независим а,независима,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 прибързана,прибързан,а,прибързан а,прибързана,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-страдаме,страдам,е,страдам е,страда ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+страдаме,страдам,е,страдам е,страда ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 практическите,практически,те,практически те,практическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 грубо,груб,о,груб о,грубо,adj_gender,ADV,Degree=Pos
 всекиго,всеки,го,всеки го,всекиго,skipped_single_token,PRON,Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Neg
 маркетингово,маркетингов,о,маркетингов о,маркетингово,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
 дотогава,до,тогава,до тогава,дотогава,skipped_single_token,ADV,PronType=Dem
 стара,стар,а,стар а,стара,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+изберат,избера,т,избера т,избер ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 хубавото,хубав,ото,хубав ото,хубаво то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 техническите,технически,те,технически те,техническ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+тежат,тежа,т,тежа т,теж ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 разказа,разказ,а,разказ а,разказа,skipped_single_token,VERB,Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
-посещаваме,посещавам,е,посещавам е,посещава ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+посещаваме,посещавам,е,посещавам е,посещава ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 мира,мир,а,мир а,мира,skipped_single_token,NOUN,Definite=Ind|Gender=Fem|Number=Sing
+помогнат,помогна,т,помогна т,помогн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 високата,висок,ата,висок ата,висока та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+посетят,посетя,т,посетя т,посет ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 открити,открит,и,открит и,открити,skipped_single_token,VERB,Aspect=Perf|Definite=Ind|Number=Plur|VerbForm=Part|Voice=Pass
-избягаме,избягам,е,избягам е,избяга ме,wrong,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+избягаме,избягам,е,избягам е,избяга ме,plu1person_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 полицейските,полицейски,те,полицейски те,полицейск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 немските,немски,те,немски те,немск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 културно-историческите,културно-исторически,те,културно-исторически те,културно-историческ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 бърза,бърз,а,бърз а,бърза,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 заглъхналия,заглъхна,лия,заглъхна лия,заглъхнали я,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
 работодателските,работодателски,те,работодателски те,работодателск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+заболеят,заболея,т,заболея т,заболе ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 писмена,писмен,а,писмен а,писмена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 словенските,словенски,те,словенски те,словенск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 неоспоримата,неоспорим,ата,неоспорим ата,неоспорима та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 бяло,бял,о,бял о,бяло,adj_gender,ADV,Degree=Pos
+берат,бера,т,бера т,бер ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 вродено,вроден,о,вроден о,вродено,adj_gender,ADV,Degree=Pos
 несподелена,несподелен,а,несподелен а,несподелена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 изпълнимо,изпълним,о,изпълним о,изпълнимо,adj_gender,ADV,Degree=Pos
 френските,френски,те,френски те,френск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
-заплашваме,заплашвам,е,заплашвам е,заплашва ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+заплашваме,заплашвам,е,заплашвам е,заплашва ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 обща,общ,а,общ а,обща,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-внасяме,внасям,е,внасям е,внася ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+внасяме,внасям,е,внасям е,внася ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+захапят,захапя,т,захапя т,захап ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 семената,семе,ната,семе ната,семена та,wrong,NOUN,Definite=Def|Gender=Neut|Number=Plur
 чифта,чифт,а,чифт а,чифта,skipped_single_token,NOUN,Gender=Masc|Number=Sing
 запалянковци,запалянко,вци,запалянко вци,запалянковци,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Plur
@@ -46,22 +53,27 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 основани,основа,ни,основа ни,основани,skipped_single_token,VERB,Aspect=Perf|Definite=Ind|Number=Plur|VerbForm=Part|Voice=Pass
 оттам,от,там,от там,оттам,skipped_single_token,ADV,PronType=Dem
 масираната,масиран,ата,масиран ата,масирана та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
-оставаме,оставам,е,оставам е,остава ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+оставаме,оставам,е,оставам е,остава ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 основана,основа,на,основа на,основана,skipped_single_token,VERB,Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
-атакуваме,атакувам,е,атакувам е,атакува ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+пекат,пека,т,пека т,пек ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+атакуваме,атакувам,е,атакувам е,атакува ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 дрипльовци,дрипльо,вци,дрипльо вци,дрипльовци,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Plur
 устойчива,устойчив,а,устойчив а,устойчива,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 гъвкава,гъвкав,а,гъвкав а,гъвкава,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-поддържаме,поддържам,е,поддържам е,поддържа ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+прекратят,прекратя,т,прекратя т,прекрат ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+поддържаме,поддържам,е,поддържам е,поддържа ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 стресово,стресов,о,стресов о,стресово,adj_gender,ADV,Degree=Pos
-ликвидираме,ликвидирам,е,ликвидирам е,ликвидира ме,wrong,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ликвидираме,ликвидирам,е,ликвидирам е,ликвидира ме,plu1person_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 мюсюлманските,мюсюлмански,те,мюсюлмански те,мюсюлманск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 числено,числен,о,числен о,числено,adj_gender,ADV,Degree=Pos
 космическите,космически,те,космически те,космическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+преминат,премина,т,премина т,премин ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 устойчиво,устойчив,о,устойчив о,устойчиво,adj_gender,ADV,Degree=Pos
+достигнат,достигна,т,достигна т,достигн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+отрежат,отрежа,т,отрежа т,отреж ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 изминалата,измина,лата,измина лата,изминала та,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
 лява,ляв,а,ляв а,лява,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-оцеляваме,оцелявам,е,оцелявам е,оцелява ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+оцеляваме,оцелявам,е,оцелявам е,оцелява ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 планинските,планински,те,планински те,планинск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 халата,халат,а,халат а,хала та,wrong,NOUN,Definite=Def|Gender=Fem|Number=Sing
 понякога,по,някога,по някога,понякога,skipped_single_token,ADV,PronType=Ind
@@ -69,34 +81,43 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 финансова,финансов,а,финансов а,финансова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 господине,господин,е,господин е,господине,skipped_single_token,NOUN,Gender=Masc|Number=Sing
 откъдето,от,където,от където,откъдето,skipped_single_token,ADV,PronType=Rel
+поевтинеят,поевтинея,т,поевтинея т,поевтине ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 руменото,румен,ото,румен ото,румено то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 мързелива,мързелив,а,мързелив а,мързелива,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 девствената,девствен,ата,девствен ата,девствена та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+започнат,започна,т,започна т,започн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 духа,дух,а,дух а,духа,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 човешките,човешки,те,човешки те,човешк ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 щатските,щатски,те,щатски те,щатск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
-очакваме,очаквам,е,очаквам е,очаква ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+очакваме,очаквам,е,очаквам е,очаква ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 грубото,груб,ото,груб ото,грубо то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 варненските,варненски,те,варненски те,варненск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+важат,важа,т,важа т,важ ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 талантливо,талантлив,о,талантлив о,талантливо,adj_gender,ADV,Degree=Pos
 необходимата,необходим,ата,необходим ата,необходима та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 иска,иск,а,иск а,иска,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
-вярваме,вярвам,е,вярвам е,вярва ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+уточнят,уточня,т,уточня т,уточн ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+вярваме,вярвам,е,вярвам е,вярва ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 провали,провал,и,провал и,провали,skipped_single_token,VERB,Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
-одобряваме,одобрявам,е,одобрявам е,одобрява ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+одобряваме,одобрявам,е,одобрявам е,одобрява ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+бутнат,бутна,т,бутна т,бутн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 президентските,президентски,те,президентски те,президентск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 свикналите,свикна,лите,свикна лите,свикнали те,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
 цяло,цял,о,цял о,цяло,adj_gender,ADV,Degree=Pos
 босоного,босоног,о,босоног о,босоного,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
+изброят,изброя,т,изброя т,избро ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 свирепа,свиреп,а,свиреп а,свирепа,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 слабо,слаб,о,слаб о,слабо,adj_gender,ADV,Degree=Pos
+попаднат,попадна,т,попадна т,попадн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 отминалите,отмина,лите,отмина лите,отминали те,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
 кандидат-президента,кандидат-президент,а,кандидат-президент а,кандидат-президен та,wrong,NOUN,Definite=Def|Gender=Masc|Number=Sing
 изминалия,измина,лия,измина лия,изминал ия,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
 европейските,европейски,те,европейски те,европейск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 високото,висок,ото,висок ото,високо то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+изчезнат,изчезна,т,изчезна т,изчезн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+остроумничат,остроумнича,т,остроумнича т,остроумнич ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 детските,детски,те,детски те,детск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
-предлагаме,предлагам,е,предлагам е,предлага ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+предлагаме,предлагам,е,предлагам е,предлага ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 цигарената,цигарен,ата,цигарен ата,цигарена та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 времена,време,на,време на,времена,skipped_single_token,NOUN,Definite=Ind|Gender=Neut|Number=Plur
 масова,масов,а,масов а,масова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
@@ -107,18 +128,21 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 присъща,присъщ,а,присъщ а,присъща,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 обществено,обществен,о,обществен о,обществено,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
 дълбока,дълбок,а,дълбок а,дълбока,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+подсилят,подсиля,т,подсиля т,подсил ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 отвсякъде,от,всякъде,от всякъде,отвсякъде,skipped_single_token,ADV,PronType=Tot
 качамачената,качамачен,ата,качамачен ата,качамачена та,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
-предоставят,предоставя,т,предоставя т,предостав ят,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 неизяснена,неизяснен,а,неизяснен а,неизяснена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 небивали,небивал,и,небивал и,небива ли,wrong,VERB,Aspect=Imp|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
 аванпостове,аванпост,ове,аванпост ове,аванпостове,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
 смълчаната,смълчан,ата,смълчан ата,смълчана та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+озаптят,озаптя,т,озаптя т,озапт ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 скъпа,скъп,а,скъп а,скъпа,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-искаме,искам,е,искам е,иска ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+искаме,искам,е,искам е,иска ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 тържествена,тържествен,а,тържествен а,тържествена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+зреят,зрея,т,зрея т,зре ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 достижима,достижим,а,достижим а,достижима,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 косовските,косовски,те,косовски те,косовск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+висят,вися,т,вися т,вис ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 неочаквано,неочакван,о,неочакван о,неочаквано,adj_gender,ADV,Degree=Pos
 приема,прием,а,прием а,приема,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 юридическите,юридически,те,юридически те,юридическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
@@ -131,39 +155,53 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 бомбената,бомбен,ата,бомбен ата,бомбена та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 малкото,малко,то,малко то,малкото,skipped_single_token,ADV,Definite=Def|Degree=Pos|Number=Plur|NumType=Card
 пипкава,пипкав,а,пипкав а,пипкава,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+вървят,вървя,т,вървя т,върв ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 свято,свят,о,свят о,свято,adj_gender,ADV,Degree=Pos
 еврейските,еврейски,те,еврейски те,еврейск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 процесуално-следствени,процесуално-следствен,и,процесуално-следствен и,процесуално-следствени,skipped_single_token,ADJ,Definite=Ind|Degree=Pos|Number=Plur
+похарчат,похарча,т,похарча т,похарч ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+въведат,въведа,т,въведа т,въвед ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 финансово,финансов,о,финансов о,финансово,adj_gender,ADV,Degree=Pos
 лошото,лош,ото,лош ото,лошо то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 старо,стар,о,стар о,старо,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
-коментираме,коментирам,е,коментирам е,коментира ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+коментираме,коментирам,е,коментирам е,коментира ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 политическите,политически,те,политически те,политическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+привлекат,привлека,т,привлека т,привлек ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 вито,вит,о,вит о,вито,skipped_single_token,NOUN,Definite=Ind|Gender=Neut|Number=Sing
 авторските,авторски,те,авторски те,авторск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 визовата,визов,ата,визов ата,визова та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 текуща,текущ,а,текущ а,текуща,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+прераснат,прерасна,т,прерасна т,прерасн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 преговорите,преговори,те,преговори те,преговор ите,wrong,NOUN,Definite=Def|Gender=Masc|Number=Plur
 предполагаемото,предполагаем,ото,предполагаем ото,предполагаемо то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 сънища,сън,ища,сън ища,сънища,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Plur
+зависят,завися,т,завися т,завис ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 благодарствено,благодарствен,о,благодарствен о,благодарствено,adj_gender,ADV,Degree=Pos
 комунистическите,комунистически,те,комунистически те,комунистическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 докъде,до,къде,до къде,докъде,skipped_single_token,ADV,PronType=Int
+погасят,погася,т,погася т,погас ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 отколкото,от,колкото,от колкото,отколкото,skipped_single_token,ADV,NumType=Card|PronType=Rel
 базовото,базов,ото,базов ото,базово то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+пият,пия,т,пия т,пи ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 писмено,писмен,о,писмен о,писмено,adj_gender,ADV,Degree=Pos
 плодова,плодов,а,плодов а,плодова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+изпаднат,изпадна,т,изпадна т,изпадн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+отбележат,отбележа,т,отбележа т,отбележ ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 шанса,шанс,а,шанс а,шанса,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
+прегазят,прегазя,т,прегазя т,прегаз ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 жестоко,жесток,о,жесток о,жестоко,adj_gender,ADV,Degree=Pos
 дължимата,дължим,ата,дължим ата,дължима та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+посочат,посоча,т,посоча т,посоч ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 обичливо,обичлив,о,обичлив о,обичливо,adj_gender,ADV,Degree=Pos
 любящ,любя,щ,любя щ,любящ,skipped_single_token,ADJ,Aspect=Imp|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
 правителственото,правителствен,ото,правителствен ото,правителствено то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+проверят,проверя,т,проверя т,провер ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 дунавските,дунавски,те,дунавски те,дунавск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
-познаваме,познавам,е,познавам е,познава ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+познаваме,познавам,е,познавам е,познава ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 обществената,обществен,ата,обществен ата,обществена та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 необикновена,необикновен,а,необикновен а,необикновена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-преструктурираме,преструктурирам,е,преструктурирам е,преструктурира ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+преструктурираме,преструктурирам,е,преструктурирам е,преструктурира ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+попречат,попреча,т,попреча т,попреч ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 китайските,китайски,те,китайски те,китайск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 следствена,следствен,а,следствен а,следствена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 виолетова,виолетов,а,виолетов а,виолетова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
@@ -172,21 +210,28 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 независимата,независим,ата,независим ата,независима та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 лоша,лош,а,лош а,лоша,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 широка,широк,а,широк а,широка,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+облекат,облека,т,облека т,облек ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+търпят,търпя,т,търпя т,търп ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 бъдещата,бъдещ,ата,бъдещ ата,бъдеща та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+убият,убия,т,убия т,уби ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 газена,газен,а,газен а,газена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-плащаме,плащам,е,плащам е,плаща ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+плащаме,плащам,е,плащам е,плаща ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 пророческите,пророчески,те,пророчески те,пророческ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 мила,мил,а,мил а,мила,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+изтърпят,изтърпя,т,изтърпя т,изтърп ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 шенгенските,шенгенски,те,шенгенски те,шенгенск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 поникналата,поникна,лата,поникна лата,поникнала та,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
 ваша,ваш,а,ваш а,ваша,adj_gender,DET,Definite=Ind|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
 тромава,тромав,а,тромав а,тромава,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+текат,тека,т,тека т,тек ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+крадат,крада,т,крада т,крад ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 републиканските,републикански,те,републикански те,републиканск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 хайдушките,хайдушки,те,хайдушки те,хайдушк ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 розовото,розов,ото,розов ото,розово то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 майсторските,майсторски,те,майсторски те,майсторск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 мило,мил,о,мил о,мило,adj_gender,ADV,Degree=Pos
 прословутото,прословут,ото,прословут ото,прословуто то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+усвоят,усвоя,т,усвоя т,усво ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 събратя,събрат,я,събрат я,събратя,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Plur
 бъдещо,бъдещ,о,бъдещ о,бъдещо,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
 нашето,наш,ето,наш ето,наше то,adj_def_boundary,DET,Definite=Def|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
@@ -200,39 +245,45 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 ваше,ваш,е,ваш е,ваше,adj_gender,DET,Definite=Ind|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
 родопските,родопски,те,родопски те,родопск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 фондова,фондов,а,фондов а,фондова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+звучат,звуча,т,звуча т,звуч ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 плаха,плах,а,плах а,плаха,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-запомнят,запомня,т,запомня т,запомн ят,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+сътрудничат,сътруднича,т,сътруднича т,сътруднич ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 рибарските,рибарски,те,рибарски те,рибарск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 евтино,евтин,о,евтин о,евтино,adj_gender,ADV,Degree=Pos
 тиха,тих,а,тих а,тиха,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 коженото,кожен,ото,кожен ото,кожено то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 справедливо,справедлив,о,справедлив о,справедливо,adj_gender,ADV,Degree=Pos
+пожелаят,пожелая,т,пожелая т,пожела ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 войсковите,войскови,те,войскови те,войсков ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
-купуваме,купувам,е,купувам е,купува ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+купуваме,купувам,е,купувам е,купува ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 започнато,започна,то,започна то,започнато,skipped_single_token,VERB,Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
 бивша,бивш,а,бивш а,бивша,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 попе,поп,е,поп е,попе,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
 московските,московски,те,московски те,московск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 расовата,расов,ата,расов ата,расова та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 споменато,спомена,то,спомена то,споменато,skipped_single_token,VERB,Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+свикнат,свикна,т,свикна т,свикн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 трескава,трескав,а,трескав а,трескава,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+мият,мия,т,мия т,ми ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 неразбрана,неразбран,а,неразбран а,неразбрана,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 неприкосновено,неприкосновен,о,неприкосновен о,неприкосновено,adj_gender,ADV,Degree=Pos
 наша,наш,а,наш а,наша,adj_gender,DET,Definite=Ind|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
-обсъждаме,обсъждам,е,обсъждам е,обсъжда ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+обсъждаме,обсъждам,е,обсъждам е,обсъжда ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 станалото,стана,лото,стана лото,станало то,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
 евтина,евтин,а,евтин а,евтина,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-форсираме,форсирам,е,форсирам е,форсира ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+форсираме,форсирам,е,форсирам е,форсира ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 масовото,масов,ото,масов ото,масово то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 спътниковата,спътников,ата,спътников ата,спътникова та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 ключовото,ключов,ото,ключов ото,ключово то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 медицинските,медицински,те,медицински те,медицинск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 настоящата,настоящ,ата,настоящ ата,настояща та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
-озлобяваме,озлобявам,е,озлобявам е,озлобява ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+озлобяваме,озлобявам,е,озлобявам е,озлобява ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 неповторимата,неповторим,ата,неповторим ата,неповторима та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 родовито,родовит,о,родовит о,родовито,adj_gender,ADV,Degree=Pos
+зачестят,зачестя,т,зачестя т,зачест ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 докъде,до,къде,до къде,докъде,skipped_single_token,ADV,PronType=Int
 аржентинските,аржентински,те,аржентински те,аржентинск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+желаят,желая,т,желая т,жела ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 здрава,здрав,а,здрав а,здрава,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 непознато,непознат,о,непознат о,непознато,adj_gender,ADV,Degree=Pos
 лошо,лош,о,лош о,лошо,adj_gender,ADV,Degree=Pos
@@ -240,26 +291,42 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 другата,друг,ата,друг ата,друга та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 красивата,красив,ата,красив ата,красива та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 доколкото,до,колкото,до колкото,доколкото,skipped_single_token,ADV,NumType=Card|PronType=Rel
+водят,водя,т,водя т,вод ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+предложат,предложа,т,предложа т,предлож ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 нападнат,нападна,т,нападна т,нападнат,skipped_single_token,VERB,Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+изиграят,изиграя,т,изиграя т,изигра ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 гъста,гъст,а,гъст а,гъста,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+приключат,приключа,т,приключа т,приключ ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+станат,стана,т,стана т,стан ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 общо,общ,о,общ о,общо,adj_gender,ADV,Degree=Pos
 горските,горски,те,горски те,горск ите,wrong,NOUN,Definite=Def|Gender=Masc|Number=Plur
 наема,наем,а,наем а,наема,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
-постигаме,постигам,е,постигам е,постига ме,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+постигаме,постигам,е,постигам е,постига ме,plu1person_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+тласнат,тласна,т,тласна т,тласн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+победят,победя,т,победя т,побед ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 синята,син,ята,син ята,синя та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 тактическите,тактически,те,тактически те,тактическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+потушат,потуша,т,потуша т,потуш ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+извършат,извърша,т,извърша т,извърш ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 следродова,следродов,а,следродов а,следродова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+посегнат,посегна,т,посегна т,посегн ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 германските,германски,те,германски те,германск ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+попълнят,попълня,т,попълня т,попълн ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 125-годишнината,125-годишнина,та,125-годишнина та,125-годишнината,skipped_single_token,NOUN,Definite=Def|Gender=Fem|Number=Sing
+изключат,изключа,т,изключа т,изключ ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 семена,семе,на,семе на,семена,skipped_single_token,NOUN,Definite=Ind|Gender=Neut|Number=Plur
 пряка,пряк,а,пряк а,пряка,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 богато,богат,о,богат о,богато,adj_gender,ADV,Degree=Pos
 масирана,масиран,а,масиран а,масирана,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-кълняха,кълня,ха,кълня ха,кълняха,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+намалят,намаля,т,намаля т,намал ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+търсят,търся,т,търся т,търс ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 позната,познат,а,познат а,позната,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 търпеливата,търпелив,ата,търпелив ата,търпелива та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+товарят,товаря,т,товаря т,товар ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 среднопретеглената,среднопретеглен,ата,среднопретеглен ата,среднопретеглена та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 хайдутин,хайдут,ин,хайдут ин,хайдутин,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
+останат,остана,т,остана т,остан ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+свържат,свържа,т,свържа т,свърж ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 начинаеща,начинаещ,а,начинаещ а,начинаеща,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 суха,сух,а,сух а,суха,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 останалите,остана,лите,остана лите,останали те,adj_def_boundary,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
@@ -267,6 +334,7 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 готова,готов,а,готов а,готова,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 навсякъде,на,всякъде,на всякъде,навсякъде,skipped_single_token,ADV,PronType=Tot
 фалшива,фалшив,а,фалшив а,фалшива,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+газят,газя,т,газя т,газ ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 новото,нов,ото,нов ото,ново то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 произвола,произвол,а,произвол а,произвола,skipped_single_token,NOUN,Definite=Ind|Gender=Masc|Number=Sing
 промишлена,промишлен,а,промишлен а,промишлена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
@@ -276,14 +344,15 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 факса,факс,а,факс а,факса,skipped_single_token,NOUN,Definite=Ind|Gender=Fem|Number=Sing
 активно-поведенческите,активно-поведенчески,те,активно-поведенчески те,активно-поведенческ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
 икономическите,икономически,те,икономически те,икономическ ите,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Number=Plur
+надвишат,надвиша,т,надвиша т,надвиш ат,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 щастлива,щастлив,а,щастлив а,щастлива,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 весело,весел,о,весел о,весело,adj_gender,ADV,Degree=Pos
+играят,играя,т,играя т,игра ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 непосредствено,непосредствен,о,непосредствен о,непосредствено,adj_gender,ADV,Degree=Pos
 изминалите,измина,лите,измина лите,изминал ите,wrong,ADJ,Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
 брауновото,браунов,ото,браунов ото,брауново то,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
 бъдеща,бъдещ,а,бъдещ а,бъдеща,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 сполучлива,сполучлив,а,сполучлив а,сполучлива,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
-потеглят,потегля,т,потегля т,потегл ят,wrong,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 присъщо,присъщ,о,присъщ о,присъщо,adj_gender,ADV,Degree=Pos
 прави,прав,и,прав и,прави,skipped_single_token,VERB,Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
 гъвкаво,гъвкав,о,гъвкав о,гъвкаво,adj_gender,ADV,Degree=Pos
@@ -297,6 +366,9 @@ full_word,pt1,rest,expected_morphtok,predicted_morphtok,morphscore_result,UPOS,f
 червена,червен,а,червен а,червена,adj_gender,ADJ,Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 същата,същ,ата,същ ата,съща та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 газовата,газов,ата,газов ата,газова та,adj_def_boundary,ADJ,Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+служат,служа,т,служа т,служ ат,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+утолят,утоля,т,утоля т,утол ят,verb_ending_boundary,VERB,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+следят,следя,т,следя т,след ят,verb_ending_boundary,VERB,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 оттам,от,там,от там,оттам,skipped_single_token,ADV,PronType=Dem
 пътищата,път,ищата,път ищата,пътищ ата,wrong,NOUN,Definite=Def|Gender=Masc|Number=Plur
 нанякъде,на,някъде,на някъде,нанякъде,skipped_single_token,ADV,PronType=Ind

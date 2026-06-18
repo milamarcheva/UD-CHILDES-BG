@@ -91,6 +91,15 @@ python3 eval_gold_vs_stanza.py \
 Add `--top-k-relations 20` to print more relations in the per-relation F1
 table, or `--top-k-relations 0` to print all relations.
 
+## MorphScore evaluation
+```bash
+python3 morphscore.py --morphscore-version v2 --morphtok-module bg_morphtok_verbtypes
+```
+
+```bash
+python3 morphscore.py --morphtok-module bg_morphtok_verbtypes
+```
+
 ## Citations
 
 - When using UD-CHILDES-BG please cite: 

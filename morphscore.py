@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import importlib
 import math
 import re
 import sys
@@ -10,18 +11,10 @@ from pathlib import Path
 from statistics import mean, pstdev
 from urllib.request import urlopen
 
-from bg_morphtok import (
-    DEFAULT_LEXICON_PATH,
-    PosLexicon,
-    TokenAnalysis,
-    analyses_from_doc,
-    build_pipeline,
-    build_stemmer,
-    normalize,
-    tokenize_sentence,
-)
-
 SCRIPT_DIR = Path(__file__).resolve().parent
+DEFAULT_MORPHTOK_MODULE = "bg_morphtok"
+MORPHTOK_MODULE_CHOICES = ("bg_morphtok", "bg_morphtok_verbtypes")
+MORPHTOK_MODULE_ALIASES = {"bg_morphtok_verbtypes": "bg_morphtok"}
 DEFAULT_DATA_URL_V1 = (
     "https://github.com/catherinearnett/morphscore/raw/v1/data/"
     "bulgarian_morph_data.csv"
@@ -38,8 +31,8 @@ ADJ_ARTICLE_SUFFIXES = {"та", "то", "те", "я", "ят", "ия", "ият", 
 ADJ_GENDER_SUFFIXES = {"а", "я", "о", "е"}
 CANONICAL_ADJ_BOUNDARY_SHIFTS = [
     ("те", "ите"),
-    ("ата", "та"),
-    ("ото", "то"),
+    ("та", "ата"),
+    ("то", "ото"),
 ]
 SPECIAL_DETAIL_LABELS = {
     "adj_def_boundary",
@@ -47,6 +40,57 @@ SPECIAL_DETAIL_LABELS = {
     "adj_gender",
     "plu1person_boundary",
 }
+FINITE_VERBAL_ENDINGS = {
+    "м",
+    "ш",
+    "а",
+    "я",
+    "е",
+    "и",
+    "ме",
+    "те",
+    "т",
+    "ем",
+    "им",
+    "ат",
+    "ят",
+    "ете",
+    "ите",
+    "х",
+    "ха",
+    "хме",
+    "хте",
+    "ше",
+    "й",
+    "йте",
+}
+
+
+def configure_morphtok(module_name: str):
+    global bg_morphtok
+    global DEFAULT_LEXICON_PATH
+    global PosLexicon
+    global TokenAnalysis
+    global analyses_from_doc
+    global build_pipeline
+    global build_stemmer
+    global normalize
+    global tokenize_sentence
+
+    resolved_module_name = MORPHTOK_MODULE_ALIASES.get(module_name, module_name)
+    bg_morphtok = importlib.import_module(resolved_module_name)
+    DEFAULT_LEXICON_PATH = bg_morphtok.DEFAULT_LEXICON_PATH
+    PosLexicon = bg_morphtok.PosLexicon
+    TokenAnalysis = bg_morphtok.TokenAnalysis
+    analyses_from_doc = bg_morphtok.analyses_from_doc
+    build_pipeline = bg_morphtok.build_pipeline
+    build_stemmer = bg_morphtok.build_stemmer
+    normalize = bg_morphtok.normalize
+    tokenize_sentence = bg_morphtok.tokenize_sentence
+    return bg_morphtok
+
+
+configure_morphtok(DEFAULT_MORPHTOK_MODULE)
 
 
 def load_rows(data_file: Path | None, data_url: str) -> list[dict[str, str]]:
@@ -132,6 +176,14 @@ def is_plu1person_verb_analysis(analysis: TokenAnalysis | None) -> bool:
     )
 
 
+def is_finite_verb_analysis(analysis: TokenAnalysis | None) -> bool:
+    if analysis is None:
+        return False
+    if analysis.upos not in {"VERB", "AUX"}:
+        return False
+    return analysis.feats.get("VerbForm") == "Fin"
+
+
 def has_adj_def_boundary_shift(
     gold_left: str,
     gold_right: str,
@@ -176,6 +228,40 @@ def has_plu1person_boundary_shift(
         and pred_right == "ме"
         and gold_left == pred_left + "м"
     )
+
+
+def has_verbal_ending_boundary_shift(
+    gold_left: str,
+    gold_right: str,
+    pred_tokens: list[str],
+    analysis: TokenAnalysis | None,
+) -> bool:
+    if not is_finite_verb_analysis(analysis):
+        return False
+    if len(pred_tokens) != 2:
+        return False
+
+    pred_left, pred_right = pred_tokens
+    if gold_left + gold_right != pred_left + pred_right:
+        return False
+    if gold_right == pred_right:
+        return False
+    if gold_right not in FINITE_VERBAL_ENDINGS:
+        return False
+    if pred_right not in FINITE_VERBAL_ENDINGS:
+        return False
+
+    moved_from_gold_right = (
+        pred_right.endswith(gold_right)
+        and len(pred_right) > len(gold_right)
+        and pred_left + pred_right[: -len(gold_right)] == gold_left
+    )
+    moved_from_pred_right = (
+        gold_right.endswith(pred_right)
+        and len(gold_right) > len(pred_right)
+        and gold_left + gold_right[: -len(pred_right)] == pred_left
+    )
+    return moved_from_gold_right or moved_from_pred_right
 
 
 def has_adj_def_split(morphemes: list[str], tokens: list[str]) -> bool:
@@ -261,6 +347,13 @@ def classify_v1_mismatch(
     if is_plu1person_verb_analysis(analysis):
         if result == -1 and has_plu1person_boundary_shift(gold_left, gold_right, tokens):
             return "plu1person_boundary"
+    if result == -1 and has_verbal_ending_boundary_shift(
+        gold_left,
+        gold_right,
+        tokens,
+        analysis,
+    ):
+        return "verb_ending_boundary"
 
     return morph_eval_label_v1(result)
 
@@ -322,6 +415,8 @@ def get_morphscore_v1(
             wrong += 1
             scored_points.append(0)
 
+    # This is the original MorphScore reported in Arnett & Bergen (2025),
+    # Table 3: binary boundary accuracy over scored items only.
     score = mean(scored_points) if scored_points else 0.0
     total_assessed = len(rows)
     return (
@@ -619,7 +714,12 @@ def collect_v1_special_label_counts(rows: list[dict[str, str]]) -> Counter[str]:
     counts: Counter[str] = Counter()
     for row in rows:
         label = row.get("morphscore_result", "")
-        if label in {"adj_def_boundary", "adj_gender", "plu1person_boundary"}:
+        if label in {
+            "adj_def_boundary",
+            "adj_gender",
+            "plu1person_boundary",
+            "verb_ending_boundary",
+        }:
             counts[label] += 1
     return counts
 
@@ -630,6 +730,7 @@ def print_v1_special_label_summary(rows: list[dict[str, str]]) -> None:
     print(f"  adj_def_boundary: {counts.get('adj_def_boundary', 0)}")
     print(f"  adj_gender: {counts.get('adj_gender', 0)}")
     print(f"  verb: plu1person_boundary: {counts.get('plu1person_boundary', 0)}")
+    print(f"  verb: verb_ending_boundary: {counts.get('verb_ending_boundary', 0)}")
 
 
 def collect_v2_detail_counts(rows: list[dict[str, str]]) -> Counter[str]:
@@ -664,10 +765,10 @@ def canonical_adj_boundary_shift(
 ) -> tuple[str, str] | None:
     if pred_suffix == "ите" and gold_suffix.endswith("те"):
         return ("те", "ите")
-    if pred_suffix == "та" and len(gold_suffix) > len(pred_suffix) and gold_suffix.endswith("та"):
-        return ("ата", "та")
-    if pred_suffix == "то" and len(gold_suffix) > len(pred_suffix) and gold_suffix.endswith("то"):
-        return ("ото", "то")
+    if gold_suffix == "ата" and pred_suffix == "та":
+        return ("та", "ата")
+    if gold_suffix == "ото" and pred_suffix == "то":
+        return ("то", "ото")
     return None
 
 
@@ -677,7 +778,7 @@ def collect_adj_boundary_shift_counts(
     counts: Counter[tuple[str, str]] = Counter()
 
     for row in rows:
-        if row.get("morphscore_result") != "wrong":
+        if row.get("morphscore_result") == "correct":
             continue
         if not is_adj_like_row_metadata(row):
             continue
@@ -767,7 +868,8 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         description=(
             "Compute Bulgarian MorphScore using bg_morphtok.tokenize_sentence(). "
             "Use --morphscore-version v1 for the original pt1/rest evaluation "
-            "or --morphscore-version v2 for the newer stem/preceding_part/"
+            "(the Table 3 MorphScore from Arnett & Bergen, 2025) or "
+            "--morphscore-version v2 for the newer stem/preceding_part/"
             "following_part evaluation."
         )
     )
@@ -793,9 +895,18 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         ),
     )
     parser.add_argument(
+        "--morphtok-module",
+        choices=MORPHTOK_MODULE_CHOICES,
+        default=DEFAULT_MORPHTOK_MODULE,
+        help=(
+            "Tokenizer module used for scoring tokenisation predictions. "
+            "Default: bg_morphtok."
+        ),
+    )
+    parser.add_argument(
         "--lexicon",
         type=Path,
-        default=DEFAULT_LEXICON_PATH,
+        default=None,
         help="Optional CHILDES-derived lexicon used for conservative base checks.",
     )
     parser.add_argument(
@@ -955,6 +1066,9 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
+    configure_morphtok(args.morphtok_module)
+    if args.lexicon is None:
+        args.lexicon = DEFAULT_LEXICON_PATH
 
     try:
         stemmer = build_stemmer(
@@ -1024,9 +1138,12 @@ def main(argv: list[str] | None = None) -> int:
         total_accuracy = correct / total_assessed if total_assessed else 0.0
         csv_label = "CSV rows" if args.output_all else "CSV mismatches"
 
-        print(f"V1 boundary accuracy (not F1): {score:.6f}")
-        print("V1 formula: correct / (correct + wrong)")
-        print(f"V1 total accuracy: {total_accuracy:.6f}")
+        print(f"V1 MorphScore (Table 3; boundary accuracy, not F1): {score:.6f}")
+        print("V1 MorphScore formula: correct / (correct + wrong)")
+        print(
+            "V1 total accuracy (includes skipped single-token predictions): "
+            f"{total_accuracy:.6f}"
+        )
         print("V1 total-accuracy formula: correct / total_assessed")
         print(f"Words tokenized: {len(cache)}")
         print(f"Total assessed words: {total_assessed}")
