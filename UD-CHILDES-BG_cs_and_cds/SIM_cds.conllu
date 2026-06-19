@@ -2403,7 +2403,7 @@
 # child_age = 2;02.15
 # participant_role = PLA
 # original_utterance = Simonchi, az shte si igraja na tvoja kompjutyr, ako ti prodylzhavash da cykash na moja.
-# text = Симончи , аз ще си играя на твоя компйутър , ако ти продължаваш да цъкаш на моя .
+# text = Симончи , аз ще си играя на твоя компютър , ако ти продължаваш да цъкаш на моя .
 1	Симончи	симонче	PROPN	_	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	6	vocative	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -2412,7 +2412,7 @@
 6	играя	играя	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	на	на	ADP	R	_	9	case	_	_
 8	твоя	този	DET	Pshl-s2mh	Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
-9	компйутър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
+9	компютър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
 10	,	,	PUNCT	punct	_	13	punct	_	_
 11	ако	ако	SCONJ	Cs	_	13	mark	_	_
 12	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
@@ -4226,7 +4226,7 @@
 # child_age = 2;02.15
 # participant_role = PLA
 # original_utterance = mami, xajde da si igraesh na tvoja kompjutyr.
-# text = Мами , хайде да си играеш на твоя компйутър .
+# text = Мами , хайде да си играеш на твоя компютър .
 1	Мами	мама	NOUN	I	Definite=Ind|Gender=Fem|Number=Sing|Case=Voc	6	vocative	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	хайде	хайде	INTJ	Vpitz--2s	_	6	discourse	_	_
@@ -4235,7 +4235,7 @@
 6	играеш	играя	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	на	на	ADP	R	_	9	case	_	_
 8	твоя	мой	DET	Pshl-s2mh	Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
-9	компйутър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
+9	компютър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
 10	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = UTT_021299
@@ -7102,7 +7102,7 @@
 # child_age = 2;02.15
 # participant_role = PLA
 # original_utterance = nali vsjaka shteshe da si pipa na nejnija kompjutyr?
-# text = Нали всяка щеше да си пипа на нейния компйутър ?
+# text = Нали всяка щеше да си пипа на нейния компютър ?
 1	Нали	нали	PART	Ti	_	3	discourse	_	_
 2	всяка	всеки	DET	Pce-os-f	Gender=Fem|Number=Sing|PronType=Tot	3	nsubj	_	_
 3	щеше	ща	VERB	Vpitf-m3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -7111,7 +7111,7 @@
 6	пипа	пипам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
 7	на	на	ADP	R	_	9	case	_	_
 8	нейния	мой	DET	Psol-s3mhm	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
-9	компйутър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
+9	компютър	компютър	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	_
 10	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = UTT_029487
