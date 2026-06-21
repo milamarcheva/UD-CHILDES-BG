@@ -5421,7 +5421,7 @@
 # text = Защо искаш петте книжки наведнъж да четеш ?
 1	Защо	защо	PRON	Pic	PronType=Int	2	advmod	_	_
 2	искаш	искам	VERB	Vpitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	петте	шет	NUM	Mc-pd	Definite=Def|NumType=Card|Number=Plur	4	nummod	_	_
+3	петте	пет	NUM	Mc-pd	Definite=Def|NumType=Card|Number=Plur	4	nummod	_	_
 4	книжки	книжка	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	7	obj	_	_
 5	наведнъж	наведнъж	ADV	Dt	Degree=Pos	7	advmod	_	_
 6	да	да	AUX	Tx	_	7	aux	_	_
