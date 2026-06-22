@@ -3815,7 +3815,7 @@
 # text = Ето го твойто .
 1	Ето	ето	PART	Tv	_	0	root	_	_
 2	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
-3	твойто	твойто	DET	Pshl-s2nd	Definite=Def|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	obj	_	_
+3	твойто	твой	DET	Pshl-s2nd	Definite=Def|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	obj	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = UTT_011934
@@ -7369,7 +7369,7 @@
 # original_utterance = kato tvojto chajche pari .
 # text = Като твойто чайче пари .
 1	Като	като	ADP	R	_	3	case	_	_
-2	твойто	твойто	DET	Psol-s1nd	Definite=Def|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	твойто	твой	DET	Psol-s1nd	Definite=Def|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	чайче	чайче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	_
 4	пари	паря	VERB	Ncfpi	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_

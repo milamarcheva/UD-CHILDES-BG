@@ -1126,7 +1126,7 @@
 # participant_role = PLA
 # original_utterance = malkoto bebe i goljamoto bebe Moni .
 # text = Малкото бебе и голямото бебе мони .
-1	Малкото	малкото	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+1	Малкото	малък	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
 2	бебе	бебе	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
 3	и	и	CCONJ	Cp	_	5	cc	_	_
 4	голямото	голям	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
